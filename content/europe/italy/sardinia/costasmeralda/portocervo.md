@@ -1,8 +1,21 @@
 ---
-title: "Porto Cervo"
+done:
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-11'
+image: portocervo.jpg
+image_attribution: Alistair Wettin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Porto_Cervo1.jpg
+latitude: 41.1319
+loc_type: city
+longitude: 9.5354
+score: 0.66
+title: Porto Cervo
 type: location
-latitude: 41.131898
-longitude: 9.535365
 ---
 
-The destination of he international jet set. It also is the most famous, smart and society centre of Sardinia, endowed with a well equiped Navy. One can choose among the many beautiful beaches and small islands with their crystal-clear water.
+Porto Cervo is the social and nautical centre of the Costa Smeralda, the stretch of northeastern Sardinian coast developed from the early 1960s by a consortium led by Aga Khan IV. The town was built almost from scratch to a design intended to evoke a traditional Sardinian village while accommodating one of the most exclusive yacht marinas in the Mediterranean. The result is a planned village of whitewashed architecture, bougainvillea, and boutiques arranged around a natural harbour.
+
+The marina holds hundreds of superyachts through summer and is the centrepiece of the Costa Smeralda yachting scene, hosting prestigious regattas including the Rolex Cup. The surrounding coast has some of the finest beaches in Italy: Liscia Ruja, Capriccioli, and Cala di Volpe are among the best known, with white sand and water in shades of green and blue that give the coast its name (Smeralda means emerald).
+
+Porto Cervo operates almost entirely as a luxury resort, with prices to match. The Church of Stella Maris above the old harbour contains a painting attributed to El Greco. The season runs from May to September; outside these months the town is largely closed.

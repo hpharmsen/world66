@@ -1,13 +1,21 @@
 ---
-title: "Hue"
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: '2026-04-15'
+  poi_cleanup: '2026-04-20'
+latitude: 16.4639
+longitude: 107.5863
+score: 0.67
+title: Hue
 type: location
-latitude: 16.463932
-longitude: 107.586339
+loc_type: city
+image: hue.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Colors-i54-ring.png
 ---
 
-Hue is located 660 km from [Hanoi](/asia/vietnam/hanoi) and 1080 km from [Saigon](/asia/vietnam/saigon), Hue has always been considered the fulcrum of Vietnam's two rice baskets, the Red river delta and the Mekong delta. The ancient capital of the Annamese people Hue used to be even greater than it is today. The Tet offensive during the Vietnam war and the counteroffensive that followed it destroyed many of the old palaces.
+Hue was the imperial capital of Vietnam for nearly 150 years under the Nguyen Dynasty, and the city still carries that weight. The [Perfume River](/asia/vietnam/hue/perfume_river) bisects the city — the massive [Imperial Citadel](/asia/vietnam/hue/imperial_citadel) and its Forbidden Purple City sit on the north bank, while the French colonial quarter, markets, and tourist hotels spread along the south. UNESCO declared the complex of monuments a World Heritage Site in 1993, calling Hue "a masterpiece of urban poetry."
 
+The Citadel was badly damaged during the Tet Offensive in 1968, and the scars are still visible. Only a handful of the original fifty royal buildings survive, but walking through the ruins — some restored, some left in their half-destroyed state — is one of the most powerful experiences in Vietnam. South of the city, the tombs of the Nguyen emperors line the riverbanks in a "Valley of the Kings" you can explore by bicycle, motorbike, or boat: the romantic lotus-pond complex of [Tu Duc Tomb](/asia/vietnam/hue/tu_duc_tomb), the formal grandeur of [Minh Mang Tomb](/asia/vietnam/hue/minh_mang_tomb), and the ornate concrete-and-mosaic [Khai Dinh Tomb](/asia/vietnam/hue/khai_dinh_tomb). The [Thien Mu Pagoda](/asia/vietnam/hue/thien_mu_pagoda), upstream from the city, is the most photographed building in Hue after the Citadel gate.
 
- There are still a half dozen or so royal buildings standing out of the 50 that used to be on the site; some are in good shape some are being restored others are left in their half-destroyed state. Walking through the area is one of the most impressive experiences in Vietnam. In 1981, after visiting Hue, Mr. Amadou-Mahtar-M'Bow, then Director General of UNESCO proclaimed Hue to be "a masterpiece of urban poetry". On December 11, 1993, UNESCO's Director General, Federico Mayor acknowledged the Complex of Monuments of Hue to be a World Culture Heritage. 
-
-The city is bisected by the Perfume River and along its banks south of Hue is a “Valley of the Kings” containing tombs of the Nguyen emperors. You can visit them by bicycle or boat.
+Hue is also a food city. The imperial court cuisine created a tradition of elaborate, beautifully presented dishes, and the street food is some of the best in Vietnam — bún bò Huế (spicy beef noodle soup), bánh khoái (crispy stuffed pancakes), and dozens of small rice cakes and dumplings you will not find elsewhere. [Dong Ba Market](/asia/vietnam/hue/dong_ba_market) is the best single place to try them all.

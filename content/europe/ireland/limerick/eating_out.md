@@ -3,50 +3,14 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Limerick's food scene has improved dramatically since the 2010s, and a small group of restaurants now consistently rank among Ireland's best. The historic Georgian quarter holds most of the serious dining; the Milk Market on Mungret Street is the place for casual food and weekend brunch.
 
-**Acorn Restaurant**
+**One Pery Square** — the restaurant of the boutique hotel in a restored Georgian house on Pery Square; modern Irish, set menus, the most reliable upmarket meal in the city.
 
-Specialises in local home cooking. 
+**Cornstore Limerick** — long-established steak and seafood on Thomas Street with a wide menu and good local ingredients; popular for special occasions.
 
-address: Castle Oaks House Hotel,Castleconnell,Co.Limerick
+**The Buttery** — a small restaurant on Catherine Street, market-driven menu that changes weekly; a Bib Gourmand winner some years.
 
-tel: 353 61 377666
+**Curragower Bar** — a riverside pub opposite the castle that does the best plate of mussels in the city, with a panoramic view of King John's Castle from the upstairs dining room.
 
-**Bella Italia**
-
-Fresh home made pasta and Italian dishes. As Mamma used to make. Benvenuti a Tutti ! 
-
-address: 43A Thomas Street, Limerick
-
-tel: + 353 61 418872
-
-**O'Flaherty's Restaurant**
-
-Original Georgian features make for a relaxed, informal atmosphere at O'Flaherty's. 
-
-fax: + 353 61 316311
-
-address: 74 O'Connell Street, Limerick
-
-tel: + 353 61 316311
-
-**Quenelle's Restaurant**
-
-Quenelle's Restaurant has been described as " The gourmet's choice for eating out in Limerick ". 
-
-fax: + 353 61 400111
-
-address: Steamboat Quay, Limerick
-
-tel: + 353 61 411111
-
-**The Parlour Restaurant**
-
-An Exceptionally talented Head Chef offers you classic and creative dishes in the Parlour Restaurant. This Restaurant is located in Thady O'Neills which has a wide variety of themed bars with Irish Music each evening and traditional good bar food. 
-
-fax: + 353 61 453783
-
-address: Ennis Road
-
-tel: + 353 61 322777
+For something simpler, the Milk Market's Saturday hot food stalls serve everything from Limerick smoked pork to Burmese curry; the queue at the dosa stall on a Saturday morning is a Limerick institution.

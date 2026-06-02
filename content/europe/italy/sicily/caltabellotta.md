@@ -1,19 +1,20 @@
 ---
-title: "Caltabellotta"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+image: caltabellotta.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Caltabellotta,_Sicilia_giugno_2011.jpg
+latitude: 37.5773
+loc_type: city
+longitude: 13.2165
+score: 0.51
+title: Caltabellotta
 type: location
-latitude: 37.577341
-longitude: 13.216548
 ---
 
-Travel Guide
+Caltabellotta is one of the highest villages in Sicily, perched on a rugged hilltop near [Sciacca](/europe/italy/sicily/sciacca) on the south coast. The bus ride up from Sciacca winds right up the mountainside and is half the fun. The village itself is crammed onto every available ledge below the crest.
 
-Caltabellotta is a town on a high hill near Sciacca, from where it can be reached by local bus. It is a lovely trip
-as the road winds right up the mountain side from not much above sea
-level. it then winds through the town itself until it emerges just
-below the crest. The crest itself is very rugged but below it not a mm
-of space is wasted.
+There is a tunnel through the ridge that seems to connect two different climates: balmy and warm on one side, windswept and grey on the other. At the very summit, the [Santuario di San Pellegrino](/europe/italy/sicily/caltabellotta/santuario_san_pellegrino) is carved into the living rock below the ruins of a Norman castle — a strange and atmospheric place. The views over the rooftops, the Sicilian countryside, and on clear days the Mediterranean coast, are superb.
 
-There is a tunnel to the other side of the
-crest that seems to link two distinct climates, balmy and warm on one
-side, windswept and grey on the other. To the right of the crest there
-is an interesting church.
+Caltabellotta has a small but genuine place in European history. In 1302, the [Peace of Caltabellotta](/europe/italy/sicily/caltabellotta/peace_of_caltabellotta) was signed here, ending the War of the Sicilian Vespers and establishing the independent Kingdom of Sicily under the Aragonese. The castle ruins where the signing took place are still visible at the top of the rock.

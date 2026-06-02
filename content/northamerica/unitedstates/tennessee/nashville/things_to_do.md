@@ -1,37 +1,8 @@
 ---
-title: "Things to do in Nashville"
+title: "Things to Do"
 type: section
 ---
 
-Normal
-0
+Nashville's headline attractions are centred on music history, and they are genuinely exceptional. The **Ryman Auditorium** and the **Country Music Hall of Fame** are not to be missed. Beyond those two, the more recent **Johnny Cash Museum** on Third Avenue, **Hatch Show Print** inside the Hall of Fame, the **Musicians Hall of Fame**, and the **National Museum of African American Music** at Fifth and Broadway form a tight downtown cluster you can walk in a day.
 
-false
-false
-false
-
-EN-US
-X-NONE
-X-NONE
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-**Title:** Super 8 Motel -
-Nashville, TN
-
-**Website:** http://www.hotelnashvillewest.com/
-
-**Description:** modern
-Nashville, Tennessee hotel near downtown, the Super 8 Motel is close to the
-airport and the Grand Ole Opry. Family and pet-friendly, our executive-style
-Nashville lodging features work desks, free Wi-Fi, refrigerators, microwaves,
-and a host of comforting living amenities like complimentary hot breakfast.
-
-**Keywords:** Nashville TN hotel
-in downtown Nashville Tennessee Nashville TN hotel in Nashville TN hotel in
-Nashville Tennessee hotel Nashville TN Nashville Tennessee hotel Nashville
-hotel deals Nashville hotel discount
+Centennial Park and its full-scale **Parthenon** replica are an essential half-day west of downtown. The hilltop **Tennessee State Capitol**, the **Tennessee State Museum** at the foot of the same hill, and **Fort Nashborough** on the river round out the city-history loop. For green space, the **Warner Parks** and **Radnor Lake** are both within easy reach. Out at the **Grand Ole Opry House**, a Saturday evening Opry show is the closest most visitors can come to the institution that built Nashville's modern reputation; the **Bluebird Cafe** in Green Hills requires planning ahead but is worth the effort for anyone serious about the songwriter tradition.

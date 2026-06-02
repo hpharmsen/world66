@@ -1,8 +1,12 @@
 ---
-title: "Tapolca"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.882097
 longitude: 17.438962
+title: Tapolca
+type: location
+score: 0.49
+loc_type: city
 ---
 
 The old town of Tapolca, nestling behind Szent Gyorgy Hill, holds another delight for those who love the wonders of nature: the cave lake.

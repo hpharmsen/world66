@@ -1,18 +1,22 @@
 ---
-title: "Manassas"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
+image: manassas.jpg
+image_attribution: Famartin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2016-10-11_14_15_20_View_north_along_Virginia_State_Route_28_(Center_Street)_at_Battle_Street_in_Manassas,_Virginia.jpg
+latitude: 38.7509
+loc_type: city
+longitude: -77.4753
+score: 0.39
+title: Manassas
 type: location
-latitude: 38.750949
-longitude: -77.475267
 ---
 
-In 1608, Captain John Smith and his band of frontiersmen rode a barge along the Potomac River, the first white men to touch the unnamed wilderness that is now known as Prince William County. The county was formed in 1731 and was named for William Augustus, Duke of Cumberland, second son of King George II. 
+Manassas is a small city about 30 miles southwest of Washington, D.C., defined almost entirely by its Civil War history. Twice in the space of fourteen months — July 1861 and August 1862 — the armies of the Union and the Confederacy clashed here along a muddy creek called Bull Run, and twice the Union was routed. The battles shattered any illusion that the war would be quick and easy, and the name Manassas became shorthand for hard lessons learned.
 
-Today, Prince William County encompasses 348 square miles and includes the city of Manassas
+The city itself grew up around a railroad junction, which was the very thing both sides were fighting over. That junction is gone, but the [Old Town district](/northamerica/unitedstates/virginia/manassas/old_town_manassas) along Center Street has held its character well — a stretch of Victorian storefronts, the [Manassas Museum](/northamerica/unitedstates/virginia/manassas/manassas_museum), and a quieter pace than anything you'll find closer to the Beltway. The [historic train station](/northamerica/unitedstates/virginia/manassas/manassas_station) is still in use on the VRE commuter line.
 
-According to legend, the name Manassas was derived from an Indian source or from Manasseh, a Jewish innkeeper at Manassas Gap. Manassas originated in 1852 at the junction of two railroads which linked Northern Virginia and Washington, D.C. with the Shenandoah Valley and Richmond. During the Civil War, the junction’s strategic importance led to the battles of First and Second Manassas (Bull Run). The county seat since 1892, Manassas was rebuilt after the Civil War and remained a small town for most of the 20th century. It became a city in 1975. Known for Civil War history, Manassas also has a wonderful museum system and charming Old Town historic district. 
-
-
-
-Manassas National Battlefield park was established in 1940 to preserve the scene of two major Civil War battles. Located a few miles north of the prized railroad junction of Manassas, Virginia, the peaceful Virginia countryside bore witness to clashes between the armies of the North and South in 1861 and 1862. 
-
-Today the battlefield park provides the opportunity for visitors to explore the historic terrain where men fought and died for their beliefs a century ago.
+Most visitors come specifically for the [National Battlefield Park](/northamerica/unitedstates/virginia/manassas/manassas_national_battlefield), and that's the right call. The park preserves a remarkable sweep of open countryside, largely unchanged since the 1860s. Walking the ground where Stonewall Jackson held his line and where the Confederates finally swept the field is genuinely moving — more so than most Civil War sites, because the landscape itself tells the story. The nearby [Liberia House](/northamerica/unitedstates/virginia/manassas/liberia_house) and [Ben Lomond Manor](/northamerica/unitedstates/virginia/manassas/ben_lomond_manor) add depth to any serious Civil War itinerary.

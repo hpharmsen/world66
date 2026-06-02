@@ -1,13 +1,23 @@
 ---
-title: "Lumbini"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: lumbini.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lumbini,_Buddha%27s_birthplace_2,_Nepal.jpg
+latitude: 27.4696
+loc_type: city
+longitude: 83.2759
+score: 0.57
+title: Lumbini
 type: location
-latitude: 27.980713
-longitude: 82.953185
 ---
 
-Travel Guide
+Lumbini is the birthplace of Siddhartha Gautama — the Buddha — and one of the most sacred sites in the Buddhist world. It lies in the flat Terai lowlands of southern Nepal, near the border with India, in what was once a garden between the ancient kingdoms of Kapilavastu and Devadaha.
 
-Lumbini is the birthplace of Lord Buddha. Buddha was born in 623 BC in the Lumbini garden between two ancient kingdoms of Kapilavatu and Devadaha. According to the tradition of Shakyas, a mother had to deliver child in her maternal home. Buddha's mother Mayadevi was traveling to Devdaha when she felt labor and delivered Buddha in Lumbini garden on the way. Buddha and her mother took first bath in Puskarini pond which still exists and has been restored. Later a stone was placed to mark the exact birth place of Buddha. After Buddha attained enlightenment and his teaching spread wide , places related with Buddha became symbol of reverence. According to Buddha's wish, the four important sites in his life became the power places for Buddhists. Several shrines were erected and stupas were built until 12th century. The most important was the Indian Emperor Ashoka's visit and erection of columns with writings in 249 BC. The column became one of the song evidence of the Lumbini, the birth place of Buddha.
-Many things changed with time. It is believed that king Virudhaka massacred Shakyas and destroyed their kingdom (Kapilavastu) out of vengeance. However Buddhism was wiped out from its place of origin.
-Rediscovering of Lumbini started only in the second half of 20th century. Meticulous excavations and researches discovered the marker stone, devotional stupas and puskarini pond near the Ashokan piller based on the travel diary of HUYEN SANG, the Chinese pilgrim from 7th century.
-At present, Lumbini has been developed in the area of 12 sq km under the master plan of 'Lumbini Development Trust'. It comprises three sections, the sacred garden, monastic zone and tourism village. The sacred garden has Mayadevi temple housing the exact birth place of Buddha. Monastic zone spread astride the 1 km long canon, is allocated for Buddhist communities from around the world to construct monasteries. The tourism village is where there are hotels, restaurants and other infrastructures necessary for visitors. Many of them are still under construction though.
+According to tradition, Queen Mayadevi was traveling to her maternal home to give birth when she stopped to rest in this garden and delivered her son beneath a sal tree. The [Puskarini pond](/asia/nepal/lumbini/puskarini_pond) nearby, where mother and child took their first bath, has been restored and still exists. After the Buddha attained enlightenment and his teachings spread across Asia, Lumbini became a place of pilgrimage. Stupas and shrines were built here for centuries, and in 249 BC, the Indian emperor Ashoka made a famous visit and erected a [stone pillar](/asia/nepal/lumbini/ashoka_pillar) inscribed with his proclamation — still standing today, it is the oldest surviving evidence that this is indeed the place.
+
+Buddhism was eventually wiped out in its land of origin, and Lumbini fell into obscurity for centuries. Its rediscovery began only in the second half of the 20th century, when excavations guided by the travel diary of the 7th-century Chinese pilgrim Xuanzang uncovered the marker stone, devotional stupas, and the Puskarini pond near the Ashokan pillar.
+
+Today Lumbini has been developed across 12 square kilometers under the Lumbini Development Trust's master plan. The site is divided into three zones: the [Sacred Garden](/asia/nepal/lumbini/sacred_garden), which contains the [Mayadevi Temple](/asia/nepal/lumbini/mayadevi_temple) housing the exact birth spot; the [Monastic Zone](/asia/nepal/lumbini/monastic_zone), where Buddhist communities from around the world have built or are building monasteries in their own national styles; and the Tourism Village, with hotels, restaurants, and visitor facilities. The contrast between the ancient sacred core and the new international monasteries lining the central canal is striking — walking the zone, you pass [Thai temples](/asia/nepal/lumbini/royal_thai_temple), [Japanese pagodas](/asia/nepal/lumbini/world_peace_pagoda), [Chinese monasteries](/asia/nepal/lumbini/chinese_monastery), and Tibetan stupas within a short distance of each other.

@@ -1,12 +1,26 @@
 ---
-title: "New South Wales"
+done:
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
+image: newsouthwales.jpg
+image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space
+  Center
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:ISS037-E-21113_-_View_of_New_South_Wales.jpg
+latitude: -32.1633
+longitude: 147.0166
+score: 0.54
+title: New South Wales
 type: location
-latitude: -31.875984
-longitude: 147.286949
+loc_type: region
 ---
 
-My favourite state - love it because it encorporates some of the most beautiful beaches, beautiful bushland and bushwalking opportunities, the gorgeous [Sydney](/australiaandpacific/australia/newsouthwales/sydney) harbour scene, and the Blue Mountains area is colder and the air is fresher there. 
+New South Wales is Australia's most populous state and the one most visitors see first. Sydney, its capital, is one of the great cities of the Southern Hemisphere, but the state has far more to offer than its famous harbour. From the subtropical beaches of Byron Bay in the north to the snow-capped peaks of the Kosciuszko range in the south, NSW packs a remarkable range of landscapes into a single state.
 
-Sydney's Opera House is not the only reason why one should visit this marvellous city. The Sydney harbour area with the famous Harbour Bridge, the 'Rocks' area (the place where the first settlement took place) and Chinatown are only a few of the other places worth a visit. To the east, some of the fines beaches of NSW can be found. Bondi, Tamarama and Bronte are excellent beaches, not only for sunbathing but also for surfing. And just when you think you've already seen the best when it comes down to waves, set off for Byron Bay at the nothern tip of NSW, also better known as 'the surfing Mecca'. 
+The coastline runs for over 2,000 kilometres and it is, frankly, spectacular. The northern beaches around Byron Bay and Coffs Harbour draw surfers from around the world. The South Coast from Jervis Bay down to Eden is quieter and just as beautiful, with white sand beaches backed by eucalyptus forest. In between, Sydney's own beaches -- Bondi, Manly, Bronte -- are iconic for good reason.
 
-The Blue Mountains and the Snowy Mountains, both part of the Great Dividing Range, are located in NSW. The Blue Mountains National Park is an excellent spot to do some bushwalking, whether for a short trip or for a several days' walk, and this is only one of the many NSW National Parks. The Snowy Mountains offer the perfect places for skiing and when the snow melts again, there is always the possibility of a wild water rafting trip, not to mention bushwalking and mountain treking into areas offering some of the most unique and beautiful plants and wildlife in Australia.
+Inland, the Blue Mountains rise dramatically just ninety minutes west of Sydney, offering bushwalking, canyon scenery and the famous Three Sisters rock formation. Further west, the landscape opens into rolling farmland, the wine country of the Hunter Valley, and eventually the vast, dry outback around Broken Hill, which feels like a different continent entirely.
+
+NSW has a well-developed food and wine culture. The Hunter Valley is Australia's oldest wine region. Sydney is one of the best eating cities in the Asia-Pacific. Even smaller towns like Orange and Mudgee have developed serious food scenes in recent years.
+
+Getting around is straightforward along the coast, where highways and rail lines connect the major towns. The further inland you go, the more you will want your own car. Sydney's airport handles most international arrivals to Australia, making NSW the natural starting point for any trip.

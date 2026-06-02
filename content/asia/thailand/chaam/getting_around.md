@@ -1,14 +1,14 @@
 ---
-title: "Getting Around in Cha Am"
+title: Getting Around
 type: section
 ---
 
-**Cha Am transportation** takes you around Cha Am to see its wonderful beauty. This variety of transportation links the place to the other parts of Thailand with high security. Cha Am is known for having the longest white beach in the country. Many tourists flock to enjoy the clean blue water.
+Cha-am is a small town and the beach area is easy to navigate on foot or by bicycle. The main strip along Ruamchit Road is about 3 km long.
 
-#### **Arrive by Bus**
+**Songthaew:** Shared pickup trucks (songthaew) run regularly along Ruamchit Road and connect the beach to the town centre. Flag one down anywhere along the main road; the fare is a few baht.
 
-Bus is the mode of transportation to reach the splendid city. If you are coming from Bangkok, the bus travels regularly and is quicker than train travel. The bus station to Cha Am is the Bangkok Southern Bus Station, and the journey ticket costs around 130 Baht for non-air conditioned bus and an additional 20 Baht for an air conditioned bus. The travel time from Bangkok to Cha Am is at least 3 hours. If you happen to ride in a good bus, you will be dropped off at a place near to the beach. However, some buses will drop you off at a place where you still need to ride a motorcycle to reach the beach area.
+**Motorbike taxi:** Motorbike taxis congregate near the bus drop-off points and at the northern end of Ruamchit Road. They are the quickest way to get to the train station or to reach Mrigadayavan Palace.
 
-#### **Get Around by Bicycle**
+**Bicycle and motorbike rental:** Several guesthouses and shops along Ruamchit Road rent bicycles and motorbikes by the day. A bicycle is ideal for the flat beach boulevard; a motorbike is needed to reach Mrigadayavan Palace or Phetchaburi independently.
 
-Bicycle is the best choice to get around Cha Am once you arrive. There are bicycles along the beach roads that are available for rent. The rental fee for these bicycles is approximately 20 Baht per hour in summer 2010.
+**Hua Hin connection:** Songthaews run the 25 km south to Hua Hin for a very small fare, leaving from the northern end of Ruamchit Road. This makes it easy to spend a day in Hua Hin without moving your base.

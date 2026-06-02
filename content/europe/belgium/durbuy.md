@@ -1,8 +1,15 @@
 ---
-title: "Durbuy"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+image: durbuy.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Durbuy_vu_du_jardin_de_l%27anticlinal.jpg
 latitude: 50.352412
+loc_type: city
 longitude: 5.456248
+score: 0.56
+title: Durbuy
+type: location
 ---
 
 Durbuy is the smallest city of Belgium. It is a very cute place, with lots of old houses, cobbelstone streets and a great setting on the banks of the Ourthe. 

@@ -1,6 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-To get to Zandvoort from Amsterdam, you either take the train (every half hour) or bus 80. The last option is cheaper but takes a lot longer. Both bus and train pass through Haarlem and Haarlem makes a nice stop. Remember that a bus ticket is only valid for two hours, while the train ticket is valid for the whole day.
+Zandvoort is one of the easiest seaside towns in Europe to reach. A **direct train from Amsterdam Centraal** runs four times an hour in summer and twice an hour the rest of the year, taking about 28 minutes to Zandvoort aan Zee — a terminal station ten minutes' walk from the beach. The line was upgraded ahead of the 2021 Grand Prix and now handles dedicated race-day services to **Sprinter Zandvoort**.
+
+By car the run is the **A4** and **A9** from Amsterdam, around 35 minutes outside summer weekends and considerably longer inside them. Parking on the boulevard fills by ten in the morning on hot days; the multi-storeys behind the station are usually easier. Bicycles travel free on the train outside peak hours and Zandvoort is the natural end-point of the long flat ride across the polders from Amsterdam.

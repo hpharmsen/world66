@@ -1,8 +1,19 @@
 ---
-title: "Benton"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: benton.jpg
+image_attribution: pickupimage (via Wikimedia Commons)
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Waterfalls_in_Ricketts_Glen_State_Park_-1.jpg
+latitude: 41.190833
+loc_type: city
+longitude: -76.383333
+score: 0.31
+title: Benton
 type: location
-latitude: 42.059969
-longitude: -92.077632
 ---
 
-One of the nicest trails out of many here in Pennsylvania that I have been to is "Falls Trail" it is located in benton,PA. Rickett's Glen State Park, Lake Jean off rt.487. I fell in love with this trail. Falls Trail is 3 miles long, It has more than 20 waterfalls along it, The largest which is 94 foot "Ganoga". it can take a good day to hike te trail If you are a adventerios person like me, I didn't just hike I stoped at every waterfall and and admired it. I been to ricketts glen about 6 times and I will go back. I took my ex girlfriend on the trail also, It is so peaceful and relaxing. For those who have been there know exactly what I am talking about, For those who havn't been there It is worth Planning this trail on your next venture. I meet wonderful people on this trail and great conversation. I took alot of pictures along this trail at least 50 in all. you will see all kinds of wildlife. the trail is maintained somewhat it is very steep in places. It get very muddy and slippery.. My niece which is 7 now hiked with my brother and I, She loved it, She had no problem walking it only needed help down a few areas of the trail a few times. Falls trail is stuningly beautiful At any time of year, It Is worth Taking a day and experence it.. There is camping avalible near Jean lake. I even at one time considered putting my aplication in at the park just to have the opportunity to be there every day.
+Benton is a small borough in Columbia County, but the real draw is nearby [Ricketts Glen State Park](/northamerica/unitedstates/pennsylvania/benton/ricketts_glen_state_park), home to one of Pennsylvania's most spectacular hiking trails.
+
+The [Falls Trail](/northamerica/unitedstates/pennsylvania/benton/falls_trail) is a 7-mile loop through old-growth forest that passes more than 20 named waterfalls, the tallest being 94-foot [Ganoga Falls](/northamerica/unitedstates/pennsylvania/benton/ganoga_lake). The trail is steep and can be muddy and slippery, so wear proper hiking boots. Allow a full day if you want to stop and take in each waterfall properly. The park also offers camping near [Lake Jean](/northamerica/unitedstates/pennsylvania/benton/lake_jean) and swimming in summer. Ricketts Glen is off Route 487, about 30 miles north of Bloomsburg. The valley to the south is also covered-bridge country — the [Stillwater](/northamerica/unitedstates/pennsylvania/benton/stillwater_covered_bridge) and [Jud Christie](/northamerica/unitedstates/pennsylvania/benton/jud_christie_covered_bridge) bridges are easy stops.

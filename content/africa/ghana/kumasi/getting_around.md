@@ -1,17 +1,10 @@
 ---
-title: "Getting Around in Kumasi"
+title: "Getting Around"
 type: section
 ---
 
-Gateway Cyber Cafe, Kumasi
+Central Kumasi — Adum, the Cultural Centre, the Manhyia Palace, the cathedrals — is walkable in a single morning, though the heat and traffic can be tiring. For longer hops, **shared taxis** (drop-offs along fixed routes) and **tro-tros** (minibuses) leave from Kejetia and cost very little.
 
-Quickly establishing a reputation as the **Number 1 Internet Café**
-in Kumasi, GCC offers a range of services from Internet browsing, ICT
-Training, to Computer Equipment Reselling.
+For an unfamiliar destination, hail a **dropping taxi** — a private hire — and agree the fare before you get in. **Uber and Bolt** both operate in Kumasi now and are usually cheaper than the negotiated price, particularly for trips to the airport or outskirts.
 
-tel: (00233) 5152513
-address: University of Eucation Winneba, Tanoso, Kumasi
-Price: 8,000 cedis 1 hour, 5,000 half hour
-email: info@gatewaycybercafe.com
-Website: www.gatewaycybercafe.com
-hours: mon-fri 07.30-10.00pm, sat 08.00-09.00pm, sun 08.00-9pm
+The Kejetia roundabout is the orienting landmark: nearly every taxi driver in the city knows where it is, and most cross-town routes pass through it.

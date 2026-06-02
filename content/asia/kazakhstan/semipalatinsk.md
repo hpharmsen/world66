@@ -1,15 +1,19 @@
 ---
-title: "Semipalatinsk"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-30'
+latitude: 50.4044
+longitude: 80.2497
+title: Semipalatinsk
 type: location
-latitude: 50.404377
-longitude: 80.249664
+score: 0.26
+loc_type: city
 ---
 
-Semipalatinsk also known as Semey is the location of a former Soviet Nuclear Testing Area. The Semipalatinsk Test Site was founded in 1948 with the first nuclear explosion tested in 1949 and the last in 1989. Of the 467 nuclear detonations conducted there, 346 were underground, with the first of these underground experiments conducted in 1961. A total of 87 atmospheric and 26 surface nuclear detonations were also performed at the site between 1949 and 1989. Some tests involved multiple weapon detonations. 
- 
+Semipalatinsk — now officially called Semey — is a city on the Irtysh River in northeastern Kazakhstan. It is best known for the Soviet nuclear testing site that operated nearby from 1949 to 1989, but the city itself is older than the Cold War, founded in the 18th century as a Russian frontier fort.
 
-During the early days of the atomic energy program in the former Soviet Union, some unfortunate events occurred. The country's first atomic test in Semipalatinsk in 1949 exposed over 25,000 people downwind from the blast to significant doses of fission products, especially 131I. 
+The city was a place of exile during the Tsarist era. Fyodor Dostoevsky lived here for five years after his release from a Siberian labour camp, and [his house is preserved as a museum](/asia/kazakhstan/semipalatinsk/things_to_do/dostoevsky_museum). [Abai Qunanbayuli](/asia/kazakhstan/semipalatinsk/things_to_do/abai_museum), Kazakhstan's most revered poet, also has strong connections to the region — he studied in Semipalatinsk as a young man.
 
+[The former Semipalatinsk Test Site, known as "The Polygon,"](/asia/kazakhstan/semipalatinsk/things_to_do/the_polygon) lies about 150 km west of the city. It saw 456 nuclear explosions over four decades, and the health and environmental consequences for the surrounding population remain severe. The site is partially accessible to visitors, though independent travel there requires permits and a guide. A [nuclear testing museum](/asia/kazakhstan/semipalatinsk/things_to_do/nuclear_testing_museum) in the city documents the testing programme and the Nevada-Semipalatinsk anti-nuclear movement that ultimately brought the tests to an end.
 
- 
- Along with the problem of economic development, Kazakhstan must cope with some of the some of the worst prevailing conditions of environmental pollution in the world, existing pollution inherited from the Soviet era. Major current environmental problems in Kazakhstan include radioactive and toxic chemical sites associated with former defense industries and test ranges which are found throughout the country, posing health risks for humans and animals.
+Semey itself is a mid-sized Kazakh city without much tourist infrastructure. The [Irtysh riverfront](/asia/kazakhstan/semipalatinsk/things_to_do/irtysh_embankment) is pleasant, dominated by a striking Japanese-funded suspension bridge built as a gesture of solidarity after the nuclear era. The city makes a logical stop on overland routes between Almaty and the Altai Mountains.

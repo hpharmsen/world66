@@ -1,27 +1,6 @@
 ---
-title: "Things to do in Sigtuna"
+title: Things to Do
 type: section
-email: "info@svsk.org"
-type: "Other"
-url: "www.svsk.org"
 ---
 
-In Sigtuna there are plenty of things to do.
-
-### [Waters-skiing](/europe/sweden/sigtuna/things_to_do/watersskiing)
-
-Close to the city-center by the bay "Garnsviken" you can find the
-waterski-club of Sigtuna (Sigtuna Vattenskidklubb). The site is
-beautiful and perfect for waterski, wakeboard and swimming.
-
-During the summer this is a very popular place to hang-out and spend the days.
-
-type: Other
-
-
-
-[[rate it]](/europe/sweden/sigtuna/things_to_do/watersskiing)
-
-url: [www.svsk.org](http://www.svsk.org)
-
-email: info@svsk.org
+Sigtuna is a small town and a half-day is enough to see it well. The pleasure is in the atmosphere rather than specific attractions — the medieval ruins, the rune stones scattered around town, the lakeside path, the 13th-century church. The town is small enough that you will encounter most things simply by walking.

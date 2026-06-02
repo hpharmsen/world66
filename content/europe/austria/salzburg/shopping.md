@@ -1,20 +1,8 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-**all**
+Getreidegasse is the shopping spine of the city — six hundred metres of pedestrian street where every shop carries its medieval guild sign in wrought iron over the door, even McDonald's. The mix is roughly half tourist (Mozart chocolates, Tracht costume, Sound of Music souvenirs) and half local (jewellers, watchmakers, tailors, a couple of excellent old-school bookshops).
 
-**Getreidegasse**
-
-Countless elaborately ornamented signs, artistic portals and romantic arcaded courtyards provide the perfect backdrop for the hustle and bustle of this busy shopping lane.  
-
-**Historic Goldsmith's Workshop**
-
-
-
-fax: 84 26 58.
-
-address: Alter Markt 7
-
-tel: 84 26 17
+For an actual market, the Grünmarkt at Universitätsplatz operates Monday to Saturday with stalls of cheese, sausage, flowers, vegetables, and excellent open sandwiches at lunchtime. The Schrannenmarkt every Thursday morning around Andräkirche on the right bank is more local — farmers from the surrounding mountains bringing in cheese, smoked meat, schnapps, and honey.

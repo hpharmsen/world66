@@ -1,17 +1,17 @@
 ---
-title: "Lautoka"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+image: lautoka.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lautoka-Vitogo-Parade.jpg
 latitude: -17.604606
+loc_type: city
 longitude: 177.448277
+score: 0.51
+title: Lautoka
+type: location
 ---
 
-Travel Guide
+Lautoka is Fiji's second city, sitting on the western coast of [Viti Levu](/australiaandpacific/fiji/vitilevu) in the shadow of the Koroyanitu mountain range. Known as the Sugar City, it grew up around the sugar mill that still dominates the waterfront — during crushing season the sweet smell of processed cane hangs over the town.
 
-Lautoka is an industrial city covered in sugarcane ashes.
-
-The best reason to go there is that it has 8 movie theater screens. Food is less expensive than Nadi. I guess you could learn about how Sugar is refined from cane. You can see lots of sugarcane on boxcars on the railroad.
-
-There is also a great beach here too.
-
-More information on
-*Lautoka Travel*
+The city has a pleasant if unremarkable centre: a broad main street, a covered municipal market selling tropical produce, and a waterfront that looks out across the reef to the Mamanuca and Yasawa island groups. Most visitors pass through Lautoka on their way to the islands — the Yasawa Flyer catamaran departs from the port — but the town market is worth a morning and the drive south along the coast to [Nadi](/australiaandpacific/fiji/vitilevu/nadi) passes through cane fields and Indo-Fijian villages. The Koroyanitu National Heritage Park in the mountains behind the city offers hiking through tropical forest to waterfalls and traditional hilltop villages.

@@ -1,10 +1,6 @@
 ---
-title: "Books in Las Vegas"
+title: 'Books'
 type: section
 ---
 
-HHIS I sohuld have thought of that!
-
-We currently have no Books listed in Las Vegas.
-
-If you do know any Books in Las Vegas, please [Add].
+Las Vegas has produced more legends than any other American city of its size, and the books worth reading are the ones that take its strangeness seriously. Hunter S. Thompson's gonzo classic, Hal Rothman's serious history, and Marc Cooper's reporting are the bedrock; for fiction, John O'Brien's bleak novel is the indispensable Vegas book of the 1990s.

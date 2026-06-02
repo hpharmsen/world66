@@ -1,8 +1,8 @@
 ---
-title: "Things to do"
+done:
+  poi_cleanup: '2026-04-21'
+title: Things to Do
 type: section
 ---
 
-We currently have no Things to do listed in British Columbia.
-
-If you do know any Things to do in British Columbia, please [Add].
+British Columbia rewards almost any kind of traveler. The province's big draws are mostly outdoors — hiking, skiing, kayaking, whale watching — but the cultural and historical sites are worth seeking out too. Start with the obvious (Whistler, Vancouver, Tofino) then follow whatever thread interests you deepest into the Interior.

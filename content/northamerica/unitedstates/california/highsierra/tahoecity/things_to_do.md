@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Alpine Meadows Ski Resort
-
-2600 Alpine Meadows Rd. 96145 530/583-4232
+Tahoe City is a year-round outdoor destination: world-class skiing in winter, hiking and water activities in summer. The town itself is small and walkable, with a waterfront Fanny Bridge area, a couple of good museums, and easy access to the Tahoe Rim Trail and nearby state parks. Most visitors come for the outdoors; the town is where you eat, sleep, and recover.

@@ -1,10 +1,15 @@
 ---
-title: "Lithuania"
-type: location
-latitude: 55.35
-longitude: 23.75
+author: Rupert Brooke,William-Alan Landes (Editor)
+done:
+  poi_cleanup: '2026-04-20'
+isbn: 0887343414
+snippet: Classic cultural guide to Lithuania by Rupert Brooke
+subject: culture
+tags:
+- story
+- books
+title: Lithuania
+type: poi
 ---
 
-Lithuania is the southernmost of the three ex Soviet Republics on the Baltic. Lithuania has a long history behind itself as a proud kingdom and once stretched to the Black See, some 2000 kilometers further to the south. 
-
-Since then the country has shrunk a lot. But what's left is certainly worth exploring. A good starting point is [Vilnius](/europe/lithuania/vilnius), the Jerusalem of Europe as it was called at the turn of the century. Other places of interest include the cities of [Kaunas](/europe/lithuania/kaunas) and [Klaipeda](/europe/lithuania/klaipeda).
+A cultural guide to Lithuania edited by William-Alan Landes, drawing on Rupert Brooke's observations. The book covers Lithuanian history, traditions, and daily life, offering context that helps make sense of the country beyond the usual tourist trail. Useful background reading before a visit, particularly if you're heading beyond Vilnius into the countryside.

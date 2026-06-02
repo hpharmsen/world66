@@ -1,14 +1,21 @@
 ---
-title: "Louisville"
+title: Louisville
 type: location
-latitude: 38.254238
-longitude: -85.759407
+latitude: 38.2542
+longitude: -85.7594
+done:
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-29'
+score: 0.49
+loc_type: city
+image: louisville.jpg
+image_source: https://www.flickr.com/photos/27119975@N00/21535469791
+image_license: CC BY-SA 2.0
+image_attribution: Edsel L on Flickr
 ---
 
-Sometimes called the biggest small town in America, Louisville is (literally and figuratively) at the crossroads of the urban north and rural south. 
+Louisville sits at the crossroads of the urban north and the rural south, and it feels like both. The largest city in Kentucky, it has a vibrant music scene, a growing arts community, and a bourbon culture that runs deep — this is the gateway to the Kentucky Bourbon Trail, and distilleries line the downtown [Whiskey Row](/northamerica/unitedstates/kentucky/louisville/whiskey_row).
 
-The 16th largest city in America is like no place else in Kentucky, an odd mixture of southern values and progressive ideas. The outlaying areas of Louisville are sprawling suburbs more slanted to the southern way of life, while the urban area is a northern metropolis waiting to happen. 
+The city is best known for hosting the Kentucky Derby, held the first Saturday of May at [Churchill Downs](/northamerica/unitedstates/kentucky/louisville/churchill_downs). The two weeks of festivities leading up to the race take over the city. The [Louisville Slugger Museum](/northamerica/unitedstates/kentucky/louisville/louisville_slugger_museum), with its giant bat leaning against the building, is another landmark — it traces the history of baseball through the bat that defined the game. The [Muhammad Ali Center](/northamerica/unitedstates/kentucky/louisville/muhammad_ali_center) on the riverfront is one of the finest biographical museums in the United States, honouring the city's most famous son.
 
-Home to a vibrant underground music scene and burgeoning art community, Louisville of course also hosts the Kentucky Derby and two week celebration surrounding the event. 
-
-It is also the home of what many in the widwest call "little Burbon Street", Baxter Avenue. Situated at the northern end of the Highlands neighborhood, the four block stretch of Baxter Avenue boasts 16 bars. The Highlands in total holds over 40, all of which are open till 4am. The epicenter of this neighborhood (and Louisville's cultural scene) is Bardstown Road, a one mile stretch of odd shops and art galleries.
+The [Highlands](/northamerica/unitedstates/kentucky/louisville/the_highlands) neighbourhood along Bardstown Road is the cultural heart of the city: a mile of independent shops, galleries, restaurants, and bars open until 4am. [NuLu](/northamerica/unitedstates/kentucky/louisville/nulu) (New Louisville), the revitalised East Market District, is the newer arts-and-dining hub. Down on the river, the [Belle of Louisville](/northamerica/unitedstates/kentucky/louisville/belle_of_louisville) — the oldest operating steamboat of her type in the world — still runs excursions on the Ohio. And south of town, [Waverly Hills Sanatorium](/northamerica/unitedstates/kentucky/louisville/waverly_hills_sanatorium) draws ghost hunters from across the country to one of the most thoroughly atmospheric abandoned buildings in America.

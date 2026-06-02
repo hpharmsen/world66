@@ -3,4 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Once in Palermo you just have to try the local specialties – it’s not only pizza and pasta. But Sicilian pizza and pasta is more than you expect from it: plain and fresh and incredibly delicious. For going out in the evening most people head for the resort of Mondello, 11km away and connected by regular bus no. 806. But you don’t have to leave the inner city to enjoy good food. Just enter one of the small familiy run trattorie or pizzerie or check out one of our favorites:
+Palermo has one of the strongest food cultures in Italy, rooted in Arab, Spanish, and Sicilian traditions. The street food is the thing to start with: arancine (rice balls, stuffed with ragù or butter and ham), panelle (chickpea fritters in a sesame roll), sfincione (thick pizza with onion and anchovy), and stigghiola (grilled lamb intestines) from the Ballarò and Capo markets. Pasta con le sarde — with sardines, wild fennel, pine nuts, raisins, and saffron — is the signature first course. Cassata and cannoli are everywhere but quality varies sharply; seek out the serious pasticcerie.
+
+Restaurants are concentrated in the Kalsa district and around the Vucciria market. Most serious dining happens late — don't arrive before 20:00.

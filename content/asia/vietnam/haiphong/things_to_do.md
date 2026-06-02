@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-Hai phong is located in the South-East of the Northern Viet nam. Hai phong is famous for its ports, foods, landscapes (beauty spots, pagodas..). Its will take you only one hours from Ha noi capital by bus. It is the 3rd biggest city in Viet nam and it is a developing one with major industry.
+Haiphong is a working city rather than a tourist destination, but it rewards a couple of slow days. The French colonial core around the Opera House is the most rewarding area to walk: pastel-coloured villas, café-lined boulevards, and the early-twentieth-century commercial buildings of the old port. A few classical Vietnamese temples and pagodas survive in pockets across the city, and the riverside markets give a sense of the trading life that built the place.

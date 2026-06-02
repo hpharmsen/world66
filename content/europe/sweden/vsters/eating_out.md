@@ -3,26 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-In the last few years, Västerås has gotten a number of good places to eat.
+Västerås has a solid restaurant scene for a Swedish city of its size. The harbour district has the most concentration of options, with a mix of Swedish and international kitchens. The old town also has a handful of reliable spots.
 
-**all**
-
-**'Å' Restaurang & Bar**
-
-Good restaurant next to Svartån. Traditional swedish dishes and trendy menus. 
-
-Lunch 11 - 14
-
-Tues-Thu: 17:00-
-
-Fri: 15:00-
-
-Sat: 12:00-
-
-address: Slottsgatan 6
-
-tel: 021-41 72 70
-
-url: [www.arestobar.nu](http://www.arestobar.nu)
-
-zipcode: 722 16
+Swedish classics — meatballs, elk, herring, and the ritual cinnamon bun — are all available, but the city has enough international influence through its university and ABB workforce to support Thai, Afghan, and Italian cooking of decent quality.

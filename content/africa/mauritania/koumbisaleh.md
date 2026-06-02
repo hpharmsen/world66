@@ -1,12 +1,21 @@
 ---
-title: "Koumbi Saleh"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: koumbisaleh.jpg
+image_attribution: Clemens Schmillen
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:NouakchottNationalMuseum2.jpg
 latitude: 15.765809
+loc_type: city
 longitude: -7.96854
+score: 0.23
+title: Koumbi Saleh
+type: location
 ---
 
-Koumbi Saleh is what remains of the once florishing capital of the kindgom of Ghana. Ghana ruled the transsaharan trade routes of salt, gold and slaves. This brought the city and the region a lot of wealth. 
+Koumbi Saleh is what remains of the once-flourishing capital of the Kingdom of Ghana — not the modern West African nation, but the medieval empire that controlled the trans-Saharan trade in gold, salt, and slaves from roughly the 6th to the 13th century. At its height the city may have held tens of thousands of people, and the wealth flowing through it funded elaborate stone buildings and a royal court of considerable sophistication.
 
-Traces of the town were discovered in 1913, and Koumbi is the number one archeological site of Mauritania. 
+Traces of the town were discovered in 1913, and Koumbi Saleh is now considered the premier archaeological site of Mauritania. Excavations have revealed the outlines of a walled city with a mosque, stone houses, and the remains of what was once one of the largest urban centres in sub-Saharan Africa.
 
-Koumbi Saleh is not easy to reach if you don't have your own means of transport. It is not far off the main road from [Ayoun al Atrous](/africa/mauritania/ayounalatrous) to [Nema](/africa/mauritania/nema), but the sparse traffic does not make the detour.
+Getting here requires effort. The site lies not far off the main road between [Ayoun al Atrous](/africa/mauritania/ayounalatrous) and [Nema](/africa/mauritania/nema), but traffic is sparse and the final stretch demands your own vehicle or a willing driver. For those interested in the deep history of West Africa, it is worth it.

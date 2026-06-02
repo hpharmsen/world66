@@ -3,22 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**MAP OF TIROL:**
+Imst sits on the main railway line from **Innsbruck** to **Bregenz** and Switzerland — direct trains take about 45 minutes from Innsbruck. The station is called **Imst-Pitztal** and is in the village of Imsterberg, 4 km from the centre; a local bus runs into town in 10 minutes.
 
+By car, take the A12 *Inntal* autobahn west from Innsbruck and exit at **Imst**. The drive takes about 40 minutes. From Munich the journey is 2.5 hours via the Fernpass.
 
-
- **by car:**
-
- from Switzerland: Arlberg pass or Arlberg tunnel - Landeck - Imst
-
- from Germany: federal road 314 and 189 Fernpass - Nasserreith - Imst
-
- from Italy: Brenner pass - Innsbruck - motorway A 12 until Imst or Reschenpass - Landeck - motorway A12 until Imst
-
-  **by train:**
-
- Nearest train station: Imst - Pitztal (3 km from the town centre), bus connections in all directions, taxi rank
-
-  **by air:**
-
- Nearest airports: Innsbruck 60 km, Munich 230 km
+The nearest airport is **Innsbruck**; **Munich** and **Zürich** are about three hours away by car.

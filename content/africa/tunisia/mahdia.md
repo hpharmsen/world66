@@ -1,26 +1,19 @@
 ---
-title: "Mahdia"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: mahdia.jpg
+image_attribution: IssamBarhoumi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bab_Bhar_Mahdia_1.jpg
+latitude: 35.5036
+loc_type: city
+longitude: 11.0682
+score: 0.48
+title: Mahdia
 type: location
-latitude: 35.503642
-longitude: 11.068243
 ---
 
-Mahdia is a cute seaside town between 
- 
- [Sousse](/africa/tunisia/sousse) and 
- 
- [Sfax](/africa/tunisia/sfax). You can hardly imagine that this was once the capital of Tunisia. 
- 
+Mahdia is a quiet seaside town on a narrow peninsula between [Sousse](/africa/tunisia/sousse) and [Sfax](/africa/tunisia/sfax), and you would hardly guess it was once the capital of Tunisia. Proclaimed capital in 921 by the Fatimid caliphs, it spent centuries at the centre of power struggles between the Caliph of Cairo and local rulers, was repeatedly attacked by Genoese navies and Sicilian troops, and later became a headquarters for the corsair Dragut before facing off against Spanish and Maltese knights.
 
-
- Proclaimed the capital of Tunisia in 921, Mahdia was long the center of a power struggle between the Caliph of Cairo and local sovereigns. Repeatedly attacked by nomads, Genoese navies, Sicilian troops, liberated by the Berbers, Mahdia became a headquarters for the pirates of Dargouth and battles with Spanish and Maltese knights.
- 
- 
-
-
- The Central Mosque dates from the 10th century. It is an austere building. The entrance to the Medina is through an enormous 16th century gate. Wandering through the old city visitors can see the vestiges of the ancient ramparts and fortress, visit the "Cape Africa" lighthouse and the beautiful sailors cemetery. 
- 
- 
-
-
- Mahdia of today is that of the fisherman mending his nets and the silk weavers in the Rue Sidi Jaber. A few kilometers from the town itself a myriad of modern first class hotels offer visitors one of the finest beaches in Tunisia.
+The entrance to the medina is through an enormous sixteenth-century gate, the [Skifa Kahla](/africa/tunisia/mahdia/skifa_kahla). Inside, the narrow streets lead to the remains of ancient ramparts and a fortress, the [Cape Africa](/africa/tunisia/mahdia/cape_africa) lighthouse, and a beautiful [sailors' cemetery](/africa/tunisia/mahdia/sailors_cemetery) overlooking the sea. The central [mosque](/africa/tunisia/mahdia/great_mosque), dating from the tenth century, is a striking austere building. Beyond the old town, Mahdia today belongs to its fishermen mending their nets on the harbour and the [silk weavers of Rue Sidi Jaber](/africa/tunisia/mahdia/silk_weavers). A few kilometres south, a string of [beaches](/africa/tunisia/mahdia/mahdia_beach) stretches along the coast — some of the finest sand in Tunisia.

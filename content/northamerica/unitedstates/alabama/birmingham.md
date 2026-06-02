@@ -1,26 +1,21 @@
 ---
-title: "Birmingham"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-13'
+  poi_cleanup: '2026-04-21'
+latitude: 33.5207
+loc_type: city
+longitude: -86.8024
+score: 0.38
+title: Birmingham
 type: location
-latitude: 33.520682
-longitude: -86.802433
 ---
 
-Birmingham is the largest city in the state. Nestled in the foothills of the Appalachian Mountains, it sprawls along a single valley, while suburbs dot the surrounding valleys. Red Mountain is in the center of town and runs east to west. Along the mountain, iron ore was mined and used in the numerous steel mills that once dotted the landscape. Birmingham's steel heritage is long gone now, given way to other industries like banking and medical research. The University of Alabama at Birmingham makes up much of the downtown area. 
+Birmingham is the most important city in the American civil rights story. The Birmingham Civil Rights Institute, the 16th Street Baptist Church where four young girls were killed in a 1963 bombing, and Kelly Ingram Park where fire hoses and police dogs were turned on peaceful protesters -- all stand within a few blocks of each other downtown. No other city in the country puts you so directly in the places where the movement happened.
 
-The most interesting place to visit would be Five Points on the Southside. Interesting restuarants, and there's live music close by. It's about as close as you can get to local culture. 
+Alabama's largest city sits in a valley divided by Red Mountain, where iron ore once fed the steel mills that built it. The steel industry is gone, replaced by banking, medical research, and the University of Alabama at Birmingham, but the industrial heritage lives on in Vulcan Park's 56-foot cast-iron statue overlooking the city from the ridge.
 
-Birmingham is sort of like Detroit - safe enough, if you know which areas to avoid. Avoid North Birmingham - there's nothing to see there, and you will likely get robbed. 
+The food scene is a genuine highlight. Dreamland BBQ is a pilgrimage site for barbecue lovers, Niki's West on the north side serves some of the best Southern home cooking around, and a growing wave of newer restaurants has put Birmingham on the national food map. Five Points South is the closest thing to a walkable neighborhood scene -- restaurants, live music, and a bit of nightlife.
 
-Anything south of Red Mountain, is safe. Anything north of Fultondale is safe. Anything in between might be safe during the day, and definitely not safe at night. Shields up and phasers armed! 
-
-There's a restaurant called Niki's in North Birmingham that serves the best southern home cooking you're likely to get. It's worth the risk - go during the day. 
-
-If you're hankering for authentic southern barbecue, find out where Dreamland BBQ is, and go eat there. 
-
-The city offers many opportunities for shopping. The city of Hoover, to the south, is home to one of the largest malls in the southeast. 
-
-Hoover not only has the Galleria, but it also has all the other upscale big box retailers as well. Costco, CompUSA, etc are all here. Next nearest place to get the good stuff is in Huntsville. 
-
-The Birmingham International Airport offers flights to and from many destinations, through connecting flights in Atlanta, New Orleans and Charlotte. 
-
-For more on what to see and do in Birmingham, visit the Greater Birmingham Convention and Visitors Bureau.
+Safety is a mixed bag. Anything south of Red Mountain is generally fine, as is anything north of Fultondale. The neighborhoods in between can be rough, especially at night. Stick to the areas you came to see and you will be fine.

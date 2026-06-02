@@ -1,11 +1,6 @@
 ---
-title: "Things to do in Madison"
+title: "Things to Do"
 type: section
 ---
 
-Veterans Museum **
-
-A free museum (though a contribution is encouraged). Modern and engaging exhibits of Wisconsin's miltary contribution to conflicts. WW2 fighter planes, Helicopters, a German enigma machine and even a piece of the the Berlin Wall all fit into two large exhibit rooms. Certainly worth an hour of your time if not more.
-
-Contributors**
-April 13, 2004
+Madison rewards the wanderer. The Wisconsin State Capitol anchors one end of the isthmus, the University campus spreads along the lakeshore at the other, and State Street connects them with a mile of bookshops, galleries, and coffee shops. Most of what makes Madison worth visiting is outdoors and free.

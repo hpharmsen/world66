@@ -1,43 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-accessibility: "100"
-address: "Haltestraat 26"
-email: "info@albatros-zandvoort.nl"
-phone: "+ 31 (0)23 5712524"
-price: "+/- € 35.-"
-type: "Seafood"
-url: "www.albatros-zandvoort.nl"
-latitude: 52.373428
-longitude: 4.530637
 ---
 
-Riminis Italian Restaurant Good Value Friendly Service
+Almost all of Zandvoort's eating in summer happens at the **strandpaviljoens** — the seasonal beach pavilions strung along the front. They range from rough fish-and-chips kiosks to proper sit-down restaurants serving Dover sole and chilled albariño on a wooden terrace over the sand. Quality is generally decent and prices are noticeably higher than equivalent inland restaurants.
 
-### [Restaurant de Albatros](/europe/netherlands/zandvoort/eating_out/restaurant_de_alba)
-
-For the best seafood you go to this restaurant,
-
-[Restaurant de Albatros](/europe/netherlands/zandvoort/eating_out)
-
-Haltestraat 26
-
-2042 LN Zandvoort
-
-Tel: +31 (0)23 5712524
-
-type: Seafood
-
-
-
-accessibility: 100
-
-tel: + 31 (0)23 5712524
-
-url: [www.albatros-zandvoort.nl](http://www.albatros-zandvoort.nl)
-
-address: Haltestraat 26
-
-PriceOfMenu: +/- € 35.-
-
-email: info@albatros-zandvoort.nl
+The Dutch beach staple is **kibbeling** — battered chunks of cod with garlic sauce — sold from stalls and walk-up windows all along the boulevard. For more substantial dining in the centre, the streets around the **Kerkplein** and the **Haltestraat** hold the year-round restaurants, including a couple of solid Indonesian places left over from the resort's mid-20th-century heyday. Bar-and-grill chains dominate the boulevard itself.

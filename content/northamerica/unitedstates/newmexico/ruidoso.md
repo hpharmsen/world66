@@ -1,14 +1,20 @@
 ---
-title: "Ruidoso"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-20'
+latitude: 33.3316
+longitude: -105.6731
+score: 0.46
+title: Ruidoso
 type: location
-latitude: 33.33158
-longitude: -105.673099
+loc_type: city
 ---
 
-Travel Guide
+Ruidoso is a mountain resort town tucked into the Sacramento Mountains of southern New Mexico at around 6,900 feet — high enough to offer genuine alpine scenery and cool summers in a state more associated with scorching desert. The town sits on the edge of the Mescalero Apache Reservation, and the surrounding Lincoln National Forest makes it a natural base for hiking, mountain biking, and fly fishing in the Rio Ruidoso.
 
-Located in the heart of the White Mountains of southern New Mexico and on the northern edge of the Mescalaro Apache Indian Reservation, the mountain hamlet of Ruidoso (pop 8,500) offers alpine relief at an elevation of 6900 feet from the pounding desert heat of the surrounding lands. Ruidoso is a popular year round destination, offering the most diverse recreational opportunities of any southern New Mexican town and bases the majority of its economy on catering to the hoards of visitors that cross its borders annually. Outdoor recreationalists will find Ruidoso has a variety of activities at its doorstep, both in summer and winter, and a quaint small mountain town appeal that works as a retreat for the soul as well as the body. Visitors looking to round out their recreational quests will find Ruidoso supports a virile artist community and is loaded with galleries to explore. Ruidoso is also well known for its horse racing track, Ruidoso Downs, and its active nightlife.
+In winter, Ski Apache draws skiers from as far as El Paso and Albuquerque — it is one of the most southerly ski resorts in the United States, and the views from the upper slopes over the desert basin below are genuinely startling. In summer the same mountains pull people out of the heat of the lowlands: the temperature can be 30 degrees cooler than in [Alamogordo](/northamerica/unitedstates/newmexico/alamogordo), just 60 miles away.
 
-Ruidoso has a good selection of accommodations for visitors to choose from, though the majority of them are rented far in advance for racetrack weekends and popular holidays so advanced reservations are encouraged. Dining in Ruidoso is also rather diverse, with options ranging from home-cooked American meals on the cheap to expensive menus influenced by five star cuisine from around the world.
+Ruidoso Downs, the adjacent community to the east, hosts the famous All American Quarter Horse Futurity each Labor Day weekend — one of the richest quarter-horse races in the world. The town fills up fast during race weekends and major holidays; book accommodations well in advance. An active arts scene means there are decent galleries scattered through the town center, and the dining has improved considerably beyond the old roadside-diner era.
 
-Ruidoso is best accessed via NM Highway 70 from Alamogordo to the west. To learn more about Ruidoso, select a topic of interest from the left-hand navigation bar.
+The best approach by road is via NM Highway 70 west from [Alamogordo](/northamerica/unitedstates/newmexico/alamogordo), or via US 380 from [Roswell](/northamerica/unitedstates/newmexico/roswell) to the east.

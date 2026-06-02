@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-GETTING AROUND SAYULITA ??
-
-VISIT THE BEST BEAUTY SALON " EL CORTE " ( THE CUT )
-
-GREAT SERVICE, A/A, DRINKS, WC ... BEST WEDDING SERVICE IN TOWN.
-
-CALLE PLAYA AZUL No 2 elcortesayulita@yahoo.com
-
-WE SPEAK ENGLISH
+Sayulita runs on surf, sun, and an unhurried pace that's hard to shake once you've settled in. The main beach anchors daily life, but the town also delivers excellent street art, a lively Friday market, and easy boat trips to some of the best snorkeling on the Mexican Pacific.

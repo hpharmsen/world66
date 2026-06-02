@@ -1,17 +1,21 @@
 ---
-title: "La Romana"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-17'
+latitude: 18.4274
+loc_type: city
+longitude: -68.9728
+score: 0.53
+title: La Romana
 type: location
+image: la_romana.jpg
+image_source: https://www.flickr.com/photos/90733161@N05/8363211383
+image_license: CC BY 2.0
+image_attribution: Dreinick on Flickr
 ---
 
-Travel Guide
+La Romana is the Dominican Republic's sugar-cane capital turned resort town, sitting on the southeastern coast about an hour and a half east of Santo Domingo. It is one of the most visited regions in the country, thanks to a combination of white-sand beaches, the Casa de Campo luxury resort, and the remarkably photogenic [Altos de Chavón](/northamerica/dominicanrepublic/la_romana/altos_de_chavon).
 
-La Romana is a region of the Dominican Republic that has beautiful beaches. It is one of the most visited regions of the country.
+[Altos de Chavón](/northamerica/dominicanrepublic/la_romana/altos_de_chavon) is a recreation of a sixteenth-century Mediterranean village, built entirely from stone above the Río Chavón gorge. Its amphitheatre — a 5,000-seat semi-circle of carved stone — hosts major concerts, and the narrow streets are lined with galleries, workshops, and restaurants with views over the river and the surrounding mountains. Down at La Marina, the [Casa de Campo marina](/northamerica/dominicanrepublic/la_romana/casa_de_campo_marina) complex has waterfront restaurants, ice cream shops, and boutiques alongside a pretty dock.
 
-In La Marina you will find great restaurants, ice cream shops, stores and even appartments; not to mention the beautiful dock. It wouldn't be strange if you saw people like Juan Luis Guerra or Julio Iglesias eating at a table beside you because La Marina is a place visited by many famous people and artists.
-
-Another wonderful place of La romana is Altos de Chavon. A lot of concerts take place there in the theater which is made of stones and is shaped like a semi-circle. But not only the theater is the one made of stones, most of Chavon is made of stones as well. You can also visit the great restaurants located there and enjoy the view of the beautiful Rio Chavon which is surrounded by mountains.
-
-If you are ever in La Romana, don't forget to visit these wonderful places. It will definately make your stay worth the while.
-
-**Contributors**
-October 13, 2006
+The nearby [Isla Catalina](/northamerica/dominicanrepublic/la_romana/isla_catalina) and [Isla Saona](/northamerica/dominicanrepublic/la_romana/isla_saona) are popular day-trip beaches reached by catamaran or speedboat. La Romana itself is a working Dominican city rather than a resort bubble, so stepping beyond the tourist areas gives you a more authentic sense of the country. The [Estadio Francisco Micheli](/northamerica/dominicanrepublic/la_romana/estadio_francisco_micheli) hosts winter league baseball from October to January — one of the most enjoyable ways to spend an evening in town.

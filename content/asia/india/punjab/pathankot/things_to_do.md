@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do in Pathankot"
 type: section
 ---
 
-While you are in or around Pathankot, do not forget to Visit SHRI RAM DATAMATICS, the complete computer store, catering to all your needs for computing. A wide range of items ranging from a printer ribbon to Desktops, Laptops , hardware parts, supplies and all. Also available are all types of accessories and additions for your computers.
-
-Come at SHRI RAM DATAMATICS, 2, Mahadev Market, Dalhousie Road, Pathankot-145001, or call at 09814079938 for any type of computer products, while you are in Pathankot.
+Pathankot's own sights are modest, but the district rewards those willing to venture beyond the railway station. The old fort at Shahpur Kandi overlooks the Ravi River, temples dot the foothills, and Ranjit Sagar Lake — a vast reservoir on the Ravi — draws birdwatchers and boaters. The countryside around the town is greener and hillier than most of the Punjab plains, and the Shivalik ridges just to the north give the district an air that is somewhere between the flatlands and the mountains proper.

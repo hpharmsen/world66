@@ -1,29 +1,10 @@
 ---
-title: "Books in Agadir"
+title: "Books"
 type: section
-author: "Fodor's"
-isbn: "1400017262"
 ---
 
-These are some great travel guides to help you in your travels around and about Agadir.
+**Lords of the Atlas** by Gavin Maxwell (1966) is one of the great books about Morocco — the story of the Glaoui clan, the Berber warlords who ruled the south from their Kasbah in Marrakesh and maintained their power by collaborating with the French, until independence swept them away. It reads like a novel but is history. The Souss valley around Agadir was part of the territory they controlled.
 
-### [Fodor’s Morocco 3rd Edition](/africa/morocco/agadir/books/books)
+**Elias Canetti's The Voices of Marrakesh** (1967) is a slim travel memoir from a Nobel laureate — perceptive, strange, and nothing like most travel writing. Canetti spent several weeks in Morocco and the book captures something about the sensory experience of the country that guidebooks miss.
 
-In Fodor’s Morocco 3rd Edition (ISBN: 1400017262), published as a
-part of Fodor’s Gold Guides, there is a generous section detailing
-travel and accommodations in Agadir, as well as a very comprehensive
-look at the culture, customs and travel tips that will be helpful when
-planning a vacation through the region.
-
-Featuring updated listings from local writers, Fodor’s has done a
-good job here of compiling some of the best entertainment, lodging and
-transportation information for Agadir. Using this guide, it is easy to
-plan your trip from home well before you leave [more..](/africa/morocco/agadir/books/books)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1400017262/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: Fodor's
-
-isbn: 1400017262
+**Morocco: The Traveller's Companion** edited by Margaret and Robin Bidwell collects accounts of Morocco by European travellers over several centuries, including sections on the Souss and the south. Useful for understanding how the country looked before mass tourism arrived.

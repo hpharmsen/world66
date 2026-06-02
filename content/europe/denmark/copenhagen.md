@@ -1,12 +1,25 @@
 ---
-title: "Copenhagen"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
+  location_enrich: '2026-05-15'
+  poi_cleanup: '2026-04-20'
+image: copenhagen.jpg
+image_attribution: Moahim
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from_the_Marble_Bridge.jpg
+latitude: 55.6761
+loc_type: city
+longitude: 12.5683
+score: 0.73
+title: Copenhagen
 type: location
-latitude: 55.686724
-longitude: 12.570072
 ---
 
-In 1167 Copenhagen was a tiny village called “Havn”, king Valdemar I gave to his trustee, the bishop of Absalon of Roskilde. Since then it gradually grew to be the first city of Denmark, also because the harbour of Roskilde became inaccessible to the larger trading ships. In 1417 Copenhagen became the capital of Denmark. It’s now by far the largest and most important town in Denmark, with numerous Museums and the hippest Nightlife in the country.
+Copenhagen began as a tiny fishing village called Havn in the 12th century. Bishop Absalon of Roskilde fortified it, traders followed, and by 1417 it was the capital of Denmark. Today it is one of Europe's most livable cities, a place where old royal palaces sit comfortably alongside bold modern architecture, and where nearly half the population commutes by bicycle.
 
+The city's heart is its medieval core, where the pedestrian street [Strøget](/europe/denmark/copenhagen/stroget) connects busy squares and the colourful townhouses of [Nyhavn](/europe/denmark/copenhagen/nyhavn) line the old harbour. Across the water lies [Christianshavn](/europe/denmark/copenhagen/christianshavn), home to the free-spirited commune of [Christiania](/europe/denmark/copenhagen/christiania). North of the centre, the royal residence at [Amalienborg](/europe/denmark/copenhagen/amalienborg) and the parks around [Rosenborg Castle](/europe/denmark/copenhagen/rosenborg_castle) give the city its regal side, while the waterfront [Black Diamond](/europe/denmark/copenhagen/the_black_diamond) library is one of the finest modern buildings in Scandinavia.
 
- 
- It has an old center and some interesting town development schemes of the 18th, 19th and 20th century. Not just the royal palaces are a sight to see; just as remarkable is the squatters quarter Christiania. Of course one should visit Copenhagens idol, the little mermaid statue near the Churchillpark. As most objects you already know from countless pictures it’s rather disappointing and not nearly as impressive as the Gefjonfountain. But these are things one should experience oneself.
+Copenhagen punches well above its weight in art and culture. The [Nationalmuseet](/europe/denmark/copenhagen/nationalmuseet) covers 10,000 years of Danish history, the [Ny Carlsberg Glyptotek](/europe/denmark/copenhagen/ny_carlsberg_glyptotek) holds one of the world's great Rodin collections, and a short train ride north brings you to [Louisiana](/europe/denmark/copenhagen/louisiana), arguably the best modern art museum in Europe. The city's food scene runs from classic smørrebrød to some of the world's most inventive restaurants, and its bars range from cosy basement jazz joints to loud clubs that don't get going until midnight.
+
+It is an expensive city, there is no getting around that. But the best things here are often free: walking along the [harbourfront](/europe/denmark/copenhagen/harbourfront), [cycling](/europe/denmark/copenhagen/copenhagen_cycle) through the parks, watching the changing of the guard at [Amalienborg](/europe/denmark/copenhagen/amalienborg), or just sitting in [Nyhavn](/europe/denmark/copenhagen/nyhavn) with a beer and the late northern sun on your face. [Tivoli Gardens](/europe/denmark/copenhagen/tivoli_gardens), just behind the central station, is also open most evenings and is genuinely wonderful.

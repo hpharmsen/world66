@@ -1,64 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Trekking"
-latitude: 12.833965
-longitude: 79.714809
 ---
 
-### [Dos and Dont's](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
+Leh's main sights are the palace and monasteries that line the Indus Valley. The [Leh Palace](/asia/india/jammuandkashmir/ladakh/leh/leh_palace) rising above the old town is the defining monument. Above it, the [Namgyal Tsemo Monastery](/asia/india/jammuandkashmir/ladakh/leh/namgyal_tsemo_monastery) rewards the steep walk with outstanding views. The [Shanti Stupa](/asia/india/jammuandkashmir/ladakh/leh/shanti_stupa) on its ridge above the tourist village of Changspa gives panoramic views and is particularly beautiful at sunset.
 
-While trekking in Ladakh, you are advised to follow certain instructions which is in terms of preserving the environment. You can also get the copy of **"While in Himalaya's- Dos and Dont's " **a publication of Indian Mountaineering Foundation, which is at Delhi. The address is:
+[Sankar Monastery](/asia/india/jammuandkashmir/ladakh/leh/sankar_monastery) is an easy walk from town and one of the more intimate gompas in Ladakh. The [Zorawar Fort](/asia/india/jammuandkashmir/ladakh/leh/zorawar_fort) near the airport houses a small museum covering the Dogra period of Ladakhi history.
 
+For the monastery circuit further afield, [Thiksey](/asia/india/jammuandkashmir/ladakh/leh/thiksey_monastery) (19 km) and [Hemis](/asia/india/jammuandkashmir/ladakh/leh/hemis_monastery) (45 km) can be visited as day trips by taxi. [Alchi](/asia/india/jammuandkashmir/ladakh/leh/alchi_monastery) (65 km) is best combined with Likir and Basgo in a longer day.
 
- **Indian Mountaineering Foundation**
-
-
- Benito Juarez Road,
-
-
- New Delhi-110021.
-
-
- PH: +91 11 671211 / 602245
-
-
- FAX: + 91 11 6883412
-
-
- ** vilayat:** Zansker trek starts from lamayuru,so how can you go from Leh - Shey - Thiksey - Hemis - Alchi - to [more..](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
-
-type: Trekking
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
-
-### [Shanti stupa](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/shanti_stupa)
-
-The Shanti Stupa is located on ridge about 1km from Leh throught the tourist village of changspa. It was built by a Japanese order and has wonderful views over Leh and the Indus valley especially at sunset. The stupa was built in 1980s and is a beautiful monument decorated with colourful paintings and enshrines large statues of Buddha.
-
-type: Hiking
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/shanti_stupa)
-
-### [Necessecities](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/necessecities)
-
-The things required for Trekking:
-
-
- A Sturdy pair of Walking Shoes, Thick Cotton or Woollen Socks, Sleeping Beg, Waterproof Tent, Toiletries, First Aid Kit, Necessary Medicines for High Altitude Sickness, Flash Light or Torch with Extra batteries, Hat, Sunglasses, Kerosene for Cooking Stove(If you are carrying).
-
-type: Trekking
-
-
-
-### [Visiting monastaries near Leh](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/visiting_monastari)
-
-**Alchi Gompa**
-
-This extensive buddhist temple and monastic complex contains at least 4 major buddhist temples dating back about 500AD. The main feature are the stunning multicoloured clay statues some 2-3 stories high preserved for over a thousand years. Du-Khang, or temple, that enshrines Mahayana images. Beside it to the east is Sum-tsek, one of the few complete preserved sites not destroyed by the invading muslim armies of the east for the glory of its sculptures, paintings, and unique architectural features. Further east is Lha-khang Soma and to the [more..](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/visiting_monastari)
-
-type: Hiking
+The adventure highlight is driving or riding over [Khardung La](/asia/india/jammuandkashmir/ladakh/leh/khardung_la) (5,359 m) to the Nubra Valley — sand dunes, Bactrian camels, and the Karakoram peaks in a single crossing. River rafting on the Zanskar and Indus, and multi-day treks in the Markha Valley, are the other signature experiences.

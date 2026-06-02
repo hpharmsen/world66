@@ -1,8 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-Arequipa is connected by air to [Lima](/southamerica/peru/lima), Tacna, [Cuzco](/southamerica/peru/cuzco) and Juliaca ( Puno). Flights leave reguarly and cost between USD 60 and USD 100, depending on the distance, carrier and time of booking, so shop around. The Plaza de Armas offers some cheaper travel agents. It might be advisable to take the bus to the higher laying cities because of the risk of altitude sickness. 
+Arequipa's Rodríguez Ballón Airport has direct flights from Lima (1h20m), Cuzco, and Juliaca (for Puno). LATAM, Sky, and Jetsmart all serve the route from Lima at competitive prices. The airport is about 15 minutes from the centre by taxi.
 
-Busses connect Arequipa to [Lima](/southamerica/peru/lima) (12-15 hours, USD25), Puno (10 hours). There are also international busses to Chile, Argentine and sometimes even further afield.
+Buses arrive at the Terminal Terrestre south of the city. Cruz del Sur, Tepsa, and Oltursa run the most reliable services. The overnight bus from Lima is around sixteen hours; from Cuzco about ten; from Puno about six. Take a *cama* (180-degree reclining) ticket on the long routes — the price difference is small and you get a much better sleep. The road from Puno climbs over a 4,500-metre pass and the descent into Arequipa is beautiful by day.
+
+There are no passenger trains. Within the centre, a metered taxi is cheap. Walking is fine in the colonial core during daylight; at night, take a registered taxi from your hotel or the plaza rather than flagging one down on the street.

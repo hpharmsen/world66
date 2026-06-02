@@ -1,15 +1,21 @@
 ---
-title: "Bar-le-Duc"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
+image: barleduc.jpg
+image_attribution: TCY
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bar-le-Duc_Place_Saint-Pierre.jpg
+latitude: 48.7713
+loc_type: city
+longitude: 5.1624
+score: 0.42
+title: Bar-le-Duc
 type: location
-latitude: 48.771267
-longitude: 5.162381
 ---
 
-Bar-le-Duc is a charming town in the Meuse departement. The old historic centre is a treasure of Renaissance architecture.
+Bar-le-Duc is a quiet town in the Meuse département whose [upper town](/europe/france/east/lorraine/barleduc/ville_haute) contains one of the finest collections of Renaissance architecture in northeastern France. The old centre feels like an open-air museum: elegant stone facades, mullioned windows, sculptured medallions, and pilasters line the streets and squares, all built from the warm blond limestone of the Meuse.
 
+In 1580, Montaigne declared the Collège Gilles de Trèves "the most beautiful house in France" — its Renaissance courtyard remains astonishing. The Place Saint-Pierre is surrounded by patrician mansions, and the streets of the Ducs de Bar and Bourg quarters reward slow exploration on foot. The most celebrated artwork in town is the [Transi de René de Chalon](/europe/france/east/lorraine/barleduc/transi_de_rene_de_chalon), a startling 16th-century sculpture by Ligier Richier in the church of Saint-Étienne: a skeletal figure holding its own heart aloft, carved with disturbing anatomical precision.
 
- In 1580, Montaigne considered the " Collège Gilles de Trèves " as " the most beautiful house in France " with its astonishing Renaissance courtyard. This incredible building is only one piece of the important Renaissance heritage in Bar-Le-Duc: a real open air museum, elegant facades, squares, streets and High Town vivid lanes give you the feeling of going back in history.
-
-The " Place Saint-Pierre ", a harmonic blend of mansions along the streets of " Ducs de Bar " and " Bourg " streets, built with the blond blocks from Meuse, they represent the essential assets from this particularly well saved heritage.
-
-The typical facades, the " meneau " windows, the medallions, the " pilastres à chapiteau ", the wrought decorated channels, as well as the famous " Transi ", astonishing sculpture by Ligier-Richier, XVIth century artist, are all well worth a look.
+Bar-le-Duc also played a crucial role in World War I as the starting point of the [Voie Sacrée](/europe/france/east/lorraine/barleduc/voie_sacree), the supply road that kept Verdun alive during the longest battle of the war. The town is also known for its redcurrant jam (confiture de groseilles), made by hand with a goose feather to remove the seeds — a local speciality since the Middle Ages.

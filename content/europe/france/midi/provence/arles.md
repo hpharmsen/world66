@@ -1,19 +1,24 @@
 ---
-title: "Arles"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+  poi_cleanup: '2026-04-19'
+image: arles.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_arles_france_2016.jpg
 latitude: 43.677622
+loc_type: city
 longitude: 4.630965
+score: 0.7
+title: Arles
+type: location
 ---
 
-Located in the Provence, Arles is an important agricultural and industrial centre in France. It has a population of well over 56 000 that once included famous painters like Van Gogh and Gaugin. It came into prosperity during the Roman empire and has been an important town ever since.
+Arles packs a startling amount of history into a small Provencal town. The Romans built an [amphitheatre](/europe/france/midi/provence/arles/roman_arena) here that still hosts bullfights and summer concerts. Van Gogh arrived in 1888, painted over 200 canvases in fifteen months, and many of the streets and squares he captured — including the famous [Café Terrace at Night](/europe/france/midi/provence/arles/van_goghs_nightca) — can still be recognised today.
 
+The Roman arena dominates the centre, but there is more to find. The [Musée de l’Arles antique](/europe/france/midi/provence/arles/musee_de_larles_antique) holds an exceptional collection of sarcophagi, mosaics, sculptures, and a remarkably well-preserved Roman river barge pulled from the Rhône in 2011. The [Cryptoporticus](/europe/france/midi/provence/arles/cryptoporticus) beneath the Place du Forum is a vast underground Roman gallery few visitors find. The [Église Saint-Trophime](/europe/france/midi/provence/arles/eglise_saint_trophime) and its cloister represent Romanesque carving at its finest. The [Alyscamps](/europe/france/midi/provence/arles/alyscamps) — a tree-lined avenue of Roman and early Christian sarcophagi — was painted by Van Gogh and Gauguin together in 1888.
 
- 
- Arles is still full of evidence of Roman times. Most famous is perhaps the old Arena, which is still in use, now for bull fights. You can see the tall blue obelisk in the Place de la République and remnants of an ancient temple at the corner of the Hôtel Pinus. A good place to check out the Roman heritage is the Musée de l'Arles Antique, where you will find an amazing collection of Roman Christian sarcophagi, plus a rich ensemble of sculptures, mosaics, and inscriptions from the Augustinian period to the 6th century A.D. Arles also has a rich artistic history. Vincent van Gogh lived here for over a year and painted 200 of his paintings here. Some of the buildings and squares he painted can still be seen around town.
+Modern Arles has added to its cultural stock considerably. The [LUMA Tower](/europe/france/midi/provence/arles/luma_arles), a Frank Gehry building sheathed in 11,000 stainless steel panels, anchors an ambitious new arts campus south of the centre. The [Fondation Vincent van Gogh](/europe/france/midi/provence/arles/fondation_van_gogh) keeps his legacy alive with contemporary art responding to his influence. The [Rencontres d’Arles](/europe/france/midi/provence/arles/rencontres_darles) photography festival fills the city every July with some of the best photography exhibitions anywhere in the world.
 
-
- 
- For the not so culturally inclined Arles has a lot to offer as well. As Van Gogh already said, the nature around Arles is beautiful, and it’s a great area for hiking, cycling, horseback riding, rock climbing or cruising down the river Rhône. Just outside of Arles you will find the Camargue, a wide sandy plain where water and land constantly mix. The Camargue Regional National Park is a beautifull area full of flamingos, wild ducks and large herds of bulls and horses. 
-
-
- The rich history, the art, the many fine museums and the excellent restaurants, all make Arles well worth the visit.
+Beyond the old town, the Camargue stretches south: a vast wetland of flamingos, wild horses, and black bulls. It is superb for cycling, hiking, and horseback riding. The combination of Roman ruins, Van Gogh connections, excellent restaurants, the [Saturday market](/europe/france/midi/provence/arles/saturday_market), and the Camargue on the doorstep makes Arles one of the most rewarding stops in Provence.

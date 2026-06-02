@@ -1,19 +1,23 @@
 ---
-title: "Hjo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: hjo.jpg
+image_attribution: Harri Blomberg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hjo,_Hamngatan,_den_7_juni_2006.JPG
 latitude: 58.3
-longitude: 14.216667
+loc_type: city
+longitude: 14.2833
+score: 0.47
+title: Hjo
+type: location
 ---
 
-Travel Guide
+Hjo is one of Sweden's finest surviving wooden towns, a compact lakeside community on the eastern shore of Lake Vättern that has changed remarkably little since the 19th century. Where many Swedish towns were rebuilt in brick after fires or wartime clearances, Hjo escaped major destruction and kept its narrow medieval street pattern and its timber buildings intact. Walking the alleys here feels less like a preserved heritage attraction and more like a town that simply never needed to rebuild.
 
-The "wooden town", as it is sometimes called, is certainly one of the finest environments ever created in Sweden. Today only a few still exist and Hjo is one of them.
+Founded in the 14th century — appearing variously as Hyo or Hioo in historical records — Hjo's oldest surviving street maps date to 1696 and differ only slightly from today's plan. The medieval church burned in 1794 along with some surrounding buildings, but the rest survived. The town's grid of wooden houses, painted in the deep reds and yellows typical of the region, is now protected as a national cultural heritage site.
 
-Hjo, also spelled as Hyo or Hioo throughout history, was founded in the 14th century. The town's numerous historical and cultural wooden houses and narrow alleys give the town its special character today.
+The town came into its own in the late 19th century. The arrival of the railway, the development of a spa, and an active [harbour](/europe/sweden/hjo/hjo_harbour) on Lake Vättern made Hjo a fashionable summer destination for Swedes from the cities. Much of the character visitors see today dates from this era: the graceful wooden spa pavilion in the [town park](/europe/sweden/hjo/town_park_and_spa), the lake promenade, and the steamboat quay where the vintage steamer [*Trafik*](/europe/sweden/hjo/ss_trafik) — one of the oldest steamboats in the world still in regular service — docks in summer.
 
-Fortunately, Hjo was never subjected to any major fires or other destruction. However, its medieval church burnt down in 1794, together with a number of surrounding buildings. Apart from that, the town has been spared from extensive fires and most of the medieval streets and blocks are largely intact. In fact, the oldest maps from 1696 look very similar to the modern ones.
-
-Visiting Hjo, and walking in its narrow alleyways, is like taking a trip back in time, and yet, the town offers everything a European citizen expects from a modern community.
-
-Hjo expanded rather quickly during the latter half of the 19th century, which has given the town its special character.
-The harbour, railway and the spa are typical examples from that time.
+Hjo is small enough to cover on foot in a morning, but rewards a full day or an overnight stay. Wander the [old town](/europe/sweden/hjo/old_town), look in at [Hjo Church](/europe/sweden/hjo/hjo_church), and detour south to [Almnäs Castle](/europe/sweden/hjo/almnas_castle) on the shore. The lake is the other draw: [swimming](/europe/sweden/hjo/lake_vattern_swimming), kayaking, and boat trips on Vättern, the second-largest lake in Sweden, are all easy to arrange from the harbour.

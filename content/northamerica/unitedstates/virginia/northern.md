@@ -1,16 +1,25 @@
 ---
-title: "Northern"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
+image: northern.jpg
+image_attribution: Ken Lund
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:West_Face_of_Mansion,_Mount_Vernon,_Near_Alexandria,_Virginia_(2731038734).jpg
+latitude: 38.8462
+loc_type: city
+longitude: -77.3064
+score: 0.42
+title: Northern Virginia
 type: location
-latitude: 15.175365
-longitude: 145.737934
 ---
 
-Northern Virginia is a beautiful place to stay if you want to see Washington DC but don't want to pay for the DC hotels. Alexandria has nice affordable hotels within walking distance of the Metro (which for $1.85 takes you downtown DC in a few minutes). But don't limit yourself to DC just because that's all you know, Northern Virginia has a multitude of sites to see. 
+Northern Virginia — "NoVA" to locals — is the sprawl of suburbs, historic towns, and edge cities across the Potomac from Washington DC. For visitors, it offers affordable accommodation within easy Metro reach of the capital, plus attractions of its own that rival anything on the National Mall.
 
-Beginning with **Mount Vernon**. This is George Washington's home. Entrance is about $8 but you can spend the whole day seeing the grounds. The area is composed of Washington's estate, a restaurant (The Mt. Vernon Inn), a gift shop,and a post office (so take some postcards you've been meaning to mail). The entire estate has been renovated to reflect life during the 1700s and if you go in the spring (April, May, June) you'll be overwhelmed with the daffodils, tulips, and other flowers that adorn the manor. If you go in July or August, the best time is during the week in the morning because the parking lot fills up on the weekends. Another great time to go is in December when they decorate for Christmas and they conduct candlelit tours (reservations required). Well behaved dogs, on leash, are welcome on the grounds, but not in the main building. 
+[Mount Vernon](/northamerica/unitedstates/virginia/northern/mount_vernon), George Washington's estate on the Potomac, is the standout. The grounds are beautifully maintained, with the mansion, outbuildings, gardens, and riverside views easily filling half a day. In spring the grounds are ablaze with daffodils and tulips; in December, candlelit tours bring the 18th century to life. A short drive away, [George Washington's Distillery and Gristmill](/northamerica/unitedstates/virginia/northern/george_washington_distillery) shows a lesser-known side of the man — he was one of the largest whiskey producers in the young republic.
 
-Driving up the **George Washington Parkway**, you'll notice the bike trail (16 miles to Alexandria and very enjoyable) and the scenic overviews as you head north. The next place to stop is **Old Towne [Alexandria](/africa/egypt/alexandria)**. Pull in anywhere you can find a parking place and walk to King street. From the parkway down to the waterfront you'll find great restaurants and taverns (last call for alcohol is 1:30 a.m.), excellent shopping, and interesting people watching. 
+Old Town [Alexandria](/northamerica/unitedstates/virginia/alexandria) is one of the most charming walking districts in the region — King Street runs from the Metro station down to the waterfront, lined with restaurants, taverns, and independent shops. The [Stabler-Leadbeater Apothecary Museum](/northamerica/unitedstates/virginia/northern/stabler_leadbeater_apothecary) on Royal Street preserves a remarkable 1792 pharmacy almost untouched, and the [George Washington Masonic National Memorial](/northamerica/unitedstates/virginia/northern/george_washington_masonic_memorial) towers above the town in a neoclassical column modelled on the Lighthouse of Alexandria.
 
-Also try to visit **[Manassas](/northamerica/unitedstates/virginia/manassas)** with its historic Old Town area and Civil War Battlefield. You can get there by train or car. Away from the historical parts of Northern Virginia, you can also find great shopping and restaurants in **Tyson's Corner, Reston **and** [Arlington](/northamerica/unitedstates/virginia/arlington)**. 
+[Manassas National Battlefield Park](/northamerica/unitedstates/virginia/northern/manassas_battlefield) preserves the terrain of two Civil War battles, both Confederate victories on the same rolling farmland. Near Dulles Airport, the [Steven F. Udvar-Hazy Center](/northamerica/unitedstates/virginia/northern/udvar_hazy_center) is the Smithsonian Air and Space Museum's annex, housing the SR-71 Blackbird, the Enola Gay, a Concorde, and the Space Shuttle Discovery — admission free.
 
-Near Dulles Airport is the newly opened, Steven F. Udvar-Hazy Center. This is the Smithsonian Institution's National Air and Space Museum's new facility. Here they display artifacts including the Lockheed SR-71 "Blackbird", Boeing B-29 Superfortress "Enola Gay", an Air France Concorde and the Space Shuttle "Enterprise". There is an IMAX® theater as well. The museum continues to develop new exhibits to examine the impact of air and space technology on science and society. Parking is $12, however there *is* a free bus from the flagship building on the National Mall in DC. Adminssion is free.
+In Arlington, [Arlington National Cemetery](/northamerica/unitedstates/virginia/northern/arlington_national_cemetery) holds over 400,000 veterans and is deeply moving. The [Pentagon Memorial](/northamerica/unitedstates/virginia/northern/pentagon_memorial) is quiet and well-designed. For something less solemn, [Gravelly Point Park](/northamerica/unitedstates/virginia/northern/gravelly_point_park) puts you directly under Reagan Airport's final approach — aircraft at eye level, 30 metres overhead.

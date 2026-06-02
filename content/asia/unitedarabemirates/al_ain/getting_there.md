@@ -1,37 +1,8 @@
 ---
-title: "Getting There in Al Ain"
+title: "Getting There"
 type: section
 ---
 
-Al Ain, also known as the "Garden City" is the forth largest city within the
-United Arab Emirates, and is the second largest city with the Abu Dhabi Emirate.
-Al Ain is located on the central Eastern side of the UAE, and next to the
-Eastern border with Oman. Getting to Al Ain can be done fairly easy.
+Al Ain sits roughly 160 kilometres east of Abu Dhabi and 130 kilometres southeast of Dubai, with good road connections to both. The drive from either city takes about 90 minutes on fast, well-maintained highways — the E22 from Abu Dhabi and the E66 from Dubai both cut through flat desert before the landscape rises slightly as you approach the Jebel Hafeet foothills. Rental cars are the most flexible option if you plan to explore Jebel Hafeet and the outlying archaeological sites, which are difficult to reach by public transport.
 
-**By Air**
-
-Al Ain International Airport is located 8 miles north-west of the city
-center, and is relatively small with only one runway and 5 gates. There are 8
-airlines that operate service through Al Ain airport including Gulf Air,
-Pakistan International Airlines, Alia Royal Jordanian, Egypt Air, MTE Donavia,
-Qatar Airways, Krasnoyarsk Fras Air, and Uralinteravia. Most flights are
-domestic coming from either Dubai or Abu Dhabi, but there are some international
-flights coming in from other Middle Eastern, European, and Asian countries.
-
-**By Sea**
-
-Al Ain is not a coastal city, therefor there aren't any ferries servicing the
-Al Ain area. However, there is ferry service to Dubai and Abu Dhabi to/from
-neighboring Middle Eastern countries. If you are traveling from Iran for
-instance, you could book passage on a passenger ferry to Abu Dhabi or Dubai and
-continue by bus or car onto Al Ain.
-
-**By Land**
-
-Bus service within the United Arab Emirates links most towns and cities, but
-the service is very limited so it is highly advisable to book well in advance,
-and pay close attention to timetables (connection times could be lengthy). Road
-conditions in the UAE are excellent, but it is the UAE drivers you need
-to be cautious about. Many UAE natives tend to drive extremely fast on highways,
-as well as rural roads. Traffic regulations are very strict, so be very careful
-if you decide to rent a car.
+Al Ain International Airport (AAN) handles regional and some international flights but serves mainly as a secondary hub to Abu Dhabi — check whether a connection via Abu Dhabi or Dubai is more convenient for your origin. The ADNOC bus service runs scheduled coaches from Abu Dhabi Central Bus Terminal to Al Ain's main bus station on Al Ain Road, taking around two hours. From Dubai, taxis and private hire vehicles are the practical option since bus services are indirect. Once in Al Ain, the bus station near the Khalifa Street area is a reasonable base for onward travel within the city by local taxi.

@@ -1,43 +1,19 @@
 ---
-title: "Udayagiri"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
+image: udayagiri.jpg
+image_attribution: Bernard Gagnon
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Udayagiri_Caves_-_Ganesha_Gumpha_04.jpg
+latitude: 20.6
+loc_type: city
+longitude: 86.0333
+score: 0.36
+title: Udayagiri
 type: location
-latitude: 14.938301
-longitude: 79.311358
 ---
 
-The largest Buddhist complex
- in Orissa, Udaygiri has
- assumed further importance
- after recent excavations which
- revealed the ancient name of
- the monastery as
- Madhavapura Mahavihara. The
- excavations also brought to
- light a sprawling complex of
- brick monastery with a number of Buddhist sculptures. The entire
- area is found located at the foothills of a large hill that acts as an
- imposing backdrop.
- 
+Udayagiri is the largest Buddhist monastic complex in Odisha, identified through recent excavations as Madhavapura Mahavihara. The site contains a brick stupa, two monasteries (one still unexcavated), a beautiful stepped stone well with inscriptions, and rock-cut sculptures at the hilltop.
 
-The archaeological remains at Udaygiri consist of a brick stupa, two
- brick monasteries (one excavated and the other still unexcavated), a
- beautiful stepped stone well with inscriptions on it, and rock-cut
- sculptures at the top of the hill behind. Chronologically, the Udaygiri
- Buddhist complex is later than Ratnagiri and Lalitgiri, and the
- monasteries probably flourished between the 7th and the 12th
- centuries A D. 
- 
-
-The large number of exposed sculptures from the excavations, as
- well as those still in situ, belong, obviously to the Buddhist pantheon
- and consist of Bodhisattva figures and Dhyani Buddha figures.
- Interestingly, although the site is located close to Ratnagiri (about 5
- km), Udaygiri does not posses a number of Vajrayana sculptures,
- Much is still to be known about this site. In its present state,
- Udaygiri provides visitors a grand sight with its newly excavated
- sprawling monastery complex that has to be reached through a long
- stairway. The unexcavated area poses a mystery to archaeologists,
- art lovers and lay visitors alike with the prospects of the hidden
- treasures that lie buried. Adventure seekers will be thrilled by the
- ascent to the hilltop. The hilly, serpentine, all weather approach road
- on the other side of Udaygiri is another added attraction.
+The [Madhavapura Mahavihara](/asia/india/orissa/udayagiri/madhavapura_mahavihara) complex flourished between the 7th and 12th centuries and is located about 5 km from the better-known [Ratnagiri](/asia/india/orissa/udayagiri/ratnagiri_day_trip) site. The excavated monastery is reached via a long stairway and presents a grand sight. The unexcavated areas hold promise of further discoveries. For the adventurous, the climb to the hilltop rewards with fine views and additional rock sculptures. Most visitors combine all three Buddhist sites — Udayagiri, Ratnagiri, and Lalitgiri — in a single day trip from Bhubaneswar.

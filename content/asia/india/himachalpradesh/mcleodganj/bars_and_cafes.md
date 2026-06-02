@@ -1,5 +1,7 @@
 ---
-title: "Bars and Cafes in Mcleodganj"
+done:
+  poi_cleanup: '2026-04-20'
+title: Bars and Cafes
 type: section
 ---
 
@@ -57,8 +59,3 @@ Also there are several other small cafes in and around McLeodganj
 like the Peace Café, Coffee Talk and Moon-peak Espresso Cafe that serve
 good coffee. Some of them also serve Indian and Chinese dishes.
 However they are not as popular as those mentioned above.
-
-**Contributors**
-February 09, 2010
-
-February 05, 2010

@@ -1,44 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-type: "Local"
 ---
 
-Below is a listing of Radovljica restaurants.
-
-**Contributors**
-May 02, 2006
-
-### [Restaurant & Apartements Gostilna Kunstelj](/europe/slovenia/radovljica/eating_out/restaurant__apart)
-
-Restaurant & Apartements Gostilna Kunstelj
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant__apart)
-
-### [Restaurant Pizzeria Maticek](/europe/slovenia/radovljica/eating_out/restaurant_pizzeri)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant_pizzeri)
-
-### [Restaurant Grajska gostilnica](/europe/slovenia/radovljica/eating_out/restaurant_grajska)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurant_grajska)
-
-### [Restaurnt Lectar](/europe/slovenia/radovljica/eating_out/restaurnt_lectar)
-
-type: Local
-
-
-
-[[rate it]](/europe/slovenia/radovljica/eating_out/restaurnt_lectar)
+Radovljica's main square, Linhartov trg, has several good restaurants serving traditional Slovenian food. Prices are lower than in nearby Bled, and the medieval setting adds to the atmosphere. The town is also known for its Chocolate Festival in April, when confectioners from across the region set up on the square.

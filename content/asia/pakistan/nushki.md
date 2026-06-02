@@ -1,11 +1,21 @@
 ---
-title: "Nushki"
-type: location
+done:
+  location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-15'
+image: nushki.jpg
+image_attribution: Sherbaz jamaldini
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Camel_in_the_Nushki_Desert.jpg
 latitude: 29.544279
+loc_type: city
 longitude: 66.050969
+score: 0.22
+title: Nushki
+type: location
 ---
 
-It is a far away city of Pakistan on Durand line between pakistan and Afghanistan on R.C.D road (regional cooporation develpment a treaty between Pakistan ,Iran and Turkey) in south west province (Balochistan) of Pakistan. It is a city who has both mountain and deserts on opposit sides of it .Noshki name came after its nine flour Chukees on it jo (cannal) . This city's major population is Baloch .The commen language spoken here is brahvi (the old dravadians the ensisters of moenjodaro which were forced out by Arians).The majority of poppulation depends upon annimals and alive nomadic life.Camel and pickup truck is popular source of transpotation but buses and wagons are also available as a mode of journey.
+Nushki is a small town in Balochistan, in the far southwest of Pakistan, sitting close to the Afghan border along what was once called the RCD Road — a regional cooperation route linking Pakistan, Iran, and Turkey. The landscape is arid and striking: mountains on one side, desert on the other. It is remote by any measure.
 
-**Contributors**
-February 13, 2005
+The town's population is predominantly Baloch, with the Brahui language widely spoken. Brahui is a Dravidian language — a linguistic island in the midst of Iranian languages — whose speakers trace their ancestry to the pre-Aryan inhabitants of the Indus valley. Most people here still live in close connection with pastoral traditions, herding animals and, in some cases, maintaining nomadic patterns of movement.
+
+The name Nushki is said to derive from the nine flour mills (*nau chukki*) that once operated along the local canal. Camels and pickup trucks are the characteristic local transport, alongside buses and shared wagons running to larger towns. The main attractions are the working frontier-rail [Nushki Railway Station](/asia/pakistan/nushki/nushki_railway_station), the [bazaar](/asia/pakistan/nushki/nushki_bazaar) along the highway, and the immense salt-flat landscape of the [Lora basin](/asia/pakistan/nushki/lora_basin) west of town.

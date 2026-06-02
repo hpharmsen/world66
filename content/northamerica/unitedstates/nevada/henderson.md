@@ -1,8 +1,17 @@
 ---
-title: "Henderson"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-07'
+latitude: 36.0397
+longitude: -114.9819
+score: 0.36
+title: Henderson
 type: location
-latitude: 32.182598
-longitude: -95.789318
+loc_type: city
 ---
 
-Also known as Hendo, Henderhell and Benderson, Henderson is home to the majority of the white trash inhabitants of Las Vegas. Located just a few miles from the strip, you can witness police brutality, drug raids, drug deals and domestic violence. The Henderson Police Department have nothing better to do than harass citizens by using not one, not two, but THREE squad cars to pull over a man riding a bike.
+Henderson is Nevada's second-largest city, sitting just southeast of Las Vegas with a very different personality. While the Strip glitters a few miles away, Henderson is quieter and more suburban — a city of parks, trails, and neighborhoods where people actually live.
+
+The city traces its origins to World War II, when the federal government built a magnesium processing plant here to supply the war effort. After the war, the plant closed and Henderson incorporated as a city in 1953. That industrial past is long gone; today it's one of the fastest-growing cities in the country.
+
+Henderson's own attractions are modest but genuine: a superb bird viewing preserve set in reclaimed wetlands and a solid local history museum. But the real appeal is its position as a launch pad. [Valley of Fire State Park](/northamerica/unitedstates/nevada/redrockcanyon), Hoover Dam, and [Lake Mead](https://en.wikipedia.org/wiki/Lake_Mead) are all within an hour's drive, making Henderson a quieter and often cheaper base than Las Vegas for exploring the Mojave.

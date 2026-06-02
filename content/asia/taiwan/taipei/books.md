@@ -1,30 +1,12 @@
 ---
-title: "Books in Taipei"
+title: Books
 type: section
-author: "Scott B. Freiberger"
-isbn: "1435703324"
 ---
 
-These are some books that may help get you around Taipei.
+Taiwanese fiction is short on great novels about Taipei specifically, but the city's recent past and present have been well served by a generation of writers worth seeking out before you go.
 
-### [Taipei In A Day](/asia/taiwan/taipei/books/taipei_in_a_day)
-
-Taipei in a
-Day is a very informative, modern travel guide for not just Taipei, but
-also the entire island of Taiwan. It is a 240 page paperback, published
-in May of 2008, and weighs 12.8 ounces. At 8.9 x 5.9 x 0.7 inches, the
-guide is small enough to carry with you everywhere while visiting
-Taipei, but also comprehensive enough to be of real value.
-
-In addition
-to the standard dining and hotel guidance, the book contains relevant
-vocabulary and phrases that travelers to Taiwan should know. In fact,
-it contains an entire section on local culture and customs, [more..](/asia/taiwan/taipei/books/taipei_in_a_day)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1435703324/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: Scott B. Freiberger
-
-isbn: 1435703324
+- **Wu Ming-yi, *The Stolen Bicycle* (2015).** A meditative novel that follows a writer searching for his father's lost bicycle, weaving through a Taipei of street markets, repair shops and old neighbourhoods. It is one of the best portraits of the city in any language.
+- **Pai Hsien-yung, *Taipei People* (1971).** A short-story cycle following Kuomintang-era mainlanders rebuilding their lives in 1960s Taipei. Spare, melancholy, and crucial for understanding the city's complex identity.
+- **Chu T'ien-wen, *Notes of a Desolate Man* (1994).** A philosophical, fragmentary novel by one of Taiwan's most important contemporary writers — its narrator drifts through Taipei's gay subculture, family obligations, and a country still finding itself after martial law.
+- **Jonathan Manthorpe, *Forbidden Nation: A History of Taiwan* (2005).** Not fiction, but the clearest single-volume English-language account of how Taiwan got to where it is. Heavy reading but invaluable.
+- **Hou Hsiao-hsien (film, not book), *A City of Sadness* (1989).** Not a book, but anyone who reads novels of place ought to see this film. Set in a family running a restaurant in **Jiufen** through the 1945-49 transition from Japanese rule to Nationalist control, it is the foundational work of contemporary Taiwanese cinema.

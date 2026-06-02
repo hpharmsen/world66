@@ -1,8 +1,19 @@
 ---
-title: "Itajaí"
-type: location
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-15'
+image: itaja.jpg
+image_attribution: Pikolas14
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Centro_de_itaja%C3%AD.jpg
 latitude: -26.904679
+loc_type: city
 longitude: -48.655298
+score: 0.41
+title: Itajaí
+type: location
 ---
 
-Characteristics Headquarters of the biggest port fishing boat of the Country, of the second bigger university of the State and the only one píer exclusively tourist of Brazil, Itajaí has beautiful beaches, much nature and is one of the 120 bigger cities of Santa Catarina - without losing the calm enchantment of lugarejo of the Interior. Date of foundation - 16 of June of 1860. Festive date - 08 of December (Immaculate Conceição). Main economic activities - the economy is supported by the tripod port, wholesale trading of fuel and fishes, but the sector of industrial production also exerts important paper in the collection of the city, as well as the commercialization of foodstuffs. Population - 147,000 inhabitants. Settling - German and açoriana. Main etnias - German and açoriana. Localization - Valley of the Itajaí, 91km of Florianópolis. Area - 304 Km2. Climate - Tempered, with average temperature between 18ºC and 30ºC. Altitude - 01m above of the level of the sea. Next Cities - Balneal Camboriú, Navigators, Beautiful Port, Itapema, Old Bar.
+Itajaí sits at the mouth of the Itajaí-Açu river in Santa Catarina state, about 90km north of [Florianópolis](/southamerica/brazil/florianopolis). It is one of Brazil's most important fishing ports — the fleet that docks at the [port](/southamerica/brazil/itaja/port_of_itaja) is among the largest in the country — and the city's economy turns on fish, fuel wholesale trade, and a busy container port. With around 230,000 inhabitants, it punches above its weight as a regional centre, home to the UNIVALI university.
+
+For travellers, Itajaí is mostly a transit point or a base for the more glamorous Balneário Camboriú nearby. That said, it has pleasant beaches — [Cabeçudas](/southamerica/brazil/itaja/cabecudas_beach) is the local favourite — a laid-back local atmosphere, and a genuine Brazilian city feeling that the overdeveloped coastal resorts tend to lack. The German and Azorean settler heritage is visible in the architecture and in the food, and is celebrated at the [Marejada festival](/southamerica/brazil/itaja/marejada_park) every October. Seafood here, eaten at simple waterfront restaurants, is outstanding and inexpensive.

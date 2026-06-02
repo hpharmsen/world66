@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Sefrou is most easily reached from Fes. Fes is the big travel hub in the region, so even when you are going somewhere else, consider doing in via Fes.
+Sefrou is 28–30 km southeast of Fes on the road toward Ifrane and the Middle Atlas. Grand taxis run regularly from the Fes taxi ranks — the journey takes around 40 minutes and is cheap. Local buses also cover the route.
 
-We currently have no Getting There listed in Sefrou.
-
-If you do know any Getting There in Sefrou, please [Add].
+If you are coming from Ifrane or Azrou, Sefrou is on the way north toward Fes and easily incorporated into a mountain loop. The road between Sefrou and the cedar forests of Ifrane is one of the nicer drives in this part of Morocco.

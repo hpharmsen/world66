@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-Casa del Desierto (Harvey House)
-
-685 N. 1st St. 92311 760/256-3531 
-
-Mojave River Valley Museum
-
-270 E. Virginia Way 92311 760/256-5452
+Barstow's main draws are outside the city limits — the painted rock formations of Rainbow Basin, the fossil beds, and the vast expanse of Mojave National Preserve to the east. In town, the Casa del Desierto railroad depot is the architectural highlight, and the Mojave River Valley Museum gives solid context for the region's natural and human history.

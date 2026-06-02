@@ -1,8 +1,18 @@
 ---
-title: "Banos"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
 latitude: -1.331916
+loc_type: city
 longitude: -78.262529
+score: 0.67
+title: Baños
+type: location
 ---
 
-Banos is one of the most popular destinations for every independent traveler in Ecuador. A lot of guesthouses and specialised restaurants serve only for the needs of this group of tourists. It is known for its rather mild climate and as the gateway between the Andes Mountains and the Oriente region of Amazonian jungle. The town is built dramatically on a shelf under the steep slopes of the Tungurahua Volcano and has been regularly threatened by volcanic activity. Many Ecuadorians come here for the weekend to enjoy the many popular hot springs and thermal baths. The area is also excellent for walking trails that frequently lead to high waterfalls set amid the spectacular mountain scenery. The town itself is famed for the Church of the Virgin of the Holy Water. The Virgin is credited with many miracles and the church has become a place of pilgrimage for those seeking her blessing.
+Baños de Agua Santa is one of Ecuador's most popular destinations for independent travellers, a small town built dramatically on a shelf beneath the active [Tungurahua volcano](/southamerica/ecuador/banos/tungurahua_views). The name means "baths of holy water" — hot springs fed by volcanic activity have drawn visitors for centuries, and the town's [basilica](/southamerica/ecuador/banos/basilica) is dedicated to the Virgen del Agua Santa, credited with protecting the town from eruptions and other calamities.
+
+The setting is spectacular: steep green mountains on all sides, waterfalls cascading down the valleys, and the gateway to the Oriente — Ecuador's Amazon region — just down the road. The [Ruta de las Cascadas](/southamerica/ecuador/banos/ruta_de_las_cascadas) — a 17-kilometre downhill bicycle ride through a gorge lined with waterfalls, ending at the spectacular Pailón del Diablo — is one of the best half-day trips in Ecuador. Up on the hillside above town, the [Casa del Árbol swing](/southamerica/ecuador/banos/casa_del_arbol) dangles over a view of the volcano crater and has become Ecuador's most viral photograph. The [thermal baths](/southamerica/ecuador/banos/thermal_baths) are worth an evening, and watching the [melcocha candy](/southamerica/ecuador/banos/melcocha) being pulled on iron hooks along Calle Ambato is a Baños ritual.
+
+The town itself is geared towards backpackers and adventure travellers, with guesthouses, tour operators and restaurants lining the main streets. It has a lively, slightly chaotic energy that makes it easy to stay longer than planned.

@@ -1,34 +1,22 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-**all**
+Montreal is one of the best cities in North America for shopping. The combination of French design sensibility, a strong local creative scene, and prices lower than Toronto or New York makes it a serious destination for fashion, food, and design.
 
-**Montreal Museum of Fine Arts.com**
+## Fashion and Design
 
-For information about current exhibits, opening hours, and a live view of the Museum, visit the Museum of Fine Arts.
+**Rue Sainte-Catherine** is the main commercial street, running east-west through downtown with all the major chains and department stores (Simons, Hudson's Bay, Winners, Zara). More interesting are the independent boutiques in the Plateau-Mont-Royal: **avenue du Mont-Royal** between Saint-Denis and Papineau has a concentration of consignment and vintage shops, local designers, and quirky small stores that make it one of the best shopping streets in the city.
 
-**Canadian Centre for Architecture . **
+The **Village des Valeurs** chain (thrift stores) has several Montreal locations and is taken seriously by locals as a source of vintage finds at very low prices.
 
-Oct to May open Wed & Fri 11am to 6pm; Thurs till 8 pm; Sat & Sun till 5 pm. Closed Monday and Tuesday. Admission: Adults $6, Seniors $4 and Students $3.  Address: 1920 rue Baile Montréal QC  
+## Food
 
-**Place des Arts . **
+**Marché Jean-Talon** (7070 avenue Henri-Julien) in Little Italy is the great food market — produce, cheese, charcuterie, artisan bread, and Quebec specialties. **Marché Atwater** (138 avenue Atwater) near the Lachine Canal is smaller but equally high quality, with a particularly strong cheese selection.
 
-Tel: tickets: 514 842-2112  Address: 175 St. Catherine Street West Montréal QC  
+For Québécois food products to take home: maple syrup, local craft cider, ice cider (cidre de glace), and the strong aged Québécois cheeses (Oka, Alfred le Fermier, Louis d'Or) are the best choices. Most are available at the markets and at the specialty grocery **Épicerie J.A. Moisan** (699 rue Saint-Jean in Quebec City; the Montreal markets carry similar products).
 
-**Zeke's Gallery**
+## Books and Music
 
-First Solo Shows for Visual Artists. Music, Poetry and beer for everybody else.
-
-Fax: n/a
-
-PC: ?
-
-Url: [zekesgallery.blogspot.com](http://zekesgallery.blogspot.com)
-
-Tel: (514) 288-2233
-
-email: info@zeke.com
-
-Address: 3955 Saint Laurent
+**Librairie Drawn & Quarterly** (211 avenue Bernard Ouest, Mile End) is the bookshop of the celebrated Montreal comics publisher and one of the finest independent bookshops in Canada, with a strong fiction and graphic novel selection. **The Word** (469 rue Milton, McGill ghetto) is a tiny used bookshop that has been serving students and academics since 1975 and feels exactly as a used bookshop should.

@@ -1,39 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-type: "Vegetarian"
 ---
 
-### [Café Flor de Vida](/northamerica/costarica/monteverde/eating_out/caf_flor_de_vida)
+Santa Elena has a decent range of restaurants for a small town, from simple sodas serving casados to more upmarket places catering to the tourist crowd. Vegetarian options are easier to find here than in most of Costa Rica — long-running spots like [Cafe Flor de Vida](/northamerica/costarica/monteverde/caf_flor_de_vida) made the area a vegetarian-friendly stop early on.
 
-Opposite the Hotel El Establo, this is the best place for vegetarians and even some vegan options.
-
-type: Vegetarian
-
-
-
-[[rate it]](/northamerica/costarica/monteverde/eating_out/caf_flor_de_vida)
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=northamerica|costarica)
-
-[](/lib/map/handle?loc=northamerica|costarica|monteverde)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+[Sabor Tico](/northamerica/costarica/monteverde/sabor_tico) is the reliable, cheap soda for full Costa Rican plates; [Morpho's](/northamerica/costarica/monteverde/tree_top_lodge_morpho_restaurant) is a slightly more polished mid-range option. Tramonti, on the road down towards Cerro Plano, serves the best wood-fired pizza in town. Most kitchens close by 9 pm, so eat earlier than you might expect.

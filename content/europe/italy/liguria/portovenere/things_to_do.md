@@ -1,21 +1,10 @@
 ---
-title: "Things to do in Portovenere"
+title: "Things to Do"
 type: section
-type: "Sailing"
-url: "www.arbaspaa.com"
 ---
 
-Rent a boat, go for a walk, have a swim, go shopping or take a ferryboat ride to the port of your choice.
+The main walk in Portovenere runs the full length of the promontory, from the medieval gate at the northern end to the [Church of San Pietro](/europe/italy/liguria/portovenere/church_of_san_pietro) at the southern tip. Along the way, the [Case Veneziane](/europe/italy/liguria/portovenere/case_veneziane) — the tall striped tower-houses lining the harbour — give the village its most distinctive face. The [Church of San Lorenzo](/europe/italy/liguria/portovenere/church_of_san_lorenzo) stands near the gate; [Doria Castle](/europe/italy/liguria/portovenere/doria_castle) crowns the highest point of the promontory, with the widest views in the village.
 
-**Contributors**
-February 09, 2006
+Below San Pietro, the [Grotta di Byron](/europe/italy/liguria/portovenere/grotta_di_byron) opens at sea level — a cave associated with Lord Byron, who swam from here across the gulf to visit Shelley. The sea here is clear and swimmable off the rocks.
 
-### [Boat Rental](/europe/italy/liguria/portovenere/things_to_do/boat_rental)
-
-Rental of every kind of boat such as a traditional Ligurian Motorboat, a catamaran, a sailing yacht or an ancient sailing boat - with or without a skipper.
-
-type: Sailing
-
-
-
-url: www.arbaspaa.com
+[Boat trips](/europe/italy/liguria/portovenere/boat_trips) to Palmaria island and the Cinque Terre villages run from the harbour throughout summer. Palmaria, five minutes by ferry, has quieter beaches and walking paths through maquis. The ferry north to the Cinque Terre villages is one of the best ways to see them.

@@ -1,14 +1,21 @@
 ---
-title: "Ponca"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
+image: ponca.jpg
+image_attribution: string_bass_dave on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/16069488@N00/52313201209
 latitude: 42.562528
+loc_type: city
 longitude: -96.705563
+score: 0.26
+title: Ponca
+type: location
 ---
 
-Ponca State Park is an ideal place for discovering the Missouri river. Flowing more than 2,300 miles from the Rocky Mountains to the Mississippi, the Missouri River is loaded not only with sediment, but is also steeped in stories about American indians, Lewis and Clark, fur traders, and steamboat captains.
+Ponca is a small town in northeastern Nebraska, best known for [Ponca State Park](/northamerica/unitedstates/nebraska/ponca/ponca_state_park) on the bluffs above the Missouri River. The park offers hiking trails through hardwood forest, horseback riding, and excellent views of the Missouri valley — one of the few stretches where the river still flows freely and exhibits its dynamic character of islands, sandbars, and shifting channels.
 
+The [Missouri National Recreational River](/northamerica/unitedstates/nebraska/ponca/missouri_recreational_river), a unit of the National Park System, protects two free-flowing reaches along the Nebraska-South Dakota border. The segment from Gavins Point Dam near Yankton, South Dakota, downstream to Ponca State Park is popular for boating, fishing, canoeing, and birdwatching. The river here provides habitat for several endangered species, including the pallid sturgeon and the piping plover.
 
- The river's role in the settlement of the Great Plains is celebrated in two free-flowing reaches along the Nebraska-South Dakota border--the Missouri National Recreational River. The reach between Gavins Point Dam near Yankton, South Dakota, to Ponca State Park, NE, still exhibits the river's dynamic character in its islands, bars, and chutes.
-
-
- The reach from Ft. Randall Dam by Pickstown, SD, to the vicinity of [Delaware Water Gap](/northamerica/unitedstates/newjersey/delawarewatergap), SD, represents the natural landscape of the pre-settlement river. These segments also provide habitat for several endangered and threatened bird and fish species. Besides protecting natural and historic features, this National Park System unit offers such activities as boating, fishing, canoeing, camping, birdwatching, and touring of historic sites, thus providing opportunities to pursue outdoor activities within one of America's great historic settings. It is managed by a partnership of local, state, tribal, and federal agencies and private landowners.
+In town itself, the 1880s [Cook Blacksmith Shop](/northamerica/unitedstates/nebraska/ponca/cook_blacksmith_shop) — preserved with its tools and ledgers as the owner left them in 1968 — and the [Dixon County Courthouse](/northamerica/unitedstates/nebraska/ponca/dixon_county_courthouse) account for what built history there is.

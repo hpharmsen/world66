@@ -3,13 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Nijmegen is about 125 km (which is about 80 miles) to the south east of Amsterdam.
-Trains run directly from Amsterdam Central Station to Nijmegen every 30
-minutes. The trip takes about one and a half hours. Most accomodation
-here is found at the Waalkade, which is, especially in summer, the most
-atmospheric area of the city.
+Nijmegen is well connected by train. Direct intercity services run from Amsterdam Centraal in about 1 hour 10 minutes, from Utrecht in around 50 minutes, and from Arnhem in 15 minutes (with very frequent connections). The railway station is a 10-minute walk from the city centre; buses and taxis are available for the climb up to the Grote Markt.
 
-The city center is just a 5 to 10 minute walk from the train station (just walk out the station and keep on walking straigt on). You can also go there by bus (2 or 3 stops, costs about 1.3 euro). The bus station, from which not only city buses but also regional buses depart, is located right outside the station.
-
-**Contributors**
-May 03, 2006
+By car, Nijmegen sits on the A73 and A15 motorways at the junction of the Rhine and Maas delta. From Amsterdam allow about 1 hour 15 minutes; from Brussels around 2 hours. Parking in the centre is limited and expensive; the park-and-ride options on the outskirts and the train from Arnhem are both easier. Schiphol Airport (Amsterdam) is the nearest major international hub, about 90 minutes by train with one change.

@@ -1,18 +1,8 @@
 ---
-title: "When to Go in Cabo san lucas"
+title: "When to Go"
 type: section
 ---
 
-Cabo San Lucas is one of the top three fastest growing tourist destinations in Mexico. Given the popularity of **Cabo San Lucas**, **when to go** becomes one important decision to make when planning your trip.
+Cabo San Lucas has over 350 days of sunshine a year and the weather is genuinely excellent for most of it. The peak season runs December to April: temperatures are comfortable (22–28°C), the wind is manageable, and whale season is in full swing. This is also the busiest and most expensive period.
 
-**The Summer Season**
-
-During the months of May through July, the maximum temperatures reach the upper 30's degrees C (upper 90's degrees F). This is the most popular time for Mexican visitors to visit Cabo San Lucas, because most people take a summer break and students have the summer break as well. The months of August and September are even hotter, but the local tourism decreases because the amount of rainfall increases on these months. Fishing, scuba diving, snorkeling and other water-related activities are popular during the summer season.
-
-**The Winter Season**
-
-During the months of November through February, Cabo San Lucas receives most of its tourism from foreign visitors (mostly Europe and North America) that seek to escape their cold winter weathers. Local tourism is not as predominant during the winter season because it is a bit too cold for the taste of locals from Central and Southern Mexico.
-
-**Religious Festivals**
-
-If you prefer to balance your partying in Cabo San Lucas with a bit of cultural sightseeing, there are several religious festivals happening at Cabo San Lucas throughout the year. On January 17, there is the Feast Day of San Antonio de Abad, patron of all animals in Mexico. During this day animals are allowed to enter the church for a blessing. Throughout February 4th to 11th, there's the Art Festival of "Todos Santos," when local crafstmen and artists showcase their artwork.
+Summer (June to September) is hot — regularly above 35°C — and humid, with the occasional tropical storm. Hurricane season officially runs June to November, though direct hits on Cabo are uncommon. The sea is at its warmest in summer, which suits divers. October and November are underrated: the summer heat has broken, the tourist crowds are smaller, and the famous Bisbee's Black & Blue fishing tournament brings a different and more local kind of excitement to the marina in October.

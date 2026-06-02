@@ -1,12 +1,23 @@
 ---
-title: "Perpignan"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
+image: perpignan.jpg
+image_attribution: Przemek P
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Castillet_in_Perpignan.jpg
+latitude: 42.6887
+loc_type: city
+longitude: 2.8948
+score: 0.58
+title: Perpignan
 type: location
-latitude: 42.69853
-longitude: 2.895312
 ---
 
-**Perpignan** is the meeting point of all the routes which lead to the seaside, the mountains, and also all the other cultural environments such as churches, abbeys, Citadels, treasures of art etc. These are representations of ten centuries of history which makes this city a proof of the richness and the creativity of the Mediterranean civilization.
+Perpignan sits in Roussillon, in the far southern corner of France, fifteen minutes from the Mediterranean and half an hour from the Spanish border. It is the last French city before Catalonia — or, depending on how the locals are feeling that day, the first Catalan city. The red-and-yellow Catalan flag flies from half the balconies, Catalan is muttered in the boulangeries, and a glass of vin de table in a café is as likely to arrive with a plate of tapas as with a bowl of olives. Salvador Dalí famously declared Perpignan railway station "the centre of the world." He was being surrealistic, but not entirely.
 
+The old centre is compact, pedestrianised, and prettier than it gets credit for: elegant arcades, palm-lined squares, and the pink-marble paving of the Place de la Loge. The city's two standout monuments are the 14th-century red-brick Castillet, now housing a small museum of Catalan folk culture, and the Palace of the Kings of Majorca — a handsome 13th-century fortress-palace that was once the court of the kings of Aragon, now sitting inside a Vauban-era bastion with an eerily empty moat and fine views over the rooftops. Between the two, the streets around rue de l'Ange and Place Arago are the heart of the café scene.
 
- Magnificent monuments, such as the "Palais des Rois de Majorque", the Castillet, the "Loge de Mer" or the Campo Santo remind us that Perpignan has been covetted by Spain and France. Catalane in the heart, Perpignan expressses its difference in every way. Immortalized by Dali to make its train station the center of the world, Perpignan will seduce you by its exteme diversity. 
- There are a lot of nice beaches in the near distance
+Perpignan is a short hop from some of the best parts of the French Mediterranean. The Côte Vermeille — the "Vermilion Coast" — runs south to the Spanish border past Collioure, the old fishing village that Matisse, Picasso, Derain, and Dufy painted into the birthplace of Fauvism. ("In the whole of France there is no sky as blue as the one above Collioure," Matisse wrote, and he was right.) Canet-Plage, with its long sandy beach, is ten minutes out of town on bus number 1. Inland, the foothills of the Pyrenees rise within half an hour, with the Cathar castles, walking trails, and the vineyards of the Banyuls, Maury, and Collioure appellations all waiting.
+
+Come for a long weekend. Eat well and cheaply (Catalan cuisine meets French training), drink the local rosé, and find out why the quieter corners of France are often the ones that stay with you.

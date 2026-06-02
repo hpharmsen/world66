@@ -1,27 +1,19 @@
 ---
-title: "Bellaria"
+done:
+  location_cleanup: '2026-04-09'
+image: bellaria.jpg
+image_license: Attribution
+image_source: https://commons.wikimedia.org/wiki/File:Bellaria_chiesa.JPG
+latitude: 44.145
+loc_type: city
+longitude: 12.468
+score: 0.52
+title: Bellaria
 type: location
-latitude: 44.423359
-longitude: 10.397227
 ---
 
-Named after the Greek Goddess of Health, Bellaria-lgea Marina, an ancient village formerly of fisherman, is now a charming resort, where the sea, entertainment ancl sports activities play a leading role.
+Bellaria-Igea Marina is a seaside resort on the Adriatic coast between Rimini and Cesenatico. It began as a fishing village and still has some of that character, though today it is firmly a beach holiday town -- long stretches of sand, family-friendly facilities, and a summer calendar packed with events.
 
+The Saracen Tower, a sixteenth-century watchtower on the seafront, now houses an eccentric Museum of Shells and Banknotes. The Malatesta castle is a reminder of the feudal families that once controlled this stretch of coast. Nearby San Mauro Pascoli, the birthplace of the poet Giovanni Pascoli, is worth a visit for anyone with an interest in Italian literature.
 
- The fortified castle built by the Malatesta family and the Saracen Tower, housing the Museum of Shells and Banknotes, are reminders of is historic past.
-
-
- 
- The nearby San Mauro the birthplace of the poet G. Pascoli, is a must for lovers of literature and culture.
-
-
- 
- The Isle of Sycamores a luxuriant green oasis, is the ideal spot for long walks and shopping by day and night.
-
-
- 
- Its modern premises, top quality facilities and impeccable service make, Bellaria-lgea Marina the perfect venue for congresses, conferences and conventions.
-
-
- 
- The summer cultural programme includes Anteprima the independent Italian cinema exhibition well worth a visit.
+In summer, the independent Italian cinema festival **Anteprima** draws film enthusiasts. The town is less hectic than Rimini but close enough to visit for a night out. The beach promenade is pleasant for an evening walk, and the seafood restaurants along the waterfront serve the catch of the day.

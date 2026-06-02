@@ -1,14 +1,19 @@
 ---
-title: "St Johns"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
+latitude: 47.5615
+loc_type: city
+longitude: -52.7126
+score: 0.51
+title: St. John's
 type: location
-latitude: 43.075477
-longitude: -80.080006
 ---
 
-St. John's is the capital city of Newfoundland, and as such, the most eastern point in North America. The first thing to say is that you'd better not choose this place in winter if you hate wind, snow, rain and black ice. In fact, if St. John's can be pretty warm in summer it is often quite hard to live there during winter if you are not Canadian. 
+St. John's is the capital of [Newfoundland](/northamerica/canada/newfoundland) and the most easterly city in North America. It clings to the hills around a narrow harbour, with rows of brightly painted clapboard houses stacked above the waterfront — a look that has become one of Canada's most photographed streetscapes.
 
-In spite of the climate, this town is a nice place to discover. People are extremely friendly and they'll gladly offer you to have dinner at their place if they feel that they can talk to you. 
+The climate is harsh: wind, fog, rain and black ice make winter a serious proposition, and even summer days can be damp and cool. But the people are famously warm and welcoming — Newfoundlanders have a deserved reputation for friendliness that goes well beyond Canadian politeness. Strangers are drawn into conversations and occasionally invited to dinner.
 
-You'll find quite a lot of B&B which are, most of the time, very nice and comfortable and the Hotel Newfoundland (Fairmont) will accommodate business men with a beautiful view of the harbour. 
+[Water Street](/northamerica/canada/newfoundland/stjohns/water_street), one of the oldest commercial streets in North America, runs along the waterfront and leads into [George Street](/northamerica/canada/newfoundland/stjohns/george_street), the most bar-dense street in North America by some reckonings. [The Battery](/northamerica/canada/newfoundland/stjohns/the_battery), a cluster of tiny houses wedged between the cliffs at the harbour entrance, is one of the most striking neighbourhoods in the country. [Signal Hill](/northamerica/canada/newfoundland/stjohns/signal_hill) above the Narrows is where Marconi received the first transatlantic wireless signal in 1901, and the view from the top — harbour below, open Atlantic ahead — is unforgettable. [The Rooms](/northamerica/canada/newfoundland/stjohns/the_rooms), the provincial museum and art gallery, occupies a dramatic building on a hilltop above the downtown and is worth at least half a day. [Quidi Vidi Lake and Village](/northamerica/canada/newfoundland/stjohns/quidi_vidi_lake), a short walk from the centre, is one of the oldest European settlements in North America and home to the Royal St. John's Regatta. And [Cape Spear](/northamerica/canada/newfoundland/stjohns/capespear), 20 kilometres south, is the easternmost point of land in North America.
 
-Have a walk along the streets, you'll discover very nice shops and restaurants. Water Street for example, is very lively at night with many pubs and bars. Don't forget to visit Battery, a very peculiar part of the city near the harbour and enjoy your stay in a small but charming town.
+The city has a strong arts scene, excellent fish-and-chips, and more bed-and-breakfasts than you can count.

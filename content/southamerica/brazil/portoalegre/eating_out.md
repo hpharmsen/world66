@@ -1,18 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-address: "Rua Ramiro Barcelos, 389 - Esquina Sao Carlos"
-type: "Local"
-url: "www.churrascarianabrasa.com.br"
 ---
 
-Here are a few places to eat in Porto Alegre.
+Porto Alegre is arguably the best city in Brazil for meat. The **churrasco gaúcho** — the original all-you-can-eat grilled meat tradition, not the watered-down version that spread north — is practised here with genuine seriousness. A traditional **churrascaria** brings cuts of beef, lamb, chicken, and pork on long skewers directly to your table, carved at the tableside; the signal is a little card, green side up for keep going, red for stop. **Barranco**, **Galpão Crioulo**, and **Gambrinus** are all well-regarded; the last, inside the Mercado Público, has been feeding portoalegrenses since 1889. Portions are enormous and the price is fixed per head.
 
-**Contributors**
-July 31, 2006
-
-### Na Brasa
-
-A great Churrascaria (Brazilian BBQ).
-
-type: Local
+Beyond churrasco, the German and Italian immigrant heritage shapes the whole food culture. You will find excellent pasta, polenta, and cured meats in the **Colônia Italiana** tradition in the hills around the city, and schnitzel and dark beer in the more Germanic corners of the state. The **Mercado Público Central** is the best single place to eat well at all budgets, with stalls selling pastéis, grilled meats, fresh seafood, and the best churrasco sandwiches in the city. **Chimarrão** — the bitter maté infused in a gourd and sipped through a metal straw — is not exactly food, but it is the social lubricant of the whole region; you will be offered it constantly, and accepting is polite. The neighbourhood of **Moinhos de Vento** has the city's best concentration of contemporary restaurants, many with creative takes on gaúcho ingredients. **Bom Fim** is the place for cheaper, student-friendly eating, with good pizza and falafel reflecting the neighbourhood's Jewish heritage. Do not leave without trying **arroz de carreteiro** — a one-pot rice dish made with dried beef and sausage that is the gaúcho cowboy staple.

@@ -3,27 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**Distance from Major Cities**
-Jaipur-425 kms. Udaipur-100 kms. Delhi-737 kms. Ahmedabad-160 kms. Mumbai-711 kms.
-Reaching Dungarpur
+Dungarpur has no airport or railway station of its own. The nearest airport is at [Udaipur](/asia/india/rajasthan/udaipur), about 110 km north, with daily flights from Delhi, Mumbai, and Jaipur. The nearest major railhead is at Ratlam in Madhya Pradesh, roughly 80 km to the southeast.
 
-**By Air **
-
-Nearest airport is Udaipur (110 km).****
-
-**By Bus**
-
-Dungarpur is approchable by road from Udaipur (110 km).
-****
-
-**By Train**
-
-Rail Nearest railway station is in Ratlam (Madhya Pradesh) (80 kms)
-connected with all the major cities of the country.
-****
-Getting around
-
-Cycle - rickshaw and tongas are available.
-
-**Contributors**
-December 05, 2006
+Most visitors come by road from Udaipur. State buses run regularly and take about two and a half hours on the NH-8. Private taxis can be hired in Udaipur for a more comfortable ride. Once in town, cycle rickshaws and auto-rickshaws cover the short distances easily.

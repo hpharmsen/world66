@@ -1,15 +1,15 @@
 ---
-title: "Cleveland"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+latitude: 35.1595
+loc_type: city
+longitude: -84.8766
+score: 0.33
+title: Cleveland
 type: location
-latitude: 41.499657
-longitude: -81.693677
 ---
 
-Cleveland, is a small city in southeastern Tennessee, about 25 miles north of Chattanooga and 80 miles south of Knoxville. It is the county seat of Bradley County, with a population of approximately 90,000. There is a diversified economy here, with agriculture still playing an important role in the county and a broad local industrial base. More kitchen ranges are manufactured in Cleveland than anywhere else in America with Brown, Hardwick, and Maytag all having large factories. Other industries include the manufacture of Duracell Batteries, M&M Chocolates, Bowaters Paper MIll, golf balls, furniture, clothing, publishing and more.
+Cleveland is a small city in southeastern Tennessee, about 40 km north of [Chattanooga](/northamerica/unitedstates/tennessee/chattanooga) and 130 km south of [Knoxville](/northamerica/unitedstates/tennessee/knoxville). It is the county seat of Bradley County and home to [Lee University](/northamerica/unitedstates/tennessee/cleveland/lee_university) and Cleveland State Community College. Downtown has a compact, well-preserved [historic core](/northamerica/unitedstates/tennessee/cleveland/historic_district) around the courthouse and Ocoee Street, with the elegant 1878 [Craigmiles Hall](/northamerica/unitedstates/tennessee/cleveland/craigmiles_hall) as its centrepiece.
 
-Cleveland is also a college town, being home to Lee University, Cleveland State Community College, and the Church of God Theological Seminary. Many people know Cleveland best as the home of the oldest continuing local Pentecostal church in America, the North Cleveland Chruch of God, and Headquarters of four different Evangelical denominations, all branches of the Church of God.
-
-Many visitors are drawn to Cleveland because of is its proximity to the Cherokee National Forest, which is also headquartered here. Just a short distance away are lush green mountains where the trout streams and whitewater rivers run cold and clear and wildlife, including Black Bear and Wild Boar, still live free.
-
-**Contributors**
-August 07, 2005
+The main reason to stop in Cleveland is its proximity to the [Cherokee National Forest](/northamerica/unitedstates/tennessee/cleveland/cherokee_national_forest), headquartered here. The surrounding mountains offer trout streams, whitewater rivers, and good hiking, with black bear and wild boar in the backcountry. The [Ocoee River](/northamerica/unitedstates/tennessee/cleveland/ocoee_whitewater_center), site of the 1996 Olympic whitewater events, is a short drive east, and the quieter [Hiwassee](/northamerica/unitedstates/tennessee/cleveland/hiwassee_river) flows out of the mountains a little further north. South of town, [Red Clay State Historic Park](/northamerica/unitedstates/tennessee/cleveland/red_clay_state_park) marks the last seat of the Cherokee Nation before the Trail of Tears.

@@ -1,26 +1,25 @@
 ---
-title: "Palermo"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-20'
+image: palermo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sicilia_Palermo5_tango7174.jpg
+latitude: 38.1113
+loc_type: city
+longitude: 13.3524
+score: 0.73
+title: Palermo
 type: location
-latitude: 38.111227
-longitude: 13.352443
 ---
 
-Palermo is the capital of [Sicily](/europe/italy/sicily) and its largest city - stupendously sited in its own wide bay underneath the limestone bulk of Monte Pellegrino. Originally a Phoenician, then a Carthaginian colony, this remarkable city was long considered a prize worth capturing. After the first Punic war it passed from the Carthaginian hands to the Romans (254 - 253 B.C.) and later became a colony under the reign of Augustus.
+Palermo is the capital of [Sicily](/europe/italy/sicily) and its largest city, set in the Conca d'Oro — a wide bay between the sea and a ring of limestone mountains, with Monte Pellegrino rising dramatically to the north. It is fast, brash, and unlike anywhere else in Italy. The mix of Arab and Norman influences is one of the city's strangest and most rewarding surprises, visible in buildings from the 11th and 12th centuries that blend Islamic geometry with Christian iconography.
 
+Originally a Phoenician colony, Palermo passed through Carthaginian, Roman, Byzantine, Arab, Norman, Hohenstaufen, and Spanish hands, each leaving their mark. Under Arab rule it rivalled Constantinople, holding 300 mosques and becoming an emirate. The Normans made it the capital of their Sicilian kingdom, and under Frederick II it became the greatest city in Europe, famed for its court and its learning. The Arab-Norman architecture of that era is UNESCO-listed and has no parallel anywhere in Europe.
 
- 
- Under the Arab domination it obtains great splendour: it becomes an emirate and will hold around 300 mosques. As an Arab reporter of the time describes, from the interior rise one could admire the red domes among the green of the Conca d’Oro. Finally Palermo became Norman in 1072 with a conquest by Ruggero d’Altavilla. Ruggero II raises it as capital of the Sicilian Reign and Federico II Houhenstaufen crowns it Capital of the Mediterranean Culture, creating the first Sicilian school. Palermo became the greatest city in Europe, famed for the wealth of its court and peerless as a centre of learning.
+Today the long history means there is an enormous amount to see, though the city as a whole is still catching up on decades of neglect. The **Palazzo dei Normanni** and its Cappella Palatina are an absolute must. The Baroque Quattro Canti, the Catacombs of the Capuchins, and the cathedral of nearby [Monreale](/europe/italy/sicily/monreale) are all essential. The historic centre is dense and walkable, organised around four districts — the Kalsa, Albergheria, Capo, and Vucciria — each with its own market and character.
 
+Between sights, lose yourself in the street markets of La Vucciria, Ballarò, and Capo, where the food is extraordinary and the atmosphere is pure theatre. The food culture — arancine, panelle, sfincione, pasta con le sarde, cassata — is one of the strongest reasons to visit, descended from a thousand years of Arab, Jewish, Spanish, and Sicilian cooking piled on top of each other.
 
- 
- In the hands of the Angevin’s it passes through a phase of decline, due to the transfer of the Reign’s Capital to Naples. For the misgovernment, the population revolts: War of the Vespers (Easter 1282). In the course of its history, Palermo always searched for independence and the role as Capital. In fact, this is revealed in the attempt of the Neapolitan Republic to impose the Bourbonist Constitution (1812). On the 27th of May 1860, the city hands itself over to garibaldi.
-
-
- 
- The long history of the city assures that there is a lot to see, although the city as a whole, as well as some of the sights, are in need of repair.
-
-
- Nowadays Palermo is a fast, brash and exciting city. The mix of arabic and viking influences is one of the strangest and unexpected surprises the city has to offer. Buildings dating from the 11th and 12th century, the heyday of Medieval Sicily, offer this peculiar quality. The most noteworthy and an absolute must is the **Palazzo dei Normanni**
-
-
- Other interesting sights include the Quattro Canti, a nice example of Baroque architecture and the Catacombs. From the 16th to the last century local noblemen and clergy were mummified here. Very impressive are the Monastery and Cathedral of Monreale in the nearby village of [Monreale](/europe/italy/sicily/monreale) (a couple of kilometers out of the city-center).
+Palermo has rough edges. Parts of the centre are in serious disrepair, the traffic is aggressive, and the petty crime risk is higher than in northern Italian cities. But it has been improving steadily and is considerably safer than it was twenty years ago. The city repays the effort of engaging with it seriously. [Mondello](/europe/italy/sicily/mondello), the resort beach 11 km north, is connected by bus and worth an afternoon in summer.

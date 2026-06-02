@@ -1,14 +1,21 @@
 ---
-title: "Farmington"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+image: farmington.jpg
+image_attribution: Mobilus In Mobili on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/52257493@N00/45834811212
+latitude: 36.7281
+loc_type: city
+longitude: -108.2187
+score: 0.35
+title: Farmington
 type: location
-latitude: 44.640243
-longitude: -93.14355
 ---
 
-Travel Guide
+Farmington is the largest city in New Mexico's northwest corner, sitting at the confluence of three rivers — the San Juan, the La Plata, and the Animas. It started as an agricultural town supplying mining communities in the San Juan Mountains and has grown steadily with oil and gas development and an influx of retirees drawn to the high desert climate.
 
-Farmington is a large city in the northwest corner of the state. It sits on three rivers: the San Juan, the La Plata, and the Animas. Started as an agricultural town that supplied the mining communities to the north in the San Juan mountains, Farmington has grown due to an influx of retirees who seek a temperate place in the southwest.
+The downtown has a distinctly midwestern feel, unusual for New Mexico — Farmington was never part of the Spanish colonial past. But the large Navajo population and the red-rock landscape beyond the city limits leave no doubt about where you are. The historic downtown has trading posts selling Navajo rugs and jewellery, and the [Museum of Navajo Art and Culture](/northamerica/unitedstates/newmexico/farmington/museum_of_navajo_art) is worth an hour of your time.
 
-It's perhaps the least "southwestern" of the cities in Northwest New Mexico, not being a part of the colonial past, and the downtown feels distinctively midwestern. Still, the large numbers of Navajos who live and work in town will tell you that you're not in Kansas, although the relationship between the Indians and the townspeople has not always been amicable.
-
-Plenty of lodging, trading posts, and a very good visitor center await the traveler seeking to enjoy the area. The historic downtown is worth a visit, and the Farminton Museum on the San Juan River deserves a stop. Farmington is a good jumping off point for exploring the Bisti Wilderness, the Navajo Nation, Shiprock, and other nearby public lands and attractions. Fishing and other watersports can be enjoyed on the rivers, or up the road at Navajo Lake State Park, one of the state's bigger reservoirs.
+The real draw is using Farmington as a base for the surrounding country. The [Bisti/De-Na-Zin Wilderness](/northamerica/unitedstates/newmexico/farmington/bisti_wilderness) to the south is one of the most otherworldly landscapes in America — an unmarked badlands of eroded hoodoos that looks like a disused film set. [Shiprock](/northamerica/unitedstates/newmexico/farmington/shiprock) to the west is a sacred Navajo volcanic spire rising 1,800 feet above the desert floor. [Aztec Ruins National Monument](/northamerica/unitedstates/newmexico/farmington/aztec_ruins_national_monument) — 12 miles northeast — has the largest reconstructed great kiva in North America. And Chaco Culture National Historical Park, 90 miles south on rough dirt roads, is the crown jewel of the Four Corners region. The [Farmington Museum](/northamerica/unitedstates/newmexico/farmington/farmington_museum) on the river and [Navajo Lake State Park](/northamerica/unitedstates/newmexico/farmington/navajo_lake_state_park) for world-class trout fishing and camping round out the options. A car is essential — there is no public transport to speak of in this part of New Mexico.

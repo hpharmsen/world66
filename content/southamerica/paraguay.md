@@ -1,8 +1,21 @@
 ---
-title: "Paraguay"
+title: Paraguay
 type: location
 latitude: -23.316593
 longitude: -58.169345
+image: paraguay.jpg
+image_source: https://commons.wikimedia.org/wiki/File:General_view_-_Trinidad_(Paraguay).JPG
+image_license: CC BY-SA 3.0
+image_attribution: Maurice Chédel
+done:
+  country_cleanup: 2026-03-29
+quick_facts:
+  Population: "6.8 million"
+  Budget Meal: "~$2–3"
+  Bilingual Nation: Spanish and Guaraní both official
+  Largest Hydroelectric Dam: Itaipú supplies 86% of electricity
+score: 0.42
+loc_type: country
 ---
 
 Paraguay is an introvert country that borders on Bolivia, Brazil and Argentina. During a large part of this century it was one of the most notorious and durable police states, but it now is gradually getting used to being a republic. 

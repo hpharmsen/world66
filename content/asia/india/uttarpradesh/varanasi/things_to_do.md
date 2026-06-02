@@ -1,7 +1,8 @@
 ---
-title: "Things to do in Varanasi"
+title: "Things to Do"
 type: section
 ---
 
-If you are planning to come to visit this ancient city you got to check this website www.varanasialive.com before you come but if you are already, it's not too late!
-This website is one of it's kind online library of events in Varanasi. It records interesting places, shops, pictures, free cultural concerts, videos, and tonnes of other information that can make your trip more enjoyable.
+The ghats are Varanasi's heart. More than 80 stone stairways descend to the Ganges along a five-kilometre stretch, and the best way to see them is from a rowing boat at dawn. The nightly Ganga Aarti ceremony at Dashashwamedh Ghat and the constant activity at Manikarnika cremation ghat are the two unmissable experiences.
+
+Away from the river, the old city's lanes lead to the Kashi Vishwanath Temple and a dense network of smaller shrines. Sarnath, 10 km north, offers a complete change of register — quiet, Buddhist, and pastoral. Allow at least two full days for the city; three is better.

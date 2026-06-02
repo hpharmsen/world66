@@ -1,18 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-ben er een 3 weken geweest toen mijn zus er woonde
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Accra's sights are scattered, but a day on foot through Jamestown and another around the Independence Square axis covers most of what matters. The big-ticket attractions are the National Museum and the Kwame Nkrumah Mausoleum, but the city's real character is in the old fishing quarters and the markets. Bring water, expect heat, and don't try to do too much in a single day.

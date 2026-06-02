@@ -1,24 +1,8 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
-type: "Markets"
-latitude: -33.634361
-longitude: -71.609558
 ---
 
-The place to go is Los Dominicos market. This outdoor market, where it
-is not unusual to see the local craftsmen at work, is a beautifully
-rustic outdoor market where you can get local crafts, jewelry and even
-furniture. Take a peek into the small gallery to see some local
-artwork and possibly a small topiary garden. Then grab yourself some
-lapis lazuli earrings, a handmade guitar, and a hand carved wooden
-mask.
+Santiago has excellent shopping in the mall format (Parque Arauco and Alto Las Condes in the east, Mall Plaza Vespucio in the south) and more interesting options in the city's barrios. For crafts and souvenirs, the best option is the Patio Bellavista market complex in Barrio Bellavista, which has consistent quality across its vendor stalls.
 
-**Contributors**
-April 05, 2006
-
-### [Santa Lucia](/southamerica/chile/santiago/shopping/santa_lucia)
-
-Santa Lucia has an artesian market that has fairly reasonable prices on items that make great souveniers. Just go to the subway stop, Santa Lucia.
-
-type: Markets
+Artesanías de Chile, a government-backed crafts retailer, has a shop near La Moneda with quality-controlled handicrafts from across the country: Mapuche basketry, Chiloé wool products, copper objects from Atacama, and lapis lazuli jewellery (Chile has some of the world's largest deposits). For wine, the major supermarket chains (Jumbo, Unimarc) have excellent and well-priced selections.

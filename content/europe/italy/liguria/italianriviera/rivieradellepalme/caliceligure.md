@@ -1,8 +1,12 @@
 ---
-title: "Calice Ligure"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.204933
 longitude: 8.295351
+title: Calice Ligure
+type: location
+score: 0.45
+loc_type: city
 ---
 
 A commune in the hinterland of Finale, it is

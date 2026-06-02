@@ -1,22 +1,23 @@
 ---
-title: "El Hierro"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: elhierro.jpg
+image_attribution: Eckhard Pecher
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:El_Hierro_Sabinar.JPG
 latitude: 27.743508
+loc_type: city
 longitude: -18.03818
+score: 0.56
+title: El Hierro
+type: location
 ---
 
-**The End of the World**
+El Hierro is the smallest and most remote of the Canary Islands, and for centuries it marked the western edge of the known world — the prime meridian ran through its [Faro de Orchilla](/europe/spain/canaryislands/elhierro/faro_de_orchilla) lighthouse until 1884. That sense of being at the end of things persists. There are no large resorts, no beach strips, and very few tourists. The island runs almost entirely on renewable energy and has been designated a UNESCO Biosphere Reserve.
 
+The landscape is dramatic and varied for such a small island. The northern coast drops away into [El Golfo](/europe/spain/canaryislands/elhierro/el_golfo_valley), an enormous amphitheatre-shaped valley formed by a prehistoric landslide, where banana plantations and vineyards climb the lower slopes. The south is arid volcanic terrain with twisted lava fields and ancient juniper trees bent permanently sideways by the trade winds — the famous [El Sabinar](/europe/spain/canaryislands/elhierro/el_sabinar). [Pico de Malpaso](/europe/spain/canaryislands/elhierro/pico_de_malpaso), at 1,501 metres, is the island's highest point and a straightforward half-day hike.
 
- During centuries, the island of Hierro was considered a far-away mysterious place where the world seemed to end. This has encouraged an age-old isolation that has kept it tied to an agricultural economy and its ancestral traditions. Thus, the inhabitants live a very relaxed, unhurried way of life, in harmony with a landscape that provides a haven of tranquility throughout the island, where time seems to pass ever so slowly.
+Swimming is not about sandy beaches here. Instead, the coast offers natural rock pools and small coves with exceptionally clear water. La Caleta, Tamaduste (a natural lava pool that opens to the sea), and Charco Azul are the best spots. The underwater volcanic landscape makes El Hierro one of Europe's finest diving destinations, with visibility regularly exceeding 30 metres. The [Gorona del Viento](/europe/spain/canaryislands/elhierro/gorona_del_viento) wind-and-hydro facility is worth a look for those interested in renewable energy — it allowed the island to run on 100% clean electricity for 18 consecutive days in 2018.
 
-The belated discovery of the tourist possibilities of Hierro have kept the land free from the type of development generally associated with this sector. This factor has encouraged realization of the enormous treasure there is in the purity and tranquility of the island, thus focusing tourism on the visitor wishing to flee from the hustle and bustle and worries of modern-day life "losing himself at the end of the world". Some small lodgings have appeared scattered throughout the island, but there are no large tourist complexes. Most hotel accommodations can be found divided among the Tourist Parador at Las Playas, the capital Valverde and its coastal area, and the area of El Golfo, where we find Club Punta Grande, listed in the Guiness Book of Records as the smallest hotel in the world.
-
-Hierro has an abrupt coastline, but there also are small coves and natural pools where the transparent waters are perfect for swimming and underwater exploration. The coastal towns of Timijiraque, La Caleta, and Tamaduste offer ideal conditions for enjoying the sea, particularly Tamaduste with its interesting natural lava pool opening onto the sea.
- 
- 
-
-Courtesy of:** TURESPAÑA**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
+Accommodation is mostly small rural hotels and casas rurales scattered across the island. The Parador at Las Playas sits on an isolated bay at the base of towering cliffs. In the tiny harbour of La Restinga, the Club Punta Grande once held the Guinness record as the world's smallest hotel.

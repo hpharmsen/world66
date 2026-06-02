@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-### Splashes Resturant
-
-This beautiful restaurant is located in the Surf and Sand Hotel, off of PCH in Laguna. This is absolutely the most spectacular ocean view ( and experience) along the coast in southern California.  The food is great, as well as the hotel accomodations (should you choose to stay there).
+Laguna Beach is an art town first and a beach town second — though the beaches and coves are excellent. The combination of Heisler Park, the Laguna Art Museum, and the summer festivals makes it the most genuinely interesting town on the Orange County coast. The Laguna Coast Wilderness Park on the inland side offers hiking through coastal sage that most beach visitors never discover.

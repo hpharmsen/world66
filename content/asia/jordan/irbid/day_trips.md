@@ -1,6 +1,10 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - asia/jordan/ummqais
+  - asia/jordan/ajloun
+  - asia/jordan/pella
 ---
 
-It's not unusual to be driving in the middle of the city on a busy weekday and have to stop your car for a herd of sheep as they cross the road. You can hear the shepherd yelling out "tic, tic tic" as he moves his group along the roadway to forage for whatever is available. They will eat from vacant lots and fields and move to the next. Some of the sheep have bells on their necks; normally the lead sheep. This keeps the others in line. Occasionaly, you will see a dog that helps to direct the sheep the proper way to go. Shepherding is mostly done by two men.
+Irbid's real value is as a base for northern Jordan. Umm Qais (ancient Gadara), with its spectacular black-basalt ruins and views over the Sea of Galilee and the Golan Heights, is under an hour away and one of the finest Roman sites in the country. Ajloun Castle, the 12th-century Ayyubid fortress with sweeping hill views, is about 40 minutes south. Pella, one of the oldest continuously inhabited sites in the world, is an hour to the south in the Jordan Valley. All are reachable by taxi and worth combining into a multi-day exploration of the north.

@@ -1,13 +1,12 @@
 ---
-title: "Eating Out in Pittsburgh"
+title: 'Eating Out'
 type: section
 ---
 
-Located in the Commerce Court on West Station Square Drive, for authentic Japanese cuisine, visit Kiki Japanese Restaurant. They are one of the best in Pittsburgh restaurants. Their specialty, sushi, is fresh and carefully made. And you can tell that it is by someone who knows the "craft" of making sushi. Some of their most popular items are the rainbow roll (salmon, tuna, whitefish, avocado), dynamite (spicy scallops), and Allegheny roll (shrimp, avocado, cucumber). KiKi also serves vegetable and shrimp tempura. Combo platters are available if you can't decide. For more information and driving directions, visit their website at kikipittsburgh.net.
+Pittsburgh's food culture reflects its working-class heritage and its immigrant past — Polish pierogies, Italian sauces, and the city's own sandwich invention at Primanti Brothers (the original is on Smallman Street in the Strip District: grilled meat, cheese, coleslaw, and french fries, all on Italian bread, which sounds wrong until you eat one). For the freshest seafood, Wholey's Fish Market on Penn Avenue in the Strip sells whole fish and sandwiches from a warehouse that has been there since 1912.
 
-For a great Italian Pittsburgh restaurant, stop by Abbruzzi's at 20 South Tenth Street. They just moved recently into this new location, and it looks great. Their food is fresh and the entrees creative. They are well known for having an extensive wine list. So come in and relax with a glass of wine. Locals and visitors rave about their shrimp in marinara sauce & peppers, canneloni, and the eggplant parmigiano. There is something here for everyone. Many delicious entrees featuring veal, beef, chicken, or seafood. If you are a vegetarian, there is several entrees choices for you as well.
+**Kiki Japanese Restaurant** on West Station Square Drive serves some of the best sushi in Pittsburgh. Their rainbow roll and Allegheny roll are house specialties.
 
-If you are looking for a cozy, little Pittsburgh restaurant to take a date, check out 17th Street Cafe. This eatery serves up some great food, but doesn't put a big dent in your wallet. This is definitely fine dining. Locals and visitors both can't stop saying enough nice things about this place. Come in for lunch and try their banana peppers stuffed with seasoned beef & provolone cheese or the german reuben with potato pancakes. If you would rather have dinner, then treat yourself and your date to pistachio crusted chicken or veal stuffed with crabmeat.
+**Abbruzzi's** at 20 South Tenth Street is a reliable Italian restaurant with a strong wine list. Locals recommend the shrimp in marinara and the eggplant parmigiano.
 
-**Contributors**
-July 06, 2009
+**The Strip District** has the greatest density of options: Smallman Galley is a food hall with rotating chefs; multiple delis and specialty food shops line Penn Avenue for grazing and picnic supplies. On Saturday mornings it is one of the most enjoyable places in Pittsburgh to spend a few hours.

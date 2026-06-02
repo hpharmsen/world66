@@ -1,65 +1,14 @@
 ---
-title: "Books in Calcutta"
+title: Books
 type: section
 ---
 
-Normal
-0
+**The Home and the World** by Rabindranath Tagore (1916). Set during the Swadeshi movement in early-20th-century Bengal, this novel follows a progressive zamindar, his wife, and a charismatic nationalist agitator. It is the best introduction to the contradictions — idealism and violence, tradition and modernity — that have shaped Bengal ever since. Tagore's portrait of the land around Calcutta is precise and beautiful.
 
-Sail yourself into the knowledge
-ocean, and books are there as your guiding star. Books reflect the bigger
-picture of the journey called life, and **RightBooks.In
-**offers you not one, but the entire library to explore yourself.
-Browse your favorite author’s writings queuing up at our book catalogs and
-indexes to let you have premium book shopping experience. We update our book
-stocks regularly with the latest entries, and our up-to-date stock of
-bestsellers from leading publishers brings you the opportunity to spot the book
-you have been looking for. Get yourself at **www.rightbooks.in
-**today and enjoy happy shopping.
+**City of Joy** by Dominique Lapierre (1985). A French journalist's account of life in a Kolkata slum, following a Polish priest, an American doctor, and a rickshaw puller from rural Bengal. Sentimental in places but gripping, and still the book most foreign visitors arrive having read. Its portrait of the city's extremes of poverty and resilience holds up.
 
-### [“Bloody Valentine”](/asia/india/westbengal/calcutta/books/bloody_valentin)
+**The Shadow Lines** by Amitav Ghosh (1988). A novel about memory, identity, and partition, moving between Calcutta, Dhaka, and London across multiple generations. Ghosh grew up in Calcutta and his sense of the city — its Bengali-Hindu culture, its relationship with East Bengal across the border — is intimate and irreplaceable.
 
-Normal
-0
+**Calcutta: Two Years in the City** by Amit Chaudhuri (2013). Part memoir, part cultural essay, Chaudhuri's book is the most searching portrait of the city in recent years. He grew up in Bombay and returned to Calcutta as an adult, seeing it with both insider knowledge and outsider eyes. His chapters on the city's intellectual life, its decline, and its particular kind of beauty are indispensable.
 
-Get ready to have the roller
-coaster ride of murder mysteries, and this time, the murder takes place on the
-day, to your utter surprise, on Valentine's Day. Valentine's Day is the day
-when you celebrate love with the most loved person in your life. Jack Barnes
-and his wife Zee had planned similarly, but the **“Bloody
-Valentine” **had changed their lives forever. That’s the storyline of **“Bloody Valentine” **penned by **James Patterson **is all about. Unlike other murder
-mysteries, here numerous suspects are [more..](/asia/india/westbengal/calcutta/books/bloody_valentin)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-
-
-### [“Bloody Valentine”](/asia/india/westbengal/calcutta/books/bloody_valentin_1)
-
-Normal
-0
-
-Get ready to have the roller
-coaster ride of murder mysteries, and this time, the murder takes place on the
-day, to your utter surprise, on Valentine's Day. Valentine's Day is the day
-when you celebrate love with the most loved person in your life. Jack Barnes
-and his wife Zee had planned similarly, but the **“Bloody
-Valentine” **had changed their lives forever. That’s the storyline of **“Bloody Valentine” **penned by **James Patterson **is all about. Unlike other murder
-mysteries, here numerous suspects [more..](/asia/india/westbengal/calcutta/books/bloody_valentin_1)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-
-
-### [rightbooks00](/asia/india/westbengal/calcutta/books/rightbooks00)
-
-Books that are rich in quality with its subjective matters have one common destination, and you always kept **RightBooks.In **within the same bracket with those quality books. And now **RightBooks.In **is all set to reciprocate your trust with its quality service. Translation of best selling books in regional languages is the step we have taken to execute that,
-and this time we have come with the Hindi genre. A visit to us at **www.rightbooks.in/Items.asp?cid=1&fc=Hindi&pt=6** will let you have all the noted and best [more..](/asia/india/westbengal/calcutta/books/rightbooks00)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/normal/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: rightbooks
-
-isbn: normal
+**The Hungry Tide** by Amitav Ghosh (2004). Set in the Sundarbans — the vast mangrove delta south of Calcutta — this novel follows a cetologist from America, a local guide, and a translator from the city. It is the best way to understand the landscape that surrounds and defines the Bengali imagination, and it raises urgent questions about conservation, indigenous rights, and the costs of wildness.

@@ -1,12 +1,17 @@
 ---
-title: "Ruhengeri"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
 latitude: -1.497769
 longitude: 29.63226
+score: 0.53
+title: Musanze (Ruhengeri)
+type: location
+loc_type: city
 ---
 
-We currently have no information about Ruhengeri.
+Musanze, still widely known by its former name Ruhengeri, is the main town in northern Rwanda and the base for gorilla trekking in [Volcanoes National Park](/africa/rwanda/volcanoesnationalpark). It sits at around 1,800m altitude in a volcanic landscape, surrounded by the Virunga peaks.
 
-If you do know any general information about Ruhengeri, please [Edit this article].
+The town itself is functional rather than beautiful, but it has a good range of guesthouses and a handful of restaurants. Most travellers arrive the evening before their gorilla trek, stay overnight, and head to the park headquarters early the following morning.
 
-If you know any hotels in Ruhengeri or restaurants in Ruhengeri, please [[Add].](/destinations/addItemWizard?addwhere=africa/rwanda/ruhengeri)
+The journey from Kigali takes about two and a half hours on a well-paved road through the hills.

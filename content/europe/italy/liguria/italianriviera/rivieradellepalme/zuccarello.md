@@ -1,8 +1,12 @@
 ---
-title: "Zuccarello"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.111029
 longitude: 8.115849
+title: Zuccarello
+type: location
+score: 0.43
+loc_type: city
 ---
 
 A fortified medieval town in the valley of the
@@ -27,8 +31,3 @@ A fortified medieval town in the valley of the
  whose tomb has become one of the main
  attractions of that city. The area’s agricultural
  products are olives, fruit and vegetables.
- 
-
-## Destinations in Zuccarello
-
-[The Castle above Zuccarello](/europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello/thecastleabovez)

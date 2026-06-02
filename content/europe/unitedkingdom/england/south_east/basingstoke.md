@@ -1,18 +1,21 @@
 ---
-title: "Basingstoke"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: basingstoke.jpg
+image_attribution: Lewis Hulbert
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Church,_Basingstoke.JPG
 latitude: 51.262826
+loc_type: city
 longitude: -1.086198
+score: 0.29
+title: Basingstoke
+type: location
 ---
 
-Located in the centre of Hampshire, west of London. You can get to Basingstoke quite easily by taking one of the many trains that stop there from Waterloo station in London. Take one of the faster trains (which stop at Woking only before reaching Basingstoke) and you'll get there in around 40 to 50 minutes. 
+Basingstoke sits in the centre of Hampshire, about 50 minutes by train from London Waterloo. It is not a destination most travellers seek out, but it serves as a practical base for exploring the surrounding Hampshire countryside.
 
-Basingstoke lives up to its reputation as being "boring Basingstoke" - for a town of nearly 150,000 inhabitants it has a woefully inadequate number of bars and restaurants. The result of which, many of the locals venture into London or nearby Reading for a night out. 
+The town centre was largely rebuilt after the 1960s and is dominated by the Festival Place shopping centre. The historic character of old Basingstoke was mostly lost to post-war redevelopment, which makes it an underwhelming stop compared to nearby towns like Winchester or Salisbury. The [Willis Museum](/europe/unitedkingdom/england/south_east/basingstoke/willis_museum) on the Market Place does a decent job of telling the town's story from Roman times onward, and just outside it stands a bronze [Jane Austen](/europe/unitedkingdom/england/south_east/basingstoke/jane_austen_statue) — the novelist grew up nearby. The ruins of the [Holy Ghost Chapel](/europe/unitedkingdom/england/south_east/basingstoke/holy_ghost_chapel) just north of the railway station and the rebuilt streets of the [Milestones Museum](/europe/unitedkingdom/england/south_east/basingstoke/milestones_museum) are the other things worth a stop in town.
 
-The centre of the town was until quite recently a monument to 1960s style brutalist modernism. The town planners did far more damage to the old town of Basingstoke, which had typical English country lanes and cottages, than the Luftwaffe ever did. In fact Basingstoke escaped the ravages of World War 2 bombing, which makes the brutalist nature of the modern architecture in the town even more perplexing. 
-
-Thankfully, the centre has been recently demolished and rebuilt and in its place is - an enclosed American style shopping mall, bereft of any English charm or culture. In fact , the mall is such a souless place bereft of any personality , that one could be anywhere in America whilst in it, rather than in the very historical and beautiful county of Hampshire. 
-
-You'd be much better off staying on that train and venturing further afield to Salisbury or Bournemouth. 
-
-Basingstoke suffers from the highest concentration town planners per square foot of concrete in the known Universe. And they still can't get anything right...
+The surrounding area is more rewarding. [The Vyne](/europe/unitedkingdom/england/south_east/basingstoke/the_vyne), a National Trust property a few miles north, is a handsome Tudor mansion with a chapel containing rare Renaissance glass. The earthworks of [Basing House](/europe/unitedkingdom/england/south_east/basingstoke/basing_house), the great Tudor house slighted by Cromwell, lie a short walk east of town. The North Downs Way and various country walks are easily accessible from town.

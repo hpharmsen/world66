@@ -1,18 +1,6 @@
 ---
-title: "Things to do in Nyeri"
+title: "Things to Do"
 type: section
 ---
 
-bouncing castle;
-children Entertaing Children @ Birthday parties, Family fun
-days, Corporate Fun days, Church Fun days, Kids
-graduation parties Schools functions E.T.C.
-
-We offer, Bouncing Castle, Clown man, Face Paint,
-Kids’ games and activities E.T.C
-
-Our address FLAWAA EVENTS
-TEL: 0721 45 77 66
-EMAIL: hello@flawaaevents.com
-
-We keep your Children entertained.”
+Nyeri is a base, not a destination in itself. Most travellers come for the surrounding country: the [Aberdare](/africa/kenya/centralhighlands/nyeri/aberdare_park) forests and moors on one side, the slopes of Mount Kenya on the other, and the rolling tea and coffee plantations in between. But the town has a few worthwhile stops — Baden-Powell's grave, the small history museum, and the old Outspan Hotel where he lived in retirement.

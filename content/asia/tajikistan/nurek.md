@@ -1,8 +1,21 @@
 ---
-title: "Nurek"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
 latitude: 38.373741
+loc_type: city
 longitude: 69.348419
+score: 0.32
+title: Nurek
+type: location
+image: nurek.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nurek_dam_july.JPG
+image_license: CC BY 2.5
+image_attribution: Ibrahimjon
 ---
 
-**Nurek is in Tadjikistan, Central Asia, some 70 km from Dushanbe, capital city of Tajikistan. Nurek is a town with about 40000 population is surrounded by mountains and is famous with a hydropower station build there during Soviets. The dam of the station is of the highest in the world (300m)... Vakhsh river divides the city into to parts... Nurek is a nice place to visit for couple days... there are nice restaurants and very friendly and nice people... taxi to Nurek from Dushanbe would cost you about 15-20 $US...**
+Nurek is a small city about 70 km east of Dushanbe on the Vakhsh River, built in the 1960s to house workers constructing the Nurek Dam. The dam, completed in 1980, was the tallest in the world at 300 meters — a title it held for decades. The reservoir behind it stretches back some 70 km and is striking in the arid landscape.
+
+The city itself was purpose-built Soviet and has the predictable layout of that era, but the setting among the mountains is attractive. The dam infrastructure is not open to tourists, but the approach road and reservoir views are accessible. The water is a vivid blue-green.
+
+Nurek sees few foreign visitors but it makes a reasonable stop on the road between Dushanbe and Penjikent. The drive along the Vakhsh valley is scenic. Shared taxis from Dushanbe take about 1.5 hours and cost a few dollars.

@@ -16,12 +16,13 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 
 2. **Pick a shard**
    - Look in `todo/$ARGUMENTS/` for `.txt` batch files.
-   - Pick one at random.
+   - Pick one at random from all available shards Pick at random, run an actual script.
    - Read the shard file to get the list of items to process.
 
 3. **Check for existing PRs**
    - Branch name convention: `todo-$ARGUMENTS-<shard>` (e.g., `todo-country_cleanup-batch_00`).
    - Use `gh pr list --state all --search "todo-$ARGUMENTS-<shard>"` to check if a PR already exists (open or merged).
+   - also check if the branch already exists, sometimes PRs get misnamed but have the same branch pattern.
    - If it does, pick a different shard. If all shards have PRs, report that the task is complete.
 
 4. **Create a branch**
@@ -33,6 +34,11 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 6. **Process each item in the shard**
    - Read the shard file line by line.
    - For each item, perform the task described in TASK.md.
+   - After finishing an item, mark it done in the page's frontmatter:
+     `python3 tools/mark_done.py $ARGUMENTS <path/to/page.md>`
+     This adds `<task>: <today>` to the `done:` dict in the frontmatter. Run it
+     on the main location/country file for the item (the top-level `.md`, not
+     each section/POI). Stage the change as part of the same item commit.
    - Commit each item separately with the commit message format specified in TASK.md.
    - Do NOT push until all items are processed.
 
@@ -44,8 +50,10 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
    - `git push -u origin todo-$ARGUMENTS-<shard>`
    - Create PR with `gh pr create`:
      - Title: `todo-$ARGUMENTS-<shard>`
-     - Body: list the items processed and a brief summary of changes
+     - Body: list the items processed and a brief summary of changesA
+   - IMPORTANT: name the PR exactly like that - don't add number of files changed or some such
    - Return the PR URL.
+   - Show the review link: `http://127.0.0.1:8066/review?branch=todo-$ARGUMENTS-<shard>`
 
 ## Rules
 
@@ -54,3 +62,4 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 - Read TASK.md carefully — it defines the specific work for each item.
 - Don't push individual commits. Push once at the end, then create the PR.
 - If an item fails or can't be processed, note it in the PR description and move on.
+- IMPORTANT: Make sure you get the title right. don't add words etc, we use the title to check if work has been done before.

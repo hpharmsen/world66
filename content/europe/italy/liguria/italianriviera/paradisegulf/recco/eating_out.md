@@ -1,12 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-The oven cooked flat cheese garnished "focaccia" bread of Recco is a marriage of ancient and simple flavours, the intense and fresh fragrance of soft "stracchino" cheese spread overa thin layer of bread.
+Recco's reputation is built on a single dish: focaccia col formaggio di Recco, a thin sheet of unleavened dough wrapped around molten stracchino cheese and baked very hot. It is unlike the standard Ligurian focaccia di Genova: no yeast, no oil, and the cheese is the whole point. Eight restaurants in Recco hold the IGP designation that allows them to call their focaccia by the protected name; you can identify them by the consortium sticker on the door.
 
-
-
-
-
-Then the "trofie" which, in their elongate and somewhat knaggy shape, carry the patient marks of the housewives who have formed these little noodles, one by one, with an expert and skilful touch; a rite of former times, crowned by the encounter of pasta and pesto, the savoury sauce of Liguria. Gastronomy and good healt go arm in the paradise of Mediterranean diet and the extra virgin olive oil dignifies a light and digestible menu.
+Beyond focaccia, the town has a serious tradition of seafood and Genoese cooking. The main streets are lined with restaurants, several of them family-run since the 1950s. Book ahead for weekend dinners; the focaccia restaurants in particular fill with day-trippers from Genoa.

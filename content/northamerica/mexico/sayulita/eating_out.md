@@ -3,10 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Plenty of restaurants can be found at:
-
-http://www.sayulitalife.com
-
-We currently have no Eating Out listed in Sayulita.
-
-If you do know any Eating Out in Sayulita, please [Add].
+Sayulita punches well above its size for food. A small town with over a hundred restaurants sounds improbable, but the steady flow of visitors has created genuine competition, and the quality shows. Street tacos, fresh ceviche, and wood-fired pizza all coexist within a few blocks.

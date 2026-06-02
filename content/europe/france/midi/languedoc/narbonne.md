@@ -1,25 +1,24 @@
 ---
-title: "Narbonne"
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+  poi_cleanup: '2026-04-19'
+image: narbonne.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg
+latitude: 43.1836
+loc_type: city
+longitude: 3.0042
+score: 0.57
+title: Narbonne
 type: location
-latitude: 43.183776
-longitude: 3.004191
 ---
 
-Travel Guide
+Narbonne is one of the oldest Roman towns in France — founded in 118 BC as Narbo Martius, it was once the capital of Gallia Narbonensis and a major Mediterranean port. The sea has long since retreated, but the city retains a quiet confidence that comes from knowing it has been important for two thousand years.
 
-**Narbonne**
-"Crossroads of Southern Europe” is still the slogan that greets your
-arrival here from the west. Offering excellent transport communication
-links to the rest of Europe, the A61 and A9 motorways meet here, as do
-two main railway lines running south from Bordeaux and east-west along
-the Mediterranean coast from Italy through to Spain.
-Narbonne is still a very traditional and
-beautiful town in which to stay with the Canal du Robine (which joins the
-Canal du Midi) running through the centre of town and edged with shady plane
-trees and a profusion of flowers, shops, bars and restaurants. Halles is an
-award winning covered market here which is over one hundred years old and
-said to be one of the best in France. Open every day between 6.00 am and
-1.00 pm, it is a wonderful place with over 80 stalls where you can purchase
-fresh local produce including fish and seafood, fruit and vegetables with
-piles of melons, peppers and tomatoes, a large variety of charcuterie
-(cooked meats) and cheese.
+The [Canal de la Robine](/europe/france/midi/languedoc/narbonne/canal_de_la_robine), a branch of the Canal du Midi, cuts through the heart of the old town, lined with plane trees and restaurant terraces. The medieval [Pont des Marchands](/europe/france/midi/languedoc/narbonne/pont_des_marchands) — one of a handful of inhabited bridges in France — crosses the canal at its most picturesque point. The covered market, [Les Halles](/europe/france/midi/languedoc/narbonne/les_halles), is one of the best in France: more than a hundred stalls selling fish from the nearby étangs, local charcuterie, cheeses, and mountains of seasonal produce. It opens every morning until 1pm.
+
+The [cathedral](/europe/france/midi/languedoc/narbonne/cathedrale_saint_just) is an anomaly — a Gothic choir of extraordinary height with no nave, halted in the 14th century when the city ran out of money and political will. What remains is still striking. The [archbishop's palace](/europe/france/midi/languedoc/narbonne/palais_des_archeveques) next door now houses the city's archaeology and art museums, including a remarkable collection of Roman artefacts. In the main square, the [Via Domitia](/europe/france/midi/languedoc/narbonne/via_domitia) — Rome's first road in Gaul — is visible underfoot beneath a glass panel.
+
+Narbonne sits at a transport crossroads: the A61 and A9 motorways meet here, as do the main rail lines linking the Mediterranean coast to Bordeaux and Spain. The coast is only 15 km away, with the étang de Bages-Sigean and the beaches of [Gruissan](/europe/france/midi/languedoc/narbonne/gruissan) and Narbonne-Plage within easy reach.

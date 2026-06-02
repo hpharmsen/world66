@@ -3,16 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Porto Alegre's best (and maybe largest) mall is Iguatemi (http://www.iguatemiportoalegre.com.br). It has probably over 200 stores with 2 anchor stores, a supermarket, and several of Brazil's best specialty chain stores. There's also a movie theater, but right accross the street, at the Bourbon Country mall (a mall with a grocery superstore as its anchor), there's a better one.
+The pedestrianised stretch of **Rua dos Andradas** — always called **Rua da Praia** by locals, even though it is nowhere near a beach — is the traditional commercial spine of Porto Alegre's centre. It runs from the Praça da Alfândega east through the heart of the Centro Histórico and is lined with shops selling everything from cheap clothes to electronics to leather goods. The leather is worth pausing for: Rio Grande do Sul has a genuine tradition of quality leather work, and you can find well-made boots, belts, and bags here and in the Mercado Público at prices well below what you would pay in São Paulo.
 
-In the Moinhos de Vento neighborhood there is the Moinhos de Vento mall in the Sheraton hotel. The mall is not very large but it's a pleasant place and has air conditioning. It is also open on sundays (unlike many other places in porto alegre).
-
-Some things the mall has:
-
-- place to change money
-- internet cafe
-- ATM
-- The mall is on Rua Olavo Barreto Viana or there's a second entrance on Rua Tobias da Silva
-
-**Contributors**
-September 02, 2005
+The **Mercado Público Central** is not just for eating: its stalls sell gaúcho craft products, chimarrão gourds and bombillas, local cachaça and wine, regional food products, and artisan goods that make excellent gifts. The Sunday **Brique da Redenção** market in Parque Farroupilha is the city's best market for antiques, vintage clothes, handmade jewellery, and local art — it draws huge crowds and is one of the best Sunday mornings you can spend in any Brazilian city. **Bom Fim** has the city's best concentration of independent boutiques: younger designers, vintage shops, and bookstores cluster along Rua Osvaldo Aranha and the side streets around it. **Shopping Moinhos** and **Iguatemi** are the upscale malls for international brands, but they are indistinguishable from any other Brazilian shopping mall and less interesting than the street-level options.

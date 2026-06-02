@@ -1,24 +1,6 @@
 ---
-title: "Eating Out in Sonderborg"
+title: "Eating Out"
 type: section
-address: "Brogade 2"
-phone: "+45 74 42 27 07"
-type: "South American"
-url: "www.ox-en.dk"
-latitude: 55.397064
-longitude: 10.395614
 ---
 
-### [Ox-En Latino steak house](/europe/denmark/sonderborg/eatingout/oxen_latino_steak)
-
-The restaurant OX-EN is primarily based on large tender steaks from Argentina and Brazilian beef cattle.
-
-type: South American
-
-
-
-tel: +45 74 42 27 07
-
-url: [www.ox-en.dk](http://www.ox-en.dk/)
-
-address: Brogade 2
+Sønderborg's eating is concentrated along the harbour and on Perlegade. The signature dishes here are South Jutland — smoked eel, herring, fried plaice, and the substantial cakes called *sønderjysk kaffebord* (a coffee table of seven or more types of cake served as a single meal). A handful of newer restaurants in the redeveloped harbour push more ambitious Nordic cooking.

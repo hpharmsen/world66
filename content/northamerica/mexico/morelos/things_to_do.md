@@ -1,45 +1,8 @@
 ---
-title: "Things to do in Morelos"
+title: Things to Do
 type: section
-address: "Central Square"
-type: "Spa and Sauna"
-latitude: 43.287001
-longitude: -76.14636
 ---
 
-Please go to the main Puerto Morelos page on this site for this information
+Morelos packs a remarkable range of history into a small area. The Palace of Cortés in Cuernavaca is one of the best-preserved colonial buildings in Mexico, with Diego Rivera murals inside and an Aztec pyramid beneath its foundations. Just outside the city, the Aztec ruins of Teopanzolco sit on a hill within the urban sprawl — easy to reach and often uncrowded.
 
-**Contributors**
-September 28, 2009
-
-### [Typical Sweat House](/northamerica/mexico/morelos/things_to_do/typical_sweat_hous)
-
-Located on the Main Square is a two storey Aztec Sweat House - realized in faithful reproduction of the ancient sweat houses used by the Aztecs in the past and now, also in the present. Keep in mind that the majority of the people you see in Puerto Morelos are actually Aztecs and Mayans and some even still speak the Aztec language which they learned from their grandmothers. So - imerge yourself into the steam, customs and society of the original inhabitants of this marvelous land.
-
-type: Spa and Sauna
-
-
-
-[[rate it]](/northamerica/mexico/morelos/things_to_do/typical_sweat_hous)
-
-address: Central Square
-
-### [Waterfront Beach and Barrier Reef](/northamerica/mexico/morelos/things_to_do/waterfront_beach_a)
-
-Have a boat ride out to the barrrier reef to do some scuba diving or swim out there if you are a good swimmer. When you get out of the water you can walk back on the beach to your starting point. The water current pulls to the right. And when there are hurricanes the vortix goes counter clockwise. So after the hurrican the piers are just bult up again. . . eventually.
-
-type: Swimming
-
-
-
-address: The Ocean
-
-### [The Leaning Lighthouse](/northamerica/mexico/morelos/things_to_do/the_leaning_lighth)
-
-Go to the beach by the main pier and see the leaning light house. It used to be surrounded with flowers in the flower bed and the base was painted with bright Mexican colors. Then a hurrican came and erroded the sand under it so it is now leaning. The authorities wanted to remove it - but the locals had the better idea of keeping it. The leaning light house is a piece of history with its own story and it should be preserved along with the wonderful almosphere of this typical Mexican fishing village with its gorgeous relaxing beach.
-
-type: Going to the Beach
-
-
-
-address: By the main pier
+The pre-Columbian site of Xochicalco, roughly 40 km south of Cuernavaca, is the state's most impressive archaeological site. Its hilltop position and the intricate carved reliefs on the Pyramid of the Feathered Serpent set it apart from the better-known ruins farther north. From the village of [Tepoztlán](/northamerica/mexico/morelos/tepoztlan), a steep trail leads up through forest to the small pyramid of El Tepozteco perched on a cliff — the climb is rewarded with wide views over the valley.

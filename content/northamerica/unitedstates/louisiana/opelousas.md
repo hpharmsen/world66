@@ -1,22 +1,21 @@
 ---
-title: "Opelousas"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+image: opelousas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:OpelFedCourtWM.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Z28scrambler
 latitude: 30.53353
 longitude: -92.081509
+title: Opelousas
+type: location
+score: 0.35
+loc_type: city
 ---
 
-Travel Guide
+Opelousas bills itself as the Zydeco Capital of the World, and the claim is hard to argue with. The fast-tempo beat of accordion and washboard — the *frottoir* — fills storefronts, restaurants and dance halls around town. It is [Louisiana](/northamerica/unitedstates/louisiana)'s third oldest city, sitting in the heart of Acadiana just minutes from [Lafayette](/northamerica/unitedstates/louisiana/lafayette).
 
-Opelousas is a great place to visit. Whether it's a toe-tappin'
-festival, great cuisine, a night out for horse racing or just havin' fun
-... we've got what you're lookin' for in Opelousas!
+The food is Cajun and Creole, and very good. The [Opelousas Museum and Interpretive Center](/northamerica/unitedstates/louisiana/opelousas/opelousas_museum) on the main square is the best introduction to the town's layered history — French, Spanish, African, and Creole strands woven together over three centuries. [St. Landry Catholic Church](/northamerica/unitedstates/louisiana/opelousas/st_landry_catholic_church), a mile north of the square, is one of Louisiana's oldest surviving churches and was shared by free Black and white Catholics in a way unusual anywhere in the antebellum South.
 
-Known
-as the Zydeco Capital of the World, the fast-tempo beat of the
-accordion and washboard or *"frottoir"* fill the air in the many
-storefronts, restaurants, and homes of Opelousas.
-Minutes away from Lafayette and an hour or so away from Alexandria or
-Baton Rouge, Opelousas is located in the heart of Acadiana.
-Discover the history, eat delicious Cajun and Creole food and enjoy the
-numerous fairs, festivals and activities that celebrate the *"joie de
-vivre"* of Louisiana's third oldest city.
+The town hosts numerous festivals and fairs throughout the year, most of them built around music, food or both. If you are passing through this part of Louisiana, Opelousas is worth a stop for a plate lunch and a dance.

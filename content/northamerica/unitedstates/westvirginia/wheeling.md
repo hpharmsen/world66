@@ -1,16 +1,21 @@
 ---
-title: "Wheeling"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+  poi_cleanup: '2026-04-21'
+latitude: 40.064
+longitude: -80.7209
+score: 0.36
+title: Wheeling
 type: location
-latitude: 42.138889
-longitude: -87.931094
+loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Wheeling,_West_Virginia
 ---
 
-Small city in the Northern Panhandle of West Virginia. In the early 1800s, Wheeling was the western terminus of the National Road and the site of the only bridge over the Ohio River.
+Wheeling sits in the narrow Northern Panhandle of West Virginia, squeezed between Ohio and Pennsylvania along the Ohio River. In the early 1800s it was the western terminus of the National Road and the site of the first bridge across the Ohio — which made it one of the most important gateways to the American West before the railroads arrived.
 
-Wheeling is a microcasm of regional history; you can view beautifully preserved Victorian Architecture in downtown and on Wheeling Island; the remnants of the Industrial Revolution are everywhere, from abandoned factories to the homes of the robber baron capitalists who made their fortunes on the backs of the working class. You can also see the new "service economy" in action. 
+That history is written into the city's fabric. The compact downtown and [Wheeling Island](/northamerica/unitedstates/westvirginia/wheeling/downtown_and_wheeling_island) preserve some remarkably intact Victorian streetscapes — grand brick storefronts and ornate row houses built when Wheeling was a booming industrial city making nails, glass, and cigars. The [Centre Market](/northamerica/unitedstates/westvirginia/wheeling/centre_market), in continuous use since 1853, anchors the downtown. The [West Virginia Independence Hall](/northamerica/unitedstates/westvirginia/wheeling/west_virginia_independence_hall) tells the story of how the state split from Virginia during the Civil War.
 
-Jamboree USA brings in nationally recognized musical performances. If there's an act you like playing there, seeing them in this unusual setting will be a highly memorable experience. There is a form of gambling available at Wheeling Downs on Wheeling Island. 
-
-Immediately outside the city, you will find Oglebay Park. Beautiful grounds, peaceful gardens, and an opulent mansion make this municipal park remarkable. If you drive 15 miles south, you will arrive in Moundsville, WV which is the home of two important historical sights: the Mound (the largest Native American burial mound in the state) and the old state penitentiary, which is now a museum and open for tours. Drive half an hour north to the Homer Laughlin china factory to see the popular "fiestaware" made.
-
-The downtown area is flat and compact. However, to get to the outskirts and sights such as Oglebay Park, you will need a car. Wheeling is located on Interstate 70 (and its beltway, I-470) about 45 minutes southwest of Pittsburgh, PA and 2.5 hours east of Columbus, OH. Wheeling has a small airport, but you'll most likely want to fly into [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh) (PIT) to get here.
+Just outside the city, [Oglebay Park](/northamerica/unitedstates/westvirginia/wheeling/oglebay_park) is the standout attraction — a former private estate turned public park with formal gardens, a mansion museum, and good hiking. The restored [Capitol Theatre](/northamerica/unitedstates/westvirginia/wheeling/capitol_theatre) — West Virginia's largest, seating 2,500 — hosts concerts and touring shows through the year. Wheeling is an honest, unsentimental place, and that's part of its appeal.

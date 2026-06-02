@@ -1,22 +1,23 @@
 ---
-title: "Nagapattinam"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: nagapattinam.jpg
+image_attribution: Ssriram mt
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nagore_Dargah1.JPG
 latitude: 10.60262
+loc_type: city
 longitude: 79.761935
+score: 0.34
+title: Nagapattinam
+type: location
 ---
 
-Travel Guide
+Nagapattinam is a coastal district town in the Cauvery Delta, 340 km south of Chennai on the Bay of Bengal. It's the main town in a district that contains an unusual concentration of pilgrimage sites across different religions — Hindu, Muslim, Christian, and Jain — within a small area.
 
-An ancient coastal region in South India and central part of Tamilnadu. This district was bifurcated from integrated **Thanjavur**. The development of Nagapattinam town itself is very slow as compared to other towns bacause of its vulnerable location.
+The [Nagore Dargah](/asia/india/tamilnadu/nagapattinam/nagore_dargah), 5 km north, is one of the most important Sufi shrines in south India, drawing pilgrims from across the region regardless of religion. The [Basilica of Our Lady of Good Health at Velankanni](/asia/india/tamilnadu/nagapattinam/velankanni_basilica), 12 km south, draws three million pilgrims annually — mostly Hindu — in a tradition that says something particular about Tamil Nadu's religious culture. Sikkal, a short drive north, has a significant Murugan temple.
 
-Nagapattinam district has important tourist locations.
+[Poompuhar](/asia/india/tamilnadu/nagapattinam/poompuhar) (Kaveripoompatinam), 20 km north, is the site of the ancient Chola port that once rivalled Rome in maritime trade. Much of the city now lies underwater, but the archaeological museum and the beaches at the Kaveri mouth are worth the trip. [Fort Dansborg at Tranquebar](/asia/india/tamilnadu/nagapattinam/fort_dansborg), 60 km south, is the only Danish fort in India — an overlooked piece of colonial history that has been carefully preserved and is well worth a full-day visit.
 
-**Nagore** : A pilgrim center 5 Km north of Nagapattinam with a population around 30,000. Famous for Annual Kandoori festival. Still part of Nagapttinam Municipality from early British period.
-
-**Velankanni**: Catholic Pilgrimage. Aroung 12 KM south of Nagai with a poulation of around 7,000.
-
-**Sikkal:** Famous for Hindu Temple.
-
-**Vedaranyam** and **Kodikkarai** birds Sanctuary are around 20KM from nagapattinam.
-
-Other attaractions are **Poompuhar**, **Tranqubar** (Old danish Colony) and **Karaikal**.
+The Point Calimere Wildlife Sanctuary (Kodikkarai), 50 km south, protects a coastal wetland that hosts large flamingo flocks and other migratory birds between November and January.

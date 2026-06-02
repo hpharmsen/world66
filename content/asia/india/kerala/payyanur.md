@@ -1,16 +1,21 @@
 ---
-title: "Payyanur"
-type: location
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-29'
 latitude: 12.091893
+loc_type: city
 longitude: 75.195176
+score: 0.35
+title: Payyanur
+type: location
+image: payyanur.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Payyannur_Sree_Subrahmanya_swamy_Temple_Pond.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Mithunrajkeekkamkot
 ---
 
-Payyanur is situated in the Kannur district of Kerala. Sprawling in the valley of the lofty Ezhimala Hills, Payyanur has a distinguished place in the history and culture of the country. The place derives its name from the renowned Sri Subrahmanya Swami Temple located here. 'Payyan' is an appellation of Lord Subrahmanya and ‘Ooru' means the place. Thus Payyanur means the land of Lord Subrahmanya. Payyanur is also well known for Pavithra Mothiram, Astrology, art forms like Theyyam and Poorakkali. 
+Payyanur is a small town in the Kannur district of northern Kerala, sitting between the backwaters of the Kavvayi River and the coastal hill of Ezhimala. Its name derives from the Sri Subrahmanya Swami Temple, an important Subrahmanya shrine that draws pilgrims from across the district.
 
-**Ancient History 
+The town has a long history. The Ezhimala port — now occupied by Asia's largest naval academy — was described by Ibn Battuta in 1342 and Marco Polo in 1293, both of whom documented its importance as a Malabar Coast trading hub. The [Kavvayi Backwaters](/asia/india/kerala/payyanur/kavvayi_backwaters), 4 km from town, are the largest backwater system in northern Kerala and far less visited than the famous ones further south.
 
-** Payyanur is one of the ancient civilized places in Kerala. This north end town of Kerala claims a rich and glorious heritage . The archeological remaining excavated from Payyanur and nearby places prove the existence of a civilized city in this area centuries ago. 
-
-The famous travelers, who visited here, have described about this area in high words. The famous traveler Ibn Bathutha visited Ezhimala in AD 1342 and wrote about the big seaport and the Chinese ships anchored here. 1n AD 1273 Abul Fida and in AD 1293 the world famous traveler Marco Polo, and in 15th century the Italian traveler Nicholo Kondi also visited this place and had given a very good impression about Ezhimala port which was called by the name “Heli”. The Portuguese Scholar and traveler Barbosa who made lot of researches and studies on Kerala and its People had described a lot about this place. 
-
-More info:link to www.payyanur.com
+Payyanur's main draw for visitors is [theyyam](/asia/india/kerala/payyanur/theyyam) — the extraordinary ritual performance tradition of northern Kerala in which performers become deities through elaborate costume and ceremony. The season runs October to May, and the villages around Payyanur hold some of the most accessible and genuine performances in the region. The town is also known for Pavithra Mothiram (sacred ring-making) and traditional astrology.

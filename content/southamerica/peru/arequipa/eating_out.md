@@ -1,14 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-As with [Cuzco](/southamerica/peru/cuzco), the majority of Arequipa's eating establishments are centred around the Plaza de Armas, but unlike the former, these are not, by and large, the better of the city's eateries. Rather, the scenic square is mostly bordered by tacky theme restaurants on the eastern side, cheap cafes on the west. 
+Arequipa has one of the most distinctive regional cuisines in Peru. The classic dishes are heavy and assertive — **rocoto relleno** (the local hot pepper stuffed with spiced meat and baked with cheese), **chupe de camarones** (a chowder made from the river prawns of the Majes valley), **adobo arequipeño** (pork stewed in chicha overnight, traditionally a Sunday breakfast), and **ocopa** (boiled potatoes in a yellow sauce of fresh cheese, peanuts, and the herb *huacatay*). All of them turn up at the picanterías — old-school working-class lunch restaurants — that the city celebrates as a heritage tradition.
 
-Instead, the best of the bunch can be found running along Jerusalen, from the junction with Puente Grau to the north-east corner of the main square. A number of outstanding places, mostly on the western side of the street offer varied styles for fair prices - especially the neighbouring restaurants set back from the street between the junctions with Santa Maria and San Jose. Seafood and Italian respectively, they are seperated by a glass screen, allowing the nightly musician to play for both crowds. 
-
-Alternatively, Santa Catalina hosts a superb Creperie, with an extensive menu of varied and unusual toppings for only slightly above-average prices. 
-
-For cheaper, DIY eating, one can choose between a busy, lively (albeit slightly fragrant) market, three blocks south and three blocks east of the Plaza de Armas, or a small but useful Supermarket opposite the monastery on Santa Catalina.
-
-Minor corrections on 17 November 04
+The picanterías are mainly in Yanahuara and Sachaca, several reachable only by taxi. The best-known are Sol de Mayo, La Capitana, and La Nueva Palomino. In the centre, the side streets around Calle San Francisco and Calle Jerusalén have a denser concentration of restaurants than the plaza-front cafes. Avoid the latter unless you want to pay tourist prices for the view.
