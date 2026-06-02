@@ -1,11 +1,26 @@
 ---
-title: "Pakse"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-19'
+image: pakse.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Multiple_rows_of_golden_statues_of_the_Buddha_seated_with_flowers,_at_Wat_Phou_Salao,_Pakse,_Laos.jpg
 latitude: 15.120146
+loc_type: city
 longitude: 105.804397
+score: 0.54
+title: Pakse
+type: location
 ---
 
-**Pakse** is synonymous with Wat Phou like [Siem reap](/asia/cambodia/siemreap) is to [Angkor wat](/asia/cambodia/angkorwat). Wat Phou was built by the founder of the first Khmer empire, Jayavarman II. It is somewhat smaller than Angkor but still a rival to that ancient empire.
+Pakse is the largest city in southern Laos and the gateway to some of the country's most rewarding destinations. Sitting at the confluence of the Mekong and Se Don rivers, it is a practical base rather than a destination in itself -- but it has a pleasant enough riverside setting and decent food.
 
+The main draw is Wat Phu, the UNESCO-listed pre-Angkorian temple complex at Champasak, about 45 kilometres south. The oldest structures date from the 6th century, predating Angkor Wat by several hundred years. Set against a forested hillside, it is atmospheric and far less crowded than its famous Cambodian cousin.
 
- Wat Phou redates Angkor by 30 years but the two centres co-existed for much of their dominant periods. South East Asia's highest waterfall, Khong Phapeng, and many interesting islands on the Mekong River can be found near to Pakse. It is the capital of Champasak Province and unspoiled place for the travellers.
+From Pakse, you can also reach the Bolaven Plateau, a highland area known for waterfalls, coffee plantations, and cooler temperatures. The Tad Fane and Tad Yuang waterfalls are spectacular. A motorbike loop around the plateau is one of the best riding routes in Laos.
+
+Further south lies Si Phan Don (the 4,000 Islands), where the Mekong widens into a vast waterway of islands, rapids, and waterfalls near the Cambodian border. Buses and boats connect Pakse to Don Det and Don Khone, the main traveler islands.
+
+Pakse has an airport with flights to [Vientiane](/asia/laos/vientiane) and Bangkok, and is well connected by road to the Thai border crossing at Chong Mek and the Cambodian border at Dong Kralor.

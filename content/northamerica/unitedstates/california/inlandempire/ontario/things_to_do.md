@@ -1,13 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
-type: "general"
-latitude: 35.321009
-longitude: -83.237684
 ---
 
-### American Wilderness Zoo & Aquarium
-
-4557 Mills Cir. 91764 909/481-6604
-
-type: general
+Ontario's sights are scattered: the historic strip along Euclid Avenue downtown, the Graber Olive House just north of it, Cucamonga-Guasti Regional Park out near the airport, and the Toyota Arena and outlet mall to the south. None of it is walkable as a single loop — plan to drive.

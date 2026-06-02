@@ -1,12 +1,16 @@
 ---
-title: "Hill 62"
-type: location
+done:
+  location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-19'
 latitude: 50.834645
 longitude: 2.947232
+snippet: Preserved WWI trenches and museum in Sanctuary Wood
+tags:
+- things_to_do
+- war_memorial
+- museum
+title: Hill 62 (Sanctuary Wood)
+type: poi
 ---
 
-A memorial place for the first world war. The bombcraters and trenches are preserved. This 'Sanctuary Wood' can be a place for meditating the real world of the war, after the high-tech musea of Ieper ( [Ypres](/europe/belgium/ypres)).
-
-(adress: Canadalaan 26, Zillebeke)
-
-Minor corrections on 13 March 04
+A memorial site preserving original World War I trenches and bomb craters in Sanctuary Wood. Unlike the manicured cemeteries, this site gives a raw sense of the conditions soldiers endured. The small private museum alongside has a collection of artefacts and stereoscopic photographs from the war.

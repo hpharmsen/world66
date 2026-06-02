@@ -1,8 +1,12 @@
 ---
-title: "Muskoka"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.130701
 longitude: -79.383961
+title: Muskoka
+type: location
+score: 0.53
+loc_type: region
 ---
 
 Travel Guide

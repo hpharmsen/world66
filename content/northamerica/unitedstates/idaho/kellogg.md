@@ -1,23 +1,17 @@
 ---
-title: "Kellogg"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
+latitude: 47.5374
+loc_type: city
+longitude: -116.1246
+score: 0.35
+title: Kellogg
 type: location
-latitude: 41.717679
-longitude: -92.90735
 ---
 
-Travel Guide
+Kellogg is a former silver-mining town in the Silver Valley of Shoshone County, Idaho, about 36 miles east-southeast of Coeur d'Alene along Interstate 90. The town takes its name from Noah Kellogg, a prospector whose wandering jackass — legend holds — led him to a massive galena (silver-lead ore) outcropping in 1885. That discovery became the [Bunker Hill Mine and Smelting Complex](/northamerica/unitedstates/idaho/kellogg/bunker_hill_mine), which operated for nearly a century and made the Silver Valley one of the richest mining districts in the world.
 
-**Kellogg** is a city in the Silver Valley
-of Shoshone County, Idaho, United States, in the Idaho Panhandle region. The
-city lies near the Coeur d'Alene National Forest and about 36 miles
-(58 km) east-southeast of Coeur d'Alene along Interstate 90. As of the 2000
-census, the city had a total population of 2,395, down by nearly a third from
-its population in 1980.
+The mines closed in 1981 after catastrophic environmental contamination — the lead smelter left the valley heavily polluted, and the cleanup became one of the largest Superfund projects in US history. Today, Kellogg has reinvented itself as a resort town. [Silver Mountain Resort](/northamerica/unitedstates/idaho/kellogg/silver_mountain_resort), accessible by the world's longest single-stage gondola from downtown, has skiing and snowboarding in winter and mountain biking and hiking in summer. The gondola ride alone, rising nearly 3,400 feet, is worth taking for the views.
 
-Kellogg is named after a prospector
-named Noah Kellogg. Legend has it that his donkey wandered off during the
-morning of September 4, 1885; Kellogg found the animal at a large
-outcropping of galena, which became the site of the Bunker Hill and Sullivan
-Mines; those mines led to the founding of Kellogg, a city where a local sign
-reads "This is the town founded by a jackass and inhabited by his
-descendants." Noah Kellogg is buried in the city's cemetery.
+The surrounding [Coeur d'Alene National Forest](/northamerica/unitedstates/idaho/kellogg/coeur_dalene_national_forest) offers fishing, hiking, and camping. The [Miner's Hat](/northamerica/unitedstates/idaho/kellogg/miners_hat), a 1950s drive-in shaped like a giant mining helmet, is a National Register landmark that captures the town's heritage in a more cheerful form than the Superfund site next door.

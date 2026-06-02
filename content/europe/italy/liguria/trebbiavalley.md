@@ -1,12 +1,24 @@
 ---
-title: "Trebbia valley"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+latitude: 44.549
+loc_type: region
+longitude: 9.217
+score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Monte_Alfeo
+- https://en.wikipedia.org/wiki/Trebbia
+title: Trebbia Valley
 type: location
+image: trebbiavalley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Trebbia_Valley_-_Brugnello,_Corte_Brugnatella,_Piacenza,_Italy_-_May_30,_2020.jpg
+image_license: CC BY 4.0
+image_attribution: Giorgio Galeotti
 ---
 
-Just outside Genoa, you go up to the neraby hills, passing Torriglia near to the Scrivia valley and following the ss45 you fund yourself in this small, narrow but fascinating valley. Descending the upper part of this valley you find the important village of Montebruno a well known holiday resort with also a famous historical background. He is most famous for its Sanctaury of Nostra Signora but there is also a very important roman bridge, a passage for the Ligurian pilgrims and the High Way of the Ligurian Mountains. It has also an interesting folk museum. Montebruno is also famous to have been the landing place of Sophie Blanchard and gained recently national importance to have elected the youngest mayor in Italy. From here you can go to Barbagelata The hamlet of Barbagelata (1 1 15 rn) is a summer resort. the uppper village of the Ligurian Mountains
+Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia and you find yourself in a small but genuinely beautiful mountain landscape that most visitors to the Ligurian coast never reach.
 
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
+The village of Montebruno is the main settlement in the upper valley, known for its [Sanctuary of Nostra Signora](/europe/italy/liguria/trebbiavalley/montebruno_sanctuary), a pilgrimage church with centuries of accumulated ex-votos on its walls and a Roman bridge nearby that was once the passage point for Genoese pilgrims crossing the Apennines. Higher up, the hamlet of [Barbagelata](/europe/italy/liguria/trebbiavalley/barbagelata) at 1,100 metres sits on the [Alta Via dei Monti Liguri](/europe/italy/liguria/trebbiavalley/alta_via_dei_monti_liguri), the long-distance ridge walking route that crosses the Ligurian mountains from the French border to La Spezia.
 
- pelos@tn.village.it
-
- http://www.pelos.it
+The valley is quiet, green, and largely unvisited by tourists. In summer, Genoese families come up for the weekend to [swim in the Trebbia River](/europe/italy/liguria/trebbiavalley/trebbia_river_swimming) — the pools between the rocks are clear and cold, the exact opposite of the crowded coast below. It is a good escape for anyone based in Genoa who wants mountains instead of beaches.

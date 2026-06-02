@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-gfh
-
-We currently have no Things to do listed in Sopot.
-
-If you do know any Things to do in Sopot, please [Add].
+Sopot's pleasures are mostly outdoor and pedestrian-paced: walking the Molo, strolling Monte Cassino Street, swimming or sunbathing on the beach. The city is small enough to cover on foot in a day, but the good-time atmosphere makes it easy to linger longer.

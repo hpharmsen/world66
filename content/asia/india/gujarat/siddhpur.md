@@ -1,18 +1,21 @@
 ---
-title: "Siddhpur"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: siddhpur.jpg
+image_attribution: Snehrashmi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Havelis_or_medieval_homes_of_Dawoodi_Bohra_at_Siddhpur.jpg
 latitude: 23.918279
+loc_type: city
 longitude: 72.368185
+score: 0.39
+title: Siddhpur
+type: location
 ---
 
-Travel Guide
+Not popular with tourists, this quiet little town was once a capital of Gujarat. Its past grandeur is visible in the **Rudra Mahalaya**, now in ruins but once said to have been a seven-storey structure of stone and wood. The monument is not officially open, but you can usually walk inside with the guard's informal permission.
 
-Not very popular with tourists, local or outside, this little quiet town was once capital of Gujarat. its past grandeure is visible in Rudramal` now in ruins, once it is said to be a seven storey structure with stone and perhaps wood.
+The most interesting reason to visit Siddhpur is the **Bohra Vads** -- the residential quarter of the Dawoodi Bohra Muslim community. These houses were built over a hundred years ago by traders who settled abroad but sent money home to build grand residences. The European influence is unmistakable in the facades and decoration, and the unique streetscapes feel unlike anywhere else in Gujarat. Since most owners now live outside the country, the streets are remarkably empty -- very unusual for an Indian town.
 
-Though this monument is not easily accessible (entry in premises prohibited and photogtaphy not allowed) one can walk inside informally with guard's permission.
-
-Yet, most interesting factor for Siddhpur to claim tourist attention is its bohra wads. the residential areas of Muslim Bohra community. Bohra houses were built perhaps more than a hundred years by the trader community people who settled abroad, but sent money to build house in their native. a clear european influence is visible on facÃ des and deoration as well as its unique streets. since most of the owners resie outside the country, one finds the streets quite empty, very unusual for indian streets.
-
-Siddhpur also has interesting local bazaar street.
-
-Sidhpur can be visited in a day trip from ahmedabad, and also can be combined with modhera and patan on same route.
+Siddhpur also has an interesting local bazaar street. It can be visited as a day trip from [Ahmedabad](/asia/india/gujarat/ahmedabad), combined with [Modhera](/asia/india/gujarat/modhera) and [Patan](/asia/india/gujarat/patan) on the same route.

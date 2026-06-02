@@ -1,10 +1,21 @@
 ---
-title: "Achiltibuie"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
 latitude: 58.020077
+loc_type: city
 longitude: -5.343004
+score: 0.51
+title: Achiltibuie
+type: location
+image: achiltibuie.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2011_Schotland_Achiltibuie_2-06-2011_13-27-05.png
+image_license: CC BY-SA 3.0
+image_attribution: Paul Hermans
 ---
 
-Achiltibuie is a straggling village on the western coast of Scotland north of [Ullapool](/europe/unitedkingdom/scotland/ullapool)which supplies glorious views over the Summer Isles. There are trips to these islands at times in the summer season although only one is inhabited. The road is long and winding and the owners of lochs near the side do NOT welcome swimmers! It passes the feet of Cul Beag and Stac Pollaidh.
+Achiltibuie is a scattered village on the far northwest coast of Scotland, north of [Ullapool](/europe/unitedkingdom/scotland/ullapool), with glorious views across to the Summer Isles. The road out there is long and winding — it passes between Cul Beag and [Stac Pollaidh](/europe/unitedkingdom/scotland/achiltibuie/stac_pollaidh), two of the most distinctive mountains in Assynt — and that remoteness is much of the point. The landowners along the route are not welcoming to swimmers in their lochs, so stick to the coast.
 
-Possibly even more scenic, with the most beautiful shoreline scenes is the narrow, twisting road from Lochinver, where all but the manic drive slowly!
+In summer, [boat trips](/europe/unitedkingdom/scotland/achiltibuie/summer_isles_boat_trips) run out to the Summer Isles archipelago. Only one island is inhabited — [Tanera Mòr](/europe/unitedkingdom/scotland/achiltibuie/tanera_mor) — but the wildlife — seabirds, seals, the occasional dolphin — makes the trip worthwhile.
+
+The alternative approach from [Lochinver](/europe/unitedkingdom/scotland/lochinver) to the north is arguably even more dramatic, with some of the finest coastal scenery in Scotland squeezed into a narrow, twisting single-track road.

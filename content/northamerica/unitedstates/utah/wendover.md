@@ -1,16 +1,20 @@
 ---
-title: "Wendover"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: wendover.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2013-07-04_14_10_07_View_of_West_Wendover_in_Nevada_from_a_hill_to_the_west.jpg
+image_license: CC BY-SA 3.0
+latitude: 40.7376
+longitude: -114.0314
+title: Wendover
 type: location
-latitude: 40.737597
-longitude: -114.03142
+score: 0.33
+loc_type: city
 ---
 
-Travel Guide
+Wendover is a small community on the Utah–Nevada border, sitting at the edge of the Great Salt Lake Desert in one of the most desolate and strangely beautiful landscapes in North America. The town's twin across the state line, West Wendover in Nevada, is a casino strip that draws Utahns looking for gambling, but the real draw here is the salt flats.
 
-Wendover is a small community located in an incredibly desolate and wonderfully bleak area. Right on the edge of the Great Salt Lake Desert, Wendover's primary claim to fame is its proximity to Wendover, Nevada, the first casino town that the lonely highway traveler encounters after leaving Utah.
+The [Bonneville Salt Flats](/northamerica/unitedstates/utah/wendover/bonneville_salt_flats), a vast expanse of blindingly white salt stretching to the horizon, are home to the sport of extreme high-speed racing — land speed records have been set here since the 1930s, and Speed Week each August still draws racers from around the world. Nearby [Danger Cave](/northamerica/unitedstates/utah/wendover/danger_cave), formed by the waves of ancient Lake Bonneville, contains archaeological evidence of human habitation going back 12,000 years to the end of the last Ice Age.
 
-But there's more to this region than slot machines. The salt flats are one of the most intriguing landscapes in North America, and home to the sport of extreme high speed racing. Many land speed records have been set on the white expanses of salt.
-
-Nearby Pilot Peak was a landmark for travelers in the 19th century, and the ill-fated Donner Party passed through the area in 1846. Pilot Peak is one of the tallest mountains in terms of its height (over 10,000 feet) above the surrounding terrain. Hikers and climbers are welcome since the mountain is on Bureau of Land Management public lands.
-
-More recently, the military established an air base for bomber training in world war II, and the nearby deserts are still home to training ranges for military aircraft.
+During World War II the military established an air base here for bomber training. The [Historic Wendover Airfield](/northamerica/unitedstates/utah/wendover/historic_wendover_airfield) is where the crew of the Enola Gay trained for their mission over Hiroshima — it is the best-preserved WWII Army Air Force base in the United States. A few miles east on I-80, the sculptor Karl Momen's [Metaphor: The Tree of Utah](/northamerica/unitedstates/utah/wendover/metaphor_tree_of_utah) rises 27 metres from the empty desert, a psychedelic ceramic tower that has baffled and delighted drivers for decades.

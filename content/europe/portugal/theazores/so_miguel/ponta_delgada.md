@@ -1,11 +1,22 @@
 ---
-title: "Ponta Delgada"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+image: ponta_delgada.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-29,_DD_126-128_HDR.jpg
 latitude: 37.73934
+loc_type: city
 longitude: -25.66895
+score: 0.65
+title: Ponta Delgada
+type: location
 ---
 
-Travel Guide
+Ponta Delgada is the administrative capital of the Azores and the main gateway to the archipelago. Most visitors arrive here first and spend a day or two before fanning out across São Miguel and the other islands — and the city rewards the pause.
 
-Ponta Delgada is the administrative capital of the Azores. The city itself is not enough reason to visit the islands, but it is the starting point for most visitors and worth one or two days of walking around. It is situated on the southern shore of São Miguel with the busy Avenida Infante dom Henrique along the sea. The old fort (castelo) with its oldest parts from the 16 th century is at one end of the avenue. The tourist office is at the same avenue and that is also where all buses leave for different destinations around the island.
-The city centre is found on the slope with narrow streets bordered by numerous small shops and quite a number of good resaurants. Here are also a couple of old churches, the main one named after São Sebastião.
+The seafront Avenida Infante Dom Henrique anchors the town. The old fort at one end dates to the 16th century; the tourist office is along the same avenue, as are the bus stops for routes around the island. Behind the waterfront the city climbs a gentle slope through a grid of narrow streets lined with whitewashed buildings trimmed in black volcanic basalt — the distinctive Azorean style you'll see throughout São Miguel.
+
+The centre is compact and walkable. The main square, Praça do Município, is flanked by the town hall, the bishop's palace, and the Igreja Matriz de São Sebastião, a late Gothic church with an elaborately carved doorway. A short walk away the Portas da Cidade — three ceremonial archways — stand as the symbolic entrance to the old town. Small shops, bakeries, and good restaurants fill the surrounding streets.
+
+One afternoon is enough to cover the main sights on foot; an evening adds a chance to eat well and explore the bars around the marina. The tourist office is well-stocked and the staff speak English — worth a stop before you head out to the rest of the island.

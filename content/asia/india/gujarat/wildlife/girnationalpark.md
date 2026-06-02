@@ -1,29 +1,18 @@
 ---
-title: "Gir National Park"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 21.1243
+longitude: 70.7932
+title: Gir National Park
 type: location
-address: "Deputy Conservator of Forests, Sasan"
-phone: "+91-2877-85541"
-type: "general"
+score: 0.58
+loc_type: feature
 ---
 
-Gir today is the only place in the world, outside Africa, where the lion can be seen in its natural habitat.From Biblical times till a hundred years ago, the Asiatic lion roamed over a vast area ranging from Greece through West Asia to Bengal and Bihar.The last lion seen outside Gir was in 1884, and the king of the jungle has taken his final refuge in Gir.Even in Gir the number of lions had dwindled to as low as just 15 around 1910. Serious and timely protection measures have raised their numbers to just over 300.
-The Gir lion is majestic animal, averaging 2.75 meters in length, and with a bigger tail tassel, bushier elbow tufts and prominent belly folds than his African cousin which has a larger mane. He is more shaggy and a lighter brown colour than the African lion, but the two have similar habits – resting in the shade by day and hunting for food after dusk.
-** Gir is the only place in the World, outside of Africa, which offers total protection to this majestic animal **
+Gir National Park is the last home of the Asiatic lion. Once ranging from Greece through the Middle East to eastern India, the species was hunted to near-extinction by the early twentieth century -- by 1910, fewer than 15 lions survived, all of them here in the dry deciduous forests of Gujarat's Saurashtra peninsula. Sustained protection has brought their numbers back above 600, and Gir remains the only place on earth outside Africa where you can see lions in the wild.
 
-Though known the world over mainly for its lions, Gir is one of the few remaining forests comprising diverse habitats – open scrub country, dry deciduous and tropical thorn forest and an evergreen corridor along the river sides. The forest also harbours a variety of birds. Other main predators are the powerful panther and the striped hyena. Sambar, the largest Indian deer, chital (spotted deer), nilgai (blue bull), chinkara and the unique chowsingha (four-horned antelope) are among the ungulates found here. Another attraction is tha crocodile farm developed in forest as well as Kamleshwar dam where large populations of marsh crocodiles can be seen.
+The park covers 1,412 square kilometres of rugged, hilly terrain draped in teak and acacia forest, cut through by seasonal rivers lined with evergreen corridors. The lions share this landscape with leopards, striped hyenas, sambar deer, chital, nilgai, and the rare four-horned antelope. A crocodile breeding program at Kamleshwar Dam has established a healthy population of marsh crocodiles, easily spotted basking along the reservoir's banks.
 
-It is said that had Gir not been a lion sanctuary, it would have been termed one of the finest bird sanctuaries in Gujarat . Some of the typical birds of Gir are the creasted serpent eagle, creasted hawk eagle, brown fish owl, king vulture, jungle bush quail, painted sandgrouse, paradise fly catcher, white breasted minivet, pigmy woodpecker, black headed oriole, creasted swift and pitta. Adholia, Valadara, Ratanghuna and Pilipat are places rewarding for bird watching.
+Gir is also a superb birding destination. Crested serpent eagles, crested hawk-eagles, brown fish owls, king vultures, paradise flycatchers, and Indian pittas are all resident. The areas around Adholia, Valadara, Ratanghuna, and Pilipat are particularly rewarding for birdwatching.
 
-In the heart of the forest and 96 km. from Sasan, is Tulsishyam where hot springs are a special attraction. The famous Somnath 13 km.from Sasan, is a unique village where people from the African origin live. Known as the siddis, they were originally brought here by the Nawab of Junagadh for forestry work, but now have been declared an Indian tribe. Kamleshwar dam, in scenic surroundings is just 12 km. Away.from Sasan, is a representative area which is Gir in microcosm. For a tourist in a hurry, this is the best place to visit as wildlife viewing is a certainty. This area is called the Gir Interpretation Zone-Devalia. The facility remains closed every Wednesday. ** Contact ** : Deputy Conservator of Forests, Gir National Park , Sasan, Phone : 02877-85541.
-** Accomodation ** : Forest Guest House at Sasan Gir. The Taj Gir lodge. Phone : 02877-85521,
-02877-85555, 079-6560338 at Ahmedabad.
-
-type: general
-
-
-
-
-
-address: Deputy Conservator of Forests, Sasan
-
-tel: +91-2877-85541
+The park's main base is the village of Sasan Gir, where jeep safaris depart twice daily. If you are short on time, the Gir Interpretation Zone at Devalia, 12 km from Sasan, offers a fenced area where wildlife sightings are virtually guaranteed -- though it is closed on Wednesdays. The best time to visit is December through April, when the dry season concentrates animals around water sources and visibility through the thinning forest improves.

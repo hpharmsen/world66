@@ -3,8 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-In Zagreb you can rent-a-bike at Sputnik rent-a-bike. It is located in Gundulićeva street 39 (in the yard), in the very center of the city, just five minutes from Main Railway station, as well as from the Main square - Ban Jelačić square.
+The centre is small, flat, and entirely walkable: Ban Jelačić Square is a fifteen-minute walk from the train station, ten from the cathedral, five from Dolac. You will need transport only to reach Mirogoj Cemetery, Maksimir Park, the Medvednica cable car, or the more distant suburbs.
 
-Zagreb is ideal for bike sightseeing, many people find it more convenient than cars or trams, as it is mostly flat with wide streets. You can also leave your luggage at Sputnik for free while you are cycling, and enjoy your ride!
+**Trams.** ZET's blue trams are the city's signature. Fifteen lines crisscross the city with frequent service from before 5am until just after midnight, then night buses take over. Single tickets are bought from kiosks or at machines on board; validate when you enter. Day passes are available.
 
-Hope to see you, enjoy your trip!
+**Funicular.** The 66-metre funicular connects the Lower Town with the Upper Town in just under a minute. Tickets are cheaper than a tram ticket and good for one ride.
+
+**Bikes.** The centre is mostly flat; the city's bike-share scheme (Next Bike) has stations all over the centre. Beware that the Upper Town and the route up to Medvednica are steep.
+
+**Taxis.** Cheaper than most European capitals. Uber and Bolt both operate in the city.

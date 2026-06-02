@@ -1,16 +1,15 @@
 ---
-title: "Joensuu"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+latitude: 62.6006
+loc_type: city
+longitude: 29.762
+score: 0.44
+title: Joensuu
 type: location
-latitude: 62.600637
-longitude: 29.761976
 ---
 
-It used to be a small rural town, but thanks to the construction of the Samaai Canal it became one of the most important harbour cities in the Karelia province of Finland. Due to its strategic location, it serves as an important foreign trade centre and is focused on former Russia.
+Joensuu is the main city of North Karelia, sitting on the Pielisjoki river near Lake Pyhaselka in eastern Finland. It is a compact university town with a lively student population that keeps things affordable and gives the city more energy than its modest size suggests.
 
-
- The city has one university, Universitas Ostiensis, that attracts students from all over the region. Worth visiting are the town hall, a typical example of Saarinen's architecture, the Neogothic church and the Modern Museum of History and culture. The Perhos-Botania University Botanical Gardens give a 'lively' illustration of habitats from all over the world and some very good hiking tracks can be found just outside town. 
- 
-
-## Destinations in Joensuu
-
-[polvijärvi](/europe/finland/joensuu/polvijrvi)
+The [City Hall](/europe/finland/joensuu/joensuu_city_hall), designed by Eliel Saarinen and completed in 1914, is a masterpiece of Finnish National Romantic architecture and the city's finest building. The [North Karelia Museum](/europe/finland/joensuu/north_karelia_museum) covers the region's complex history, including the painful evacuations after the Continuation War. [Botania](/europe/finland/joensuu/botania), the university botanical garden, holds one of the world's northernmost tropical butterfly houses — a genuinely surreal experience on a cold Finnish day. [Koli National Park](/europe/finland/joensuu/koli_national_park), an hour's drive north, has the most celebrated view in Finland, the landscape that inspired Sibelius and the national painters. The [Ilosaarirock festival](/europe/finland/joensuu/ilosaarirock) in July is one of Finland's oldest and best-loved rock festivals, drawing 50,000 visitors to the riverside grounds.

@@ -1,7 +1,6 @@
 ---
-title: "Getting There"
-type: section
-type: "By Sea"
+title: Getting There
+type: poi
 ---
 
 Choose one of the three entirely different crossings to get to the Dutch Wadden Islands
@@ -47,7 +46,7 @@ Minor corrections on 13 March 05
 
 For the Ferry to ** Texel island**](/europe/netherlands/waddenislands/getting_there/ferry_crossings), drive to Den Helder harbour, or take a direct train from Amsterdam.
 
-For the Ferries to **[Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there) & [Terschelling island](/europe/netherlands/waddenislands/terschelling_islan/getting_there)**, drive to Harlingen harbour, or take a direct train from Amsterdam to Leeuwarden > change train to Harlingen harbour .
+For the Ferries to **[Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there) & [Terschelling island](/europe/netherlands/waddenislands/terschelling/getting_there)**, drive to Harlingen harbour, or take a direct train from Amsterdam to Leeuwarden > change train to Harlingen harbour .
 
 For the Ferry to [** Ameland island**](/europe/netherlands/waddenislands/ameland_island/getting_there),
 drive to Holwerd harbour, or take a direct train from Amsterdam to Leeuwarden > direct bus to

@@ -1,8 +1,22 @@
 ---
-title: "Nepal"
+title: Nepal
 type: location
 latitude: 28.378046
 longitude: 83.99999
+image: nepal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alpenglow_on_Everest.jpg
+image_license: CC BY 2.0
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/35278629@N08">NASA
+  Goddard Space Flight Center</a>
+quick_facts:
+  Population: "30 million"
+  Best Trekking: "Oct–Nov (clear skies, dry trails)"
+  Peaks Over 8,000m: "8 of the world's 14"
+  Elevation Range: "60m to 8,849m"
+done:
+  country_cleanup: 2026-03-29
+score: 0.76
+loc_type: country
 ---
 
 Travel Guide

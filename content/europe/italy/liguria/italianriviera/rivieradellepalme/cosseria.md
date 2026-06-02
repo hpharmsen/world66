@@ -1,24 +1,19 @@
 ---
-title: "Cosseria"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: cosseria.jpg
+image_attribution: Pampuco
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Cosseria_03.png
 latitude: 44.367716
+loc_type: city
 longitude: 8.234808
+score: 0.35
+title: Cosseria
+type: location
 ---
 
-An agricultural center on the northern side of
- the Ligurian Appennines, situated on the ridge
- that separates the upper valleys of the two
- Bormidas. Most of the territory is sparsely
- settled. Mentioned in a diploma of Otto I in
- 967, it came into the possession of the marchesi
- di Clavesana in the twelfth century and later
- passed to the Del Carretto. It was the site of an
- important medieval castle, the “castrum Crucis
- Ferraee,” of which the entrance gate, a
- substantial section of the walls and part of the
- keep still stand guard over the pass of
- Montecala. The parish church of the
- Immacolata was rebuilt in 1656-60 and restored
- in 1831. It has a fine rose window at the front.
- The main agricultural products of the area are
- vegetables and fodder for the raising of cattle.
+Cosseria is a small agricultural commune on the northern slope of the Ligurian Apennines, sitting on the ridge between the upper valleys of the two Bormidas rivers. The territory is sparsely settled, with the economy based on vegetables and cattle.
+
+The village has medieval roots: it is mentioned in a diploma of Otto I in 967, and was held successively by the Marchesi di Clavesana and the Del Carretto family. The ruins of a medieval [castle](/europe/italy/liguria/italianriviera/rivieradellepalme/cosseria/castello_di_cosseria) — the Castrum Crucis Ferrae — still stand at the Montecala pass, with the original entrance gate, sections of the walls, and part of the keep surviving. The [parish church of the Immacolata](/europe/italy/liguria/italianriviera/rivieradellepalme/cosseria/chiesa_immacolata), rebuilt in 1656–60 and restored in 1831, has a fine rose window.

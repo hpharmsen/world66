@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-### Fern Cottage
-
-2121 Centerville Rd. 95536 707/786-4835
+Ferndale's main attraction is the town itself — specifically its main street, lined with extraordinarily well-preserved Victorian commercial and domestic buildings. Walk slowly, look up at the cornices and brackets, and you'll understand why the whole town is a California State Historic Landmark. Beyond architecture, the appeal is the Lost Coast to the west and the Eel River valley to the south.

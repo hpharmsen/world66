@@ -1,22 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
-type: "By Air"
 ---
 
-Here are a few suggestions on how to reach Tegucigalpa.
+**By air:** Most visitors fly in through Toncontín International Airport, located 6 km south of the city centre. The approach is famously difficult — the runway is short and surrounded by hills — which limits the aircraft types that can use it. Flights from North America typically connect through San Salvador, Panama City, or Houston. A new international airport, Palmerola, opened in 2021 about 80 km north of the city and handles some international flights, requiring a longer ground transfer.
 
-**Contributors**
-March 14, 2005
+**By bus:** International buses from Guatemala City, San Salvador, Managua, and San José arrive at the modern bus terminal in Comayagüela (the sister city, just across the river). Domestic buses cover the main Honduran cities.
 
-### [TGU - Tegucigalpa's Toncontin International Airport](/northamerica/honduras/tegucigalpa/getting_there/tgu__tegucigalpa)
-
-Tegucigalpa airport is located about 7 Km from the city center on the south side of Tegucigalpa. Incoming passengers don't pay departure tax unless their connections are more than 8 hours apart.
-
-The airport has been upgraded in recent years, and pilots flying in on commercial airlines have been especially trained for special landings. TGU is at about 980 meters above sealevel and sourounded by mountains; it is amazing how pilots handle the landings so smoothly and safely. Larger aircraft (737-700's and 757s) come in high over the [more..](/northamerica/honduras/tegucigalpa/getting_there/tgu__tegucigalpa)
-
-type: By Air
-
-
-
-[[rate it]](/northamerica/honduras/tegucigalpa/getting_there/tgu__tegucigalpa)
+**By road:** The Pan-American Highway connects Tegucigalpa to San Salvador (5–6 hours) and to the Nicaraguan border. Internal road connections link to San Pedro Sula (3.5–4 hours) and the coast.

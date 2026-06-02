@@ -1,9 +1,8 @@
 ---
-title: "Things to do in Alexandria"
+title: "Things to Do"
 type: section
 ---
 
-Visitors new to Alexandria should take advantage of one of the most helpful of Alexandria activities. A visit to the Ramsay House Visitors Center will yield so many maps, brochures and booklets that inform tourists about the area and its top attractions and activities as well as tours. The house itself is historic and is the oldest house in Alexandria. It was built by the founder of Alexandria, William Ramsay, and has been beautifully restored. It has a special gambrel roof and a wonderful porch that has impressive views of the Potomac and is certainly a place to visit.
+Old Town Alexandria is compact and walkable, with most of the main sights within a few blocks of each other. The colonial and Revolutionary-era history is the main draw, though the African American heritage sites are equally important and often overlooked.
 
-**Contributors**
-May 28, 2009
+The key historic sites are [Christ Church](/northamerica/unitedstates/virginia/alexandria/christ_church) — where Washington worshipped — [Gadsby's Tavern](/northamerica/unitedstates/virginia/alexandria/gadsbystavern), and the [Friendship Firehouse](/northamerica/unitedstates/virginia/alexandria/friendship_firehouse). The [Alexandria Black History Museum](/northamerica/unitedstates/virginia/alexandria/alexandria_black_history_museum) is essential context for the fuller story of the city. For the best single afternoon, walk King Street from the waterfront to the historic district, stopping at whatever catches you.

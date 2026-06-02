@@ -1,18 +1,16 @@
 ---
-title: "Midura"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: midura.jpg
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/64073077@N06/54190330743
+latitude: -34.1834
+loc_type: city
+longitude: 142.1628
+score: 0.43
+title: Mildura
 type: location
-latitude: -34.183355
-longitude: 142.162799
 ---
 
-Travel Guide
-
-Delight in the contrast between outback solitude and the joyous
-celebrations of a vibrant culture. Notice how an afternoon will
-lengthen into the evening when the food is fine and the weather is
-warm. Mildura is the perfect place to indulge the senses and live life
-to the full.
-Mildura and the surrounding towns of Red Cliffs, Irymple,Merbein, Gol
-Gol, and Buronga have an unmistakable cosmopolitan flavour thanks to a
-multicultural society, mouth watering local foods and wines, a healthy
-arts culture and a busy year round calendar of events.
+Mildura sits on the Murray River in Victoria's far northwest, where the outback meets irrigated orchards and vineyards. The region has a warm, dry climate and a surprisingly cosmopolitan feel thanks to its multicultural population and thriving food and wine scene. The surrounding towns of Red Cliffs, Irymple, and Merbein are part of a productive agricultural belt known for citrus, dried fruits, and wine grapes.

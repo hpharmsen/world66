@@ -1,21 +1,6 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
-address: "India"
-email: "sales@allindiaflorist.com"
-phone: "00919897064001"
-type: "Shopping centers and malls"
-url: "www.allindiaflorist.com"
-latitude: 22.351115
-longitude: 78.667743
 ---
 
-http://www.allindiaflorist.com/flowers-to-kolkata.htm
-
-### [http://www.allindiaflorist.com/flowers-to-kolkata.htm
-
-http://www.allindiaflorist.com/flowers-to-kolkata.htm](/asia/india/westbengal/calcutta/shopping/httpwwwallindi)
-
-All India Florist send flowers to Kolkata. Send local florists gifts to Kolkata. Online flower delivery of fresh cut flowers floral arrangements, cakes, chocolate and other gifts to Kolkata for wedding anniversary or birthday the same day at low prices
-
-type: Shopping centers and malls
+Kolkata is an outstanding city for book lovers and for anyone interested in Bengali crafts. College Street is the undisputed star — an entire neighbourhood built around books, from rare antiquarian finds to cheap paperbacks. For textiles, the New Market near Esplanade is a labyrinthine covered bazaar where you can find everything from saris to spices. Kumartuli and Kalighat are the places to look for clay idols and religious art.

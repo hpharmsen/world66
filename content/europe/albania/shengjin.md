@@ -1,13 +1,15 @@
 ---
-title: "Shengjin"
-type: location
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 41.809783
 longitude: 19.598976
+snippet: Long grey-sand beach near Lezha backed by wind-bent pines
+tags:
+- things_to_do
+- beach
+- beaches
+title: Shengjin
+type: poi
 ---
 
-Travel Guide
-
-At www.shengjin-hotels.com Now it is easy to find your favority hotel in Shengjin Beach, we offer
-in Shengjin area Hotels in Shengjin with description, location, photos
-gallery and also price. We Cooporate with 4 beach hotelsand hotel, all
-of those hotels are very good furnished and has experience in Tourism.
+Shengjin (St. John) is the beach town near Lezha. There is a long beach where you can walk far to the south to isolated and beautiful areas. The wind-bent pines over the dark gray sand provide a lovely backdrop for your watermelon picnic. Eat in Lezha at the Restaurant Florida, and take the bus to Shengjin from the lot across the bridge on the main road (Rruga e Deshmoreve).

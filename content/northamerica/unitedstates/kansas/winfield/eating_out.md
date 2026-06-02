@@ -1,34 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-accessibility: "Good accessibility on the Main north and south street."
-address: "1400 Main St, Winfield, KS 67156"
-phone: "(620) 229-2278"
-price: "Family pricing"
-type: "Italian"
-latitude: 37.234966
-longitude: -96.996651
 ---
 
-Many kinds of food, from fast burgers to great steaks, can be found in Winfield, Kansas.
+Winfield's food scene is small-town Kansas: diners, barbecue, a few Mexican kitchens, and the chain stops along Main Street and US-77. The downtown lunchspots — including burger-and-shake counters and an old soda fountain — are the more characterful options.
 
-**Contributors**
-December 08, 2006
-
-### [Captain Tony's Pizza](/northamerica/unitedstates/kansas/winfield/eating_out/captain_tonys_piz)
-
-The lunch buffet at Captain Tony's Pizza is one of the best around.
-
-type: Italian
-
-
-
-[[rate it]](/northamerica/unitedstates/kansas/winfield/eating_out/captain_tonys_piz)
-
-accessibility: Good accessibility on the Main north and south street.
-
-tel: (620) 229-2278
-
-address: 1400 Main St, Winfield, KS 67156
-
-PriceOfMenu: Family pricing
+During the Walnut Valley Festival, food vendors set up around the fairgrounds and barbecue smoke drifts through the whole west side of town. Festival fans come back year after year for particular trailers — get there before the dinner-time queue.

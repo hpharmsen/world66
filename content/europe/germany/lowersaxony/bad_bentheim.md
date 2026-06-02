@@ -1,10 +1,14 @@
 ---
-title: "Bad Bentheim"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.307033
 longitude: 7.116182
+title: Bad Bentheim
+type: location
+score: 0.44
+loc_type: city
 ---
 
-Bad Bentheim is a spa resort ("Kurort") just across the border at Oldenzaal in the Netherlands. It is an old town with a castle that dominates the view. The town itself - apart from the castle is not really interesting. It does have a nice open-air theatre in summer, however. It also has a spa area (Kurpark) and has some of the most beautiful and most extended forested area in Germany.
+Bad Bentheim is a spa town (Kurort) in Lower Saxony, close to the Dutch border near Oldenzaal. The sandstone [Bentheim Castle](/europe/germany/lowersaxony/bad_bentheim/bentheim_castle) on the hill above town is the dominant landmark and one of the best-preserved medieval castles in northwest Germany. The town itself is pleasant but unremarkable beyond the castle — there is a [Kurpark](/europe/germany/lowersaxony/bad_bentheim/kurpark) with an open-air theatre used in summer, and access to some of the most extensive forested areas in the region.
 
-Bad Bentheim is very popular with Dutch tourists, who make tours from there into the Teutoberg Forest (Teutoberger Wald) and cities like Münster and Osnabrück.
+Dutch visitors make up a large share of the tourists here, using it as a base for day trips to the Teutoburg Forest, Münster, and [Osnabrück](/europe/germany/lowersaxony/osnabrck). The nearby village of Gildehaus, part of the Bad Bentheim municipality, has a curious [Reformed church](/europe/germany/lowersaxony/bad_bentheim/gildehaus_reformed_church) whose detached tower comes with a satisfying local legend involving the devil.

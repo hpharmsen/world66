@@ -1,8 +1,12 @@
 ---
-title: "Santa Rosa"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.440492
 longitude: -122.714105
+title: Santa Rosa
+type: location
+score: 0.44
+loc_type: city
 ---
 
 Travel Guide

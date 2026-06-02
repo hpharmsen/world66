@@ -1,10 +1,6 @@
 ---
-title: "Eating Out in Bergen"
+title: Eating Out
 type: section
 ---
 
-ahhh
-
-We currently have no Eating Out listed in Bergen.
-
-If you do know any Eating Out in Bergen, please [Add].
+Bergen's restaurant scene is strong for a city of its size, with particular strengths in seafood — unsurprisingly given its fishing heritage. Prices are Scandinavian, which is to say high by most standards, but the quality is generally good. The fish market is the obvious starting point for cheap, fresh seafood eaten outdoors.

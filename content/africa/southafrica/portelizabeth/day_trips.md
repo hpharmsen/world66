@@ -1,55 +1,12 @@
 ---
-title: "Day Trips in Port elizabeth"
+title: Day Trips
 type: section
+linked_locations:
+  - africa/southafrica/addo_elephant_national_park
 ---
 
-No visit to Port Elizabeth is consummated without a trip to its
-surrounding wildlife parks, thrilling game reserves and picturesque
-beaches. Here are some fantastic day trip options from the charming
-South African hotspot, which are guaranteed to magnify the pleasure and
-adventure quotient.
+The single most compelling reason to base yourself in Port Elizabeth is [Addo Elephant National Park](/africa/southafrica/addo_elephant_national_park), an hour's drive north-east on good tarred roads. Addo holds more than 600 elephants in dense spekboom thicket — the highest density of elephants anywhere in South Africa — along with black rhino, buffalo, lion, and leopard. Unusually, the offshore marine protected area also contains Southern right whales and great white sharks, which is why Addo claims the "Big Seven" rather than the standard Big Five. You can enter on a day ticket and self-drive the main loop roads; most visitors see elephants within the first twenty minutes.
 
-**Addo Elephant National Park**
+Beyond Addo, the private reserves of **Shamwari**, **Kariega**, and **Kwandwe** lie within an hour to an hour and a half of PE. These offer all-inclusive Big Five safaris with guided game drives — they're significantly more expensive than self-driving Addo, but the guiding is outstanding and the accommodation is beautiful. A day visit with two game drives is the usual format for those not staying overnight.
 
-This one’s a super exciting destination that has witnessed one of
-the most successful conservation programs in the region. Located at a
-distance of approximately 50 kilometers from Port Elizabeth, the Adddo
-Elephant National Park is a great place to glimpse a large herd of the
-gigantic mammals and view interesting snapshots of their daily routine.
-Apart from the elephants, you'll view a bevy of other mammals like the
-wild dog and the wild buffalo along with diverse species of indigenous
-and migratory birds.
-
-**Kariega Reserve**
-
-Located a few kilometers from Port Elizabeth, the Kariega Park is an
-exciting big game reserve that offers generous opportunities of
-witnessing action packed games and a host of awe-inspiring wild animals
-in their most innate habitats. There are the big cats, jackals, wild
-buffaloes and the most magnificent giraffes you’ll ever find in the
-region. Take a full day guided tour of the safari including the game
-drive and a journey on an enjoyable river boat. There are several
-organizers in Port Elizabeth who offer day long package deals to
-Kariega that include costs of meals and transportation as well.
-
-**Schotia Safaris**
-
-Schotia Safaris is an excellent day trip option for its bravura
-hunting lions and super exciting games. This is one of the earliest
-game reserves in the Eastern Cape region and lets visitors indulge in
-an extended game drive through its coarse paths in an open jeep. Enjoy
-a hearty safari meal in Boma.
-
-**Laibela Game Reserve**
-
-Laibela is a unique game reserve that sprawls across four distinct
-eco-systems –the valtey bushveld, grasslands, riverine forests and
-fynbos. This ecologically rich and diverse park fosters the breeding
-and spawning on an equally eclectic species of plants, animals and
-birds. Take a three hour open jeep safari and finish off with a
-scrumptious meal. It is best to book this day trip with a guided,
-packaged tour organizer in Port Elizabeth.
-
-Port Elizabeth is strategically encircled by a range of national
-parks and game reserves that highlight the famous wild spirit of South
-Africa and lend it a touch of sheer natural glory.
+For a coastal change of scene, **Jeffreys Bay** is about 75 km west — one of the world's top ten surfing destinations, famous for the Supertubes break that hosts the annual WSL Championship Tour event. Even if you don't surf, the town is laid-back and the beach is stunning.

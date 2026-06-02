@@ -1,29 +1,12 @@
 ---
-title: "Things to do in Miri"
+title: "Things to Do"
 type: section
 ---
 
-The **Miri Things to Do** list will astonish you, as you wouldn't expect a small city to offer so many activities. From gardens, parks, restaurants to massages and water sports Miri is an exiting vacation spot.**
+Most visitors to Miri are passing through to Mulu or Niah, but the city itself rewards a day or two of exploration. Canada Hill (Bukit Kanaan) is worth an hour for the panoramic views over the South China Sea, and the [Petroleum Museum](/asia/malaysia/miri/petroleum_museum) at the site of Malaysia's first oil well — drilled here in 1910 — gives vivid context to Miri's history.
 
-Mulu World Heritage Area**
+In the city, the [Tua Pek Kong Temple](/asia/malaysia/miri/tua_pek_kong_temple) by the river is the oldest Chinese temple in Miri, while the [San Ching Tian Temple](/asia/malaysia/miri/san_ching_tian_temple) in Krokop claims the title of the largest Taoist temple in Southeast Asia. The Waterfront Commercial Centre has seafood restaurants and evening hawker stalls, and the Tamu open market — busiest on weekends — sells jungle produce, traditional crafts, and local goods.
 
-Mulu is a great adventurous spot. It is declared as a World Heritage area by UNESCO. Mulu can be accessed by a 30-minute flight from Miri's International airport. Well known for its vast caves, there are numerous expeditions designed abound the cave and the rain forests of this area. You can also go on an informative tour which is designed around the eco-tourism concept. You will find the most diverse species of bats here. The limestone karst pinnacles acts as a great hiking retreat.
-**
-Miri City Fan**
+The main draws beyond the city are exceptional. [Gunung Mulu National Park](/asia/malaysia/miri/gunung_mulu_national_park), a 30-minute flight away, has the world's largest cave passage, nightly bat exodus flights, and the dramatic Pinnacles trek. [Niah National Park](/asia/malaysia/miri/niah_national_park), three hours by road, contains 40,000-year-old human remains and active birds' nest harvesting operations inside its immense cave chambers.
 
-A park influenced by English design, it sets a great backdrop for a family picnic. The swimming pool and its surrounding areas provide tranquility and peace like no other place. The greenery is soothing to the eye with a landscape of flower beds and ponds. Gazebos, fountains and walking paths adorn this park--a great way to spend a lazy afternoon, soaking in the sun and the crisp air.
-
-**Traditional Massage**
-
-Exclusively for the ladies, this massage will melt away all the stress from the traveling. A massage at Mak Elton is the perfect way to relax your body and calm your mind. The massage is given by the owner herself. She specializes in massage therapy and offers a 2-hour session. You will come out completely refreshed and rejuvenated.
-**
-Scuba Diving
-
-**Dive into the undisturbed reefs of Miri to experience the underwater world in all its glory. It will remind you of the pristine reefs in Maldives. The corals plate is massive and will take your breath away. Mik's reef is a popular diving spot and comprises of marine life that is exotic with turtles, the hump headed fishes and white sharks to name a few. The visibility is very high between March to September.
-
-**Open Market**
-
-Soak in the local lifestyle at the Tamu open market in Miri, a high energy location filled with the hustle and bustle of a market place. You will find all kinds of local produce and other goods here. A great place to see what Miri locals shop for and their style of conducting business. It is very busy during the morning hours and especially on weekends.
-
-**Contributors**
-February 14, 2010
+For divers, [Miri-Sibuti Coral Reef National Park](/asia/malaysia/miri/miri_sibuti_coral_reef) offers excellent visibility (up to 30 metres), healthy reefs, and several WWII wreck dives from March through November. Music fans should check the dates of the annual [Borneo Jazz Festival](/asia/malaysia/miri/borneo_jazz_festival), held each May at Marina Bay.

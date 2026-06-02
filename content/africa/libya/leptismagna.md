@@ -1,14 +1,16 @@
 ---
-title: "Leptis magna"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 32.636483
 longitude: 14.290983
+title: Leptis Magna
+type: location
+score: 0.48
+loc_type: feature
 ---
 
-Even those who have no interest in ruins will be impressed by the Roman remians you can find at Leptis Magna. The setting is impressive as well: overlooking the Mediterranean.
+Even those who have no interest in ruins will be impressed by **Leptis Magna**. The setting alone — a vast Roman city overlooking the Mediterranean — is striking, and the state of preservation rivals anything in Rome itself.
 
 The city was the birthplace of Emperor Septimius Severus. Leptis first gained importance 2 000 years ago during the reign of the Roman emperors Augustus and Tiberius.
 
-Be sure to visit at least the Baths of Hadrian, the Basilica of Septimius Severus, the Forum and the Arch of Triumph. It is best to do Leptis as a daytrip from [Tripoli](/asia/lebanon/tripoli).Otherwise try to find accommodation in Homs nearby, where there is not much of interets, but where there are some hotels.
-
-For a website with a few nice pictures from Leptis Magna, click here .
+Be sure to visit at least the Baths of Hadrian, the Basilica of Septimius Severus, the Forum and the Arch of Triumph. The city was inscribed as a UNESCO World Heritage Site in 1982. It is best visited as a day trip from [Tripoli](/africa/libya/tripoli). The nearby town of Al Khums (Homs) has accommodation if you want to linger.

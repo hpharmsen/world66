@@ -1,12 +1,17 @@
 ---
-title: "Annaba"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
 latitude: 36.898216
+loc_type: city
 longitude: 7.754927
+score: 0.41
+title: Annaba
+type: location
 ---
 
-Annaba is in the extreme northeast of Algeria. It is close to the border with [Tunisia](/africa/tunisia) and can even be visited as a day trip from there. 
+Annaba is Algeria's fourth-largest city, situated in the extreme northeast near the Tunisian border. It can be reached as a day trip from [Tunisia](/africa/tunisia), and the proximity gives the city something of a border-town energy — active, commercial, and cosmopolitan by Algerian standards.
 
-Annaba was first settled by Phoenicians as Hippo Regius and allied with Carthage. Under Roman rule Hippo Regius flourished commercially. It was also a centre for Christianity until it was sacked by Vandals during the 5th century. The Byzantines captured the city and rebuilt it during the 6th century. Following the Arab invasion of the 7th century, the city of Annaba was built some 2km from Hippo Regius, which was pillaged and neglected. 
+The city was founded by Phoenicians as Hippo Regius, allied with Carthage, and later flourished as a Roman commercial port. It became an early centre of Christianity; Saint Augustine was bishop here from 396 until the Vandal siege of 430, during which he died. The ruins of ancient Hippo Regius lie just outside the modern city.
 
-Today Annaba is a very European city. The green main street, the Cours de la RÃªvolution has a vibrant afternoon and early evening life. One of the main sights in town is surprisingly enough a Basilica. The basilica of St. Augustine brings your mind to the contemporary Sacre Coeur in Paris.
+Today Annaba has the feel of a French colonial town that never quite recovered from independence but remains lively. The tree-lined [Cours de la Révolution](/africa/algeria/annaba/cours_de_la_revolution) is a pleasant promenade with cafes and activity in the late afternoon. The hilltop [Basilica of Saint Augustine](/africa/algeria/annaba/basilica_of_saint_augustine) (built 1881, modelled on Sacré-Cœur) is the main landmark and offers good views over the city and bay. South of the city, the archaeological site of [Hippo Regius](/africa/algeria/annaba/hippo_regius) contains Roman-era ruins including a forum, baths, and mosaic floors — the remains of the city where Augustine lived and wrote.

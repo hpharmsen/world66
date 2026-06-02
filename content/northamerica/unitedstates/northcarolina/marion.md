@@ -1,31 +1,19 @@
 ---
-title: "Marion"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-28'
+latitude: 35.684167
+loc_type: city
+longitude: -82.009167
+score: 0.34
+title: Marion
 type: location
-latitude: 32.793166
-longitude: -94.344488
 ---
 
-Travel Guide
+Marion is the county seat of [McDowell County](/northamerica/unitedstates/northcarolina/mcdowell_county) in the North Carolina mountains, sitting between Lake Lure and [Asheville](/northamerica/unitedstates/northcarolina/asheville) on the edge of the Pisgah National Forest.
 
-In Marion, Main Street offers bookstores, antiques,
-auctions and the McDowell County Arts
-Council for crafts and evening community theater. Whatever you do, don’t miss the art for sale at
-Creative Framing adjacent to the Crooked Door Coffee House (upstairs
-near the pavilion). Wine Ruels offers an upscale and delicious menu, wines, and a full
-bar. A gourmet treat! Jazz or blues performances are seasonal on
-the weekends. Carolina Chocolatiers is another great lunch spot serving lunch
-sandwiches, specials or salads and wine.
-Bruce’s Fabulous Foods on Main Street is the
-home of 101 cheesecakes—try the key lime variety!
+[Main Street](/northamerica/unitedstates/northcarolina/marion/main_street_historic_district) is the center of town life, with bookstores, antiques shops, and the McDowell County Arts Council for local crafts and community theater. [Carolina Chocolatiers](/northamerica/unitedstates/northcarolina/marion/carolina_chocolatiers) is a good lunch spot, and [Bruce's Fabulous Foods](/northamerica/unitedstates/northcarolina/marion/bruces_fabulous_foods) is home to 101 varieties of cheesecake — the key lime is the one to try. The 1922 [McDowell County Courthouse](/northamerica/unitedstates/northcarolina/marion/mcdowell_county_courthouse) anchors the downtown.
 
-In Pleasant
-Gardens, half-way between Old Fort and
-Marion, Eco Cove House is a vacation
-rental located on a 117 acre wildlife preserve adjacent to the Pisgah National
-Forest. Turkey, water fowl, songbirds,
-fox, deer, and bears visit at various times of the year and koi swim in an acre
-pond. Nearby, Little Sienna, is a wonderful Italian
-restaurant. It also sports a daily and
-evening buffet. Brown bagging is
-allowed, so don’t forget your favorite bottle of vino to compliment your
-meal!
+In Pleasant Gardens, halfway between [Old Fort](/northamerica/unitedstates/northcarolina/old_fort) and Marion, [Little Sienna](/northamerica/unitedstates/northcarolina/marion/little_sienna) is a well-regarded Italian restaurant with a daily buffet. Brown-bagging is allowed, so bring your own wine. The [Carson House](/northamerica/unitedstates/northcarolina/marion/carson_house), a 1793 log house on the old wagon road, is the local history museum.
+
+The mountains around Marion are the real attraction: [Lake James State Park](/northamerica/unitedstates/northcarolina/marion/lake_james_state_park) for swimming and paddling, [Linville Caverns](/northamerica/unitedstates/northcarolina/marion/linville_caverns) for the only show cave in the state, and the drive up to [Mount Mitchell](/northamerica/unitedstates/northcarolina/marion/mount_mitchell), the highest peak east of the Mississippi.

@@ -1,8 +1,12 @@
 ---
-title: "La Gomera"
-type: location
+done:
+  location_cleanup: 2026-04-07
 latitude: 28.119236
+loc_type: region
 longitude: -17.225747
+score: 0.63
+title: La Gomera
+type: location
 ---
 
 **An Ecological Paradise** 

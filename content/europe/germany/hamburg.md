@@ -1,19 +1,26 @@
 ---
-title: "Hamburg"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-29'
+  poi_cleanup: '2026-04-20'
+image: hamburg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hamburg,_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg
+latitude: 53.5511
+loc_type: city
+longitude: 9.9937
+score: 0.67
+title: Hamburg
 type: location
-latitude: 53.550172
-longitude: 10.001316
 ---
 
-Hamburg lies about 100 km from the open sea on the River Elbe. With 1,7 million inhabitants, it is the second largest city in the Federal Republic of Germany. In two respects, however, Hamburg takes first place. It is the biggest harbour city in Germany (and after Rotterdam the second biggest in Eurpope) and – not a contradiction - it is the greenest city in Germany. 13 % of the city are park and greenland, 23 % protected countryside and 6% nature reserves. However, two thirds of the city are occupied by parks, lakes or tree-lined canals, giving this huge harbour city a refreshal rural feel.
+Hamburg is Germany's second city and its great port — a hard-edged northern metropolis built on shipping, trade, and a cheerful disregard for the buttoned-up south. The Elbe brings ocean-going ships a hundred kilometres inland to one of Europe's busiest harbours, and the city's character comes from that maritime traffic: red-brick warehouses, working cranes, ferries crossing the river, and a Hanseatic mercantile pride that has shaped Hamburg for eight centuries.
 
+The historic core wraps around the [Binnenalster](/europe/germany/hamburg/binnenalster) and [Aussenalster](/europe/germany/hamburg/aussenalster), two artificial lakes in the middle of the city where Hamburgers sail dinghies in summer and skate in winter. South of the lakes you reach the [Speicherstadt](/europe/germany/hamburg/speicherstadt), the world's largest warehouse district, a UNESCO World Heritage Site of seven-storey brick warehouses on oak piles, threaded with canals. Next door, the new [HafenCity](/europe/germany/hamburg/hafencity) quarter has risen out of disused docks, crowned by the [Elbphilharmonie](/europe/germany/hamburg/elbphilharmonie) — Herzog & de Meuron's wave-roofed concert hall on top of an old cocoa warehouse, now the city's defining landmark. Just west, the gutted spire of [St. Nikolai](/europe/germany/hamburg/st_nikolai) — left standing as a memorial to the 1943 firebombing — is the most affecting reminder of what the city went through in the Second World War.
 
- 
- Hamburg’s skyline is dominated by the pale green of its copper spires and domes, but a few houses and the churches are just about all that’s left from before the last century. The Great Fire of 1842 was a main cause of this loss, followed by demolition to make way for the warehouse area, and bombing during World War II. Though commerce is Hamburg’s strength it has its share of cultural attractions as befits a town that was once the home of Johannes Brahms. Be sure to visit the cathedrals of St. Jacobi, where you can see a distinguished 15th-century altar, and St. Michael, a baroque church with a 440-ft/134-m spire offering a great view of the city. Don’t miss as well the unique Rathaus, a city hall supported by dozens of pillars — it’s really a grand building. Hamburg is also a fun city — make time to enjoy some of the beer halls explore the St. Pauli district and the various parks such as Alster Lake downtown. Stroll through Hamburg’s famous fish market, which sells much more than fish.
+Hamburg's other side is [St. Pauli](/europe/germany/hamburg/st_pauli) and the [Reeperbahn](/europe/germany/hamburg/reeperbahn), the most famous red-light district in Germany and the street where the Beatles played their formative club gigs in 1960. It is loud, sleazy, and entertaining, with a strip of music venues, bars, and theatres alongside the sex shops. The neighbouring [Schanzenviertel](/europe/germany/hamburg/schanzenviertel) is the alternative scene — graffiti, squats, late-night kebab shops and good restaurants. [Altona](/europe/germany/hamburg/altona) to the west has the Sunday morning [Fischmarkt](/europe/germany/hamburg/fischmarkt), going since 1703, and [Eppendorf](/europe/germany/hamburg/eppendorf) in the north is leafy and bourgeois.
 
+Hamburg is also greener than its industrial reputation suggests, with parks, tree-lined canals and over 2,500 bridges (more than Venice and Amsterdam combined). [Planten un Blomen](/europe/germany/hamburg/planten_un_blomen) on the western edge of the centre has botanical gardens and summer water-light concerts; [Ohlsdorf](/europe/germany/hamburg/ohlsdorf_cemetery) in the far north is the largest landscaped cemetery-park in the world. Further afield, the Treppenviertel of [Blankenese](/europe/germany/hamburg/blankenese) rises in white-painted terraces above the Elbe. It rains a lot — bring a raincoat, learn the word *Schmuddelwetter*, and don't expect Mediterranean charm. What you get instead is a confident, cosmopolitan port city with serious architecture, serious music, and a serious appetite for fish sandwiches and beer.
 
- The port city of Hamburg with more than 40 mi/64 km of canals and 2 500 bridges has an independent entrepreneurial spirit — it’s the closest thing to a city-state in Germany. It’s still exciting to watch enormous freighters move up the Elbe for loading and unloading.
-
-
- 
- A day trip can be taken to the cities [Lubeck](/europe/germany/schleswigholstein/lubeck), [Bremen](/europe/germany/bremen) or [Schwerin](/europe/germany/mecklenburgwesternpomerania/schwerin) or, if you have some more days to spend, to the famous spas located either on the North or the Baltic Sea.
+Day trips run easily to [Lubeck](/europe/germany/schleswigholstein/lubeck), [Bremen](/europe/germany/bremen) and [Schwerin](/europe/germany/mecklenburgwesternpomerania/schwerin), or further afield to the North Sea coast.

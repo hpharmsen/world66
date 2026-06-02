@@ -1,24 +1,14 @@
 ---
-title: "When to Go in Tehran"
+title: "When to Go"
 type: section
 ---
 
-**Never Too Cold&hellip;Sometimes a Little Too Warm: When to Visit Tehran**
+**Spring (April–May)** is the best time to visit Tehran. The air pollution improves, the Alborz mountains above the city are still snowcapped, the parks are green, and the whole country is in the mood for Nowruz (Persian New Year, 21 March) and the weeks that follow. Temperatures are mild — 15–25°C in the city.
 
-Before you leave for Tehran, the most populated region and the cultural and business center of Iran, you may want to think about a few things. When it comes to **Tehran, when to go** is something you definitely need to consider.
+**Autumn (September–October)** is nearly as good: cooler than summer, clear skies, and the mountain slopes turning gold.
 
-**Seasons**
+**Summer (June–August)** is brutal in the lower parts of the city — 35–40°C with heavy pollution, though the northern suburbs (above 1,500 metres) are significantly cooler. This is when wealthy Tehranis escape to the Caspian coast or abroad; the city empties noticeably in August.
 
-There are four distinct seasons in Tehran, an area in the north central part of Iran. Tehran is located near the Alborz mountain region, and mountains mean snow and rain. The cold season never gets too cold or too snowy.
+**Winter (December–February)** is cold — heavy snowfall is not unusual — and the ski resorts operate. The city's pollution reaches its worst in windless winter weeks when smog settles over the basin. But the Golestan Palace in snow is beautiful, and the tea houses of Darband are warm and full.
 
-**Coldest Season**
-
-The cold season in Tehran begins around the end of November and generally lasts through the beginning of February. The average temperature during the coldest part, January, is between 32 and 40 degrees Fahrenheit (0 to around 5 degrees Celsius) with an average of around 15 inches of rain. There is some snowfall as well; it is heaviest closest to the mountains, why Tehran is a popular ski area in the winter.
-
-**Warmest Season**
-
-The hot, arid climate in the plains region of Tehran can experience temperatures over 100 degrees Fahrenheit during the warmest months of July and August. It&rsquo;s humid, too. The average temperatures during July range from around 80 to 96 degrees Fahrenheit (27 to 36 degrees Celsius) and the temperature starts to rise more rapidly near the end of April.
-
-**The Middle**
-
-Expect generally moderate conditions during September, October and November and then again in March and April.
+Nowruz (around 21 March) is a national holiday of two weeks — museums, bazaars, and restaurants close or run reduced hours.

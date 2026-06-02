@@ -1,11 +1,14 @@
 ---
-title: "Syunik Marz"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
 latitude: 39.203322
 longitude: 46.402114
+score: 0.43
+title: Syunik Marz
+type: location
+loc_type: region
 ---
-
-Travel Guide
 
 Syunik is the at the southern tip of Armenia. It forms a bridge to Iran, and thus is critically important to landlocked Armenia's trade.
 

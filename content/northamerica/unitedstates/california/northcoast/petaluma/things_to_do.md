@@ -1,13 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "general"
-latitude: 35.321009
-longitude: -83.237684
 ---
 
-### Garden Valley Ranch
-
-498 Pepper Rd. 94952 707/795-0919
-
-type: general
+Petaluma's main draws are its historic downtown and the surrounding landscape. The preserved Victorian commercial district makes for good wandering, and the Adobe State Historic Park is one of the more underrated historic sites in the North Bay.

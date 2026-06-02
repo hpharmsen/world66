@@ -1,42 +1,21 @@
 ---
-title: "Anchorage"
+done:
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-29'
+  poi_cleanup: '2026-04-21'
+image: anchorage.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg
+latitude: 61.2163
+loc_type: city
+longitude: -149.8949
+score: 0.56
+title: Anchorage
 type: location
-latitude: 61.216313
-longitude: -149.894852
 ---
 
-**Anchorage…** The City of Lights
+Anchorage is Alaska's largest city and the gateway to most of the state's wilderness. It sits between Cook Inlet to the west and the Chugach Mountains to the east, with Denali visible on clear days 130 miles to the north. About 40 percent of Alaska's entire population lives here.
 
+The city itself is largely functional — a grid of low-rise buildings and strip malls rebuilt quickly after the devastating 1964 [earthquake](/northamerica/unitedstates/alaska/anchorage/earthquake_park) — but it has good museums, a lively bar scene on Spenard Road, and the [Tony Knowles Coastal Trail](/northamerica/unitedstates/alaska/anchorage/tony_knowles_coastal_trail) running 11 miles along the inlet shoreline. The [Anchorage Museum](/northamerica/unitedstates/alaska/anchorage/anchorage_museum) is worth a morning for its coverage of Alaska Native cultures and the state's history, and the [Alaska Native Heritage Center](/northamerica/unitedstates/alaska/anchorage/alaska_native_heritage_center) on the east side of town goes deeper into the cultural side. For an unusual urban touch, the [Light Speed Planet Walk](/northamerica/unitedstates/alaska/anchorage/lightspeed_planet_walk) — a scale model of the solar system embedded in the city pavements — makes a clever introduction to the geography.
 
- Anchorage is located in South-Central Alaska. Yes, Anchorage is FAR away from a lot of places… 2,463 road miles from Seattle, 3,608 miles from Los Angeles, 4,499 miles from New York City and 5,074 miles from Miami.
-
-
- Anchorage is situated between the Cook Inlet to the West, The Chugach Mountains to the East and Mt. McKinley approximately 130 air miles to the North (which can be seen through the clear Alaska sky from Anchorage).
-
-
- The Municipal boundaries take up about 2,000 square miles, although most of that is unpopulated at this time.
-
-
- The latest figures that I can find so far on Anchorage is: estimated 1996 population is about 254,269, an increase of more than 12 percent since 1990… 2/5th of the ENTIRE population of Alaska., making it the largest city in the state.
-
-
- Anchorage is where my 3 children and I made our home for three years. Anchorage has just about every organized sport you could possibly want. 
- Anchorage has everything from basketball, baseball and softball to broomball, football and rugby to soccer, hockey and volleyball.
-
-
- There are many miles of trails for walking, hiking and biking. There are also many parks, recreation/community centers and places for children as well as adults to have fun and enjoy themselves.
-
-
- Believe me when I say, “There is something for everyone….”
-
-
- For those of you interested in staying in Anchorage for a while and start or continue you college education, there are 2 universities sit next door to one another. 
- 
-
-## Destinations in Anchorage
-
-[DownTown](/northamerica/unitedstates/alaska/anchorage/downtown)
-[Tudor](/northamerica/unitedstates/alaska/anchorage/tudor)
-[Muldoon Area](/northamerica/unitedstates/alaska/anchorage/muldoonarea)
-[Dimond Area](/northamerica/unitedstates/alaska/anchorage/dimondarea)
-[Minnesota Area](/northamerica/unitedstates/alaska/anchorage/minnesotaarea)
+The real draw is what surrounds the city. Denali is accessible by Alaska Railroad. Kenai Fjords National Park is a train ride south to [Seward](/northamerica/unitedstates/alaska/seward). Portage Glacier and the town of [Girdwood](/northamerica/unitedstates/alaska/girdwood) are an hour's drive. Most visitors pass through Anchorage en route to these places, and that's the right way to use it — as a comfortable base with good food and gear shops before heading into the backcountry.

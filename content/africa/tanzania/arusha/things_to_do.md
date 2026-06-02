@@ -1,26 +1,8 @@
 ---
-title: "Things to Do in Arusha"
+title: "Things to Do"
 type: section
 ---
 
-In the Tanzanian town of Arusha, visitors will never find a shortage of **Arusha Things to Do**. The town on the whole is very beautiful and well maintained, and has Mount Kilimanjaro as its backdrop. Here is a list of things to see and do when visiting the African town of Arusha.
+Most people come to Arusha to organise safaris, and the tour operator district around Boma Road is where this happens. For in-town sights, the [Arusha Natural History Museum](/africa/tanzania/arusha/arusha_natural_history_museum) and the [Arusha Cultural Heritage Centre](/africa/tanzania/arusha/arusha_cultural_heritage_centre) are both worthwhile. The [Arusha Declaration Monument](/africa/tanzania/arusha/arusha_declaration_monument) is a short walk away, and the [Arusha Clock Tower](/africa/tanzania/arusha/arusha_clock_tower) at the central roundabout marks the midpoint of the Cape-to-Cairo Road. [Via Via](/africa/tanzania/arusha/via_via) bar in the gardens behind the Natural History Museum is a good place to find safari companions and ask for operator recommendations.
 
-**Arusha National Park**
-
-Visit this national park in Arusha for a good dose of nature in all its bounty. Here you will get to see a wide variety of wildlife such as zebra, buffalo, giraffe, monkeys, and flamingos in their natural surroundings. There are also very interesting plants and trees in the Arusha National Park. While this national park is not very big compared with other prominent parks in Africa, it is definitely a must-visit when in Arusha.
-
-**Shopping**
-
-Shopping in Arusha is a special experience. Browse through items for your friends and family back home at one of the many local crafts stores that sell great souvenirs like musical instruments and beads, all of which are produced in Arusha itself. And, if you want to shop for trendy clothes and interesting household ware, then the Namanga Shopping Center and the Njiro Shopping Center will be your best bet.
-
-**Tarangire National Park**
-
-If spotting lions and tigers is your cup of tea, then go on a wild safari at the famous Tarangire National Park, a little ways from Arusha. You will get to see elephants, pythons, and all African animals, birds and reptiles on this exciting open jeep safari. A visit to the Tarangire National Park is a must when visiting Arusha, because nowhere else in the world can be so close to nature at its best!
-
-**Arusha Cultural Heritage Center**
-
-Visit this place to learn more about Arusha's tribes, of which there are over one hundred. Here you will get to see the beautiful crafts, artifacts, carvings, gemstones, clothing, and books related to these very tribes. It will prove to be a very knowledgeable and interesting experience.
-
-**Oreteti Cultural Discovery**
-
-Oreteti offers visitors to Arusha a chance to partake in activities such as drumming, dancing, bead-making workshops, Tanzanian cookery, and dances by the Maasai tribes. Learn more about this by visiting the Oreteti Cultural Discovery hub online or in Arusha itself. You won't regret coming face to face with the real side of Arusha!
+For day trips, [Arusha National Park](/africa/tanzania/arusha/arusha_national_park) is the most accessible wildlife experience — half a day brings you colobus monkeys, the Momela crater lakes, and views of [Mount Meru](/africa/tanzania/arusha/mount_meru). The [International Criminal Tribunal for Rwanda](/africa/tanzania/arusha/international_criminal_tribunal) operated here for two decades; the facility is not open to visitors, but its presence adds a layer to the city's history.

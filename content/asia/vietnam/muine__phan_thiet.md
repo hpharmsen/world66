@@ -1,31 +1,19 @@
 ---
-title: "Muine - Phan Thiet"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
 latitude: 10.953376
+loc_type: city
 longitude: 108.247176
+score: 0.6
+title: Mui Ne - Phan Thiet
+type: location
 ---
 
-Travel Guide
+Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/ho_chi_minh_city), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.
 
-**Mui Ne overview
-**
+The real character of Mui Ne comes from the contrast between the beach resort strip and the [working fishing village](/asia/vietnam/muine__phan_thiet/fishing_village) at the far end. The small harbour is picturesque, and few tourists venture past the famous [red](/asia/vietnam/muine__phan_thiet/red_sand_dunes) and [white sand dunes](/asia/vietnam/muine__phan_thiet/white_sand_dunes) that roll for hectares behind the village. The [Fairy Stream](/asia/vietnam/muine__phan_thiet/fairy_stream) — a shallow waterway cutting between sandstone cliffs in shades of rust and orange — makes for an unusual hour of walking. On the western edge of town, the [Po Shanu Cham Towers](/asia/vietnam/muine__phan_thiet/po_shanu_towers) are 9th-century Hindu ruins with sweeping coastal views.
 
-Mui Ne Beach is about 300km from Ho Chi Minh City and can only be reached by road at present. It's composed of soft light grey sand and backed with trees and hotels facing a road that runs the length of the beach, with restaurants on the inland side.
+Mui Ne is one of the best [kitesurfing](/asia/vietnam/muine__phan_thiet/kitesurfing) and windsurfing spots in Southeast Asia. From November to April, strong north-northeast winds reach 20-30 knots — serious conditions for experienced riders and an excellent learning ground for beginners. A dozen schools operate along the main strip. Hon Rom beach, 10 km away, offers bigger waves during the windy season.
 
-The development has been well handled: all the hotels are low-rise, and many have wooden or bamboo bungalows on the edge of the beach. Most have good to excellent gardens and tree screening, which gives a sense of seclusion. The beach is safe for most of the year, and the facilities are good.
-During the period between July and October, the fishing season is at its pinnacle in Phan Thiet as fishermen go out to sea. These boats form a magnificent display of lights at night and can be seen from shore.
-On the northern side of the road there is a string of restaurants offering Vietnamese and international menus at a variety of prices. The local seafood is excellent. You'll also find a few places renting bicycles.
-
-The fishing village
-At the far end of the beach, Mui Ne fishing village and several hectares of massive rolling sand dunes make a pleasant diversion from relaxing on the beach, swimming and windsurfing.
-The village is worth a visit for three reasons – firstly, very few tourists go further than the dunes, and secondly, the small harbour is picturesque (there's an excellent view from where the dunes road turns off).
-Thirdly, there's an interesting pagoda where followers of Vietnam’s whale cult hold services and store skeletons of the massive sea mammals.
-
-The dunes are remarkable, but don't venture on to them during the full sun - the sand gets very hot!
-
-**Water Sports**
-Mui Ne is frequently subject to onshore winds from the South China Sea. From November to May, the wind blows in a north-northeast direction often reaching a 30mph strong breeze, sometimes gusting to a moderate gale. For the rest of the year there's a pleasant south-southwest moderate (10mph) to fresh (25mph) breeze, ideal for wind surfing.
-Entering the water during the windy season is not advisable unless you're a strong swimmer. However, the weather conditions on Mui Ne beach are often ideal for water sports, especially board and kite surfing.
-For large waves during the windy season, Hon Rom beach (10km from Mui Ne) offers even better surfing opportunities.
-
-By Vietnam Paradise Travel
+Between July and October, the Phan Thiet fishing boats go out at night and form a magnificent display of lights visible from shore. The local seafood is excellent — the restaurants lining the inland side of the main road serve Vietnamese and international menus at a range of prices.

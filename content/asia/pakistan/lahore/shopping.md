@@ -1,12 +1,16 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-**TheHeer.com Fashion Boutique**
+Lahore is the country's main shopping city — a place to come for **Punjabi handicrafts**, traditional fabric, leather, and contemporary Pakistani fashion. The hubs:
 
-A HIGH FASHION store offering bridal, evening, party, special
-occasions and casual wear. From gharara, sharara, lehenga, saris,
-shalwar kameez, saris, kurtis TheHeer.com has everything to offer you and Theheer.com Carries Women's Designer Clothing, Shalwar Kameez, Indian / Pakistani Wedding Lehenga, Bridal Dresses, Bridesmaid Dresses, Casual Wear, Formal Wear, Evening and party wear.We design and sell Indian and Pakistani fashion dresses. Pakistani clothing store. We have custom made Pakistani/Indian fashion dresses like shalwar kameez, sherwani dress, embroidered khussa shoes, Men's shalwar Kameez, lehnga and ghagra. Finest women's Shalwar Kameez and wedding dresses.
+**Anarkali Bazaar** — the historic commercial district, best for cotton fabric, glass bangles, and food. Old Anarkali is the food half, New Anarkali is jewellery and cloth.
 
-**For more information visit at http://www.theheer.com**
+**Liberty Market** (Gulberg) — Lahore's main bazaar for clothing, particularly bridal wear and Pakistani designer shalwar kameez. Hundreds of small shops; haggle expected.
+
+**M.M. Alam Road** (Gulberg) — high-end Pakistani designer boutiques and lifestyle brands.
+
+**The Walled City bazaars** — Kashmiri Bazaar, Akbari Mandi, and the lanes off the Wazir Khan Mosque for spices, dry goods, and traditional crafts.
+
+**Khussa** (traditional slip-on leather shoes) are made in Lahore and are a good buy; the Mochi Gate area has the best selection.

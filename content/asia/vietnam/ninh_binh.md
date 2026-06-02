@@ -1,37 +1,24 @@
 ---
-title: "Ninh Binh"
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-22'
+image: ninh_binh.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tam_Coc_by_Tuan_Mai_%22007%22_(8888350545).jpg
+latitude: 20.2513
+loc_type: city
+longitude: 105.9745
+score: 0.69
+title: Ninh Binh
 type: location
-latitude: 20.242114
-longitude: 105.974621
 ---
 
-Travel Guide
+Ninh Binh is where Vietnam goes vertical. The province sits 90 km south of Hanoi and is carpeted with limestone karst towers — the same dramatic geology as Ha Long Bay, except here the peaks rise from rice paddies and slow rivers instead of ocean. The effect is extraordinary: boats drift between cliffs, egrets stalk through flooded fields, and Buddhist temples cling improbably to cliff faces above it all.
 
-Ninh BinhArea: 1,383.7 sq. km.
-Population: 918,400 habitants (2005)
-Capital: Ninh Binh City
-Administrative divisions:
-- Town: Tam Diep.
-- Districts: Nho Quan, Gia Vien, Hoa Lu, Yen Mo, Yen Khanh, Kim Son.
-Ethnic groups: Viet (Kinh), Muong, Thai, Tay.
+The centrepiece is [Trang An](/asia/vietnam/ninh_binh/trang_an), a UNESCO World Heritage site where a boat circuit takes you through dozens of tunnel caves carved by rivers, across flooded valleys, and past ancient Buddhist shrines. It takes two to three hours and feels genuinely wild. A few kilometres away, [Tam Coc](/asia/vietnam/ninh_binh/tam_coc) is smaller and more touristed but still beautiful — boats row through three river caves with limestone peaks rising from the rice paddies on either side. The [Bich Dong Pagoda](/asia/vietnam/ninh_binh/bich_dong_pagoda) above Tam Coc is easily combined with the boat trip.
 
-Geography
+[Hoa Lu](/asia/vietnam/ninh_binh/hoalu), the fortified capital of Vietnam's first independent dynasty in the 10th century, is now a peaceful complex of temples in a valley ringed by mountains. [Mua Cave](/asia/vietnam/ninh_binh/mua_cave) nearby involves a steep 500-step climb to the best panoramic viewpoint in the province.
 
-Situated on the Red River Delta, Ninh Binh separates the North and the Central Vietnam by Tam Diep Mountain Range. It is surrounded by Hoa Binh, Ha Nam provinces on the north, Nam Dinh Province on the east and Thanh Hoa on the west and the south.
+[Cuc Phuong National Park](/asia/vietnam/ninh_binh/cuc_phuong_national_park), about 45 kilometres northwest, is Vietnam's oldest national park and the easiest place in the country to see endangered primates up close. [Phat Diem Cathedral](/asia/vietnam/ninh_binh/phat_diem_cathedral), near the coast to the south, is a remarkable hybrid of Vietnamese and European ecclesiastical architecture built in the 1890s entirely from local stone.
 
-Ninh Binh’s topography is divided clearly into 3 parts: the mountainous area in the west and northwest; the delta and coastal area in the east and south. Ninh Binh has Day, Van Sang rivers, and Non Nuoc, Canh Dieu mountains. Annual average temperature is 23.4ºC.
-
-Tourism
-
-In Ninh Binh, Hoa Lu Ancient Capital (in Truong Yen Commune, Hoa Lu District now) was chosen as the first capital of Vietnam feudal centralism regime and the Dai Co Viet’s political, economic and cultural centre with the name of Kings Dinh Tien Hoang, Le Dai Hanh and Ly Thai To in 10th century. In 1010, King Ly Thai To moved the capital from Hoa Lu to Thang Long (Hanoi now), opening a new era for Vietnamese people.
-
-Ninh Binh owns beautiful Tam Coc, Bich Dong, Dich Long, Hoa Son, Tien caves, Van Trinh Grotto and other special landscapes following:
-
-Cuc Phuong National Park is home of varies of strange flora and fauna. Especially it is enjoyable to touch the thousand-year-old cho xanh (parashrea stellata) and sau (Dracontomelum Duperranum or Dancorra Edulis) trees, 50-70m high. The park is also suitable to watch birds, butterflies and orchid flowers.
-
-Phat Diem Cathedral is a solemn and interesting architectural complex, reflecting the skilful and excellent stone carving art of the Vietnamese workers.
-
-Ninh Binh’s people have created such famous and traditional products as Kim Son’s fine arts, Hoa Lu’s high-class embroidery, hanger products and rocky sculpture products for export, Gia Vien’s rattan and bamboo knitting products, etc.
-
-Transprotation
-Located 90km far from Hanoi, Ninh Binh has convenient waterway and road networks of transportation. The Reunification Express Train from Hanoi to Ho Chi Minh City stops at Ninh Binh Town. National Highway No.10 connects to Nam Dinh, Thanh Hoa provinces and National Highway No.12B links to Hoa Binh Province.
+Ninh Binh City itself is unremarkable, but it is a perfectly functional base. Most visitors doing a Ha Long Bay alternative base themselves here for a night or two and find it far quieter and cheaper than the coast.

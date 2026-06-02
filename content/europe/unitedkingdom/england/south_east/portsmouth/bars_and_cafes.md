@@ -1,14 +1,8 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
 ---
 
-**The Hole in the Wall, Great Southsea Street, Southsea**
+Portsmouth has three distinct drinking quarters. **Old Portsmouth** has the great waterfront pubs at the harbour mouth — the Spice Island Inn and the Still & West with terraces on the water, the Pembroke quieter and inland. **Southsea**, centred on Albert Road and Castle Road, is the city's bohemian-leaning student strip with independent bars, craft beer, and live music. **Gunwharf Quays** has the chain bars and restaurants along the waterfront.
 
-This pub is probably the best pub in Southsea. It serves a good array of real ales from the Oakleaf Brewery ( http://www.oakleafbrewing.co.uk/), has a good range of hearty but simple bar meals, and the regulars are really friendly. Its small, cosy, the music is quiet. Much like a village pub but in the City. Well worth a visit.
-
-http://www.beerintheevening.com/pubs/show.shtml/3339/Hole_in_The_Wall/Southsea
-
-You can find it here:
-
-http://www.streetmap.co.uk/streetmap.dll?G2M?X=464021&Y=99327&A=Y&Z=1
+Real-ale drinkers should make for the Hole in the Wall in Southsea or the Bridge Tavern at the Camber Dock. The craft brewery scene is led by Staggeringly Good and Urban Island. The seafront has a steady chain of cafes and beach bars from Clarence Pier east to Eastney.

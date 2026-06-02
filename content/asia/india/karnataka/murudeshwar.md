@@ -1,22 +1,19 @@
 ---
-title: "Murudeshwar"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: murudeshwar.jpg
+image_attribution: Vivek Shrivastava
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lord_Shiva_statue_at_Murudeshwara.jpg
+latitude: 14.094361
+loc_type: city
+longitude: 74.482261
+score: 0.51
+title: Murudeshwar
 type: location
-latitude: 15.341086
-longitude: 75.119711
 ---
 
-Travel Guide
+Murudeshwar sits on a small peninsula jutting into the Arabian Sea in Uttara Kannada district, dominated by what was once claimed to be the world's tallest Shiva statue — a 37-metre figure that glitters in the direct sun. The [Murudeshwara Temple](/asia/india/karnataka/murudeshwar/murudeshwara_temple) at its base draws pilgrims year-round, and the view through the two massive gopurams toward the sea behind them is hard to beat.
 
-Murudeshwara is a town in the Bhatkal Taluk of Uttara Kannada district in the state of Karnataka, India. "Murudeshwara" is another name of the Hindu god Shiva. Famous for the world's tallest Shiva statue, this beach town lies on the coast of the Arabian Sea and is also famous for the Murudeshwara Temple.
-
-History :
-The origin of the name "Murudeshwara" dates to the time of Ramayana. The Hindu gods attained immortality and invincibility by worshipping a divine lingam called the AtmaLinga. The Lanka king Ravana wanted to attain immortality by obtaining the AtmaLinga. Since the AtmaLinga belonged to Lord Shiva, Ravana worshipped Shiva with devotion. Pleased by his prayers, Lord Shiva appeared before him and asked him what he wanted. By this time Narada had asked Lord Vishnu to change Ravana's mind. As a result of this plot, Ravana asks for Goddess Parvathi, and Lord Shiva offers him. On his way in height, and took about 2 years to build. The statue was built by Shivamogga's Kashinath and several other sculptors, financed by businessman and philanthropist Mr R.N. Shetty, at a cost of approximately 50 million Rs. The idol is designed such that it gets the sun light directly and thus appears sparkling.
-
-Getting there
-
-By Road
-Murudeshwara lies at a deviation of 1 kilometer from the National Highway NH-17 between the towns of Honnavar and Bhatkal. A big arched entrance on the Highway marks the entrance of the road to Murudeshwara. From Mumbai and Mangalore, one can take the NH-17 to reach Murudeshwara. From Bangalore one can take the NH-206 to reach Honnavar and then take NH-17 to reach Murudeshwara. Total distance from Bangalore to Murudeshwara works out to be 455 km.
-By Rail
-Murudeshwara station lies on the Konkan Railway. Some trains from Mumbai and Mangalore stop here. There are no direct trains from Bangalore. Alternatively, one can alight at Bhatkal station.
-By Air
-Nearest airport is Mangalore International Airport, 165 km away. Hubli and Panaji airports are other alternatives.
+The town is easy to reach on the [Konkan Railway](/asia/india/karnataka/murudeshwar/konkan_railway_viaduct), which hugs the coast through spectacular scenery including a dramatic sea bridge near town. Most visitors combine it with a boat trip out to [Netrani Island](/asia/india/karnataka/murudeshwar/netrani_island) (also called Pigeon Island), one of Karnataka's better diving and snorkelling spots, about 19 km offshore. The [beach](/asia/india/karnataka/murudeshwar/murudeshwar_beach) in front of the temple is busy with fishing boats and afternoon walkers.

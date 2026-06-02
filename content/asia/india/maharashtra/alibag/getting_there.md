@@ -3,21 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By Rail:**
+The most enjoyable way to reach Alibag from Mumbai is by ferry from the Gateway of India to Mandwa, a 60-90 minute crossing depending on the boat. From Mandwa jetty, shared auto-rickshaws and state buses run the 15 km to Alibag town — the full journey from south Mumbai takes about 2 hours, less if conditions are good. Multiple ferry services operate, including catamaran and the slower MTDC vessels.
 
-Nearest railhead is Pen ( Konkan Railway).
-**
-By Road:**
+The overland route via Panvel takes 2–3 hours by road (longer in Mumbai traffic) and is best for those with cars or those coming from the suburbs. The ferry is worth the effort — arriving by sea with the fort and coastline ahead is one of the better approaches to any coastal town in Maharashtra.
 
-From Mumbai: Mumbai - Panvel - Pen - Alibag (From Mumbai take Mumbai-Goa Highway and take right to Alibag at Vadkhal Phata). Distance approx 130 Km.
-
-From Pune: Pune - Lonavala - Khopoli - Pen - Alibag. Distance approx 130 Km.
-
-**By Sea:**
-
-Launch service is available from Gateway of India to Mandawa except during monsoons ( June - Oct). Journey time is 45 minutes to Mandwa and approximately 45 min. onwards by bus to Alibag. Usually the launch operator operates buses from Mandawa.
-
-**Contributors**
-July 28, 2005
-
-July 28, 2005
+Ferries do not run during rough weather, and the sea can be unreliable from June through September. Check conditions before travelling during the shoulder monsoon period.

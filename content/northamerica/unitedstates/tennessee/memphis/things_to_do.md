@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-Need a night out? Change it up a bit by visiting Tunica.
-If you’re visiting Memphis and looking for a great casino getaway, check out Tunica Mississippi, the ‘Casino Capital of the South.’ Just 20 minutes outside of Memphis, Tunica offers 24/7 Vegas style gambling with all of the comforts of the South including fantastic golf, tennis, museums, and fabulous entertainment. The big name stars don’t only stick to big cities!
-
-Plus for a limited time they’re giving away FREE IPODS! Visit MemphisCasinoResort.com for more information on how to register for your free IPOD.
-
-Tunica is great for RV travelers and casino enthusiasts of all ages and tastes. Plus, it is close enough to Memphis to be included in our Memphis trip!
-
-**Contributors**
-October 01, 2007
+Memphis rewards wanderers. Beale Street is the obvious starting point — the historic blues strip that gave the city its musical identity — but the real Memphis stretches across neighbourhoods: the Victorian Village with its antebellum mansions, South Main with its galleries and coffee shops, and the vast riverside park looking out over the Mississippi. The city's musical heritage runs deep, from the Sun Studio storefront where rock and roll was born to the Stax Museum in Soulsville, a neighbourhood that produced some of the most important soul records ever made.

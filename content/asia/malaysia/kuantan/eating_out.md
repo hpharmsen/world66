@@ -3,22 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-There are a number of good places to eat. It is no surprise that Malay food is dominant here. A number of Muslim food stalls are scattered across the city. There are also a number of Chinese and Indian places and a KFC in town. For more up-market places try the 5 star hotels out of town. 
+Kuantan eats well. The city has a strong Chinese-Malay food culture, and fresh seafood from the South China Sea is cheap and abundant. Hawker centres are the backbone of the food scene — proper open-air complexes with many stalls under one roof, each specialising in one or two dishes. Ikan bakar (grilled fish), fresh prawns, and chilli crab are the local recommendations.
 
-**Restaurants**
-
-**Restoran Tawakkal**
-
-Indian food. Daily specials available.
-
-address: Jalan Haji Abdul Aziz
-
-**New Yee Mee**
-
-Chinese food. Also good for Chinese breakfast. 
-
-**Central Market Food Stall**
-
-A good place to eat. 
-
-address: Central Market
+The area around Teluk Cempedak beach has a strip of seafood restaurants that are overpriced relative to the city centre but useful if you do not want to travel. For better value and more authentic cooking, head to Jalan Beserah or the old town's coffee shops, where Malay-style breakfast (nasi lemak, roti canai) starts at dawn and the Chinese kopitiam serve until mid-afternoon. The night market near the river esplanade on weekends is a reliable option for budget eating.

@@ -1,19 +1,23 @@
 ---
-title: "Frisian Islands interregion"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+latitude: 53.8
+loc_type: region
+longitude: 7.5
+score: 0.5
+title: Frisian Islands
 type: location
+image: frisian_islands_in.jpg
+image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ralf Roletschek
 ---
 
-Travel Guide
+The Frisian Islands are an interregional archipelago stretching in a crescent from the Dutch coast through Germany to Denmark. Divided between three countries for administrative purposes, they form a single ecological entity — a chain of low-lying barrier islands fronting the Wadden Sea, one of the world's most important tidal wetlands and a UNESCO World Heritage Site.
 
-The Danish North Frisian Islands are part of the interregional archipelago of The Frisian Islands in northwestern Europe, which spreads across the coasts of **The Netherlands**, **Germany** and **Denmark** in crescent form from west to east to north. These areas are divided from each other for administrative reasons, but they form a single ecological entity.
-Most of the area is protected, and an international wildlife reserve is being coordinated between the three countries. Gas and oil drilling continue, however, and the presence of the Ems, Weser and Elbe estuaries and the ensuing ship traffic cause growing tension between wildlife protection and economics.
+The islands share a character despite their different national administrations: flat, windswept, and defined by the relationship between land, sea, and the vast inter-tidal mudflats of the Watt. Cycling, mudflat walking (Wadlopen), birdwatching, and beach life are the dominant activities. Most islands restrict or ban private cars, which gives them a peaceful, human-paced quality that is rare in Northern Europe.
 
-**In the west**, following the coastal line of The Netherlands, are the West Frisian Islands, or [Wadden Islands](/europe/netherlands/waddenislands)as the Dutch call them.
-**In the east**, along the German coast, you'll find the East Frisian Islands , also known by the National Park they belong to. From west to east:
-* Lower Saxony Wadden Sea National Park, comprising the northern coast of Lower Saxony, including most of the [East Frisian Islands](/europe/germany/lowersaxony/east_frisian_islan)
-* Hamburg Wadden Sea National Park, extending from the mouth of the Elbe river to the tiny bird islands of Neuwerk and Scharhörn
-**In the north**, the North Frisian Islands are partly under Germany, partly under Denmark. Here again, they are commonly known by their Nature Reserve names. From south to north you'll find:
-* Schleswig-Holstein Wadden Sea National Park in German, comprising the western coast of Schleswig-Holstein and including the [North Frisian Islands](/europe/germany/schleswigholstein/north_frisian_isla)
-* [Vadehavet](/europe/denmark/vadehavet) Nature Reserve in Denmark
+In the west, the [Wadden Islands](/europe/netherlands/waddenislands) follow the Dutch coast — Texel, Vlieland, Terschelling, Ameland, and Schiermonnikoog. In the east, the [East Frisian Islands](/europe/germany/lowersaxony/east_frisian_islands) line the coast of Lower Saxony, protected within the Lower Saxony Wadden Sea National Park. The Hamburg Wadden Sea National Park extends from the mouth of the Elbe to the tiny bird islands of Neuwerk and Scharhörn. Further north, the [North Frisian Islands](/europe/germany/schleswigholstein/north_frisian_islands) sit off the Schleswig-Holstein coast — including Sylt, the fashionable and wealthy resort island connected to the mainland by causeway. The chain continues into Denmark as the [Vadehavet](/europe/denmark/vadehavet) Nature Reserve, protecting Fanø, Mandø, and Rømø.
 
-Click the links above to directly access the different local areas.
+The Wadden Sea ecosystem is one of the most biologically significant in the world: 10–12 million migratory birds use it annually as a feeding and staging ground, and the tidal mudflats support some of the highest densities of invertebrate life on Earth. An international coordination effort between all three countries — the Trilateral Wadden Sea Cooperation — manages the UNESCO site, though tensions remain between conservation and shipping traffic from the major estuaries.

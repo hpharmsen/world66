@@ -1,16 +1,10 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Athens is a melting pot of traditional cuisine, accompanied by traditional music, and the urge to feed the tourist's stomach. Because Greek cuisine is popular, but at the same time one of many, one can find restaurants to everyone's taste. So if you decide not to eat a traditional dish (such as Souvlaki, Keftedes or Kalamaraki) at a *Taverna*, make sure you go to an authentic *Ouzeria* Greek cafe after your dinner, not in the least to drink away your garlic taste.
+Athens has changed its food scene dramatically since the 2010s. The city that used to be a culinary afterthought has developed a serious restaurant culture, particularly in the neighbourhoods of Monastiraki, Psiri, Exarchia, and Kolonaki. Traditional taverna cooking — grilled meat, fried fish, slow-cooked stews — remains excellent and inexpensive if you look past the tourist-facing places on the main Plaka streets.
 
-One tiny detail that might be of interest, Greeks generally do not eat breakfast. Therefore, it is up to you to be inventive. Go to a shop and buy some bread or take my advice and start eating the delicious Greek snacks (Kebabs and Koulouria for example) as early as possible.
+The classic Athens lunch is souvlaki or gyros from a counter shop: a few euros for a pitta stuffed with grilled pork or chicken, tomato, onion, and tzatziki. The cluster of shops on Mitropoleos Street near Monastiraki is the most famous; Bairaktaris on the square has been there since 1879. For a proper sit-down taverna meal, look for places away from the main tourist flows — the small lanes of Psiri and the side streets of Monastiraki reliably offer better food at lower prices than anywhere with a barker outside.
 
-## Categories
-
-[Restaurants](/europe/greece/athens/eatingout?subsection=Restaurants)
-
-[Cafes](/europe/greece/athens/eatingout?subsection=Cafes)
-
-[Greek](/europe/greece/athens/eatingout?subsection=Greek)
+Athenians eat late: dinner before 9pm is unusual. Lunch (2–4pm) is a serious meal, and the daily menu at smaller tavernas is always worth asking about.

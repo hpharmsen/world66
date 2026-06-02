@@ -1,6 +1,6 @@
 ---
-title: "Eating Out in Sagres"
+title: "Eating Out"
 type: section
 ---
 
-sta girando la voce di una riprotezione dell'investimento su nuovo cantiere/immobile proposto da ips.ma come puf2 essere possibile, vuol dire che el serj dovre0 tornare i soldi, estinguere i contratti
+Sagres has a small but decent selection of restaurants, mostly clustered in the village around Praça da República. Fish and seafood are the obvious choice — the local fishing boats supply the restaurants directly, and you can eat very well for modest prices by Algarve standards. Avoid the most tourist-facing places on the main square and walk a street back to find where locals eat.

@@ -1,18 +1,24 @@
 ---
-title: "Jounieh"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: jounieh.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jounieh_Lebanon.jpg
+image_license: CC BY-SA 4.0
+latitude: 33.9742
+longitude: 35.6201
+title: Jounieh
 type: location
-latitude: 33.974151
-longitude: 35.620063
+score: 0.49
+loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Jounieh
 ---
 
-Think of a Lebanese Monte Carlo and you are close. Jounieh is the place where Beiruti's go to have a little fun. There are of course many Casino's but every other form of nightlife is available as well.
+Think of a Lebanese Monte Carlo and you are close. Jounieh is the resort town where Beirutis go to have fun — casinos, beach clubs, restaurants and nightlife, all set against one of the most beautiful bays on the Lebanese coast, just 20 minutes north of [Beirut](/asia/lebanon/beirut).
 
-Jounieh’s setting is one of the most beautiful along the Lebanese coast.
+The town's setting is stunning: a crescent-shaped bay backed by steep mountains, the water reflecting the lights of the corniche on warm evenings. The social life runs along the waterfront and in the [Kaslik district](/asia/lebanon/jounieh/kaslik) to the north, which has the densest concentration of bars, restaurants, and cafes outside Beirut itself.
 
-For the best view of the crescent-shaped bay take the steep cable car up to Harissa. At the other end of the cable car line you transfer to an incline car which takes you up to the lookout point surrounding the shiny white statue of the Virgin of Lebanon. If you want to go still higher you can climb the ramp around the statue’s base—the closer you come to her lowered outstretched hands the narrower the ramp becomes…and the pushier the people get. The view is spectacular though and the virgin seen from close up has a sweet sad charm all her own. 
- 
- 
+The single most worthwhile thing to do here is ride the [Téléphérique](/asia/lebanon/jounieh/telepherique), a cable car that climbs steeply from the bay up to Harissa. At the top, you transfer to a funicular that takes you to the lookout point surrounding the [statue of Our Lady of Lebanon](/asia/lebanon/jounieh/our_lady_of_lebanon). The view from the hilltop is spectacular, and on a clear evening the lights of Beirut are visible to the south. The [Casino du Liban](/asia/lebanon/jounieh/casino_du_liban), perched on the hillside above the bay, is one of the oldest and grandest casinos in the Middle East — worth a look even if you don't gamble. Dress smartly.
 
-## Destinations in Jounieh
-
-[Zabbougha](/asia/lebanon/jounieh/zabbougha)
+A short drive south leads to two outstanding natural and historical sites: [Jeita Grotto](/asia/lebanon/jounieh/jeita_grotto), one of the most spectacular cave systems in the Middle East, and the [Stelae of Nahr el-Kalb](/asia/lebanon/jounieh/stelae_nahr_el_kalb), where more than twenty conquerors — from Ramesses II to French forces in 1918 — carved inscriptions into the limestone cliffs above the Dog River gorge. Jounieh is an easy day trip from Beirut, but most visitors come in the evening when the bay lights up and the restaurants fill.

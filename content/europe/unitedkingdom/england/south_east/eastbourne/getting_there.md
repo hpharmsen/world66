@@ -1,9 +1,12 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Eastbourne is served by a train station, located at the end of Terminus Road, north (inland) of the town center. Trains run about hourly to London, take about 1 hour 40 min and stopping at verions stops on the way including Gatwick Airport and Clapham junction, arriving in London Victoria. Trains also serve Brighton, Hastings and Lewis. The sea port of Newhaven in a small car/taxi journey along the coast.
+## By Train
 
-**Contributors**
-August 12, 2005
+Eastbourne is well served by train from London. Southern trains run frequently from London Bridge and London Victoria, with the journey taking about 1 hour 20 minutes. There are also direct connections to Brighton (30 minutes) and Hastings (30 minutes), making it easy to combine Eastbourne with other Sussex destinations.
+
+## By Car
+
+Eastbourne is about 70 miles south of London on the A22, which becomes the A2270 on approach to the town. The M25 junction at the start of the A22 adds time in heavy traffic; allow around 1.5 to 2 hours from central London. Parking in the town centre and on the seafront is paid and can be congested in summer.

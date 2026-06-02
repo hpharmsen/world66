@@ -1,16 +1,23 @@
 ---
-title: "Ein Hod"
-type: location
+done:
+  location_cleanup: 2026-04-08
+  location_enrich: '2026-05-15'
+image: ein_hod.jpg
+image_attribution: Yaniv Ben-Arie from Tel-Aviv, Israel
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ein_Hod_(511075345).jpg
 latitude: 32.700502
+loc_type: city
 longitude: 34.982596
+score: 0.49
+title: Ein Hod
+type: location
 ---
 
-Travel Guide
+Ein Hod is a small artists' village tucked into the Carmel mountains south of [Haifa](/asia/israel/haifa). Founded as an artists' colony in 1953 by the Dadaist Marcel Janco, the village is home to painters, sculptors, and craftspeople who live and work in stone houses along winding hillside lanes. Many have their studios open to visitors, and the whole village feels like an open-air gallery.
 
-Ein Hod is a beautiful Artist town in the Carmel mountains just outside Haifa. For all you art lovers this place is a must. The best part of this hillside town is that he artist living there are very inviting. Every time my wife and I have gone there we were welcomed into artists' homes. It is also a great way to see a quaint northern Israeli town nestled in the hills. Many of the artists have their works displayed all over the town, so a walk around town is always enjoyable. We have gotten to know this town so well that every time we walk we are escorted by the towns many friendly canines. They even followed us to the outdoor cafe and sat patiently while we drank Cafe Hafooch (cappucino) and took in the peaceful surroundings.
+The atmosphere is relaxed and welcoming — artists are happy to show their work and talk about it. An [open studio walk](/asia/israel/ein_hod/village_walk) takes you past murals, sculptures, and unexpected installations tucked between the houses. The [Janco Dada Museum](/asia/israel/ein_hod/janco_dada_museum) covers his career from the Zurich years to his Israeli work, and the [Nisco Museum of Mechanical Music](/asia/israel/ein_hod/nisco_museum) is one of the more unexpected finds on the Carmel coast.
 
-**Ein Hod Web site** - **www.ein-hod.info**
+About a mile further up the hill is Ein Hawd, a small Arab village that until recently was unrecognised and off the map. The [Abu Yahia restaurant](/asia/israel/ein_hod/ein_hawd_restaurant) there serves excellent home-cooked Middle Eastern food and is worth the short detour. The [Nahal Me'arot Nature Reserve](/asia/israel/ein_hod/nahal_mearot), a UNESCO World Heritage Site with prehistoric caves, is 4 kilometres south.
 
-About a mile or so up the hill is the small Arab town of Ein Hud. Up until a few years ago, this town wasn't on any map or even had electricity. Now there is a lovely Middle Eastern restaurant there run by one of the friendliest families I have ever met. The food is authentic simply because the family makes it for their own meals every day.
-
-So next time you are in Israel, rent a car (no public transprtation) and visit Ein Hod and Ein Hud.
+Ein Hod has no public transport. You will need a car to get here.

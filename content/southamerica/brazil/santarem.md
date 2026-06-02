@@ -1,12 +1,21 @@
 ---
-title: "Santarem"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-17'
+latitude: -2.4385
+loc_type: city
+longitude: -54.6996
+score: 0.43
+title: Santarém
 type: location
-latitude: -2.438489
-longitude: -54.699611
+image: santarem.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Santar%C3%A9m,_Santar%C3%A9m,_Par%C3%A1,_2007.jpg
+image_license: Public domain
+image_attribution: Lopmed
 ---
 
-Travel Guide
+Santarém sits at the confluence of the Amazon and Tapajós rivers, roughly halfway between Belém and Manaus, and is one of the most appealing cities in the Brazilian Amazon. Around 250,000 people live here, and the surrounding area offers pristine rainforest, flooded forest, and a string of beautiful sandy beaches along the Tapajós.
 
-Santarem can be considered one of the most attractive cities in Brazilian Amazon.
+The most striking natural spectacle is the [Meeting of the Waters](/southamerica/brazil/santarem/meeting_of_the_waters), where the dark waters of the Tapajós push up against the muddy brown Amazon for several kilometres before mixing — a quieter, less famous version of the same phenomenon seen near Manaus. Alter do Chão, a village 37 kilometres to the south, has beaches of white sand that look tropical enough to be from a tourism brochure, and is genuinely lovely outside of the peak October festival season.
 
-It is located where the Amazon meets the Tapajos tiver, half way between Belem and Manaus. About 250.000 quite hospitable people live there and one can access pristine Rainforest, Floodplain Rainforest, plus amazing isolated beaches along the Tapajos river. You can get to Santarem by boat which takes some 2 days either from Belem or Manaus. I have also done by plane which is only one hour from the two major amazon cities. I never tried the BR 163(Santarem Cuiaba) which is stiil unpaved, i dont reccomend either.
+Getting here by river boat takes about two days from either Belém or Manaus — a classic Amazon journey. Flights from both cities take around an hour. The BR-163 highway to Cuiabá is still largely unpaved and not recommended unless you know what you're getting into.

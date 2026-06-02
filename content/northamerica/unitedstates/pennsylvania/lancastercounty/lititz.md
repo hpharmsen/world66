@@ -1,12 +1,16 @@
 ---
-title: "Lititz"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.157132
 longitude: -76.307162
+title: Lititz
+type: location
+score: 0.44
+loc_type: city
 ---
 
-Travel Guide
+Lititz is a small town of about 10,000 in the northern hills of [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty). Founded by Moravians in 1756, it has a main street that retains much of its old-world charm — brick facades, wide sidewalks, antique shops, and small cafes that feel genuinely local rather than assembled for tourists.
 
-Lititz (pop:10,000) lies in the northern hills of Lancaster County. Surrounded by receding famlands, Lititz is filled with antique shops and museums on a main street that retains much of its old world charm. 
+Two food landmarks make Lititz worth the detour. The Julius Sturgis Pretzel Bakery, the oldest commercial pretzel bakery in America, offers hands-on tours where you can twist your own pretzel by hand. A few blocks away, the Wilbur Chocolate Company's candy store sells chocolate that has been made in Lititz since 1927. Both are unpretentious and fun.
 
-Founded by Moravians in the 18th century, Lititz has seen a population boom over the past quarter century. With good schools and a safe atmosphere, many find Lititz as the ideal location to raise a family. Many residents make the commute to Lancaster, 10 miles to the south, or to Harrisburg, Reading, or York, all within 45 minutes. Philadelphia lies roughly 80 miles to the east, easily accessibile via the Pennsylvania Turnpike
+Lititz Springs Park in the center of town hosts one of Pennsylvania's most distinctive Fourth of July celebrations: at dusk, thousands of candles are floated on the spring-fed creek, and the whole town gathers to watch them drift past. The park is pleasant year-round, and the walk along the creek into the surrounding residential streets gives a good sense of how quietly handsome this place is.

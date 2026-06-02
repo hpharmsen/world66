@@ -1,28 +1,23 @@
 ---
-title: "Russell"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: russell.jpg
+image_attribution: AlasdairW
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Russell_New_Zealand_banner_view_from_ferry.JPG
 latitude: -35.261792
+loc_type: city
 longitude: 174.121529
+score: 0.49
+title: Russell
+type: location
 ---
 
-Travel Guide
+Russell is a tiny waterfront town in the Bay of Islands that belies its size with an outsized history. Before Auckland and Wellington existed as cities, Russell -- then known as Kororareka -- was the de facto capital of European New Zealand, and its reputation was fearsome. Whalers, sealers, escaped convicts, and grog sellers earned it the title "hellhole of the Pacific," a label that could not be further from the genteel village you find today.
 
-**New Zealand’s first capital city.** Russell (Maori name Kororāreka) was considered too unsavoury to be the capital so the capital was established up harbour at Okiato and called Russell. Little remains there now but the site is an historic reserve and has new interpretation signage.
+The town's historical layers are visible in a short walk. [Christ Church](/australiaandpacific/newzealand/northland_1/russell/christ_church), built in 1836, is New Zealand's oldest surviving church, its walls still pocked with musket ball holes from the fighting between Hone Heke's warriors and British troops in 1845. [Pompallier House](/australiaandpacific/newzealand/northland_1/russell/pompallier_house), a French Catholic mission building, has been beautifully restored and demonstrates the tanning and printing operations that the missionaries ran to produce religious texts in Maori. [Flagstaff Hill](/australiaandpacific/newzealand/northland_1/russell/flagstaff_hill) above the town was the site of Hone Heke's famous acts of defiance -- he chopped down the British flagpole four times, and the story is central to New Zealand's colonial narrative.
 
-**Christ Church 1835-6**. Te Whare Karakia o Kororāreka, the oldest existing church in NZ. Building began in 1835 with the first service, conducted in both Māori and English, taking place on 3 January 1836. Look for the musket ball holes in the old weatherboards left from the 1845 Battle of Kororāreka.
+Modern Russell is a peaceful place of perhaps 800 residents, reached by a short ferry ride from Paihia or a longer drive around the inlet. The waterfront is lined with heritage buildings converted into cafes, galleries, and a few excellent seafood restaurants. The [Duke of Marlborough Hotel](/australiaandpacific/newzealand/northland_1/russell/duke_of_marlborough) claims to hold the oldest liquor license in the country, and its veranda overlooking the bay is one of the finest spots for a drink in all of New Zealand.
 
-**Pompallier Mission 1841.** Bishop Pompallier established the Roman Catholic Mission in Kororāreka in 1839. The building there today was built in 1841 and is now restored to its original French Lyonnaise layout as a working printery again.
-
-**The Old Customs House 1870** Built from a Gothic design by W.H Clayton, the first Colonial Architect to New Zealand. With the eventual drop-off in shipping the customs house was no longer required and the Police Department agreed to take it over. The huge Moreton Bay fig next to it was planted in the 1870’s.
-
-**Flagstaff Hill.** Above the town on Maiki Hill stands the famous flagstaff, cut down 4 times between 1844 and 1845. It flies New Zealand's original flag twelve days a year. The views from the top are spectacular.
-
-**Russell Museum.** The treasure house of Russell – Te Whare Taonga o Kororāreka. One of the finest little museums in the country. It chronicles our Māori and European history and holds some noteworthy and unique collections - including a stunning 1/5th scale replica of Cook’s ship Endeavour.
-
-**Rewa’s village** Drawings of Kororāreka from the early19th C show a Māori village on the waterfront. This was chief Rewa’s kainga. Today it’s the site of the Russell Museum and the Kororāreka Marae Society’s wharemahi and art gallery named Haratu in honour of Rewa’s original whare.
-
-**The Gables 1847 **One of the oldest buildings in Russell, the Gables is listed with the Historic Places Trust. In its time it has been a bordello, bakery, shop, Salvation Army boys’ home and even a hiding place for sailors who had jumped ship.
-
-**New Zealand’s First Licensed Hotel **After New Zealand became a colony in 1840 all hotels selling alcohol had to have liquor licences. The country’s first was granted to John Johnson of the Duke of Marlborough Hotel in Kororāreka. The hotel in Russell is the fourth on the site
-
-As you stroll round Russell today you’re walking back in time. The town’s original street plan and names from1843 are still intact and feature some of New Zealand’s oldest and most significant historic buildings.
+The Bay of Islands beyond Russell offers world-class sailing, game fishing, and dolphin watching. You can take a boat to the [Hole in the Rock](/australiaandpacific/newzealand/northland_1/russell/hole_in_the_rock) at Cape Brett, or kayak around the sheltered coves near the town. The pace of life here is deliberately unhurried, and the combination of deep history, natural beauty, and excellent food makes Russell one of the most rewarding small towns in New Zealand.

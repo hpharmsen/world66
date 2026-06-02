@@ -1,14 +1,8 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-Port Elizabeth’s greatest asset is its clean and beautiful beaches. Water temperatures vary between 18 and 21 degrees Celsius during Summer and 14 to 19 degrees Celsius during Winter. The sea conditions are generally calm in the bay, except when the South Easterly wind is blowing. All beaches are patrolled by fully-trained professional life guards. Apart from the more "mainstream" sports, a temperate climate, unspoilt beaches and the warm seawater make this city perfect for thrilling watersports opportunities. 
+Algoa Bay curves generously around Port Elizabeth, giving the city a long, east-facing beach front that catches morning sun and afternoon wind. The water is warmer than the Cape — this is the Indian Ocean side — but PE earns its "Windy City" nickname in earnest, and whitecaps are the norm rather than the exception from October to February. For swimmers that means conditions are often choppy; for windsurfers and kiteboarders it's paradise.
 
-
-
-
-
-Algoa Bay boasts 40 km of magnificent beaches and, with its perfect combination of warm water, calm sea and fair breezes, it is one of the best sailing venues in the world, and a mecca for all beach and watersports enthusiasts. 
-
-The Southern Beaches offer safe and sheltered swimming, body surfing, sunbathing, boardsailing, excellent waves and surfing opportunities as well as interesting inter-tidal sealife while the Northern Beaches offer vast stretches of sand and dunes ideal for long beach walks as well as providing superb angling and swimming opportunities.
+Kings Beach and Hobie Beach run into each other as one long unbroken strand along Marine Drive, but they have different characters. Kings is broader and quieter, good for families and early-morning walks. Hobie is the action end — the shallow bay makes it the national hub for windsurfing, and competitions bring international competitors through regularly. Both beaches are well-maintained, with lifeguards on duty in season and beach volleyball courts along the promenade.

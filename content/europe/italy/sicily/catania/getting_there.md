@@ -1,12 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**Air** 
+Catania-Fontanarossa airport (CTA) is Sicily's busiest, with direct flights from across Europe including many low-cost routes. A taxi to the city centre costs around €25; the AMT Alibus is much cheaper and stops at the train station and several central points.
 
-http://www.cormorano.net/aeroporto.catania/english/index.html 
-
-Taxi from airport Fontanarossa to Catania city, approx €25. The lokal bus takes you easily from the airport, through the city, and to the train central.
-
-Minor corrections on 04 July 04
+By train, Catania is linked to Siracusa to the south and to Messina to the north, with connections toward the mainland via ferry from Messina. The Circumetnea, a narrow-gauge railway, loops around the base of Etna and is as much a scenic excursion as a transport option.

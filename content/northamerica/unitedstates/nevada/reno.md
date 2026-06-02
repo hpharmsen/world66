@@ -1,11 +1,16 @@
 ---
-title: "Reno"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-19'
 latitude: 39.526179
 longitude: -119.812658
+score: 0.43
+title: Reno
+type: location
+loc_type: city
 ---
 
-Reno is gambling town in the North opf Nevada. It is a good starting point to go to [Black Rock City](/northamerica/unitedstates/nevada/blackrockcity) for the annual Burning Man event.
+Reno calls itself 'The Biggest Little City in the World,' and the famous arch over Virginia Street backs up that claim. This is a gambling town in northern Nevada, smaller and scrappier than Las Vegas, with a growing arts scene and easy access to the Sierra Nevada mountains.
 
-
- In the rest of the year the main attraction is formed by the Casino's. For more info see the separate casinos.
+Reno is a good starting point for [Black Rock City](/northamerica/unitedstates/nevada/blackrockcity) and the annual Burning Man festival. The rest of the year, the casinos downtown are the main draw, but skiing at nearby Lake Tahoe, the Truckee River whitewater park running through downtown, and the National Automobile Museum give non-gamblers plenty of reasons to visit.

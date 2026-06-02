@@ -1,25 +1,22 @@
 ---
-title: "Three Forks"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-30'
 latitude: 45.892606
 longitude: -111.551448
+title: Three Forks
+type: location
+score: 0.35
+loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Three_Forks,_Montana
+  - https://en.wikipedia.org/wiki/Missouri_Headwaters_State_Park
 ---
 
-Travel Guide
+Three Forks is a small town in Gallatin County, [Montana](/northamerica/unitedstates/montana), named for its location near the point where the Jefferson, Madison, and Gallatin rivers converge to form the Missouri River. Meriwether Lewis named the three rivers in July 1805 for President Jefferson, Secretary of State Madison, and Treasury Secretary Gallatin.
 
-Three Forks is a city in Gallatin County, Montana, United
-States. The population was 1,728 at the 2000 census. Three Forks is named
-because it lies near the point, in Missouri Headwaters State Park, where the
-Jefferson, Madison, and Gallatin Rivers converge to form the Missouri River.
+[Missouri Headwaters State Park](/northamerica/unitedstates/montana/three_forks/missouri_headwaters_state_park), just north of town, marks the confluence and is the main reason to stop here. The park has walking trails along the riverbanks, interpretive signs about the Lewis and Clark expedition, and good fishing access to all three rivers. A statue of Sacagawea stands in a park off Main Street — she was captured near this spot by the Hidatsa in 1800 and later returned with the Corps of Discovery as a guide and interpreter.
 
-The three rivers, west to east, were named by Meriwether
-Lewis in late July 1805 for President Thomas Jefferson, Secretary of State
-James Madison, and Treasury Secretary Albert Gallatin.
+The [Headwaters Heritage Museum](/northamerica/unitedstates/montana/three_forks/headwaters_heritage_museum) on Main Street covers the town's history from the fur trade through the railroad era. The [Sacagawea Hotel](/northamerica/unitedstates/montana/three_forks/sacagawea_hotel), a restored 1910 brick landmark, is the best place to eat and sleep in town.
 
-Honored in Three Forks, the Indian woman Sacagawea is best
-known as the interpreter and guide for the Lewis and Clark Expedition. In 1800,
-she was captured by the Mennetaree tribe near the present site of Three Forks.
-She later returned to this area with Lewis and Clark and the Corps of
-Discovery. A statue of Sacagawea now sits in a park off Main Street.
-
-The Three Forks school mascot is the Wolves.
+Three Forks sits at the western end of the Gallatin Valley, about 30 miles west of [Bozeman](/northamerica/unitedstates/montana/bozeman). The [fly fishing](/northamerica/unitedstates/montana/three_forks/fly_fishing) here is exceptional — the Madison, Gallatin, and Jefferson are all blue-ribbon trout rivers, each within easy reach of town.

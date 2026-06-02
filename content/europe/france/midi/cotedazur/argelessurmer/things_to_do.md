@@ -1,16 +1,10 @@
 ---
-title: "Things to do in Argeles sur Mer"
+title: "Things to Do"
 type: section
 ---
 
-There are many** Argeles sur Mer things to do** that will keep you busy during your stay. Since it’s located at the foot of the Albères Mountains, hiking and mountain biking are big in this region. For a historical perspective, visitors can view Roman ruins and castles. Ocean lovers can enjoy a variety of water sports. There is something for everyone in this Côte de Vermeille town.
+Argelès-sur-Mer offers a good mix of beach activities, mountain walks, and Catalan heritage. The town sits at the foot of the Albères range, so you are never far from a trail, and the coastline shifts from sand to rocky coves within a short walk.
 
-**Food for Thought**
+The big draw is the **Sentier Littoral** coastal path south to Collioure — three to four hours of cliff-edge walking, with cove-swimming options. Inland, the 14th-century church of **Notre-Dame dels Prats** anchors the old village; **Casa de les Albères** is a small Catalan ethnographic museum nearby. The early-1900s **Château de Valmy** sits on the hillside north of town, its surrounding park open to all. The **Mas Larrieu nature reserve** protects a fragment of natural coast north of the beach, and the sober memorial at the **Argelers concentration camp** site marks one of the worst chapters of modern French history.
 
-Gastronomic adventures are a central part of visiting new places. Take a trip to the town market for a light lunch. It is open on Wednesday and Saturday mornings. Around 60 vendors set up stands at Place de la Republique, the main plaza.
-
-Seafood, Mediterranean dishes and Spanish fusion are favorites here. If you’re down at the port, stop for seafood at Restaurant Le Bouchon. Le Manurevas is another good option that’s located in the same area. It specializes in Catalan cuisine and has a great ocean view.
-
-**Castle Country**
-
-Just 3 kilometers from town is the Castle of Valmy. This place looks like it came straight out of a fairy tale. It was built in the 1900s by a Danish architect. Although the castle is not open to visitors, the Valmy Park (adjacent to it) is open to all. If a medieval castle interests you, go to Taxo. This village dates
+For walkers and cyclists the **Albères foothills** behind town have well-marked trails — from a gentle morning loop to a full-day climb to the ruined Cathar fortress of **Perapertusa** further inland. Wind and water-sports operators cluster around **Plage des Pins**; the rocky creeks near Plage des Pins and Le Racou are good for snorkelling and scuba.

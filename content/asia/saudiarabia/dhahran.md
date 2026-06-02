@@ -1,15 +1,19 @@
 ---
-title: "Dhahran"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
 latitude: 26.296653
+loc_type: city
 longitude: 50.120215
+score: 0.29
+title: Dhahran
+type: location
 ---
 
-Dhahran is the headquarters of the Saudi oil company ARAMCO. Most of the people living in the city are employees or relatives of employees of ARAMCO, with the exception of some contract workers who work for ARAMCO. 
- Dhahran is a compound or contained town much like a military compound. It is a fenced in, access controlled area. Dhahran is totally self contained with its own recreation facilities (pools, tennis courts, raquetball courts, weight rooms, golf course, arcade, movie theatre playing out of date movies, putt-putt golf, incredible SCUBA in the Red Sea, private beach, BMX track, youth center and tons of desert for motorcycle riding). 
+Dhahran is the headquarters of Saudi Aramco and essentially a company town — most residents are employees or their families, with some contract workers alongside. It is a fenced, access-controlled compound, self-contained in the way a military base is, and visually it looks surprisingly like parts of [Arizona](/northamerica/unitedstates/arizona): low buildings, desert landscaping, wide roads.
 
+The compound is split into two sections. Main Camp dates from the 1950s and has the older, more established feel. The Rolling Hills was built during the 1980s hiring boom. Inside the perimeter you will find pools, tennis courts, a golf course, a cinema (films arrive late), a private beach and more desert for motorcycle riding than you could explore in a year.
 
- Dhahran is split into two sections, main camp and the Rolling Hills. Main camp is the older portion of Dhahran built in the 1950's while the Hills was built during the 1980's when ARAMCO was hiring like crazy. Actually, Dhahran looks a lot like parts of [Arizona](/northamerica/unitedstates/arizona). 
+For visitors without compound access, the main reason to come to Dhahran is [Ithra](/asia/saudiarabia/dhahran/ithra) — the King Abdulaziz Center for World Culture, a striking Snøhetta building on the compound edge that is open to all. Just inside the compound perimeter, [Dammam Well No. 7](/asia/saudiarabia/dhahran/dammam_well_7) marks the spot where Saudi Arabia's oil age began in 1938.
 
-
- Outside of Dhahran lies the Saudi city of [Khobar](/asia/saudiarabia/khobar) where you can experience some Saudi culture, but American fast food places and stores have popped up everywhere there too.
+Outside the gates lies [Khobar](/asia/saudiarabia/khobar), where you can experience Saudi city life — though American fast food chains and international stores have made deep inroads there too.

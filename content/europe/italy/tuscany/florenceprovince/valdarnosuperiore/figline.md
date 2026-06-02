@@ -1,14 +1,17 @@
 ---
-title: "Figline"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
+latitude: 43.6241
+loc_type: city
+longitude: 11.461
+score: 0.47
+title: Figline
 type: location
-latitude: 43.922877
-longitude: 11.091134
 ---
 
-Travel Guide
+Figline Valdarno sits in the upper Arno valley between [Florence](/europe/italy/tuscany/florence) and Arezzo, about 30 km southeast of Florence. In 2014 it merged with neighbouring Incisa Valdarno to form the comune of Figline e Incisa Valdarno, though the two old centres remain distinct. The town is a useful base for exploring southern Tuscany — the SP 16 connects Figline with Greve in Chianti, and Florence and Arezzo are both easily reached by train on the main line through the valley.
 
-One of the outstanding features of this commune’s territory is a widespread network of roads of both national and local importance. As well as the Autosole motorway which crosses the territory, making it easily accessible, there is also the State Road S.S. 69 connecting Figline to the Aretine and Florentine territories, the provincial road S.P. 16, the "famous wine road", joining Figline with Greve in Chianti. In this way, Figline is the centrepoint connecting Arezzo, Siena and Florence. The entire network of roads in the commune is easy to travel through and see the territory at its best, particularly the hilly area where the network is especially widespread.
+The old centre has a handsome medieval square, the [Piazza Marsilio Ficino](/europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline/piazza_marsilio_ficino), surrounded by a loggia and flanked by the Palazzo Pretorio. Figline was the birthplace of the Renaissance philosopher Marsilio Ficino (1433–1499), who translated the complete works of Plato into Latin for Cosimo de' Medici and effectively brought Platonic philosophy back to European intellectual life. A statue of him stands in the square.
 
-
- 
- There are excellent connections with Florence and Arezzo, by rail and other public transport.
+The surrounding countryside is classic southern Chianti: olive groves, vineyards, and hilltop farmhouses. The Chianti wine road north into Greve is particularly scenic. [Figline Valdarno railway station](/europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline/figline_railway_station) on the Florence-Arezzo line gives good connections in both directions.

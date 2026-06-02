@@ -1,10 +1,14 @@
 ---
-title: "Fairfax"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.573
+longitude: -96.704
+title: Fairfax
 type: location
-latitude: 38.846224
-longitude: -77.306373
+score: 0.28
+loc_type: city
 ---
 
-Travel Guide
+Fairfax is a small town of about 1,500 people in Osage County, in the heart of the Osage Nation. It gained worldwide attention through David Grann's book *Killers of the Flower Moon*, which documents the systematic murders of Osage people during the 1920s oil boom — a dark chapter in American history that unfolded right here.
 
-Fairfax is a town of over 1,500 people located in Osage County, Oklahoma, and was once home to one of the original Tastee-Freez Restaurants. Remember "sucking on chili dogs" from John Cougar's "Jack and Diane" 1982 number one hit single? Unfortunately, a traveller driving through town last Christmas noted that the old Tastee-Freez was closed and look like it might have had a new tenant trying to open a new hamburger stand. Ballerina Maria Tallchief was from Fairfax.
+The town is also the hometown of Maria Tallchief, one of the most celebrated ballerinas of the 20th century and the first major Native American prima ballerina. Fairfax is a quiet place, but its history runs deep.

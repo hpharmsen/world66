@@ -1,6 +1,10 @@
 ---
-title: "Getting There in Sintok"
+title: "Getting There"
 type: section
 ---
 
-Just wanted to say tknahs for the great videos they are by far the best quality videos i have seen of the miracle. Also do you remember the number of the stateroon you were in on this cruise? Im getting an obstructed view stateroom on the Miracle in May 2011 wanted to know if thisis what it would look like.
+Sintok is reached via the North-South Expressway (PLUS highway) — take the Changlun exit, then follow signs to UUM. The journey from Alor Setar, the state capital of Kedah, takes about 45 minutes by car. From Penang, allow around two hours.
+
+There is no train station at Sintok; the nearest rail connection is Alor Setar. Buses run between Alor Setar and Changlun, from where local transport can reach the university. Long-distance buses from Kuala Lumpur and Penang also stop at Changlun.
+
+The Bukit Kayu Hitam border crossing into Thailand is about 15 kilometres north of Changlun, making Sintok a practical overnight stop if you are crossing into the Thai south by road.

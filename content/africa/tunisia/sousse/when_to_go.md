@@ -1,16 +1,10 @@
 ---
-title: "When to Go in Sousse"
+title: "When to Go"
 type: section
 ---
 
-**Spend Your Vacation in Sousse during Summer**
+Sousse is a year-round destination but has very distinct seasons. **July and August** are the peak beach resort months — hot (35°C+), crowded, and fully priced. Package tourism from Europe floods the resort hotels around Port El Kantaoui. If you're here for the beach, this is the time; if you're here for the Medina, it can be uncomfortably hot.
 
-When planning a visit to **Sousse, when to go**** **is one of the decisions you'll have to make. An exotic city in Tunisia, Sousse is located in the central region of the country and faces the lovely Gulf of Mammamet, which is a part of the Mediterranean Sea. Due to the scenic view of the sea, many tourists go to Sousse for the holiday. But when is the best time to go to Sousse? Here are the best times to visit this city.
+**Spring (April–June) and autumn (September–October)** are the best months for sightseeing. Temperatures are pleasant (20–28°C), the crowds thin out after August, and the city returns to its normal pace. The sea is warm enough to swim from late May through October.
 
-**Visit Sousse During Summer**
-
-Summer in Sousse goes from May to August, making this a great season to visit. The temperature during summer can go as high as 29 degrees C (84 degrees F), which makes the city fairly warm during the days. Another advantage to visiting Sousse during summer is that you will not be bothered by rain while you are enjoying the city.
-
-**Sousse Month-Long Festivities**
-
-Sousse plays host to many festivals but the best time to go is during the entire months of July and August since this is the time when the infamous Sousse International Festival is held. Moreover, if you visit Sousse during the month of July, you will also get to experience the Olive Tree Festival held in Kalaa Debira. The dancing and intoxicating sights of the festival run during the entire month of July.
+**Winter (December–February)** is mild but overcast, with occasional rain. The resort strip is largely closed. The Medina and the city itself continue normally — Sousse is a working Tunisian city, not just a resort. Prices drop significantly and you'll have the monuments largely to yourself.

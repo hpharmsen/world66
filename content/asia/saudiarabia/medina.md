@@ -1,20 +1,21 @@
 ---
-title: "Medina"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: medina.jpg
+image_attribution: Prof. Mortel on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/43714545@N06/52501731659
 latitude: 24.471153
+loc_type: city
 longitude: 39.611122
+score: 0.34
+title: Medina
+type: location
 ---
 
-Medina is located in the Hejaz in the West of Saudi Arabia, some 200 km north of [Mecca](/asia/saudiarabia/mecca) and close to the harbour town of Yanbo. Medina is the second holiest city of Islam, after Mecca but before [Jerusalem](/asia/israel/jerusalem).
+Medina is the second holiest city in Islam, after [Mecca](/asia/saudiarabia/mecca). It lies in the Hejaz region of western Saudi Arabia, about 400 kilometres north of Mecca and close to the Red Sea harbour town of [Yanbu](/asia/saudiarabia/yanbu). The name literally means "the city" — short for Madinat al-Nabi, the City of the Prophet.
 
+Medina is not a tourist city. Non-Muslims are prohibited from entering the city and its sacred precincts, and most visitors come on the Hajj pilgrimage or the Umra. A stop here is not technically required for either, but vast numbers of pilgrims make the journey to pray at the [Prophet's Mosque](/asia/saudiarabia/medina/prophets_mosque) and visit the tomb of Muhammad. The city is also important in the history of Islam: it was here, not in Mecca, that the first Islamic community was established, that the early battles of Islam were fought, and that the Prophet spent the last decade of his life.
 
- The name literaly means just city, but actually stands for the City of the Prophet. When Muhammad left Mecca, the Hijra, he was invited by the citizens of Medina to become their leader. From here Islam started its succesful spread over the world.
-
-
- Medina is not a city for tourists. It's a holy place and most of the foreign visitors come here on a pilgrimage, either the Hajj or the Umra. Strictly speaking a stop in Medina is not necessary but many of the pilgrims like to pay a visit to the tomb of the propher while they are in Saudi Arabie. The city is strictly forbidden to non-muslims. Therefore it doesn't make sense to treat Medina like a tourist detination. We will go into the main 'attractions' but these are primarily pilgrims attractions.
-
-
- The main place pilgrims head for is the tomb of the prophet. It is located in what is known as The Mosque of the Prophet. The green domed complex of the mosque is huge and incredibly ornate. The Qiblatayn Mosque where Muhammad decreed that prayer should be directed toward Mecca, rather than Jerusalem is another attracion as is the Mosque of the tomb of Fatima. 
-
-
- Baqi is the cemetery in Medina. It houses the family, grandchildren and over twenty thousand companions of the Prophet Muhammad as well as many great Scholars and residents of Medina. It is said to be the largest cemetery in the world.
+The [Prophet's Mosque](/asia/saudiarabia/medina/prophets_mosque), with its iconic green dome, dominates the city centre and is one of the largest buildings in the world. The adjacent [Jannat al-Baqi](/asia/saudiarabia/medina/al_baqi_cemetery) cemetery is among the oldest Islamic burial grounds in existence, containing many of the Prophet's family and companions. Beyond the central precincts, the [Hejaz Railway Museum](/asia/saudiarabia/medina/hejaz_railway_museum) tells the story of the Ottoman railway that briefly connected the city to Damascus, and the [Seven Mosques](/asia/saudiarabia/medina/seven_mosques) complex on the northwestern edge marks the site of the Battle of the Trench. The volcanic rock of [Sela](/asia/saudiarabia/medina/sela) rises nearby, the vantage point from which Muhammad directed that famous battle.

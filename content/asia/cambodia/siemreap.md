@@ -1,8 +1,16 @@
 ---
-title: "Siem Reap"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+image: siemreap.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.jpg
 latitude: 13.361756
+loc_type: city
 longitude: 103.859032
+score: 0.75
+title: Siem Reap
+type: location
 ---
 
 Travel Guide

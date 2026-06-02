@@ -1,11 +1,23 @@
 ---
-title: "Chinon"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-10'
+  poi_cleanup: '2026-04-21'
+image: chinon.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chinon_-_View_from_the_castle_-_07.jpg
+latitude: 47.1667
+loc_type: city
+longitude: 0.2402
+score: 0.63
+title: Chinon
 type: location
-latitude: 47.166718
-longitude: 0.240209
 ---
 
-The city of Chinon is dominated by a medieval fortress that was once a major stronghold of King Henry II of England. Historically speaking it is most famous however because it was here that Jeanne d'Arc met king Charles VI. The ruins of the castle are impressive from the outside but there is not much left of interest on the inside.
+Chinon sits on the south bank of the Vienne river, its medieval fortress looming over a compact old town of half-timbered houses and tufa-stone mansions. It's one of the most characterful towns in the Loire Valley — small enough to walk across in an hour, substantial enough to fill a full day.
 
+The town's great claim to history is that Joan of Arc came here in March 1429 to find the Dauphin Charles and convince him to give her an army. He granted the audience in the royal hall of the fortress above town, and the rest, as they say, changed France. The fortress itself is vast — actually three connected castles strung along a ridge — and has been carefully restored, with good exhibits on both the Plantagenet period and the Joan of Arc story.
 
- The town itself is absolutely charming; one of the sights is the house were Richard Lionheart died.
+Beyond the castle, Chinon is serious wine country. The Chinon appellation produces some of the Loire's best red wines from Cabernet Franc, and the producers are proud of them. Several have tasting cellars carved into the tufa rock beneath the fortress walls — the Caves Painctes being the most atmospheric. Thursday morning brings a market to Place Jeanne d'Arc that's worth building a trip around.
+
+Chinon works well as a base for the western Loire, within easy reach of Azay-le-Rideau, Fontevraud Abbey, and the cycling routes along the Vienne and Loire rivers.

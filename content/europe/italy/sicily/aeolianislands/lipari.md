@@ -1,24 +1,21 @@
 ---
-title: "Lipari"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: lipari.jpg
+image_attribution: Bernard Gagnon
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Lipari_01.jpg
+latitude: 38.4693
+loc_type: city
+longitude: 14.9565
+score: 0.72
+title: Lipari
 type: location
-latitude: 38.469272
-longitude: 14.95645
 ---
 
-The Aeolian archipelago comprises some seventeen islands, but only seven of them are inhabited. The island group, also better known as the Lipari islands, are located north-east of the Sicilian coast and can be reached by ferry from [Sicily](/europe/italy/sicily).
+Lipari is the largest and most developed of the [Aeolian Islands](/europe/italy/sicily/aeolianislands), and for most visitors the first port of call. The main town, also called Lipari, climbs from a [harbour](/europe/italy/sicily/aeolianislands/lipari/marina_lunga) up to an imposing [castle-fortress](/europe/italy/sicily/aeolianislands/lipari/castle_and_acropolis) on a rocky promontory between two bays. The [archaeological museum](/europe/italy/sicily/aeolianislands/lipari/aeolian_museum) inside the castle is one of the best in southern Italy, with a superb collection of Greek theatrical masks and prehistoric obsidian tools. The 17th-century [cathedral](/europe/italy/sicily/aeolianislands/lipari/cathedral) sits on the same rock.
 
+The island has several beaches — mostly black volcanic sand or pebble — and good swimming off the rocks. The best is [Spiaggia Bianca (White Beach)](/europe/italy/sicily/aeolianislands/lipari/spiaggia_bianca) near [Canneto](/europe/italy/sicily/aeolianislands/lipari/canneto), where pumice deposits have bleached the sand a striking pale colour. A [hike to the top of Monte Sant'Angelo](/europe/italy/sicily/aeolianislands/lipari/monte_sant_angelo) gives views across the whole archipelago, and a [boat tour](/europe/italy/sicily/aeolianislands/lipari/boat_tour) of the coast takes in the kaolin cliffs at [Quattropani](/europe/italy/sicily/aeolianislands/lipari/quattropani).
 
- 
- Lipari is the main island, and generally offers the best accommodations and has a few superb (though black) beaches. If you're feeling energetic, hike to the top of Mount Sant'Angelo.
-
-
- The islands have a strong vulcano character and it is possible to visit the still active Cran Cratere on the island of Vulcano, finished off with sulpher smells and hot mud baths, of course.
-
-
- Stromboli is a bit rougher but offers soem impressive sights of the red-hot lava glowing vulcano as well. Make sure you get a guide, because although a lot of people try to make the trip on their own, it remains a dangerous business. The vulcano erupts round and about every hour. 
- Alicudi and Filicudi are the two other popular islands and offer all the other ingredients for a promising holiday: rugged mountains, coloured rock formations, black beaches, crystal clear blue seas and rare vegetation.
-
-
- 
- 
- Most official resident left the islands because there was hardly any means of making a living and the storms (if not the vulcanoes) can be devastating.
+Lipari is the transport hub of the Aeolians. Ferries and hydrofoils connect it to all the other inhabited islands and to Milazzo and Messina on the Sicilian coast. It has the widest range of accommodation and restaurants in the archipelago, from simple rooms to comfortable small hotels. The pace is relaxed, the food is excellent — capers, fresh fish, and Malvasia wine are the local specialities. Wander up the [Corso Vittorio Emanuele](/europe/italy/sicily/aeolianislands/lipari/corso_vittorio_emanuele) at sunset and finish with a drink on [Marina Corta](/europe/italy/sicily/aeolianislands/lipari/marina_corta).

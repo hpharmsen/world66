@@ -1,31 +1,6 @@
 ---
-title: "Eating Out in Portsmouth"
+title: "Eating Out"
 type: section
-address: "31-35 Albert Rd, Southsea,"
-phone: "023 9229 3474"
-type: "Mexican"
-zipcode: "PO5 2SE"
-latitude: 50.787755
-longitude: -1.081529
 ---
 
-Portsmouth and its resort of Southsea have a vast choice of restaurants, pubs and cafe's. Food for every taste, English, Italian, Mexican, Spanish, Indian, American, Chinese, Turkish, Carribean, and the list goes on.
-
-**Contributors**
-March 02, 2005
-
-### [A Fistful of Tacos.](/europe/unitedkingdom/england/south_east/portsmouth/eating_out/a_fistful_of_tacos)
-
-Mexican restaurant serving a wide choice of lovely Mexican food
-
-type: Mexican
-
-
-
-[[rate it]](/europe/unitedkingdom/england/south_east/portsmouth/eating_out/a_fistful_of_tacos)
-
-zipcode: PO5 2SE
-
-address: 31-35 Albert Rd, Southsea,
-
-tel: 023 9229 3474
+Portsmouth's food scene has stepped up considerably in the last fifteen years, helped by a large student population and the redevelopment of Gunwharf. The strongest restaurant clusters are Albert Road in Southsea (independents, ethnic, casual), Gunwharf Quays (chains, waterfront), and Old Portsmouth (pubs and a few seafood places). Fish and chips on Southsea seafront and at the Camber Dock are a Portsmouth tradition.

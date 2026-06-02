@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-INTERNET-CAFE
-
-I've been visiting the city Skikda from 19 octobre / 26 octobre 2007. I've been there at an Internetcafé (modern) but I don't know the name of it. It's in the Centre Ville in a very narrow street. It's the first street east from the allee 20 aout 55 just passed the monument of independance.
+Skikda's appeal lies in two layers: the French colonial town centre, with its grid of arcaded streets and civic buildings from the Philippeville era, and the ancient Roman city of Rusicade that preceded it. The old town is compact and walkable. The Roman theatre, the largest in Algeria, sits within the modern city and is the most striking single sight. Stora, a few kilometres west along the bay, has a working fishing port and the coast's best swimming.

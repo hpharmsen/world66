@@ -3,7 +3,8 @@ title: "Day Trips"
 type: section
 ---
 
-One of the advantages of choosing Marmaris as your holiday destination is the number of activities available when sitting around a pool or lazing at the beach side begins to pale. There are activities ranging from a few hours to a full day and tours involving a day to several days. S taying in Icmeler or Marmaris couldn't be perfect without daily trips around... Seascooter Safari , Boat Trips , Village Tours , Jeep Safaris , Horse Riding, Rafting, Diving, Paragliding, visiting Ephesus and Hierapolis, Turkish Baths, Beach Parties, Turtle Beach, Shopping in Mugla Market exploring Gokova Gulf.
+Marmaris is a good base for the south-western Turkish coast. The fishing village of **Dalyan** is ninety minutes east, with mud baths, ancient Lycian rock tombs cut into the cliffs above the river, and the long Iztuzu loggerhead-turtle beach at the river mouth. The **Datça peninsula** runs west of the bay — slower, quieter, and at its far end the Hellenistic ruins of ancient Knidos on the headland.
 
-**Contributors**
-March 27, 2007
+For ambition, both **Ephesus** and **Pamukkale** are doable as long single-day trips by organised coach, leaving at dawn and back well after dark. They are easier as overnighters but possible from Marmaris if you are short on time.
+
+By sea, the Greek island of **Rhodes** is fifty minutes by hydrofoil — leave at 9 am, back by 6 pm, and walk the medieval walled town in between.

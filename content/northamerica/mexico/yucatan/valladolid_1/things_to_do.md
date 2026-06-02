@@ -1,11 +1,8 @@
 ---
-title: "Things to do in Valladolid"
+title: "Things to Do"
 type: section
 ---
 
-Shopping for native and local art-crafts seems to be Valladolid's best feature. Here you will find many Mayan females seating at the Main Square with their goods place carefully on the iron fence of the park. Hammocks, Huipiles, sisal bags, and other creations can be purchase directly from them.
+Valladolid rewards slow walking. The colonial centre is compact, the streets quiet, and the most interesting things — old churches, the cenotes, the museum, the small shops on the plaza — are all within twenty minutes on foot. Start at the **main plaza**, the **Cathedral of San Gervasio** on its south side, and the **Calzada de los Frailes**, the postcard street that leads west to the convent. The town is also the best base for visiting [Chichen Itza](/northamerica/mexico/yucatan/chichen_itza), the great Mayan site forty kilometres west.
 
-For a finer selection of Mexico's popular crafts and folk art, visit ***Yalat*** a true jewel of fine taste and quality pieces from all over Mexico. The Boutique has a great collection of Maya replicas by Master potters and ceramists, as well as clothes from Maya designers and traditional weavers.
-
-**Contributors**
-June 02, 2007
+Two cenotes — natural sinkholes filled with cool, clear water — are within walking or short driving distance and shouldn't be skipped. **Cenote Zací** is in the town itself; **Cenote Dzitnup** is the more spectacular cathedral-like cavern a few kilometres out.

@@ -1,6 +1,10 @@
 ---
-title: "Battura Valley"
+done:
+  location_cleanup: '2026-04-08'
+title: Battura Valley
 type: location
+score: 0.49
+loc_type: city
 ---
 
 Travel Guide

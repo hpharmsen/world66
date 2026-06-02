@@ -1,10 +1,19 @@
 ---
-title: "Muskogee"
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: muskogee.jpg
+image_attribution: Trey Wainman
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Muskogee_Skyline_(cropped).jpg
+latitude: 35.7484
+loc_type: city
+longitude: -95.3697
+score: 0.33
+title: Muskogee
 type: location
-latitude: 35.66302
-longitude: -95.392771
 ---
 
-Travel Guide
+Located in eastern Oklahoma at the confluence of the Arkansas, Verdigris, and Grand rivers, Muskogee is a city of around 38,000 people with deep ties to Native American history. It served as the capital of the Five Civilized Tribes' Indian Territory before Oklahoma statehood, and the **Five Civilized Tribes Museum** — housed in an 1875 Union Indian Agency building — tells that story well.
 
-Located in Muskogee County, Oklahoma, Muskogee is a city of over 38,000 people. Perhaps best known for its Azelea Festival in Honor Heights Park, Muskogee is also home to the Five Civilized Tribes Museum, and the U.S.S. Batfish War Memorial (where families can actually tour the inside of a World War II submarine).
+The city is best known for its **Honor Heights Park**, which becomes a sea of colour each spring during the Azalea Festival, one of the largest in the south-central United States. History buffs should not miss the **USS Batfish War Memorial**, where you can tour a preserved World War II submarine permanently docked in a riverside park — an unexpected but absorbing attraction.

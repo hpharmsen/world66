@@ -1,8 +1,6 @@
 ---
-title: "Things to do in Barra de Tijuca"
+title: "Things to Do"
 type: section
 ---
 
-Have your world travels brought you to the the land of Barra de Tijuca? Feel free to share your experience and other things to do in Barra de Tijuca by adding/editing this page.
-
-Website of this place is http://www.barradatijuca.com.br
+Barra da Tijuca's main appeal is its beach — 18 kilometres of Atlantic-facing sand that is notably less crowded than Copacabana or Ipanema. Beyond the beach, the neighbourhood has the Cidade das Artes concert hall, the vast BarraShopping mall complex, and access to some of Rio's best surf spots and natural reserves to the west at Prainha and Grumari.

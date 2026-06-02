@@ -1,14 +1,13 @@
 ---
-title: "Day Trips in Sousse"
+title: "Day Trips"
 type: section
+linked_locations:
+  - africa/tunisia/kairouan
+  - africa/tunisia/monastir
+  - africa/tunisia/mahdia
+  - africa/tunisia/eljem
 ---
 
-Although Sousse as a city is packed with plenty of things to do inside its UNESCO-preserved territory, one should also consider taking **Sousse day trips **as an escape.
+Sousse is ideally placed for day trips to some of Tunisia's best sights. **[Kairouan](/africa/tunisia/kairouan)** (55 km west) is Islam's fourth holiest city and home to the Great Mosque, one of the oldest in North Africa — the ochre-coloured old town is stunning and the mosques and medersa are open to non-Muslim visitors. **[El Jem](/africa/tunisia/eljem)** (70 km south) has a Roman amphitheatre of extraordinary scale — the third-largest in the Roman world — rising incongruously from the flat Tunisian plain.
 
-#### **El Jem**
-
-Like Sousse, El Jem has many preserved buildings which emphasize its role in the Roman-Tunisian empire. One can drive to El Jem using a rented car or take the bus. It is one of the easiest places to reach from Sousse. The small city is south of Sousse and is only about 70 kilometers away or about just an hour&rsquo;s drive. The city is small, and almost everything can be reached by walking. The greatest tourist attraction in El Jem is the Roman Amphitheater which can be clearly seen even when you&rsquo;re outside the city. The Amphitheater also has a museum which houses some of the artifacts and historical information about the structure.
-
-#### **Sfax**
-
-From El Jem, Sfax is another 45-minute drive. The city is home to many ruins worth seeing. It isn&rsquo;t as busy as El Jem or Sousse. Its must-visit attraction is the Medina, a walled area which houses several shops, business centers, a caf&eacute; and the Kasbah. Caf&eacute; Diwan, part of the Medina, is where one can see one of the most spectacular views of the city with a circular wall that was once a water tower. Enjoy a hookah, tea or coffee while taking in the view.
+**[Monastir](/africa/tunisia/monastir)** (20 km south by Metro du Sahel) has another Ribat, the mausoleum of president Habib Bourguiba, and a pleasant old town. **[Mahdia](/africa/tunisia/mahdia)** (60 km south) is a quiet Tunisian port town with a long medina on a narrow peninsula, mostly untouched by mass tourism.

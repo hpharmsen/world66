@@ -1,10 +1,18 @@
 ---
-title: "Brindisi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-28'
+image: brindisi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brindisi_-_monumento_al_Marinaio_d%27Italia_-_202109012300_3.jpeg
 latitude: 40.63586
+loc_type: city
 longitude: 17.688498
+score: 0.57
+title: Brindisi
+type: location
 ---
 
-Main reason why you end up in Brindisi is because you want to catch the ferry between either Italy and Greece or Italy and Albany. The town has a few interesting sights that will make your waiting hours for the departure of the next ferry more pleasant. Check out the Roman columns and the several churches. Or maybe two of its ‘famous’ former residents (Al Bano and Romina Power) may entertain you with some music.
+Most travellers end up in Brindisi because they need a ferry — to Greece, to Albania, or onward to the eastern Mediterranean. The port has been doing this job for over two thousand years: it was the terminus of the Via Appia, and the [Roman column](/europe/italy/puglia/brindisi/roman_column) marking the end of the road still stands on the waterfront.
 
-Interrailers should get a ticket (for the ferry to Greece) for free. Beware of scams and of the fact that during the off season the ferries don’t leave that frequently.
+The town deserves more than just a wait between connections. The old centre has a handful of interesting churches, including the Romanesque [San Giovanni al Sepolcro](/europe/italy/puglia/brindisi/san_giovanni_al_sepolcro) with its frescoed interior, and the waterfront promenade along the [inner harbour](/europe/italy/puglia/brindisi/porto_interno) is a pleasant walk. The [Museo Archeologico Francesco Ribezzo](/europe/italy/puglia/brindisi/museo_archeologico_ribezzo) on the harbour front holds a strong collection of Messapian bronzes and Roman finds from the port. Brindisi also makes a reasonable base for exploring the rest of Puglia's Salento region — [Lecce](/europe/italy/puglia/lecce) is only 40 minutes away by train. Ferry services to Greece run year-round, though departures are less frequent outside summer.

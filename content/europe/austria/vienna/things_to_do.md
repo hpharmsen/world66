@@ -1,27 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-address: "Rathauspaltz 1"
-email: "office@classicworld.at"
-phone: "+436604455566"
-type: "Other"
-url: "www.classicworld.at"
 ---
 
-### [Austrian Dinner Show](/europe/austria/vienna/things_to_do/austrian_dinner_sh)
+Vienna's sights cluster around the Ringstrasse and the Innere Stadt, so most of the main attractions are walkable from each other. The Hofburg Palace, Stephansdom, the Albertina, and the Kunsthistorisches Museum are all within fifteen minutes' walk; the Belvedere and Schönbrunn are each a tram or U-Bahn ride away. Beyond the centre, the Prater and the Vienna Woods deserve at least half a day each.
 
-[Austrian Dinner Show](/europe/austria/vienna/things_to_do/austrian_dinner_sh) The "Austrian Dinner Show Ensemble" consists of highly talented musicians, excellent vocal soloists and spirited dancers, who appear in colourful local costumes of the various musicial regions visited. In a charming manner they will enchant your clients with their performance of the musical treasures of Austria.
-
-type: Other
-
-
-
-[[rate it]](/europe/austria/vienna/things_to_do/austrian_dinner_sh)
-
-tel: +436604455566
-
-url: [www.classicworld.at](http://www.classicworld.at)
-
-address: Rathauspaltz 1
-
-email: office@classicworld.at
+Use the filter buttons below to find museums, churches, viewpoints, or neighbourhoods. The MuseumsQuartier and Innere Stadt neighbourhood pages collect the POIs within those districts.

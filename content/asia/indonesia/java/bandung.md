@@ -1,14 +1,25 @@
 ---
-title: "Bandung"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+  poi_cleanup: '2026-04-20'
+image: bandung.jpg
+image_attribution: Lokamaya
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cekungan_Bandung.jpg
+latitude: -6.9218
+loc_type: city
+longitude: 107.6071
+score: 0.54
+title: Bandung
 type: location
-latitude: -6.921846
-longitude: 107.607083
 ---
 
-Bandung is Indonesia's third city and capital of West Java. This region is inhabited by the Sunda people. 
- Bandung is a bustling city and a high tech centre.
+Indonesia's third-largest city and capital of West Java, Bandung sits at 750 metres above sea level on a highland plateau ringed by volcanoes. The elevation keeps the air noticeably cooler than sweltering [Jakarta](/asia/indonesia/java/jakarta), two hours to the northwest, and the Dutch colonials used it as a summer retreat. They left behind some of Java's finest Art Deco architecture — a walkable cluster of 1920s and 30s buildings that earned Bandung the nickname "Paris van Java." [Braga Street](/asia/indonesia/java/bandung/braga_street), [Gedung Sate](/asia/indonesia/java/bandung/gedung_sate), the [Hotel Savoy Homann](/asia/indonesia/java/bandung/hotel_savoy_homann), and [Villa Isola](/asia/indonesia/java/bandung/villa_isola) are the obvious starting points.
 
-Bandung was a popular place to go in summer for the Dutch, since the climate is a lot better than in Jakarta. The city is located at an elevation of 750 meter. The Dutch left their traces and Bandung is one of the best places to find Dutch colonial architecture.
+This is Sundanese territory, culturally distinct from the Javanese heartland around [Yogyakarta](/asia/indonesia/java/yogyakarta) and [Solo](/asia/indonesia/java/solo). The Sundanese have their own language, their own musical tradition (the kecapi suling, a delicate bamboo flute and zither combination), and their own food — which most Indonesians consider among the best in the country. Expect abundant vegetables, lighter spicing than Javanese cooking, and the ritual of eating with your hands off a banana leaf.
 
+Bandung is also a university city. The [Bandung Institute of Technology (ITB)](/asia/indonesia/java/bandung/itb_campus), founded in 1920, was where Sukarno studied engineering before becoming Indonesia's founding president. The student population gives the city energy and a creative streak — the indie music scene and street art culture that emerged here in the 2000s spread across the country. Factory outlet shopping, clustered especially along Jalan Riau and [Jalan Cihampelas](/asia/indonesia/java/bandung/cihampelas_walk), draws a steady stream of weekend visitors from Jakarta looking for discounted clothing and leather goods.
 
- Bandung is an ideal starting place for exploring the volcanoes of Tangkuban Perahu.
+The main reason visitors come, however, is the landscape. Bandung sits in a caldera, and active volcanoes are visible from the city on clear mornings. [Tangkuban Perahu](/asia/indonesia/java/bandung/tangkuban_perahu), with its accessible craters and sulphurous vents, is 30km north. Beyond it, tea plantations stretch across the hills toward the [Ciater hot springs](/asia/indonesia/java/bandung/ciater_hot_springs). To the south, the roads wind past strawberry farms and dramatic gorges toward [Kawah Putih](/asia/indonesia/java/bandung/kawah_putih) and the highland lake of [Situ Patenggang](/asia/indonesia/java/bandung/situ_patenggang). You could spend a week in Bandung and not exhaust what the surrounding countryside offers.

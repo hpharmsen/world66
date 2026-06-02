@@ -1,21 +1,11 @@
 ---
-title: "Day Trips in Cannes"
+title: Day Trips
 type: section
-address: "Fort Royal"
-phone: "+33 04 93 38 55 26"
+linked_locations:
+  - europe/france/nice
+  - europe/france/sainttropez
 ---
 
-Cannes is so close to so many cities along the French Riviera that the only problem you will have with taking a day trip during your Cannes vacation is deciding where to go! Cannes is only 47 miles from St-Tropez, 5 miles from La Napoule-Plage, 16 miles from Nice, 5 miles from Mougins, 11 miles from Grasse, 4 miles from Golfe-Juan & Vallauris, and the list goes on and on! Chances are, your Cannes trip will last for several weeks or more, so if you plan accordingly, you should be able to visit a good number of spectacular surrounding cities in a short amount of time. Continue reading through the listings to find out about some of the top Cannes day trips.
+Cannes is ideally positioned for day trips along the Côte d'Azur. [Nice](/europe/france/nice) is 30 minutes by train and worth a full day for its old town, market, and the Matisse and Chagall museums. Grasse, 18 km inland, is the perfume capital of the world — the Fragonard and Molinard houses offer factory tours. Mougins, 6 km north, is a medieval village with an exceptional concentration of good restaurants. [Saint-Tropez](/europe/france/sainttropez) is about 75 km along the coast, best reached by boat or early morning car.
 
-**Contributors**
-June 02, 2008
-
-### [Ile Ste-Marguerite & Musee de la Mer](/europe/france/cannes/day_trips/ile_stemarguerite)
-
-Home of Musee de la Mer, the island - Ile Ste-Marguerite, has plenty of sites to explore and numerous recreational opportunities. Musee de la Mer highlights artifacts, paintings, mosaics, and ceramics as well as artifacts from Arab, Ligurian, and Roman civilizations. As soon as you leave the dock, you can begin a walking tour to the different sites on the island. Signs will lead the way. Musee de la Mer is open April-September, Tuesday-Sunday 10:30 a.m. - 5:45 p.m. and October-March, Tuesday-Sunday 10:30 a.m.-4:45 p.m.
-
-
-
-tel: +33 04 93 38 55 26
-
-address: Fort Royal
+The Lérins Islands (see [Île Sainte-Marguerite](/europe/france/cannes/ile_sainte_marguerite) and [Île Saint-Honorat](/europe/france/cannes/ile_saint_honorat)) are the most obvious nearby excursion — ferries leave from the Vieux Port and the crossing takes 15 minutes.

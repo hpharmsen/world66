@@ -1,6 +1,8 @@
 ---
-title: "Bars and Cafes in Freetown"
+title: "Bars and Cafes"
 type: section
 ---
 
-The new Beach Apple one stop entertainment center is located at the Lumley beach in Freetown Sierra-Leone, West African. Restaurant offers a delicious meals such as breakfast, lunch, and dinner and also serve luxury wines and beverages and the club opens 24hrs. It is a nice place to relax and have fun on the beach. Contact the owner Mr. Kenneth Weller email : Beachappleo1@yahoo.com or tel: 1-011-232-332-99366, 1-011-232-332-88179.
+Freetown's drinking and nightlife scene centres on the Aberdeen and Lumley Beach strip, where open-air bars line the sand and music spills out most nights. The vibe is relaxed and social — grab a Star beer or a fresh juice and settle in. [Place Aberdeen](/africa/sierraleone/freetown/place_aberdeen) is the most consistent late-night option, [Old Fashion Bar](/africa/sierraleone/freetown/old_fashion_bar) and similar venues line Lumley Beach itself.
+
+In the central city, options thin out — Crown Bakery is good for daytime coffee, but evenings most expats head back to the peninsula. Take registered taxis after dark.

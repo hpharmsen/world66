@@ -1,11 +1,19 @@
 ---
-title: "Talin"
+done:
+  location_enrich: '2026-05-28'
+image: talin.jpg
+image_attribution: Armenak Margarian
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_Talin_22-10-2018.jpg
+latitude: 40.3837
+loc_type: city
+longitude: 43.8736
+score: 0.36
+title: Talin
+todo_location_cleanup: done
 type: location
-latitude: 40.383707
-longitude: 43.873599
 ---
 
-Turning from the main road toward **Talin** (4981 p), the right turn just before the fountains in the town square leads to a large cemetery in which are the impressive remains of an important cathedral church very similar to the 7th c. church at Aruch. Nearby is a smaller S. Astvatsatsin church, built in the 7th c. According to the inscription, "I Nerseh the patrician proconsul, lord of Shirak and Asharunik, built this church in the name of the Holy Mother of God for her intercession for me and my wife Shushan and Hrapat my son." Two Nersehs are attested as Byzantine governor, one from the reign of the Emperor Heraclius in 639, the other from the reign of Justinian II in 689. Somewhere in the vicinity are remnants of a medieval castle.
+Talin is a small provincial town in the Aragatsotn region of Armenia, west of Yerevan. The main reason to stop is the [Cathedral of Talin](/europe/armenia/talin/cathedral_of_talin), whose impressive 7th-century ruins stand just off the road in a large cemetery. The partially standing walls are closely comparable to the church at Aruch, built under the same dynasty of Armenian nobles. An inscription names the patron as Nerseh, a Byzantine governor and lord of Shirak and Asharunik, who built it for the Holy Mother of God.
 
-**Contributors**
-January 18, 2006
+Nearby is the smaller [St Astvatsatsin Church](/europe/armenia/talin/st_astvatsatsin_church), also from the 7th century. Five kilometres south at Dashtadem, the layered medieval [Dashtadem Fortress](/europe/armenia/talin/dashtadem_fortress) is an easy add-on. The right turn for the churches is just before the fountains in the town square.

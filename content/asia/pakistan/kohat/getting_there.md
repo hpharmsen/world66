@@ -1,15 +1,14 @@
 ---
-title: "Getting There in Kohat"
+title: "Getting There"
 type: section
 ---
 
-This **Kohat getting there** guide will give you tips on getting to this province in Pakistan. During the previous years when the Indo-Pakistani conflict was in full force, travel restrictions were enforced for travelers going to Kohat. Through the years, as heads of both countries slowly accepted the cultural differences, travel to Pakistan has now became safer and more secure. Almost all big cities around the world can connect to the three major international airports of Pakistan. Consequently, Kohat became one of the favorite tourists' destinations.
+Kohat is about 60 km south of Peshawar and most people arrive from there.
 
-**International Travel**
+**From Peshawar** — Shared wagons (Toyota minivans, locally called hiace) leave from Peshawar's Hayatabad district throughout the day. The journey takes around 1.5 hours on the main road, which passes through the Kohat Tunnel — a 1.9 km road tunnel opened in 2003 that cut travel time and replaced the older route over the pass. Shared transport is cheap and frequent.
 
-You can reach Kohat through land or air. You can fly to Karachi Airport, Pakistan using International flights. Allama Iqbal International Airport, the second largest international airport at Lahore, is also another option. From Karachi or Lahore, you can travel to any part of Pakistan. If you prefer to land in Islamabad International Airport, then you can fly directly to the Benazir Bhutto International Airport. Airfare depends upon your country of origin. There are cheaper air fares for the economy class of most airlines.
+**From Islamabad** — There are bus services from Islamabad's Pir Wadhai bus terminal, either direct or via Peshawar. The journey takes around 3–4 hours depending on traffic and the route taken.
 
-**Travel to Kohat**
+**By train** — The Kohat branch line exists, and Kohat Cantonment railway station remains on the map, but passenger services on this line have been suspended for years. Do not rely on the train.
 
-From Jinnah International Airport, Karachi, you can travel by railway or bus to Kohat. The Indus Highway provides you easier access to the Kohat province. They also provide cheaper fares. You may want to travel with groups though or with a trusted tourist guide. You can opt for a train ride if it is available in your particular area. You can avail of train travel from Karachi, Lahore and Peshawar. From these places, you can commute by bus to Kohat.
-****
+**Permits and security** — Khyber Pakhtunkhwa has historically required foreigners to obtain permission before travelling beyond the main cities, and parts of the district around Kohat remain sensitive. Check the current permit requirements at the Khyber Pakhtunkhwa Home Department or through your country's embassy, and review up-to-date travel advisories before planning your trip.

@@ -1,19 +1,8 @@
 ---
-title: "Things to do in Clear Lake"
+title: Things to Do
 type: section
-type: "general"
+tags:
+  - things_to_do
 ---
 
-### [Outrageous Waters Water Park](/northamerica/unitedstates/california/northcoast/clearlake/thingstodo/outrageouswaterswaterpark)
-
-6885 Old Hwy. 53 95422 707/995-1402
-
-type: general
-
-
-
-### [Clear Lake Queen](/northamerica/unitedstates/california/northcoast/clearlake/thingstodo/clearlakequeen)
-
-P.O. Box 418 95424 707/994-5432
-
-type: general
+Clear Lake's main draws are the lake itself and the surrounding geothermal and volcanic landscape. Bass fishing is the most organised outdoor activity, with tournaments drawing serious anglers year-round. The Pomo Cultural Center and the Lake County Museum in Lakeport give context to the region's deep Indigenous history. For the geologically curious, the Anderson Marsh State Historic Park preserves wetlands that are among the oldest continuously inhabited places in North America.

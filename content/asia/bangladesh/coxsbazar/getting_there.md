@@ -1,14 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-**Keari Sindabad Ship**
+Cox's Bazar has a domestic airport (IATA: CXB) about 3 kilometres from the town centre, with regular Biman Bangladesh, US-Bangla, and Novoair flights from Dhaka. The flight takes around one hour and is the most practical option for most international visitors. Book ahead during peak season as flights fill up.
 
-Keari Sindabad is the best and only tourist friendly ship transportation service for St. Martin tour. Every day in the tourist season this ship start from Teknaf at 09:30 AM and return from St.Martin at 03:00 PM.
-
-This ship have enough safety eqipment for tourist during the journey of this route. They have three category seating services and rates are TK 650, 700 and 750 for return trip.
-
-In this route have some other vessel also. Named are LCT Kutubdia, Eagle-1, MV Farhan, Rangabali. Their rate almost same with Keari Sindabad.
-
-Anyone can call for more information about Keari Sindabad dial +8801727 266077
+By road from Dhaka, air-conditioned coaches take 10 to 12 hours; the journey from Chittagong is around 4 hours. Several bus companies run overnight services from Dhaka that arrive in the morning. Cox's Bazar now has a railway station — a new line connecting it to the national rail network via Chittagong was completed in recent years, with the journey from Chittagong taking roughly 5 hours by train. Trains are cheaper and more comfortable than buses, though slower. The bus terminal and railway station are on the east side of town, about 3 kilometres from the beach.

@@ -1,14 +1,23 @@
 ---
-title: "Karlovy vary"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
 latitude: 50.230622
+loc_type: city
 longitude: 12.870144
+score: 0.63
+title: Karlovy Vary
+type: location
+image: karlovyvary.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Karlovy_Vary,_Czech_Republic_May_2022_-_Cappellini.jpg
+image_license: CC BY 2.0
+image_attribution: Sharon Hahn Darlin
 ---
 
-Karlovy Vary, or Carlsbad as it was formerly known, is an important Spa. The town boomed in the 19th century and many of the attractions date from that period. So even if you are not interested in thermal baths, the town is absolutely worth a visit.
+Karlovy Vary — known in German as Carlsbad — is the grandest of the Bohemian spa towns, a place where 19th-century Europe came to take the waters and be seen. The hot springs that bubble up here drew everyone from Goethe and Beethoven to Peter the Great, and the colonnades, bath houses, and ornate hotels they left behind make the town an architectural pleasure even if you have no interest in soaking your feet.
 
-In the second half of the 19th century many metropolitan style buildings were erected - proud bathhouses and hotels, the Town Theatre, the savings bank, the post office, churches.
+The town boomed in the second half of the 19th century, when architects Fellner and Helmer gave it much of its character — proud bathhouses, a town theatre, the savings bank, the post office, and several churches, all in the grand Central European style. The Hot Spring Colonnade, where you can watch (and taste) the famous thermal water, is the centrepiece of any visit.
 
-There are lookout towers, pavilions, and gazebos built in spa woods in the town surroundings. Architectural nature of this historical period is most strongly influenced by a pair of architects, Fellner and Helmer. Contemporary architecture is represented by the building of Thermal Sanatorium and The Hot Spring Colonnade.
+Beyond the architecture, Karlovy Vary has two things it is rightly proud of: the international film festival held here each summer, which draws serious cinema crowds from across Europe, and Becherovka, the bitter herbal liqueur distilled in the town since 1807 and still made to the same secret recipe. A glass at a colonnaded café is as good an introduction to the place as any.
 
-Karlovy Vary is also home to an annual international film festival and is the origin of Becherovka, a locally-made liqueur with reported health benefits.
+The surrounding spa woods offer easy walks with lookout towers and pavilions — a reminder that this was always a resort town, designed for leisurely strolling as much as for treatment.

@@ -3,24 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**Le Bon Vivant**
-
-
-
-address: capucijnenstraat 91
-
-tel: 043-3210816
-
-pc: 6211 RP
-
-**Restaurant Intermezzo **
-
-
-
-address: Tongersestraat 5
-
-tel: 043 325 78 66
-
-pc: 6211 LL
+Maastricht has long been considered the best city in the Netherlands for food, with a restaurant culture closer to neighbouring Belgium and France than to Amsterdam. The Vrijthof square and the streets around it are full of options, from casual brasseries to serious French-influenced kitchens. Regional specialities include Limburgse vlaai (a flat fruit tart), zuurvlees (sweet-and-sour stew), and a wide range of local cheeses. Pan-fried asparagus from the sandy soils of Limburg is a seasonal highlight in May and June.

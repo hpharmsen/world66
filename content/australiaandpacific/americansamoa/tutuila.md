@@ -1,15 +1,22 @@
 ---
-title: "Tutuila"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+image: tutuila.jpg
+image_license: Public Domain
+image_source: https://commons.wikimedia.org/wiki/File:Afono_Village_NPS.jpg
 latitude: -14.306479
+loc_type: city
 longitude: -170.759739
+score: 0.53
+title: Tutuila
+type: location
 ---
 
-Tutuila is the largets of the seven island and the main base for travelers. On the island is a large National Park which is one of the major attractions - together with sun, sea and sand of course.
+Tutuila is the largest of American Samoa's seven islands and the main base for travelers. Nearly all flights arrive here, and Pago Pago — the capital — is on Tutuila's south coast, inside the deep [harbor](/australiaandpacific/americansamoa/tutuila/pago_pago_harbor) carved by a collapsed volcanic caldera.
 
+The [National Park of American Samoa](/australiaandpacific/americansamoa/tutuila/national_park) covers a significant portion of the island's northern coast, protecting one of the last intact tropical rainforests in the American territories. Start at the visitor centre in Fagatogo before heading out. A scenic road runs from Pago Pago over to the north coast — allow a few hours, including stops at the viewpoints along Afono Pass. The Amalau Valley is one of the better spots to watch for flying foxes gliding above the canopy.
 
- Stop first at the visitor center in Pago Pago. A scenic road leads from Pago Pago to the north coast. Allow a few hours for this drive, including stops. You may wish to stay in overnight in the villages next to the park, but prior arrangements should be made. Along the road there are panoramic views, especially from Afono Pass. The Amalau Valley is a good place to watch above the trees for flying foxes. There is a foot trail out towards Pola Island from the village of Vatia.
+From the village of Vatia on the north coast, a trail leads toward the sea cliffs overlooking Pola Island. It's a short walk with dramatic views.
 
-
- 
- Mount Alava lies to the north of Pago Pago Harbor. A hiking trail along the maintenance road leads to the 1610 foot summit; the trailhead is located at Fagasa Pass, a short drive west of Pago Pago. The hike is 6 miles round trip; allow 3 hours for your hike up and 2 hours for your return to the pass.
+The [Mount 'Alava trail](/australiaandpacific/americansamoa/tutuila/mount_alava) follows a maintenance road to a 491-metre summit with panoramic views over the harbour and north coast. The trailhead is at Fagasa Pass, a short drive from town. For history, the [Jean P. Haydon Museum](/australiaandpacific/americansamoa/tutuila/haydon_museum) in Fagatogo covers Samoan culture and the naval period, and [Massacre Bay](/australiaandpacific/americansamoa/tutuila/massacre_bay) on the northwest coast marks the site of a deadly 1787 encounter between French explorers and local islanders.

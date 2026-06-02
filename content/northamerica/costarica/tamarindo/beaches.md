@@ -3,15 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-*Costapalmera.com is owned and managed by folks with many years
-experience in the luxury hospitality industry. Facilities include Car
-Parking Available, Internet Access, Laundry, Wheelchair Friendly, Linen
-Included, Towels, Security Lockers, Luggage Storage, Children Friendly,
-Kitchen, Catering, Telephone/Fax Facilities, Maid service, Concierge,
-and Security..
-
-*
-
-*Visit: http://www.costapalmera.us
-
-*
+Tamarindo sits at the southern end of a long curve of Pacific coast that includes some of the best beaches in Costa Rica. The town's own bay is wide and gentle; a short walk or drive in either direction takes you to wilder, quieter stretches. The Las Baulas national park north of the estuary protects several kilometres of undeveloped sand.

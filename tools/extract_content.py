@@ -14,12 +14,12 @@ import os
 import re
 import sys
 
+import frontmatter
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.join(SCRIPT_DIR, "raw")
 CONTENT_DIR = os.path.join(SCRIPT_DIR, "..", "content")
 INDEX_FILE = os.path.join(SCRIPT_DIR, "site_index.json")
-REDIRECTS_FILE = os.path.join(SCRIPT_DIR, "..", "redirects.json")
-
 # Sub-regions to flatten: remove the sub-region from the path
 # e.g. asia/middleeast/turkey -> asia/turkey
 SUBREGIONS_TO_FLATTEN = {
@@ -619,16 +619,6 @@ def process_file(filepath):
     for suffix in [" Travel Guide", " travel guide", " travelguide"]:
         if page_title.endswith(suffix):
             page_title = page_title[:-len(suffix)].strip()
-    lines.append("---")
-    safe_title = page_title.replace('"', "'")
-    lines.append(f'title: "{safe_title}"')
-    lines.append(f'type: {page_type}')
-    if properties:
-        for key, val in sorted(properties.items()):
-            safe_val = val.replace('"', "'")
-            lines.append(f'{key}: "{safe_val}"')
-    lines.append("---")
-    lines.append("")
 
     # Strip the h1 and breadcrumb from body — template renders those
     body = re.sub(r"^# " + re.escape(page_title) + r"\s*\n*", "", body)
@@ -648,14 +638,11 @@ def process_file(filepath):
     if len(body) < 50 and page_type == "poi" and not properties:
         return None
 
-    if body:
-        lines.append(body)
-        lines.append("")
-
-    # Destinations are rendered dynamically by the template from children(),
-    # so we don't include them in the markdown.
-
-    markdown = "\n".join(lines)
+    meta = {"title": page_title, "type": page_type}
+    for key, val in sorted(properties.items()):
+        meta[key] = val
+    post = frontmatter.Post(body, **meta)
+    markdown = frontmatter.dumps(post, sort_keys=False) + "\n"
 
     # Write output — use flattened path
     rel_path = "/".join(path_parts) + ".md"
@@ -712,7 +699,6 @@ def run_extraction():
     print(f"Found {len(html_files)} HTML files to process")
 
     index = []
-    redirects = {}
     processed = 0
     skipped = 0
 
@@ -721,12 +707,6 @@ def run_extraction():
         if result:
             index.append(result)
             processed += 1
-            # Collect redirects from flattened sub-regions
-            old_path = result.get("old_path")
-            if old_path:
-                new_path = result["path"].replace(".md", "")
-                old_clean = old_path.replace(".html", "")
-                redirects[old_clean] = new_path
         else:
             skipped += 1
 
@@ -735,11 +715,6 @@ def run_extraction():
 
     with open(INDEX_FILE, "w") as f:
         json.dump(index, f, indent=2)
-
-    if redirects:
-        with open(REDIRECTS_FILE, "w") as f:
-            json.dump(redirects, f, indent=2)
-        print(f"  Redirects: {len(redirects)} saved to {REDIRECTS_FILE}")
 
     print(f"\nDone!")
     print(f"  Extracted: {processed} pages")

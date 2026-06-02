@@ -1,18 +1,8 @@
 ---
-title: "Bars and Cafes"
+title: Bars and Cafes
 type: section
 ---
 
-**all**
+Thamel's nightlife is densely concentrated and gets lively after dark — duelling sound systems, trekkers celebrating departures or returns, and the kind of informal, high-turnover energy that comes with a city that sees a lot of people passing through. The area around the Kathmandu Guest House has the highest concentration of bars. There is also a growing craft beer scene: Himalayan Brewing Co. and others produce ales that are considerably better than the standard Everest and Gorkha lagers available everywhere.
 
-**Lser Cyber**
-
-Our Services are: Internet sufring, Live Web conference, Laptop connection support, Chatting, Word processing, Scanning, CD writing, Floppy Disk copying, Graphics workstation, Web site developing, Laser Jet printing & International call in moderate cost. 
-
-If you need any additional inform [more..](/asia/nepal/kathmandu/bars_and_cafes/lser_cyber)
-
-PC: 30
-
-tel: 2111230
-
-address: Pulchowk
+Cafes in Thamel by day are good for planning over coffee and wifi. The Garden of Dreams, next to the Kaiser Mahal, has a pleasant open-air cafe in its restored neoclassical grounds — one of the nicer places in the city for a quiet afternoon drink.
