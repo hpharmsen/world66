@@ -1,6 +1,6 @@
 ---
-title: "Things to do in Clearwater"
+title: "Things to Do"
 type: section
 ---
 
-Simply Kayaking is a local guided kayak eco-tour service in the [Palm Harbor](/northamerica/unitedstates/florida/palmharbor) and [Tarpon Springs](/northamerica/unitedstates/florida/tarpon_springs) area. They take daily trips for groups of 1 to 16 kayakers. Everything is included; guides, instruction, kayak and safety equipment, bottled water, snacks, sunscreen, and a photo CD of the trip is all included. (727) 481 0184
+Beyond the beaches, Clearwater has enough to fill several days. The Clearwater Marine Aquarium is the headline attraction, drawing families with its marine rescue mission and dolphin encounters. The state parks at Honeymoon Island and Caladesi Island offer some of the best nature experiences on the Gulf Coast. Downtown Clearwater has a restored 1920s theater, a revamped waterfront park with a concert amphitheater, and the Pinellas Trail for cycling. The Church of Scientology's presence in downtown Clearwater is hard to miss and adds an unusual dimension to the cityscape.

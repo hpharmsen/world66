@@ -1,14 +1,21 @@
 ---
-title: "Wrexham"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
+image: wrexham.jpg
+image_attribution: Richard Szwejkowski on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/68112440@N07/53327177135
 latitude: 53.046508
+loc_type: city
 longitude: -2.993787
+score: 0.42
+title: Wrexham
+type: location
 ---
 
-Not only renowned for it's buzzing fast food culture and street fighting, Wrexham is also home to some of the finest modified Novas in Wales.
+Wrexham became Wales's newest city in 2022, a recognition long overdue for the largest town in north Wales and a place with more claim to urban grit than most of the country's cities. A former coal and steel town, it has reinvented itself as a busy commercial centre — and, since 2020, as an unlikely global football sensation.
 
-Don't know who wrote that but don't be put off. Wrexham was once a coalming and steel town. It also had two renowned breweries. Recently it has undergone a makeover and is now a very good shopping centre. There are also some buildings of architectural interest including St Giles' Church with its ornate tower, a copy of which can be found at Yale University in the USA. In fact the founder of Yale University, Elihu Yale has his tomb at the church. The colourful ceiling of the church is decorated with flying musical angels and there are two very early eagle lecterns. Modern buildings of note include the swimming baths and the police building next door. 
+The main historic draw is [St Giles' Parish Church](/europe/unitedkingdom/wales/wrexham/st_giles_church), whose ornate Gothic tower is one of the Seven Wonders of Wales. A copy of the tower stands at Yale University in the United States, whose benefactor Elihu Yale is buried in the churchyard. Just outside the city, [Erddig Hall](/europe/unitedkingdom/wales/wrexham/erddig_hall) is a National Trust property remarkable for preserving the detailed records of its servants alongside the family's — walking its working kitchens and laundries feels unusually real compared to the usual country house experience. [Bersham Ironworks](/europe/unitedkingdom/wales/wrexham/bersham_ironworks), where John Wilkinson developed the precision boring techniques that made James Watt's steam engine practical, gives the city its industrial dimension.
 
-The area around Wrexham has some excellent visitor attractions including Bersham Ironworks where John Wilkiinson one of the early Ironmasters of the Industrial Revolution set up a foundry. Close by the Bersham Visitor Centre Chronicles the Industrial and Geological Heritage. The Clwedog Valley trail leads through a picturesque valley to Minera with its disused Lead Mines. These were mined from Roman Times until the start of the 20th Century. The City Shaft Engine House has been restored and can be visited.
-
-Coal mining is represented by the Headgear and winding house at the old Bersham Mine. Location for the 1979 remake of "How Green was my Valley". Close by is Erddig Hall a National Trust property well worth a visit as the servants here were very well treated when compared to other stately homes such as Penrhyn Castle.
+Eight miles southeast, the [Pontcysyllte Aqueduct](/europe/unitedkingdom/wales/wrexham/pontcysyllte_aqueduct) carries the Llangollen Canal 39 metres above the Dee Valley on Thomas Telford's cast-iron trough — a UNESCO World Heritage Site and one of the most vertiginous walks in Wales. And in the city centre, [Tŷ Pawb](/europe/unitedkingdom/wales/wrexham/ty_pawb) is a lively arts centre and market hall that captures something of Wrexham's working-class character. Then there's [Wrexham AFC and the Racecourse Ground](/europe/unitedkingdom/wales/wrexham/racecourse_ground) — the world's oldest international football stadium, now home to a Hollywood-backed club with a global following and a very Welsh soul.

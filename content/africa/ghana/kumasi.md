@@ -1,14 +1,25 @@
 ---
-title: "Kumasi"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
+  poi_cleanup: '2026-04-19'
+image: kumasi.jpg
+image_attribution: c.hug on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/13176024@N02/2477631289
 latitude: 6.698561
+loc_type: city
 longitude: -1.623309
+score: 0.48
+title: Kumasi
+type: location
 ---
 
-Kumasi is the heart of Ashanti country. The palace of the Ashanti hene (Ashanti king) now functions as one of the largest cultural centres and is the biggest tourist attractions in town. 
+Kumasi is the heart of the Ashanti kingdom and Ghana's second city. It is sprawling, busy, and culturally rich -- a place where traditional chieftaincy, gold, and kente cloth are not museum exhibits but part of everyday life.
 
+The **Manhyia Palace Museum** tells the story of the Ashanti kings and is the main tourist attraction. The current Asantehene (king) still holds court here, and the Akwasidae ceremony held every six weeks is a spectacular display of traditional authority. **Kejetia Market** -- one of the largest open-air markets in West Africa -- is a chaotic, colourful sprawl where you can buy everything from yams to car parts. The **Prempeh II Jubilee Museum** and the old British fort are also worth visiting.
 
+The village of **Bonwire**, about 30 minutes from the city, is where authentic kente cloth is woven on hand looms. You can watch the weavers at work and buy directly. **Lake Bosumtwi**, a crater lake 30 km southeast, is sacred to the Ashanti and a good spot for a quiet swim.
 
-Other sights include an old fort, one of the countries major universities, the zoo and the lively central market. 
-
-Kumasi is an excellent base for exploring the North of Ghana. It has a good tourist infrastructure with many accommodation facilities and restaurants. It is also a major travel hub. Bonwire, Owabi Wildlife Resort and Lake Bosumtwi are good daytrips.
+Kumasi is also an excellent transport hub. It sits at the junction of routes to [Accra](/africa/ghana/accra), [Tamale](/africa/ghana/tamale), [Cape Coast](/africa/ghana/capecoast), and the Brong Ahafo Region. STC and VIP buses connect to all major cities.

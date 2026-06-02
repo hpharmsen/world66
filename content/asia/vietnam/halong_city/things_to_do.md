@@ -1,13 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**HL-KA 03 : HA LONG KAYAKING** ( 2 days/ 1 night )
-**Overnight in Halong city**
-
-****
-
-**Day 1: Hanoi -Halong Kayaking** (** L, D)
-**AM : 8h00 pick up from hotel. Depart to Halong Bay by Bus. Arrive at 11h30,Get on boat for cruising.Lunch on boat.
-PM : Cruising on the bay, Stop for visiting ThienCung, Daugo and Luon caves. Relaxing at a desert beach for swimming and Kayaking.
+Almost everything worth doing in Halong City involves getting out onto the water. The bay itself is the draw, and the best access is by cruise — overnight or multi-day trips that take you away from the tourist concentration around Bai Chay and into the less-visited corners of the 1,500-square-kilometre bay. On land, the city has the Quang Ninh Museum (striking architecture, reasonable collections) and a coal mining heritage worth understanding if you're curious how this part of Vietnam actually works.

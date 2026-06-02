@@ -1,17 +1,20 @@
 ---
-title: "Kotohira"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-10'
+latitude: 34.1916
+loc_type: city
+longitude: 133.8233
+score: 0.6
+title: Kotohira
 type: location
-latitude: 34.191594
-longitude: 133.82325
+image: kotohira.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kotohira-gu01s.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Toto-tarou
 ---
 
-Travel Guide
+Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for **Konpira-san** (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the deity of seafarers. The town itself is compact and pleasant — old merchant streets, stone lanterns, and vendors selling the local sweet, *konpeito* — but the shrine is the reason to make the trip.
 
-A town in Kagawa prefecture to the southwest of [Takamatsu](/asia/japan/shikoku/takamatsu), Kotohira's importance centers around its celebrated, hilltop shrine **Kompira-san**.
-The ascent to the shrine counts some 1368 steps - a fact much touted by
-Japanese. From the main hall at the top of the climb, visitors can
-catch a view out over the Inland Sea (at least on a clear day). Apart
-from the shrine, Kotohira also boasts Japan's oldest Kabuki playhouse, **Kanamaru-za**, built in 1835. If one is visiting in April, there is a chance of seeing a performance.
-
-More information on
-*Kotohira Travel*
+The approach to Konpira-san involves climbing 785 stone steps to the main hall, with a further 583 to the inner sanctuary at the summit. The views over the Sanuki plain and toward the Inland Sea are worth the effort, especially on a clear day. Less well-known but equally worthwhile is **Kanamaru-za**, Japan's oldest surviving kabuki theatre, built in 1835 and still in use every April for an annual festival.

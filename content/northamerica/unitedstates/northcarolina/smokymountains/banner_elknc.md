@@ -1,10 +1,14 @@
 ---
-title: "Banner Elk,NC"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 36.163334
 longitude: -81.871901
+title: Banner Elk
+type: location
+score: 0.46
+loc_type: city
 ---
 
-Travel Guide
+Banner Elk is a small mountain town in the North Carolina high country, best known as the gateway to **Sugar Mountain** and **Beech Mountain** ski resorts. In winter, the slopes draw skiers and snowboarders from across the Southeast. In summer, the town is a cool retreat from the lowland heat, with hiking, fly fishing, and scenic drives along the Blue Ridge Parkway nearby.
 
-This is the beautiful town of Banner Elk, NC which is the start of the ski slopes.
+The town itself has a handful of good restaurants and shops, and **Lees-McRae College** gives it a touch of cultural life. The annual **Woolly Worm Festival** in October is a beloved local tradition -- a caterpillar race that supposedly predicts the coming winter's severity.

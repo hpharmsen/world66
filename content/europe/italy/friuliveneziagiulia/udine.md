@@ -1,16 +1,19 @@
 ---
-title: "Udine"
-type: location
+done:
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-15'
+image: udine.jpg
+image_attribution: Christopher Michel
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Udine,_Italy_(7427909718).jpg
 latitude: 46.063463
+loc_type: city
 longitude: 13.235838
+score: 0.58
+title: Udine
+type: location
 ---
 
-The town is situated 113 m. above sea level at the foot of a hill dominated by the castle, on the wide alluvial plain of the Tagliamento river. 
+Udine is the main city of the Friuli region, set on the plain between the Alps and the Adriatic with views of both on a clear day. It is less visited than Venice and less talked about than [Trieste](/europe/italy/friuliveneziagiulia/trieste), which makes it one of the more pleasant surprises in northeastern Italy. The historic centre is compact and largely car-free, built around the 16th-century [Piazza della Libertà](/europe/italy/friuliveneziagiulia/udine/piazza_della_liberta) — widely considered one of the most harmonious squares in Italy — with its Venetian Gothic [Loggia del Lionello](/europe/italy/friuliveneziagiulia/udine/loggia_del_lionello) and the [clock tower](/europe/italy/friuliveneziagiulia/udine/torre_dell_orologio) modelled on Venice's own.
 
-Despite its probable Roman origin, it is thought to be founded in 983 (document of Emperor Otto). The Patriarchs of Aquileia had their seat here after 1238 on. Often at war with Cividale and Venice, it was conquered by the latter in 1420 and shared its fortunes till the Napoleonic era (1797). After the Congress of Vienna it became a Hapsburg dominion until 1866 when, following the 3rd War of Independence, it was united with Italy. 
-
-
- Monuments: in the 16th-century Piazza della Libertà, at the foot of the castle, is Palazzo del Comune (15th century GothicVenetian style), Porticato di S. Giovanni, an elegant Renaissance loggia (16th century), Torre dell'Orologio (16th century clock tower); not far away stands the Duomo (14th century, restructured in the 18th century, with a rich interior), with the adjacent Oratorio della Purita (18th century, paintings by Tiepolo), church of S. Maria del Castello (12th-13th century with 13th century frescoes), Palazzo Arcivescovile (16th-18th century). 
-
-
- An important junction for both road and rail communications (with links to Croatia and Austria), Udine is a busy centre for commercial activities and freight distribution. The still expanding industrial sector, includes the steel industry, engineering, textiles, paper, food (breweries) and furniture.
+The city has an unexpected concentration of works by Giambattista Tiepolo, who was commissioned here early in his career. The [Palazzo Arcivescovile](/europe/italy/friuliveneziagiulia/udine/palazzo_arcivescovile), the [Cathedral](/europe/italy/friuliveneziagiulia/udine/udine_cathedral), and the [Oratorio della Purità](/europe/italy/friuliveneziagiulia/udine/oratorio_della_purita) all contain frescoes by him, making Udine one of the best places outside Venice to see his work. The hill above the city, crowned by the [castle](/europe/italy/friuliveneziagiulia/udine/udine_castle), offers a panorama extending to Slovenia on a good day.

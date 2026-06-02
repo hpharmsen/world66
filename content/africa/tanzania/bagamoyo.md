@@ -1,15 +1,27 @@
 ---
-title: "Bagamoyo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
 latitude: -6.442208
+loc_type: city
 longitude: 38.906219
+score: 0.45
+sources:
+- https://en.wikipedia.org/wiki/Bagamoyo
+- https://en.wikipedia.org/wiki/Bagamoyo_Historic_Town
+- https://en.wikipedia.org/wiki/Kaole
+title: Bagamoyo
+type: location
+image: bagamoyo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bagamoyo_Tanzania_Missionary_Building.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Geir Kiste
 ---
 
-Travel Guide
+Bagamoyo is a historic coastal town about 75 km north of [Dar es Salaam](/africa/tanzania/daressalaam). Founded in the late 1700s by families related to the ruler of [Oman](/asia/oman), it grew into one of the most important towns on the East African coast during the 19th century as the terminus of the slave and ivory trade route from Lake Tanganyika. The name itself — Bagamoyo, "lay down your heart" in Swahili — is said to be what enslaved people muttered as they were marched onto the beach to be shipped across to [Zanzibar](/africa/tanzania/zanzibar).
 
-Bagamoyo is a town on the Tanzanian coast, about 75 km north of [Dar es Salaam](/africa/tanzania/daressalaam). It is one of the so called young Swahili towns and was founded in the late 1700s when Moslem families related to the ruler of [Oman](/asia/oman) settled here. In the 19th century Bagamoyo became in important town for trade in ivory and slaves for the Arab market. The slave trade route through the interior of the country from Lake Tanganyika ended here.
-In 1868 Catholic missionaries were allowed to settle and their history can be studied in the Catholic museum. By the end of the 19th century Bagamoyo was the most important town on the coast, and the German colonialists made it their capital. However, in 1891 they moved the capital to the new city Dar es Salaam, and the importance of Bagamoyo subsequently declined, particularly after the railway had been built from Dar es Salaam westwards.
-A few kilometres south of Bagamoyo are the Kaole ruins, including two mosques, which were excavated in the 1950s. There are also remnants of a few tombs from the 13th century
-Although a number of European explorers started their expeditions in Bagamoyo, David Livingstone did not come to the town until his body was carried there after his death for further transport to [Zanzibar](/africa/tanzania/zanzibar) and London.
-A number of stone buildings from the German times have been restored in recent years. There is also a German burial place.
-Today Bagamoyo can be reached easily on a newbuilt tarmac road from Dar es Salaam and new tourist hotels have opened.
+Catholic missionaries were allowed to settle in 1868, and their legacy can be explored in the [Catholic Mission museum](/africa/tanzania/bagamoyo/catholic_mission_museum), one of the best small museums in Tanzania. By the late 19th century Bagamoyo was the German colonial capital, with the [Old Boma](/africa/tanzania/bagamoyo/old_boma) and the [Old Customs House](/africa/tanzania/bagamoyo/old_customs_house) the centrepieces of the trading port. The Germans soon moved operations to Dar es Salaam and the town quietly declined.
+
+A few kilometres south are the [Kaole ruins](/africa/tanzania/bagamoyo/kaole_ruins) — two medieval mosques and 13th-century tombs, evidence of the much older Swahili trading settlement that preceded the town. Several German-era stone buildings have been restored, the Sultan's [Old Fort](/africa/tanzania/bagamoyo/old_fort) still stands above the harbour, and there is a German burial ground.
+
+David Livingstone's body was carried through Bagamoyo on its way to Zanzibar and eventually London, and the [Livingstone Tower](/africa/tanzania/bagamoyo/livingstone_tower) on the mission road marks one of the stops. A good tarmac road from Dar es Salaam makes the town an easy day trip, and a handful of tourist hotels along [Nunge beach](/africa/tanzania/bagamoyo/nunge_beach) make it easy to stay longer. The annual festival at the [College of Arts](/africa/tanzania/bagamoyo/college_of_arts) in September is the cultural high point of the Tanzanian coast.

@@ -1,5 +1,14 @@
 ---
-title: "Tineghir"
+done:
+  location_cleanup: '2026-04-08'
+image: tineghir.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kasbha_Tinghir_Todra_Morocco_-_panoramio_(2).jpg
+latitude: 31.5147
+loc_type: city
+longitude: -5.5328
+score: 0.53
+title: Tineghir
 type: location
 ---
 

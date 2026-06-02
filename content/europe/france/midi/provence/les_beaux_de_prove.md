@@ -1,14 +1,23 @@
 ---
-title: "Les Beaux de Provence"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-08
+  poi_cleanup: '2026-04-21'
+image: les_beaux_de_prove.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Baux_de_Provence.jpg
+latitude: 43.7444
+loc_type: city
+longitude: 4.7952
+score: 0.68
+title: Les Baux-de-Provence
 type: location
-latitude: 43.234892
-longitude: 5.413336
 ---
 
-Amazing, that's the first word that springs to mind thinking about Les Beaux de Provence. This it true for both the village itself and the landscape surrounding it.
+Few villages in France announce themselves quite so dramatically as Les Baux-de-Provence. The entire settlement — ruined castle, medieval streets, and all — sits on a narrow limestone ridge rising abruptly from the olive groves of Les Alpilles, its cliffs dropping sheer on three sides. In the Middle Ages that made it one of the most powerful strongholds in the south. Today it makes it one of the most photogenic.
 
-The village itself is built on a rock plateau which is about a hundred metred wide and 500 metres tall. It's got steep cliffs on all sides making it an untakable stronghold in medieval times.
+The ruined Chateau des Baux sprawls across the upper third of the plateau — towers, keep, and reconstructed siege engines included. The views from the ramparts over the patchwork of vineyards and garrigue below are as good as anything in Provence. Below the castle, the village itself is worth an hour of unhurried wandering: galleries and craft shops tucked into stone buildings, steep lanes that dead-end at views, the whole place built from the same pale limestone it stands on.
 
-Next to the village was one a castele. Now there are only ruins left. They are definitely worth a visit because the castle area (entrance fee €7,50 for adults, €5,50 for students) spans about two thirds of the whole plateau. From the plateau the view of the surrounding countryside with it's patchwork of olive trees and vineyards is magnificent.
+The other major draw is the Carrières de Lumières, a converted bauxite quarry just outside the village that hosts large-scale immersive art projections. The scale is extraordinary — floor-to-ceiling images covering 7,000 square metres of raw rock face, with a new programme each year. It's the kind of thing that sounds gimmicky and turns out to be genuinely impressive.
 
-The other side of the village looks in the direction of "Les Alpilles", the strangely formed rock formations which can be found in the area between Les Beaux the Provence and [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov).
+The village gets very crowded in summer, especially on weekends. Come on a weekday morning in spring or autumn and you'll have the place closer to yourself.

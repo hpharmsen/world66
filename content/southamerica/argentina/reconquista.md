@@ -1,8 +1,12 @@
 ---
-title: "Reconquista"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -29.144348
 longitude: -59.643773
+title: Reconquista
+type: location
+score: 0.34
+loc_type: city
 ---
 
 Reconquista may not be the big tourist city you would jump at the chance of travelling to. No bright lights, casinos, streets of restaurants or theme parks here. But if you're looking to experience part of "small-town Argentina" while not going too small, Reconquista is a good place to check out.

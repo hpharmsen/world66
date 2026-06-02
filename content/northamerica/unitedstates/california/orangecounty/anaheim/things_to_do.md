@@ -1,18 +1,8 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
-address: "1313 Harbor Blvd. 92803"
-phone: "714/781-4565"
-type: "Other"
-url: "www.disneyland.com"
-latitude: 33.756332
-longitude: -117.920433
 ---
 
-### [Disneyland
+Anaheim is essentially a one-attraction city. [Disneyland](/northamerica/unitedstates/california/orangecounty/anaheim/disneyland) and the adjacent Disney's California Adventure dominate the visitor experience, and the entire infrastructure of hotels, restaurants, and transportation has grown up around them. If you are not here for Disney, the [Anaheim Packing House](/northamerica/unitedstates/california/orangecounty/anaheim/anaheim_packing_house) in the revived downtown district is worth knowing about, and the city has two major sports venues — [Angel Stadium](/northamerica/unitedstates/california/orangecounty/anaheim/angel_stadium) and the [Honda Center](/northamerica/unitedstates/california/orangecounty/anaheim/honda_center) — that draw visitors year-round.
 
-This year (2005) Disneyland Resort celebrates 50 Years of Magic. Now's the best time to come! Disneyland Resort is actually two parks, Disneyland Park and Disney's California Adventure. You can enjoy attractions, parades, and shows throughout the Park. Access Disneyland Resort Hotels via the Disneyland Monorail or park in one of the two parking lots and take the tram to the main gate and Downtown Disney.
-
-Parking for Disneyland Resort and Downtown Disney may be reached off of Harbor Blvd or Disneyland Drive. Parking is expensive ($10) but you more..](/northamerica/unitedstates/california/orangecounty/anaheim/thingstodo/disneyland)
-
-type: Other
+For everything else, you are better off leaving: the beaches, Los Angeles, and the rest of Orange County are all within reasonable reach.

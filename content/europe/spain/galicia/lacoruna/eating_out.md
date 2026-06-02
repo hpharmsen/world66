@@ -1,13 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "29, Alfredo Vicenti"
-phone: "981 251 885"
-price: "30€"
 ---
 
-Here there are some of La Coruna Restaurants.
-
-### El Manjar
-
-Traditional Galician cuisine. Excellent service. Where the footplayers from Deportivo de La Coruña usually go.
+Galician cooking is among the best in Spain. La Coruña has access to some of the finest shellfish in the world — the Rías Altas produce percebes (goose barnacles), nécoras (velvet crabs), and zamburiñas (queen scallops) that appear on menus across the city. The old town and the fishing port have the highest concentration of good restaurants, though the side streets of the Ensanche hide excellent tapas bars too.

@@ -3,16 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-You can get to **Tehran** either by air, by rail or by road.
+**Imam Khomeini International Airport (IKA)** is the main international gateway, about 35 kilometres south of the city centre. It handles virtually all international flights. The metro Line 1 connects the airport to the city, though the journey takes about an hour. Taxis to central Tehran are negotiable; agree a price before you get in.
 
- 
+**Mehrabad Airport (THR)** is the older domestic airport, closer to the city in western Tehran, used for domestic flights within Iran. It is easy to reach by metro.
 
-**Air:** Iran's national airline *Iran Air* (IR)operates three direct flights per week to Tehran from London (Heathrow). Other airlines serving Iran include Air France, British Airways, KLM, Lufthansa and Swissair
+**Overland** from the north: the bus and train network from Istanbul (via Tabriz) and from Central Asia is how most overland travellers arrive. The train journey from Istanbul to Tehran takes about 60 hours and passes through some of the most dramatic landscape in the region. Check current schedule and visa requirements, which have changed frequently.
 
-Approximate flight time: From London to Tehran is 6 hours.
-
-For the best airticket prices, please check the Priceline.com. The connection to the site is provided at the Links section.
-
-  International airport: Tehran (THR) (Mehrabad) is 5km (3 miles) west of the city. Airline buses are available to the city (travel time 45 minutes) for approximately IR100. Taxis are also available to the city centre for approximately IR10,000 (travel time 30 minutes).
-
-Airport facilities include a 24-hour bank, 24-hour post office, 24-hour restaurant, snack bar, 24-hour duty-free shop, gift shops, 24-hour tourist information and first aid/vaccination facilities.
+Visa arrangements for foreign nationals are complex and depend on nationality. Most Western passport holders require advance visa arrangements and many cannot obtain visas at all. Check the latest requirements carefully before travelling.

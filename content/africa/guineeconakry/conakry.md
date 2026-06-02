@@ -1,14 +1,25 @@
 ---
-title: "Conakry"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-19'
+image: conakry.jpg
+image_attribution: Unknown
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Conakry-ville2.JPG
 latitude: 9.51706
+loc_type: city
 longitude: -13.699843
+score: 0.28
+title: Conakry
+type: location
 ---
 
-Conakry is the capital of [Guinee Conakry](/africa/guineeconakry) and is located at the tip of a narrow peninsula. The centre of town is right at the end of the peninsula. Because of the fact that the city has expanded quite fast in recent years it can take quite some time to get from the centre to the outskirts. The main axis in town is called the Avenue de la Republique in the centre, changes its name into Route du Niger and later into Autoroute if you move further to the north. 
+Conakry is the capital of [Guinea](/africa/guineeconakry) and sits at the tip of a narrow peninsula jutting into the Atlantic. The city has grown far beyond this peninsula in recent decades, sprawling inland with little planning and heavy traffic. Getting from the center to the outskirts can take hours.
 
+The main axis runs from the old center along the Avenue de la Republique, changing names to Route du Niger and eventually Autoroute as it stretches north. This is where most of the city's life happens — markets, mosques, government buildings, and the constant hum of shared taxis.
 
+What Conakry offers above all else is energy and music. This is one of West Africa's great music cities, and on any given evening you can find live djembe, kora, or guitar in neighborhood bars and cultural centers. The markets are intense and genuine. The sights are modest, but they reward a slow walk through the old peninsula.
 
-There are not a lot of real sights in Conakry. There is the Palais de l'OUA where the cancelled OUA of 1984 would have been held, had president Toure not died. Accross the streets are 50 moorish style villas where the presidents of the African countries would have stayed. The **National Museum** is probably the best museum in the country, but don't expect too much. There are some masks, statues and muscial instruments on display. Entrance is free. 
-
-South of Conakry the [Iles de los](/africa/guineeconakry/ilesdelos) are a group of islands that are ideal places to relax, swim and tan. Boats leave from behind the Novotel.
+South of Conakry, the [Iles de Los](/africa/guineeconakry/ilesdelos) are a group of small islands ideal for a day trip. Boats leave from the beach near the old Novotel hotel.

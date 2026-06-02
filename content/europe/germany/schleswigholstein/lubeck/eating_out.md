@@ -1,54 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-**general**
+Lübeck's food is northern German: fish, potatoes, rye bread, dark beer, and the city's own marzipan. Smoked herring (*Räucheraal* eel as well), *Labskaus* (the sailor's hash of corned beef, herring, beetroot and fried egg), and *Lübecker Schwalbennester* (rolled veal stuffed with hard-boiled egg) all appear on traditional menus.
 
-**The Ratskeller **
-
-serves a very good selection of vegetarian dishes 
-
-**Schmidt's**
-
-café/restaurant with a wide choice 
-
-address: Dr. Julius-Leber-Str. 60–62
-
-**Wullenwever **
-
-Neo-German gourmet cuisine for bon viveurs  
-
-tel.: +49 45 17 04 33 3
-
-address: Beckergrube 71
-
-**Seebär Restaurant **
-
-Comfortable restaurant by the sea  
-
-tel.: +49 4502 55 81
-
-address: Vorderreihe 51a
-
-**Im Alten Zolln **
-
-From a customs post to a pub 
-
-tel.: +49 451 723 95
-
-address: Mühlenstraße 93-95
-
-**Historischer Weinkeller unter dem Heiligen-Geist-Hospital **
-
-Dining like in the Middle Ages 
-
-tel.: +49 451 762 34 +49 451 762 34
-
-address: Koberg 8
-
-**Bootshaus Marli **
-
-Café with a grand view ** Joe Davis:** fabulous unexpected things!
-
-address: Alexanderstraße 2a
+For everyday eating, the streets around the Markt and along Hüxstraße have everything from old-style German restaurants to modern bistros. The harbour side along An der Untertrave has a row of fish restaurants and brewpubs facing the water.

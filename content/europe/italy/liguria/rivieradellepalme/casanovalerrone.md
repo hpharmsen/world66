@@ -1,28 +1,19 @@
 ---
-title: "Casanova Lerrone"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
 latitude: 44.032116
+loc_type: city
 longitude: 8.050223
+score: 0.41
+title: Casanova Lerrone
+type: location
 ---
 
-A farming town located on the left side of the
- upper valley of the Lerrone River. Inherited by
- the Del Carretto, it was sold to the marchesi di
- Clavesana at the beginning of the thirteenth
- century and transferred to the republic of Genoa
- in 1250. Subsequently it became a fief of the
- counts of Laigueglia (1443) and Negroni
- (1663). In 1763-64 it was the center of the
- uprising against Genoa prompted by excessive
- taxation. Surviving structures from the feudal
- period include the castles of Poggiolo, with
- decorations and furnishings from the
- seventeenth century (privately-owned), and
- Doria, as well as the ruins of those belonging to
- the Del Carretto and Maremo. The parish
- church of Sant'Antonino, rebuilt in the baroque
- era, houses a polyptych from 1552 attributed to
- the school of Brea. A group of wooden
- sculptures, perhaps by Maragliano, can be seen
- in the shrine of Nostra Signora della
- Visitazione at the locality of Degna.
+Casanova Lerrone is a quiet farming comune in the upper valley of the Lerrone River, inland from the Ligurian coast between Albenga and Alassio. Its history is typical of the small fiefdoms that changed hands repeatedly between Genoa's noble families — Del Carretto, Clavesana, and Doria — and it was the centre of a short-lived uprising against Genoa in 1763–64, prompted by excessive taxation.
+
+Several structures from the feudal period survive, including the [Castello di Poggiolo][castello_poggiolo] (with seventeenth-century decorations, privately owned) and the ruins of the Del Carretto and Maremo castles. The baroque [church of Sant'Antonino][chiesa_santantonino] houses a polyptych from 1552 attributed to the school of Ludovico Brea, and the shrine of Nostra Signora della Visitazione at Degna has wooden sculptures attributed to Maragliano. The village sits on the [Passo del Ginestra][cycling_passo_ginestra] cycling circuit, a popular route connecting the Lerrone, Merula, and Impero valleys through quiet hill roads with views to the coast.
+
+[castello_poggiolo]: /europe/italy/liguria/rivieradellepalme/casanovalerrone/castello_poggiolo
+[chiesa_santantonino]: /europe/italy/liguria/rivieradellepalme/casanovalerrone/chiesa_santantonino
+[cycling_passo_ginestra]: /europe/italy/liguria/rivieradellepalme/casanovalerrone/cycling_passo_ginestra

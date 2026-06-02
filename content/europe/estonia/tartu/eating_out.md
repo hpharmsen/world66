@@ -3,7 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Caffe Truffe in Raekoja Plats is cozy and smokefree caffeplace in Tartu . The best *caffe latte* and best salmonpasta in Tartu.www.truffe.ee
-
-**Contributors**
-May 03, 2006
+Tartu's restaurant scene is small but good, concentrated around Raekoja plats and the streets leading off it. The city's student population supports a range of affordable options; the better restaurants are competitive with Tallinn at lower prices. Estonian cuisine — rye bread, smoked fish, pork dishes, wild mushrooms and berries in season — is well-represented alongside more international options.

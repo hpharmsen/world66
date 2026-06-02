@@ -1,11 +1,15 @@
 ---
-title: "Lori Marz"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  poi_cleanup: '2026-04-20'
 latitude: 40.907832
 longitude: 44.120832
+score: 0.43
+title: Lori Marz
+type: location
+loc_type: region
 ---
-
-Travel Guide
 
 The Lori region of Armenia is in the very north, in the center of
 Armenia's border with Georgia. The three four main geographic features

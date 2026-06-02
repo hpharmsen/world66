@@ -1,24 +1,22 @@
 ---
-title: "Basra"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: basra.jpg
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/79721788@N00/30375715864
 latitude: 30.495237
+loc_type: city
 longitude: 47.809098
+score: 0.27
+title: Basra
+type: location
 ---
 
-Iraq's second largest city and main seaport, Basra is situated in the south of Iraq, some 130k m from the Gulf and 550 km south-east of [Baghdad](/asia/iraq/baghdad).
+Iraq's second-largest city and main seaport, Basra sits in the far south of the country, about 130 km from the Persian Gulf and 550 km southeast of [Baghdad](/asia/iraq/baghdad). It was founded as a military base by Caliph Omar in the 7th century and quickly became a major trading port — in the tales of the Thousand and One Nights, Sinbad the Sailor always sets out from Basra.
 
+The city has three main districts. Ashar is the old commercial centre, with the [Corniche along the Shatt al-Arab](/asia/iraq/basra/shatt_al_arab_corniche) waterway and the [main bazaar](/asia/iraq/basra/ashar_bazaar) — narrow streets overhung by wooden balconies in the old Arab style. Margil has the port and modern residential areas. Basra proper is the old residential quarter, where traditional houses with elaborately carved facades still stand among newer buildings.
 
- The city was originally built as a military base by Caliph Omar during his expedition against the Shah of Persia. It developed soon to become an important departure point for Arab trading ships sailing to the Far East - Sinbad the Sailor always left from Basra.
+The [Basra Museum](/asia/iraq/basra/basra_museum), housed in one of Saddam Hussein's former palaces, holds Sumerian, Babylonian, and Islamic objects from the region. The Shatt al-Arab waterway itself — the confluence of the Tigris and Euphrates — is one of the great geographical features of the Middle East. The [Basra War Cemetery](/asia/iraq/basra/basra_war_cemetery) is one of the best-preserved Commonwealth cemeteries in the Middle East, a reminder of the WWI Mesopotamian Campaign that few travellers expect to find here.
 
-
-
-
- Today Basra consists of three main areas: 
- **Ashar**, which is the old commercial centre, including the Corniche and the bazaars, **Margil**, which includes the port and modern residential areas 
- and **Basra proper**, which is the old residential area, with many old-style houses.
-
-One of the major attractions is the Basra Museum. It contains Sumerian, Babylonian and Islamic objects. The Museum for Martyrs of the Persian Aggression, containing displays relating to the sufferings of the ordinary people of Basra during the Iran-Iraq War, is interesting as well - because it gives some inside in how the Iraqi government displays its own history.
-
-
- 
- The main Bazaar is found in the Ashar district. It is full of old houses with balconies leaning over into the narrow streets and beautiful wooden facades in the style of old Arab architecture. Since the gulf war the Bazar is not as lively as it once was.
+Basra has suffered enormously from decades of war, and infrastructure remains patchy. Summers are brutal — regularly exceeding 50°C — making winter the only comfortable time to visit.

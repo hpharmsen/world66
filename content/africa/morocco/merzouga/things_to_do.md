@@ -1,13 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-The dunes of the erg Chebbi constitute the great curiosity of the area. They are real moving sculptures in the form of draperies, whose colors vary according to the intensity of the light.
-
-They are drawn up like alive walls in the doors of the desert (40 km of the border of Algeria). Highest reach 150 m.
-
-Superb sunset and sunrise. It is advised to spend the night under tents (hairs of goat and dromedary) of nomads located at the midle of the dunes
-
-**Contributors**
-December 06, 2006
+Merzouga exists for one reason: the dunes. The village has grown up purely to serve travelers heading into Erg Chebbi, and nearly everything worth doing here is connected to the sand. Camel treks, overnight desert camps, 4WD excursions, and sunrise watching on the crest of a 150-metre dune are the core activities. Beyond the dunes themselves, the fringes of the desert hold a seasonal lake with flamingos, a village with living Gnawa music traditions, and roads that push toward the Algerian border through stony hammada.

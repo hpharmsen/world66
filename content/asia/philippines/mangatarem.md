@@ -1,10 +1,22 @@
 ---
-title: "Mangatarem"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: mangatarem.jpg
+image_attribution: Gerald Kevin Bautista
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Daang_Kalikasan.jpg
 latitude: 15.788536
+loc_type: city
 longitude: 120.293864
+score: 0.36
+title: Mangatarem
+type: location
 ---
 
-Travel Guide
+Mangatarem is a town in the southern part of Pangasinan province in the [Philippines](/asia/philippines), its name derived from "mango" and "tarem" (knife). The town sits along the main highway between Dagupan and the Hundred Islands, and is worth a brief stop for its hot springs and its colonial-era church.
 
-Southern town of Pangasinan which the name root from "mango" and "tarem" (knife). You can find the Manleluag Hot Spring southeast of the town proper. The catholic church is a must to visit. Check out the municipal hall too. When you stop and travel through the highway leading to Dagupan or Hundred Islands, buy yourself some "tupig". They are delicious. During summer, hike to the mountains east of the town to pick berries we call "lomboy". You can stop at a nursery and get some free seedlings to plant in your garden. Happy trails. Famous people from Mangatarem: Vitt Romero-film director Fernando Poe Sr.-father of actor Fernando Poe Jr. Larry Henares-essayist Al Mendoza-essayist, journalist Rina Jiminez-David-essayist
+The [Manleluag Hot Spring National Park](/asia/philippines/mangatarem/manleluag_hot_spring) lies southeast of town — a natural mineral spring set in forested hills, with a bathing pool and a short forest trail. It is the main reason travellers stop here rather than simply pass through. The [St. Raymond of Peñafort Church](/asia/philippines/mangatarem/st_raymond_penafor) in the town centre is a solid stone colonial church fronting the public plaza, worth a few minutes on a hot afternoon. If you are passing through, pick up some tupig (grilled rice cakes wrapped in banana leaves) from the roadside stalls — a local speciality.
+
+Mangatarem is a natural stop on the bus route between Manila and the Ilocos coast, or on the way to the Hundred Islands National Park at Alaminos, an hour north.

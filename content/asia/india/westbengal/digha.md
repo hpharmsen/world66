@@ -1,59 +1,25 @@
 ---
-title: "Digha"
-type: location
+done:
+  location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-21'
 latitude: 21.623077
+loc_type: city
 longitude: 87.508253
+score: 0.39
+title: Digha
+type: location
 ---
 
-Digha is West Bengal's most popular sea resort. Originally known as Beerkul, it is mentioned as the "Brighton of the East" in one of Warren Hasting's letters (1780 AD) to his wife. 
- 
+Digha is West Bengal's most popular sea resort, 187 km from Kolkata on the Bay of Bengal coast. Warren Hastings mentioned it in a letter to his wife in 1780 as a beautiful spot — then called Beerkul — and the 20th-century development of the town as a resort was pushed by West Bengal's first chief minister, Bidhan Chandra Roy. Today it is crowded on weekends with Bengali families and honeymooners, and quieter mid-week.
 
-In 1923, an English tourist John Frank Smith was charmed by the beauty of Digha and started living here. His writings about Digha slowly gave exposure to this place. After independence, he convinced West Bengal's chief minister Dr. Bidhan Chandra Roy to develop Digha as a beach resort. 
- 
+The [beach](/asia/india/westbengal/digha/digha_beach) is hard sand, wide, and gentle — the sea is shallow for about a mile out, which makes it relatively safe for swimming. You can drive on the beach at low tide. The town itself is a strip of hotels and restaurants along one main road, not especially pretty but functional. Sunrise and sunset are both visible from the beach, which faces roughly south.
 
+**New Digha** is an extension of old Digha a few kilometres to the east, with more hotels and a small park with a lake. It tends to be slightly less crowded.
 
- 
+[Shankarpur](/asia/india/westbengal/digha/shankarpur_beach), 14 km east of Digha along the coast road, has a fishing harbour and a wide, less crowded beach with casuarina trees lining the shore. It is developing slowly as a resort and is a good alternative if you want Digha-style beach without the weekend crowds.
 
-A small town, Digha is crowded with hotels generally around one main road. Its proximity to Calcutta (187 kms) attracts tourists throughout the year. Digha is a hard beach where one can drive during low tide. The beach is however facing the problem of sea erosion. 
- 
+**Chandaneshwar**, 8 km from Digha across the Odisha border, has an old Shiva temple that draws pilgrims from both states.
 
-Bathing is advisable only during the low tide. One can view both sunrise and sunset at Digha sea beach. 
- 
+The [Jagannath Temple](/asia/india/westbengal/digha/jagannath_temple), built as a replica of the Puri original, is the main religious landmark in town and draws large numbers of pilgrims on weekends and festivals.
 
-
- 
-
-Digha is one of the most popular tourist sports in West Bengal.The beauty of this place was discovered as early as the days of Warren Hastings. Today’s Digha was known as Beercool at that time. The sea at Digha is calm and shallow for about a mile from the beach making it quite safe for swimming. 
- 
-
-New Digha: 
- 
-
-
- 
-
-New Digha is an extension of Digha. It too has several hotels. There is a small park with a lake here. 
- 
-
-Shankarpur: 
- 
-
-
- 
-
-Not far from Digha (app. 14 kms) is the Shankarpur Fishing Harbour Project. It is also being developed as a beach resort.Shankarpur has to its credit all the advantages of Digha, minus the crowd. Shankarpur is only 14 km. east of Digha, along the Digha – Contai Road. It can boast of a wide and unspoiled beach, caesarian groves by the side of a gentle sea and a good climate round the year. It is also a regular fishing Harbour. 
- 
-
-Shankarpur will soon be developed as a sea resort with hotels, tourist lodges and other facilities. 
- 
-
-Chandaneshwar: 
- 
-
-Only 8 kms from Digha, Chandaneshwar is the site of an old Shiva temple. An old Siva Temple, 8 km. from Digha. Also Lankeswari (14 km.) and Kapal Kundala Temple (45 km.) near Contai may be visited. 
- 
-
-Junput 
- 
-
-Junput is 40 km. from Digha by bus, with a change at Contai. The place offers beautiful sea-view and lines of caesarian trees. The beach is unspoiled. Brackish water fish cultivation and research are done here by the State Government Fisheries Department.
+The best season is October through March. April–June is hot and humid. The monsoon (June–September) makes the sea rough and swimming inadvisable; local resorts are largely empty.

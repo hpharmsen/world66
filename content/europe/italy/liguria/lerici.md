@@ -1,16 +1,21 @@
 ---
-title: "Lerici"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-13'
+image: lerici.jpg
+image_attribution: Gzen92
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_(Lerici).jpg
 latitude: 44.073607
+loc_type: city
 longitude: 9.909914
+score: 0.61
+title: Lerici
+type: location
 ---
 
-Near the Eastern end of the Italian Riviera lies the Gulf of La Spezia, or as it is more romantically called, the Bay of Poets, because Byron, Shelley and Keats played upon its shores, around the old fishing villages of San Terenzo, Fiascherino, and Lerici.
+Lerici sits at the eastern end of the [Gulf of La Spezia](/europe/italy/liguria/lerici/gulf_of_la_spezia) — the "Bay of Poets," so named because Byron, Shelley, and Keats all spent time along these shores. The town clusters around a [medieval castle](/europe/italy/liguria/lerici/castello_di_lerici) on a rocky promontory, with pastel houses tumbling down to a small harbour.
 
+Now a popular resort, Lerici makes a good base for exploring this stretch of the Ligurian coast. Boats run across the gulf to Portovenere and the [Cinque Terre](/europe/italy/liguria/cinqueterre), and the walking path between the five villages offers some of the most spectacular coastal views in Italy — terraced vineyards dropping to the sea, with the mountains rising behind. South along the cliff path is [Tellaro](/europe/italy/liguria/lerici/tellaro), a tiny village with an octopus in its coat of arms and a church that teeters above the sea.
 
- 
- Lerici, now a picturesque resort, is an ideal location for exploring the pleasures of the Italian Riviera, which runs from the French border to the mouth of the Magra River.
-
-
- 
- From Lerici, you can take boats across the gulf to the Cinque Terre, five villages strung along the coast north of Portovenere. A leisurely walk between two or more of the villages along the footpath which connects them will provide some absolutely breathtaking views of the sea and the surrounding mountains. The cliffs are terraced and planted with vineyards and vegetable gardens. It is easy to imagine what this area must have looked like two centuries ago, for the houses and terraces have not changed.
+The neighbouring village of [San Terenzo](/europe/italy/liguria/lerici/san_terenzo), a 2 km walk north along the promenade, is where Shelley spent his last summer in 1822 at the Villa Magni — he drowned in the gulf just weeks after leaving. The beach there is wider and quieter than Lerici's own, and the village has kept a more local feel than the main town.

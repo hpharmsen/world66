@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-**By train**: "Ferrovie dello Stato"/ Genova-Livorno railway (Recco station).
+Recco is on the main coastal railway line between Genoa and La Spezia, and easy to reach by train. The journey from [Genoa](/europe/italy/liguria/genoa) Brignole takes about 25 minutes; from La Spezia, about an hour and a quarter. Trains run roughly twice an hour and most through-services from Milan and Pisa stop here.
 
- **By car**: "A12" motorway (Genova-Livorno): exit Recco, S. S. 1 (Aurelia)  
-
- **By train**: *Genoa (GOA) *(Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
+By car, the A12 motorway has a Recco exit; the small centre is a five-minute drive from the toll. Parking near the seafront is metered and limited in summer.

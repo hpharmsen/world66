@@ -1,12 +1,19 @@
 ---
-title: "Tewkesbury"
-type: location
+image: tewkesbury.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tewkesbury_Abbey_and_Mill_Avon_from_Ham_path.jpg
 latitude: 51.993786
+loc_type: city
 longitude: -2.154957
+score: 0.51
+title: Tewkesbury
+type: location
 ---
 
-We currently have no information about Tewkesbury.
+Travel Guide
 
-If you do know any general information about Tewkesbury, please [Edit this article].
+**Tewkesbury **is a most attractive town where the Avon meets the Severn. The fictional town of 'Norton Bury' in the novel, 'John Halifax, Gentleman' by Dinah Craik is based on Tewkesbury and the old Abbey Mill is identifiable as 'Abel Fletcher's Mill' in the novel - like many old mills being now converted into apartments.
 
-If you know any hotels in Tewkesbury or restaurants in Tewkesbury, please [[Add].](/destinations/addItemWizard?addwhere=europe/unitedkingdom/england/gloucestershire/tewkesbury)
+Tewkesbury Abbey is a fine building with England's highest Norman tower and can hold its head without shame in the same county as the wonderful Gloucester cathedral.
+
+The town also has some striking old black and white half-timbered buildings.

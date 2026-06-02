@@ -1,8 +1,21 @@
 ---
-title: "Winneba"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: winneba.jpg
+image_attribution: oneVillage Initiative
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Fisherboats_in_Winneba,_Ghana-1.jpg
 latitude: 5.35006
+loc_type: city
 longitude: -0.62134
+score: 0.4
+title: Winneba
+type: location
 ---
 
-Friendly little town 45 inutes west from Accra. Go there for some nice walks through town and on the beach. Very relaxing if you are stuck in Accra for a while.You will be happy to meet friendly people that are ready to help you do what ever you want to do,you can roam from town to he beach side,one of the best in the country.Winneba has a big stretch of beach that makes it comfotable for tourist to enjoy the environment.It is one of the first time in the country and it is blessed with learned people that has contributed a lot to the welfare of Ghana,Winneba is also the second to recieve electricy in Ghana after Akosombo,there are so many festivies in winneba.In christmas there is a very colourful fancy dress groups that entertain people,in the new year there is the fancy dress compition to determine which groups come out as the best dancers infact it is a delight to watch.In may there is the most popular festival in Ghana called the aboakyir festival,people from all walks of life troop down the beautiful town of Winneba to witness this famous festival.Easter is more observed and celebrated in Winneba than any town along the coast,there is another festival called the akomasi in the Effutu langguage celebrated in august,there are so many occassions in Winneba that makes it a happy place to leave.Winneba also boast of a university which is a cobination of three best institution in west africa,infact Winneba is terrmed as the oxford of Ghana.By Bonti Rabbits
+Winneba is a friendly coastal town about an hour west of [Accra](/africa/ghana/accra), with a [long sandy beach](/africa/ghana/winneba/winneba_beach) and a relaxed pace that makes it a good escape from the capital. The town has a [university campus](/africa/ghana/winneba/university_of_education) and a lively [fishing harbour](/africa/ghana/winneba/fishing_harbour).
+
+The main reason to visit is the **[Aboakyere](/africa/ghana/winneba/aboakyere_festival)** (deer-hunting) festival, held on the first Saturday in May. Two rival companies of warriors compete to catch a live bushbuck with their bare hands and present it to the paramount chief. It is one of Ghana's most dramatic and unusual festivals, drawing crowds from across the country. At Christmas and New Year, Winneba comes alive with fancy dress competitions and street parades.
+
+The beach is wide and quiet on most days, and there are a few simple places to eat fresh fish along the shore. Just west of town, the [Muni-Pomadze](/africa/ghana/winneba/muni_pomadze) lagoon is a protected wetland and a major stopover for migratory birds.

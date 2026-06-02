@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Visit the Le Mans 24 hour just as it finishes - free champagne if you can catch it
-
-See stuff like a big thing or cathedral or something like that
-
-fun fun fun for all the family
+Le Mans punches above its weight for a city of its size. The medieval Cité Plantagenêt rewards hours of wandering, and the Circuit des 24 Heures gives motor racing fans a genuine pilgrimage destination even outside race weekend.

@@ -1,18 +1,15 @@
 ---
-title: "Swift Current"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
 latitude: 50.284914
+loc_type: city
 longitude: -107.79845
+score: 0.34
+title: Swift Current
+type: location
 ---
 
-Travel Guide
+Sometimes called "Speedy Creek," Swift Current sits on the Trans-Canada Highway at the midpoint between [Regina](/northamerica/canada/saskatchewan/regina) and Medicine Hat, making it a natural stopping point when crossing the prairies. The city of about 16,000 has just enough to make a night's stay worthwhile — the [Art Gallery of Swift Current](/northamerica/canada/saskatchewan/swift_current/art_gallery), the [Swift Current Museum](/northamerica/canada/saskatchewan/swift_current/swift_current_museum) with its 72-million-year-old Tylosaur skeleton, and a walking trail along [Swift Current Creek through Riverside Park](/northamerica/canada/saskatchewan/swift_current/riverside_park).
 
-Sometimes referred to as "Speedy Creek", Swift Current is on the #1 highway that is a convenient stopping point when travelling across the prairies due to its midpoint location between Regina and Medicine Hat.
-
-With a population of about 16,000, it is just of sufficient size to sustain a good number of parks, numerous elementary schools, and a high school/vocational school. It is also serviced by the Cypress Hills Community College and Academy of Learning Career College for further education.
-
-Other attractions include an aquatic center, walking trails along the creek, an art gallery, and two 18 hole golf courses.
-
-The weekend of July 1st each year hosts Swift Current's Frontier Days, with carnival rides, agricultural and commercial exhibitions, student showcases, historic displays, and a rodeo.
-
-There is community mass transit consisting of a Tel-a-Bus you call to pick you up as well as local cabs.
+The big annual event is Frontier Days on the Canada Day weekend in July, with carnival rides, agricultural exhibitions, and a rodeo held in Riverside Park. The [Cypress Hills](/northamerica/canada/saskatchewan/cypress_hills) interprovincial park, with its forested hills rising dramatically from the surrounding prairie, is within easy reach to the south and rewards a half-day detour.

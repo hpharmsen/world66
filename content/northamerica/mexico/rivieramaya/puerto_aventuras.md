@@ -1,16 +1,15 @@
 ---
-title: "Puerto Aventuras - South of Playa del Carmen"
+done:
+  location_cleanup: '2026-04-08'
+image: puerto_aventuras.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Moon_Over_the_Water_in_Puerto_Aventuras_Mexico_(21038706159).jpg
+latitude: 20.4997
+loc_type: city
+longitude: -87.2263
+score: 0.58
+title: Puerto Aventuras
 type: location
 ---
 
-Travel Guide
-
-Puerto Aventuras is centrally located in the Mayan Riviera, Mexico's Caribbean coast south of Cancun. The region's highlights are easily accessible by rental car, tour or bus. Day trips are available to the Mayan ruins at Chichen Itza and Tulum. You can snorkel in tropical fish filled lagoons at the nearby Xcaret and Xel-Ha eco parks, or take a ferry directly from Puerto Aventuras to Cozumel
-
-Puerto Aventuras has white sand beaches and warm Caribbean waters. The reefs off shore are good for snorkeling, diving, and fishing. Many of the boats in the beautiful marina are available for pleasure and fishing charters, and there is a facility in the marina for swimming with dolphins. The 9 hole golf course and tennis courts are available to all Puerto Aventuras guests for a fee. The two Puerto Aventuras dive shops run daily dive trips and dive training courses.
-
-The Puerto Aventuras resort has all basic services on location. There is a selection of shops, restauants , and tourism services. For relaxation, there is a spa, beauty salon, and massage therapists There are several tour companies, a car rental agency, and bus and taxi service so you can see the rest of the Mayan Riviera. Puerto Aventuras has two small groceries stores, a pharmacy, and a post office.
-
-Accomodations: The Omni hotel, ******[Puerto Aventuras villa and condo rentals](/northamerica/mexico/rivieramaya/accommodation)******, Hotel Catalonia,
-
-If you need to stay in touch with the rest of the world, Puerto Aventuras has internet, fax and telephone services. There is a doctor on call, 24 hour security patrol, and guarded gated entrance for your peace of mind.
+Puerto Aventuras is a gated resort community on the Riviera Maya about 20 km south of Playa del Carmen, built in the 1990s around a man-made marina. It is self-contained and unusually quiet by local standards — a cluster of villas, condos and mid-sized hotels, a 9-hole golf course, a couple of dive shops, and a marina with a (controversial) dolphin enclosure in the middle. There is no "town" to speak of, just the resort and its services; most people who stay here do so as a base for day trips to the Maya ruins at Tulum and Cobá, the cenotes, and snorkelling at nearby Akumal, which is famous for its nesting sea turtles.

@@ -1,26 +1,23 @@
 ---
-title: "Falaise"
+done:
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-15'
+image: falaise.jpg
+image_attribution: Nitot
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chateau-falaise-calvados.jpg
+latitude: 48.8965
+loc_type: city
+longitude: -0.1999
+score: 0.45
+title: Falaise
 type: location
-latitude: 48.896474
-longitude: -0.199913
 ---
 
-Birthplace of William the Conqueror, Falaise preserves a heritage of exceptional architecture: the Anglo-Norman keeps, the city walls, the ramparts flanked by towers. 
+Falaise is the birthplace of William the Conqueror, and his [castle][chateau] still dominates the town from its rocky spur above the valley. The Anglo-Norman keeps, the city walls, and the ramparts flanked by towers give the place a genuinely medieval silhouette — not prettified, but powerful.
 
-The churches, precious witnesses of Romanesque architecture: church of St Laurent, contemporary of William the Conqueror, the church of St Gervais, the church of the Holy Trinity and the church Notre-Dame de Guibray. 
+The town also carries deep scars from the Second World War. In August 1944, the German 7th Army was trapped in the "Falaise Pocket" by Canadian, Polish, British, American, and French forces. The fighting destroyed much of the town, and three-quarters of the German forces were lost. The [Musée Août 1944](/europe/france/normandybrittany/falaise/museum_august_1944) documents the battle with memorabilia unique in Normandy.
 
-The castle: A unique and undisputed part of the history of Normandy, William the Conqueror's castle was built after the conquest of England in 1066. During the 12th century his descendants built two more keeps on the former foundations, in the typical Anglo-Norman style. The round tower was built by Philippe-Auguste, the king of France , when Normandy became French. Visit and audio visual tour is a show you enjoy in your own time. 
+Beyond the castle and the war history, Falaise has a cluster of Romanesque churches — [Saint-Gervais](/europe/france/normandybrittany/falaise/eglise_saint_gervais), the Holy Trinity, and [Notre-Dame de Guibray](/europe/france/normandybrittany/falaise/eglise_notre_dame_de_guibray) — and a [Saturday market](/europe/france/normandybrittany/falaise/saturday_market) in the town centre. It also makes a good base for exploring the [Suisse Normande](/europe/france/normandybrittany/falaise/suisse_normande), the hilly countryside to the southwest.
 
-Second world war: 1944, the Allies land in Normandy. Then, July 30th-August 21st: the 7th German army was trapped in the "Falaise pocket", the "corridor of death", by the Canadians and the Poles in the north, by the British in the south, and by the Americans and French in the west. The German armies lost 3/4 of their forces, Falaise faced heavy bombing and 450000 soldiers were injured or killed. 
-
-Museums: Visitors are welcome in the Castle and in the churches and: 
-
-Automates Avenue museum: A museum which retraces the history of animated shop window displays presented in the big Parisian shops between 1920 and 1960. Ten large animated scenes, 300 automatons from the Roullet-Decamps collection, a few displays of old toys, and a shop. 
-
-André Lemaitre museum: This museum houses 90 of the works of the painter André Lemaitre, born in Falaise in 1909. Greatly influenced by 20th century French painting, his work can be divided into four periods. 
-
-August 1944 museum: This museum retraces the famous battles of the "Falaise pocket", using a range of memorabilia unique in Normandy. 
-
-Market downtown every saturday. 
-
-Some good restaurants and bars !
+[chateau]: /europe/france/normandybrittany/falaise/chateau_de_falaise

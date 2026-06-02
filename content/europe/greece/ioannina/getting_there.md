@@ -1,14 +1,12 @@
 ---
-title: "Getting There in Ioannina"
+title: "Getting There"
 type: section
 ---
 
-**By car or by bus**
+**By car.** Ioannina is about 450 km from Athens (5–6 hours on the modern Egnatia and Ionia motorways) and 250 km from Thessaloniki (about 3 hours along the Egnatia). The roads are good and dramatic — you cross the Pindos mountains by tunnel.
 
-The distance from Athens is around 450 Km. The duration of the journey is about 6 or 7 hours.
+**By bus.** Frequent KTEL buses run from Athens (Kifissou terminal) and Thessaloniki to Ioannina. The Athens trip takes around 6 hours. There are also good connections from Igoumenitsa (the ferry port for Italy and Corfu) and from Patra.
 
-The distance from Thessaloniki is around 370 Km but the road is not very good, especially the last 100 Km from Ioannina.
+**By air.** **Ioannina National Airport** (IATA: IOA), 4 km from the centre, has daily Aegean and Sky Express flights to Athens (45 minutes). A handful of seasonal European routes operate in summer.
 
-**By plane**
-
-Ioannina is connected to Athens and Thessaloniki every day. The duration of the flight is around 40 minutes.
+**From Italy and Corfu.** The Adriatic ferries dock at **Igoumenitsa** on the coast, about 90 minutes west of Ioannina. A direct KTEL bus connects the two.

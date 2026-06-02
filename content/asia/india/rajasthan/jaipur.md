@@ -1,16 +1,22 @@
 ---
-title: "Jaipur"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-23'
+  poi_cleanup: '2026-04-20'
+image: jaipur.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg
+latitude: 26.9154
+loc_type: city
+longitude: 75.819
+score: 0.7
+title: Jaipur
 type: location
-latitude: 26.915458
-longitude: 75.818982
 ---
 
-The Prince of Wales came to visit Jaipur, the capital of Rajasthan, in 1867. In order to show their hospitality, the city was painted pink (pink being the colour in Rajput culture to express hospitality), hence Jaipur’s surname: ‘the pink city’. Not only the remnants of the old city parts give a colourful impression. In Jaipur, many tribal people dress up in their traditional costumes and sell bangles and other handicrafts at one of the many street markets. These markets are especially concentred in the older area of the city that is enclosed within a long wall (at least within what is left of it) with seven gates.
+Jaipur, the capital of Rajasthan, earned its nickname 'the Pink City' when the old town was painted terracotta-pink in 1876 for the visit of the Prince of Wales. The color has stuck, and the walled old city remains a startling sight — a grid of broad avenues lined with uniform pink buildings, teeming with traffic, traders, and tourists.
 
+The city's big draws are genuinely impressive. The [Hawa Mahal](/asia/india/rajasthan/jaipur/hawa_mahal) (Palace of the Winds) is that famous facade with 953 tiny windows, built so the women of the royal household could watch street life without being seen. The [City Palace](/asia/india/rajasthan/jaipur/city_palace) complex, the [Jantar Mantar](/asia/india/rajasthan/jaipur/jantar_mantar) observatory, and the massive [Amber Fort](/asia/india/rajasthan/jaipur/amber_fort_and_pal) 11 km north of town could fill two or three days on their own. The [Nahargarh Fort](/asia/india/rajasthan/jaipur/nahargarh_fort) on the ridge above provides the best panoramic views over the Pink City, while [Jaigarh Fort](/asia/india/rajasthan/jaipur/jaigarh_fort) above Amber houses the world's largest wheeled cannon.
 
- 
- The jewellery markets are good places to spend your time and money. The Iswari Minar Swarga Sul minaret and the city palace are both interesting historical sights and landmarks. Both the Jantar Mantar (observatory) and the central museum will keep you from the city’s hustle and bustle for quite some time.
-
-
- 
- However, the main reason why Jaipur is famous is because of its Hawa Mahal, or ‘Palace of the Winds’. Although you might expect it to be a bit more impressive, it sure makes a strange impression to see this red sand-stone palace amidst all Jaipur’s recent hustle and bustle. The story goes that the ladies of Singh’s harem where not allowed to go outside, but that they were allowed to look outside without being spotted by the ordinary people. Hence they all got their own window and in case you’re wondering, don’t start counting. There are 953 of those little windows that served as a gateway to a little glimpse of city life and, probably, freedom.
+Jaipur is also a serious shopping city. The bazaars of the old town sell gemstones, blue pottery, block-printed fabrics, and leather mojari shoes. [Johari Bazaar](/asia/india/rajasthan/jaipur/johari_bazaar) for jewelry, [Bapu Bazaar](/asia/india/rajasthan/jaipur/bapu_bazaar) for textiles, and [Tripolia Bazaar](/asia/india/rajasthan/jaipur/tripolia_bazaar) for lac bangles are the main ones to target. The [Albert Hall Museum](/asia/india/rajasthan/jaipur/albert_hall_museum) in Ram Niwas Garden is worth an afternoon, and [Galtaji Temple](/asia/india/rajasthan/jaipur/galtaji_temple) — the "Monkey Temple" in the hills to the east — offers a complete change of pace from the main monuments. Be prepared for aggressive touts, especially around the main tourist sites — this is one of the most heavily touristed cities in India, and the hassle factor is real.

@@ -1,21 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-**Sub: Suggest a link from world66**
+Arcadia is one of the best places to eat Chinese food in the United States. Around half the city is of east Asian descent, and the restaurants on and around Baldwin Avenue cater first to that community — high turnover, regional cuisines done seriously, and very little dumbing-down for outside palates. Look for Sichuan numbing-spice dishes, hand-pulled Shaanxi noodles, Shanghai soup dumplings, and Taiwanese beef noodle soup.
 
-Customer Name :
-Hampton Inn - Arcadia
-
-Website Name :
-http://www.hamptoninnarcadia.com/
-
-Site Title :
-Hampton Inn - Arcadia
-
-Site Keywords :
-old pasadena town airport hotels los angeles California hotel suites in santa monica bed and breakfast los angeles area los angeles romantic attractions interesting attractions to see in the los angeles area weekly rates hotels los angeles los angeles shopping tour affordable bed and breakfast & santa monica & los angeles discount los angeles hotel booking airport angeles international los lax parking hotel angeles dodger los, dodgers ticket bargains los angeles shopping hot angeles California university los tourist attractions in los angeles California los angeles convention center accommodations.
-
-Site Description :
-The Hampton Inn Los Angeles/Arcadia/Pasadena offers distinctive hotel accommodations, upgraded amenities/features and value packages, just minutes from top Los Angeles’ attractions, such as Dodger Stadium, Staples Center, the Los Angeles Convention Center and Disneyland.
+Beyond Chinese, the city has a respectable spread of Japanese, Korean, Vietnamese, and Thai restaurants — plus standard American chains around the racetrack and along Huntington Drive. For a single meal, Din Tai Fung at the Shops at Santa Anita is the easiest celebrity choice; for a wider tour, pick three places on Baldwin Avenue and order shared plates at each.

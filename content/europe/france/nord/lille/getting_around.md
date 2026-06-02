@@ -1,21 +1,10 @@
 ---
 title: "Getting Around"
 type: section
-url: "htttp:"
-zipcode: "59000"
 ---
 
-Here are a few suggestions on how to get around in Lille.
+Lille has an automatic metro (VAL system) with two lines that connect the two TGV stations, the city centre, the university campus, and the suburbs. A tram line runs east from Gare Lille-Flandres through the city. Surface buses cover the rest. The metro runs late (until 00:30, later on weekends) and is efficient. A single ticket covers all modes for 1 hour.
 
-### Transpole - Buses and Metro
+Vieux-Lille is entirely walkable and best explored on foot — no vehicle can reach most of the lanes. The central axis from the Grand'Place to the Palais des Beaux-Arts is 600 metres; from the Grand'Place to the Citadelle is about 1.5 kilometres. Most visitors who are based in the centre will walk everywhere they need to go during the day and use the metro for longer trips to Wazemmes or the universities.
 
-The easist way to get around Lille and its surrounding neighborhoods is
-to take the Metro which runs from about 5:30 AM until 12:30 AM (last
-trains leave around 12:00AM so check before). The tickets are cheap and
-many options are available such as day or night weekend and family
-passes, etc.
-
-The buses are also very reliable, and usually on time, but it's better
-to know Lille a little better to use them, just like anywhere. You can
-always ask for advice at Transpole's headquarters in the Lille Flandres
-Train Station where all sorts of maps are available.
+Vélo'v bike-sharing stations are scattered throughout the central arrondissement. A day pass is inexpensive and works well for longer trips where the metro is not direct.

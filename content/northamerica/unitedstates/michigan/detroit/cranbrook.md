@@ -1,8 +1,12 @@
 ---
-title: "Cranbrook"
-type: location
-latitude: 42.248406
-longitude: -83.754166
+latitude: 42.5728
+longitude: -83.3962
+snippet: Saarinen-designed campus with science and art museums
+tags:
+- things_to_do
+- museum
+title: Cranbrook
+type: poi
 ---
 
-In the northern Detroit suburb of Bloomfield Hills is the Cranbrook educational community. Their science museum has several halls of fascinating content, and one large hall that hosts traveling exhibits. Visit the nature center and explore the miles of trails through some of Michigan's beautiful wooded land. If you visit in spring, check out the maple syrup festival!
+In the northern suburb of Bloomfield Hills, the Cranbrook educational community is a remarkable campus designed largely by Eliel Saarinen. The science museum has several halls of permanent exhibits plus a large hall for travelling shows. The grounds include a nature centre with miles of trails through wooded Michigan landscape — a welcome escape from the city. The art museum, housed in Saarinen's 1942 building, showcases work by artists and designers connected to the Cranbrook Academy of Art. If you visit in spring, check out the maple syrup festival.

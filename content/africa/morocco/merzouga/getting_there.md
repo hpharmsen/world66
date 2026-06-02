@@ -1,20 +1,10 @@
 ---
-title: "Getting There in Merzouga"
+title: Getting There
 type: section
 ---
 
-If you are planning a trip to **Merzouga**,** getting there** is going to be something you will want to work out properly. Just like traveling to any other destination, getting to Merzouga requires planning to ensure that you have a trouble-free journey. Here are a few suggestions you can use when planning a trip to this small village in Morocco.
+Merzouga is a long way from anywhere. The nearest airport is at Errachidia (ERH), about 150 kilometres north, which has connections to Casablanca; from there it is two hours by road. The more commonly used airports are at Ouarzazate (WAZ, about 320 kilometres west) or Fes (FEZ, about 390 kilometres north).
 
-**By Air**
+The classic approach by road is the southern Morocco loop: Marrakech south over the Tizi n'Tichka pass to Ouarzazate, then east through the Dadès Gorge and Tinerhir (for the Todra Gorge), then on to Erfoud and Rissani before reaching Merzouga. This drive from Marrakech takes 8–10 hours without stops, and most travelers break it into two days. From Fes via Ifrane and Midelt is an alternative northern route, equally scenic, taking around 7–8 hours.
 
-Merzouga is situated in Morocco, which is in the north of Africa and is bordered by Algeria and Mauritania. You will first need to get to Morocco and then make your way to Merzouga.
-
-**By Road**
-
-Once you are in Morocco, head over to Marrakech and take a drive to Erfoud in the east. This drive will take 2 days; you might want to stop for the night in Ouarzazate. You will need to drive another 14 km to get to Rissani and take the road that goes southeast through the village to Merzouga.
-
-If you are coming in from Fez, you will need to drive south to reach Erfoud. It will take a day&rsquo;s drive to get to Erfoud. Once you are in Erfoud, you will need to follow the instructions above to get to Merzouga.
-
-**By Taxi**
-
-You can take a share taxi form Rissani to Merzouga; this will cost you approximately 12 Dihrams. However, if you do not want to share the taxi, you will have to pay 60 Dihrams. You might want to avoid the guides in Erfoud and Rissani who promise to get you to Merzouga for 5 Dihrams. They will leave you stranded, and it will cost you a lot to get
+Buses (CTM and other companies) run from Marrakech, Fes, and Casablanca to Rissani, from which shared taxis cover the 25 kilometres to Merzouga. The journey is long and the connections are not always reliable. Most travelers on a tight schedule hire a car or book a guided tour for the southern loop.

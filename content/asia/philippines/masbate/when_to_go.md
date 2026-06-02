@@ -1,16 +1,14 @@
 ---
-title: "When to Go in Masbate"
+title: "When to Go"
 type: section
 ---
 
-**Enjoy Masbate&rsquo;s Sights and Sounds during Summer**
+Masbate's climate follows the typical Philippine pattern, with a wet season from June to October brought by the southwest monsoon, and a drier period from November through May.
 
-Your **Masbate - when to go**** **plan should be carefully considered if you want to travel to Masbate without encountering any problems with the weather. Masbate is an island located on the southeastern portion in the Philippines. The island is famous for its scenic beaches and rodeo festivals, which is why a lot of tourists love to go to this island for sightseeing. However, you need to carefully plan the certain time to go to Masbate so that you can avoid the gloomy weather.
+**November to May** is the best time to visit for most purposes. The seas are calmer, beaches are accessible, and diving conditions are at their best. Manta ray sightings peak from November through March at Ticao Pass; whale sharks are most reliable from March to June.
 
-**Avoid Masbate during Monsoon Season**
+**April** is the month to visit if you want the Rodeo Masbateño, held during the provincial fiesta. Book accommodation well ahead — this is when Masbate fills up.
 
-Since the weather in Masbate is tropical, there are a lot of tropical storms that hit the island during the months of August to November. Storms in the Masbate are often very powerful, and since it faces the Pacific Ocean, strong winds and high volumes of water also accompany the storms. For this reason, it is best to avoid traveling to Masbate during this time so that you will not be caught in bad weather while you are sightseeing around the island.
+**June to October:** The wet season brings heavy rain and rougher seas, particularly around the Sibuyan Sea. Diving at Ticao can be limited by conditions. On the upside, this is when the island is greenest and most lush, and you will have most places largely to yourself.
 
-**Travel to Masbate during summer for its Festivals**
-
-The best time to travel to Masbate is from March to May which are the summer months. Summer in Masbate is accompanied by fair weather and little rain showers; thus, you can enjoy and outdoor activities any day during these months. During summer, there are a lot of festivals that are organized all over the island. You can enjoy the Rodeo Filipino which is an annual rodeo drive held every March 18. You can also enjoy the Corn Festival and the Bantigue Festival, which are held during summer.
+Typhoons occasionally pass through or near Masbate, particularly between August and October. Check weather forecasts before travelling during this period.

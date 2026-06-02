@@ -1,10 +1,19 @@
 ---
-title: "Argostoli"
-type: location
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-14'
+image: argostoli.jpg
+image_attribution: George Tekmenidis
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Argostoli_Faros.JPG
 latitude: 38.175673
+loc_type: city
 longitude: 20.48788
+score: 0.64
+title: Argostoli
+type: location
 ---
 
-Travel Guide
+Argostoli is the capital of Cephalonia, sitting at the head of a long landlocked bay. The 1953 earthquake levelled most of the town, and it was rebuilt in a functional rather than picturesque style — don't come expecting Venetian grandeur. What it does have is a lively, working-town energy: a colourful waterfront market where local farmers sell produce, plenty of cafes along the esplanade, and good connections to the rest of the island.
 
-The town of Argostoli was devastated by the 1953 earthquake and very few original features remain. Although unlike Zakynthos town it was not rebuilt in its "venetian" style, it has an attractive waterfront which features a colourful fruit market, for farmers to sell their produce.Argostoli is the capial town of Cephalonia (Kefalonia)
+The Drapano Bridge stretches across the lagoon at the edge of town — an elegant stone causeway that dates back to the British protectorate period. Just outside town, the Katavothres sea mills are a geological curiosity: seawater disappears into holes in the limestone and, it was discovered in the 1960s, re-emerges on the other side of the island near Sami.

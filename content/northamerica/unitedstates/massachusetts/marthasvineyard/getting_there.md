@@ -1,45 +1,12 @@
 ---
 title: "Getting There"
 type: section
-phone: "(508) 477-8600"
-type: "By Sea"
-url: "www.steamshipauthority.com"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
-Most people arrive by boat and there are several ports and destinations but there is also a small airport.
+The **Steamship Authority ferry** from Woods Hole on Cape Cod is the standard way to reach the island; it takes 45 minutes and is the only ferry that carries cars. Book vehicle space well ahead in summer (months ahead for July and August); foot passengers can usually walk on.
 
-**Contributors**
-November 01, 2005
+Seasonal passenger-only ferries run from **Hyannis** (Hy-Line), **New Bedford**, **Falmouth**, and even **New York** (the Seastreak high-speed from Manhattan in summer). These are quicker and more pleasant for foot passengers.
 
-### [The Steamship Authority](/northamerica/unitedstates/massachusetts/marthasvineyard/getting_there/the_steamship_auth)
+**Martha's Vineyard Airport (MVY)** in the middle of the island has seasonal commercial flights from Boston, New York, Washington and a few other east-coast cities, plus year-round Cape Air service. Most flights are small turboprops.
 
-This is the most popular way to get to the Island, it is also the
-cheapest and the only option if you wish to bring your car with you.
-
-Frequent departures from Woods Hole to Vineyard Haven or Oak Bluffs with year around service.
-
-type: By Sea
-
-
-
-[[rate it]](/northamerica/unitedstates/massachusetts/marthasvineyard/getting_there/the_steamship_auth)
-
-tel: (508) 477-8600
-
-url: [www.steamshipauthority.com](http://www.steamshipauthority.com/)
-
-### [Cape Air](/northamerica/unitedstates/massachusetts/marthasvineyard/getting_there/cape_air)
-
-Flying very small airplanes from Martha's Vineyard to [Boston](/northamerica/unitedstates/massachusetts/boston),
-Hyannis, [New Bedford](/northamerica/unitedstates/massachusetts/newbedford), [Provincetown](/northamerica/unitedstates/massachusetts/provincetown) and [Nantucket](/northamerica/unitedstates/massachusetts/nantucket). Frequent
-departures.
-
-type: By Air
-
-
-
-tel: 800 352 0714
-
-url: [www.flycapeair.com](http://www.flycapeair.com)
+Once on the island a car is useful but not essential. The **Vineyard Transit Authority** runs a flat-fare bus network in season, and cycling is excellent on the network of paved paths between the down-island towns.

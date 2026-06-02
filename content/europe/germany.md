@@ -1,8 +1,24 @@
 ---
-title: "Germany"
-type: location
+done:
+  country_cleanup: 2026-03-30
+  poi_cleanup: '2026-04-19'
+image: germany.jpg
+image_attribution: <b><a href="//commons.wikimedia.org/wiki/User:Der_Wolf_im_Wald"
+  title="User:Der Wolf im Wald">Thomas Wolf</a></b>, <small><a rel="nofollow" class="external
+  text" href="http://www.foto-tw.de">www.foto-tw.de</a></small>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg
 latitude: 51.163818
 longitude: 10.447831
+quick_facts:
+  Population: "84 million"
+  Currency: Euro
+  Beer Varieties: "~7,000"
+  Castles: "~25,000"
+score: 0.44
+title: Germany
+type: location
+loc_type: country
 ---
 
 From the High Alps in the South, the Bavarian plain, and the flowing hills of central Germany to the coast of the North and Baltic Sea: it all looks like a miniature train landscape packed with the nicest of old towns, medieval houses, gothic churches and small villages.
@@ -21,7 +37,7 @@ From the High Alps in the South, the Bavarian plain, and the flowing hills of ce
  Discover the beautiful south west of Germany with cities like [Freiburg](/europe/germany/badenwrttemberg/freiburg), [Heidelberg](/europe/germany/badenwrttemberg/heidelberg) and [Tubingen](/europe/germany/badenwrttemberg/tubingen). In the western part cities still have some french influence, discover [Bonn](/europe/germany/northrhinewestphalia/bonn), [Dusseldorf](/europe/germany/northrhinewestphalia/dusseldorf), [Cologne](/europe/germany/northrhinewestphalia/cologne) - the heart of the Rhineland, [Trier](/europe/germany/rhinelandpalatinate/trier), the oldest city of Germany and a former capital of the Roman Empire or [Aachen](/europe/germany/northrhinewestphalia/aachen) with its impressive cathedral.
 
 
- Today Germany is also an industrial powerhouse. In the Ruhrgebiet (Essen,Oberhausen, Duisburg and surrounding) there is heavy industry, different car brands like Mercedes (near [Stuttgart](/europe/germany/badenwrttemberg/stuttgart)), BMW and VW make Germany one of the worlds biggest car producers and [Frankfurt](/europe/germany/hesse/frankfurt) is the country's bank and finance centre, called also "Mainhattan". All this makes that the standard of living is among the highest in the world.
+ Today Germany is also an industrial powerhouse. In the Ruhrgebiet (Essen,Oberhausen, Duisburg and surrounding) there is heavy industry, different car brands like Mercedes (near [Stuttgart](/europe/germany/badenwrttemberg/stuttgart)), BMW and VW make Germany one of the worlds biggest car producers and [Frankfurt](/europe/germany/hessen/frankfurt) is the country's bank and finance centre, called also "Mainhattan". All this makes that the standard of living is among the highest in the world.
 
 
  

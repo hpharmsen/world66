@@ -1,32 +1,8 @@
 ---
-title: "Day Trips in Porto Alegre"
+title: "Day Trips"
 type: section
 ---
 
-Porto Alegre literally means "Joyous Port" and is truly a must-see destination. The culture and lifestyle here are simply breath taking. Porto Alegre is the 11th most crowded municipality in Brazil and is the capital city of Rio Grande do Sul, the southernmost state of the country.
+The **Serra Gaúcha** hill country north of Porto Alegre is the most popular excursion from the city, and deservedly so. **Gramado** and **Canela**, about 120 kilometres north, are mountain resort towns with a strongly Germanic character — hydrangeas, chalet architecture, chocolate shops, and a genuinely cool climate that feels almost European. Gramado hosts a famous film festival each August and goes extravagantly over the top for Christmas. **Canela** next door has the better natural scenery: the **Parque Estadual do Caracol** with its 131-metre waterfall is a short drive from town. Both are easily done as a day trip by bus or car, though a night or two lets you explore the surrounding farms and trails more slowly.
 
-**
-Bento Goncalves**
-
-The entrance to the city is similar to a giant barrel of wine since the city is the main producer of fine wine and thus the Capital of Wine. It is about 120 km, or a couple of hours drive, from Porto Alegre. As locals say, the museum is the museum of immigrants since the people who first settled the area were Italians. It has collections of artistically made sculptures and fine pieces of ceramic craftsmanship. Visitors will be fascinated learning about how they incorporate history in this museum through paintings and other artifacts.
-
-**
-Igreja de São Bento**
-
-This church lies 200 km from Bento Goncalves. The architectural shape of the structure resembles a kite and it has the capacity to hold up to a thousand guests inside. You may be able to see the gold plated Statue of Saint Benedict since it was built by Benedictines. This is the only church in the region built that sports a mezzanine. From the ancient times, whenever a mass is being held, the rich people stay in the mezzanine while the other classes stay below them. The sanctity of the church remains the same. Popular legend says, passing through this church will bless your travel.
-**
-
-Mercado Público**
-
-You might want to drop by the Public Market of Pelotas known as Mercado Publico. It is a distinct building that you might not be able to recognize as a Public Market. From the historic artifacts and vibrant scenes , this also a haven for general merchandise and food. As they always say, you can have a glimpse of the Brazilian culture through their own delicacies. It is a 2 to 3-hour drive from Porto Alegre.
-
-**Costa Lagoa**
-
-A few hours from Porto Alegre is Florianopolis’s most famous coast. You will enjoy the beauty of its crystal clear water and Atlantic forest. It is worth your time though it is quite far from Porto Alegre. Don’t forget to bring your camera to capture wonderful sights and remember to wear comfortable walking shoes.
-
-There are so many places that you can visit in Brazil and the places mentioned here are just a few of the many interesting ones that travelers can visit near Porto Alegre, which showcases the richness of Brazilian history and culture.
-
-Contributor: Sameera Kumar
-
-**Contributors**
-January 26, 2010
+The **Vale dos Vinhedos** wine region around **Bento Gonçalves**, about 120 kilometres from Porto Alegre, produces the best Brazilian wines — mostly from Italian grape varieties brought by 19th-century immigrants. The Vale dos Vinhedos has an official DOC appellation, the first in Brazil, and several estates offer tastings and cellar tours. You can reach Bento Gonçalves by bus and then take a tourist steam train through the vineyards. Further afield but extraordinary, **São Miguel das Missões** (about 480 kilometres west, best done with a car or overnight bus) is the UNESCO-listed ruin of one of the great Jesuit reduction settlements of the 17th century — a vast stone church standing in the pampas, hauntingly intact despite three centuries of abandonment. The nightly sound-and-light show is one of the best in South America. Closer to the city, **Parque Estadual de Itapuã** — about 60 kilometres south — has beautiful lagoon beaches, wildlife, and boat trips into the Lagoa dos Patos: the best beach day within reach of Porto Alegre.

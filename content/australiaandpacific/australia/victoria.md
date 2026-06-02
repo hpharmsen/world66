@@ -1,16 +1,19 @@
 ---
-title: "Victoria"
+done:
+  location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
+latitude: -37.4713
+longitude: 144.7852
+score: 0.49
+title: Victoria
 type: location
-latitude: -36.59861
-longitude: 144.678005
+loc_type: region
 ---
 
-Although the gold prospectors nearly got down-hearted, things changed around the 1850s. It turned out to be that most of what glistered in the Victorian soil actually was gold. The rich goldfields of Ballarat and Bendigo regions attracted hopeful immigrants from all over the world who came to one of the smallest states of Australia in the hope to find their fortune. Victoria slowly changed from a small pastoral area into Australia’s financial capital. 
+Victoria is Australia's smallest mainland state, but it packs more variety into its compact frame than anywhere else on the continent. From the cosmopolitan laneways of [Melbourne](/australiaandpacific/australia/victoria/melbourne) to the wild surf beaches of the Great Ocean Road, from gold rush towns frozen in the 1850s to snow-capped alpine peaks, you could spend months here and still find surprises around the next bend.
 
-[Melbourne](/australiaandpacific/australia/victoria/melbourne) is the state’s capital and the second-largest city of Australia. It is one of those cities where you can find everything. Find out for yourself whether it is entitled to claim the title of cultural capital. Famed for the diversity of resturants and cafes in the famous Lygon St Carlton throught to the heady highs of the Melbourne Formula 1 Grand Prix held right in the city. There sure are a lot of cultural events going on and people attend more community events, such as sport games and watching groovy bands. A lot of people set off for a visit to the former goldfields or one of the nearby National Parks. The residents are known to be friendlier and more casual than in NSW. 
+The state was built on gold. When prospectors struck it rich at [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo) in the 1850s, hopeful immigrants flooded in from every corner of the world. That wealth still shows in the grand Victorian architecture lining country town main streets, and in Melbourne's confident cultural swagger. The capital claims the title of Australia's cultural heart, and with its festival calendar, restaurant scene, and obsessive sporting culture, the claim has merit.
 
-If you plan on visiting the city and need to find everything in one place, try coming in March when the F1 Grand Prix circus is in town, togther with the Moomba Festival following closely in the Melbourne Comedy Festival. If you have more time, Melbourne is famed as being able to surf in the morning, hike or browse in a winery over lunch and ski in the afternoons, it's all here. 
+Beyond Melbourne, the Great Ocean Road is the headline act. This coastal drive delivers jaw-dropping scenery, from the Twelve Apostles to the surf breaks at Bells Beach. But Victoria's interior rewards exploration too. The Victorian Alps in the northeast offer Australia's best skiing in winter and superb bushwalking in summer. The Grampians rise dramatically from the western plains, packed with Aboriginal rock art and wildflowers. The Murray River towns of [Echuca](/australiaandpacific/australia/victoria/echuca) and [Cobram](/australiaandpacific/australia/victoria/cobram) provide lazy riverside escapes, and the Mornington Peninsula and Yarra Valley wine regions are within easy day-trip range of Melbourne.
 
-The seaside offers some excellent views of nature’s forces. You might know the Great Ocean Road, a fabulous drive along the coast that offers beaches, waves and perfect places to go walking or simply enjoy the scenery. The seascape also known as the ShipWreck Coast feature famous natural features such as the 12 Apostles and is the home of the surfing meca Bells Beach. If you want to see more of nature at its best, go to the Victorian Alps in the northeast area. The ski slopes are the best down here and the area is also offers excellent opportunities for bush-walking and horse riding. 
-
-Basically, whatever you want you can find in Victoria using Melbourne as the jumpoff or base for your trips. Be it seeing the native flora and fauna at the world famous Heallsville Sactuary or Melbourne Zoo, going into anyone of the 100+ National and Satae Parks and Forests, hiking, climbing, white water rafting, hot air balloning, F1 Cars, 500cc Motor Cycle Grand Prixs, airshows, or opera, ballet and simple cultural happenings. It's all to be found here in Melbourne. Known as the Event Capital of Australia.
+Victorians are a friendly bunch, less brash than their Sydney counterparts and proud of their liveable state. If you can only visit one part of Australia outside Sydney, make it Victoria.

@@ -1,33 +1,8 @@
 ---
 title: "Shopping"
 type: section
-address: "india"
-email: "info@143india.com"
-phone: "9848129143"
-type: "Shopping centers and malls"
-url: "www.143india.com"
-latitude: 22.351115
-longitude: 78.667743
 ---
 
-http://www.allindiaflorist.com
+Mysore has two things worth buying: silk and sandalwood. Mysore silk sarees, woven with zari (gold thread) borders, are among the finest in India and the city's government-run silk factory and showroom is the most reliable place to buy them. Sandalwood products — soap, incense, carved figurines, essential oil — fill shops across the city, though quality varies widely; buy from the government emporiums for guaranteed goods.
 
-### [Flowers to Mysore](/asia/india/karnataka/mysore/shopping/flowers_to_mysore)
-
-Flowers to Mysore
-
-http://www.143india.com
-
-type: Shopping centers and malls
-
-
-
-[[rate it]](/asia/india/karnataka/mysore/shopping/flowers_to_mysore)
-
-url: [www.143india.com](http://www.143india.com)
-
-address: india
-
-tel: 9848129143
-
-email: info@143india.com
+The Cauvery Arts and Crafts Emporium on Sayyaji Rao Road and the Mysore government's own showrooms are good starting points. Devaraja Market is the place for fresh flowers, incense, local spices, and the daily texture of the city.

@@ -1,25 +1,16 @@
 ---
-title: "Chiswick"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.492314
 longitude: -0.263818
+title: Chiswick
+type: location
+score: 0.43
+loc_type: city
 ---
 
-Chiswick is located west of [London](/europe/unitedkingdom/england/london), about 20 minutes by Tube from Turnham Green station. One can even travel back
-to the centre of London by boat on the River Thames before 8pm in the
-summer from kew bridge which is a 15 minute walk along the side of The
-River Thames.
+Chiswick is a leafy west [London](/europe/unitedkingdom/england/london) neighbourhood with a village feel that belies its proximity to central London — Turnham Green tube station is about 20 minutes from the West End on the District line.
 
-A very good place for bars and restaurants that has people
-flocking to at weekends from all over London. The big attraction this
-includes the restaurant of the year award by many guides.
+Chiswick High Road and its continuation into Turnham Green Terrace form a lively strip of independent shops, delis, and restaurants. The area has become one of London's better dining neighbourhoods, with enough variety to draw people from across the city at weekends. A five-minute walk south brings you to the Thames towpath and a string of riverside pubs — the stretch between Chiswick Bridge and Hammersmith is one of the pleasantest waterside walks in London.
 
-It has a very cosmopolitan feel to the place along with a good
-arrangement of shops. The River Thames is only 5 minutes walk from
-the town centre and has a good selection of pubs overlooking the river,
-
-Chiswick is home to many stars of television, theatre and sport, and
-is home to the painter Hogarth who's house Hogarth house is open all
-year round to the public and has great grounds to walk around in
-within the estate, it is also very calm and relaxing the perfect
-place to be.
+**Chiswick House**, a Palladian villa built in the 1720s by Lord Burlington, sits in handsome grounds that are free to enter and worth a wander. Fuller's Griffin Brewery, the last traditional brewery in London, is also here — tours run regularly.

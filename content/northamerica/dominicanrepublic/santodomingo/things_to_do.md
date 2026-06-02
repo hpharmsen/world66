@@ -1,60 +1,10 @@
 ---
-title: "Things to do in Santo Domingo"
+title: "Things to Do"
 type: section
 ---
 
-Santo Domingo has a variety of things to do from museums and
-sightseeing to hiking and golfing.
+The [Zona Colonial](/northamerica/dominicanrepublic/santodomingo/zona_colonial) is where most visitors spend most of their time, and rightly so — the [Catedral Santa María la Menor](/northamerica/dominicanrepublic/santodomingo/catedral_santa_maria), the [Fortaleza Ozama](/northamerica/dominicanrepublic/santodomingo/fortaleza_ozama), the [Alcázar de Colón](/northamerica/dominicanrepublic/santodomingo/alcazar_de_colon), and [Calle de las Damas](/northamerica/dominicanrepublic/santodomingo/calle_de_las_damas) are all within easy walking distance of each other. The [Museo de las Casas Reales](/northamerica/dominicanrepublic/santodomingo/museo_de_las_casas_reales) is the best historical museum in the colonial district; the [Museo Memorial de la Resistencia Dominicana](/northamerica/dominicanrepublic/santodomingo/museo_memorial_resistencia) is the most affecting.
 
-**National Botanical Gardens**
+Beyond the colonial core, the [Jardín Botánico Nacional](/northamerica/dominicanrepublic/santodomingo/jardin_botanico_nacional) — over 200 hectares with 300 species of orchid and a Japanese Garden — is one of the finest botanical gardens in the Caribbean. [Los Tres Ojos](/northamerica/dominicanrepublic/santodomingo/tres_ojos) is a system of underground limestone lakes east of the river, genuinely spectacular and unlike anything else near the city. The [Parque Mirador del Sur](/northamerica/dominicanrepublic/santodomingo/parque_mirador_del_sur) runs along the southern cliffs for 8 km and is the city's main outdoor space for joggers, cyclists, and sea views.
 
-The National Botanical Gardens is considered to be one of the
-world’s best gardens. There are over 300 types of orchids and more than
-200 acres of flowers and palms. The Japanese Garden is particularly
-popular. The Gardens are open from 9 am to 6 pm daily.
-
-**Water Sports**
-
-Water sports are very popular in Santo Domingo because there are so
-many beaches. Scuba Diving is possible along the coral reefs and there
-are two shipwrecks that can be explored along with all the tropical
-fish. La Caleta is a great place to go scuba diving. There are
-also several public beaches where you can do other water sports and swim or
-just lie on the beach.
-
-**Santo Domingo’s Boca Chica Bay**
-
-The Hamaca Coral Hilton offers visitors to Santo Domingo’s Boca
-Chica Bay a deal even if they aren’t going to stay in the hotel. For
-$45 you can have access to their private beach including the all you
-can eat buffet and open bar. Most of the locals can’t afford these
-prices and the beach is rarely crowded. On the beach are huts made of
-palm to give shade. Lounge chairs are available. You can rent kayaks or
-ride a banana boat, you can surf and staff will teach you how to scuba
-dive.
-
-**Hippocampo Scuba-diving Center**
-
-Another place that specializes in teaching you how to scuba is the
-Hippocampo Scuba-diving Center. It is located in the Tropical Garden
-Club Hotel on Cabarete Beach. Tours are given and PADI certification
-courses are offered. You can also rent equipment.
-
-**Silver Bank Sanctuary**
-
-Banco de la Plata Sanctuary or Silver Bank Sanctuary near Puerto
-Plata is where the whales come to breed. The area is 66 feet below sea
-level and every year between December and April the Humpback Whales
-come to this sanctuary and have been since 1986. The name of the area
-came from the shipwreck Concepcion that sunk in 1641. The ship had a
-large cargo of silver and gold. The Sanctuary is open 24 hours. You can take a half day tours for 4 hours and full day for 8 hours. Best of all – it
-is free.
-
-**Sports**
-
-If you enjoy spectator sports Santo Domingo is a great place to be
-especially if you like baseball. Baseball is big and there are training
-grounds that train players to the US Major League and to Japan’s
-Professional League. You can catch a game in season.
-
-Santo Domingo will keep you up and active while you are there and give you a vacation you won’t forget.
+Scuba diving at [La Caleta Underwater National Park](/northamerica/dominicanrepublic/santodomingo/la_caleta) offers two shipwrecks and abundant reef fish 30 minutes from the city. A game at the [Estadio Quisqueya](/northamerica/dominicanrepublic/santodomingo/estadio_quisqueya) during the Dominican winter baseball season (October–January) is one of the most authentic experiences in Santo Domingo.

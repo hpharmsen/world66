@@ -1,33 +1,10 @@
 ---
-title: "Getting There in BorÃ¥s"
+title: "Getting There"
 type: section
-address: "Sven Erikssonsplatsen"
-phone: "+46 771 75 75 75"
-type: "By Rail"
-url: "www.tagplus.se"
 ---
 
-Borås is easy to reach by car train and air.
+Borås has its own small airport at **Borås City Airport (Viared)**, mostly for charter and freight traffic. Most travellers arrive via **Gothenburg-Landvetter Airport (GOT)**, about 40 minutes by direct airport bus or car. Landvetter is the closest international gateway and serves the city well.
 
-**Contributors**
-March 18, 2008
+By train, Borås is connected to Gothenburg in about an hour by Västtågen regional services. Connections from Stockholm typically run via Herrljunga or Gothenburg and take three to four hours. The bus network from across western Sweden is good and often the cheapest option.
 
-### [Borås central](/europe/sweden/bors/getting_there/bors_central)
-
-There are two railways that cross eachother in Borås. The Railway between Göteborg and Alvesta Nässjö Kalmar crosses the regional railway between Uddevalla Vänersborg Herrrljung Varberg.
-
-type: By Rail
-
-
-
-tel: +46 771 75 75 75
-
-url: [www.tagplus.se](http://www.tagplus.se)
-
-address: Sven Erikssonsplatsen
-
-### [By air](/europe/sweden/bors/getting_there/by_air)
-
-BorÃ¥s is situated not far from Landvetter international airport, the second most busy airport in Sweden. For the leasure pilot there is a local airport in BorÃ¥s, Viared.
-
-type: By Air
+By car, Borås sits on Riksväg 40, the main road between Gothenburg and Jönköping; the drive from Gothenburg takes about an hour.

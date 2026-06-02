@@ -1,24 +1,6 @@
 ---
-title: "Things to do in Sapulpa"
+title: Things to Do
 type: section
 ---
 
-Creek County Speedway
-1/4 mile dirt track
-Sprints, Modified, Super Stock, PureStock, Mini's
-How to
-Find Us
-
-From OKC:
-Take I-44 east
-[Turner Turnpike] to exit 211 [Kellyville Exit]. Turn
-right to stop light [Highway 66] turn right and track is
-1 mile on left side of highway.
-
-FromTulsa: Take I-44 west
-[Turner Turnpike] to exit 211 [Kellyville Exit]. Turn
-left to stop light [Highway 66] turn right and track is
-1 mile on left side of highway.
-
-Track phone:
-918-247-6675
+Sapulpa earns its keep as a Route 66 stop: an intact pre-1920s downtown, the original brick-paved alignment of the Mother Road north of town, the World's Largest Gas Pump, a working drive-in theater on the old highway, and the headquarters of Frankoma Pottery. The two small museums — Historical and Trolley — cover the rest of the town's story. Easy half-day from Tulsa.

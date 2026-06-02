@@ -1,32 +1,12 @@
 ---
-title: "Books in Fujairah"
+title: "Books"
 type: section
-author: "Lara Dunston and Sarah Monaghan"
-isbn: "0756639859"
 ---
 
-These are some travel books that may assist you in your journeys around Fujairah.
+Fujairah does not feature heavily in literature, but a few books help set the context for the wider UAE and Gulf region.
 
-### [Top 10: Dubai & Abu Dhabi (Eyewitness Travel Guides)](/asia/unitedarabemirates/fujairah/books/top_10_dubai__ab)
+**City of Gold: Dubai and the Dream of Capitalism** by Jim Krane (2009) is the definitive account of how the Gulf's fishing settlements became global cities within a single generation. Krane focuses on Dubai but the forces he describes shaped Fujairah and every other emirate equally — it is essential reading for understanding what the UAE actually is.
 
-One of the DK
-Publishing Eyewitness Travel Guides, the Top 10: Dubai & Abu Dhabi
-book contains lists of the top ten features for various aspects of your
-visit. The list of the top ten festivals and events is particularly
-useful for knowing what time of year to plan your visit.
+**Arabian Sands** by Wilfred Thesiger (1959) covers the author's crossings of the Empty Quarter in the 1940s, but also his time among the Trucial sheikhs and the Bedouin of the region that would become the UAE. The landscape and the people Thesiger describes are recognisable in Fujairah's mountains and wadis even today.
 
-This book is
-chock full of the wonderful full color photographs that the DK
-Publishing Eyewitness Travel Guides are known for. You will easily get
-a feel for the different landmarks and sites that await your visit. All
-you have to do is choose which ones suit you best.
-
-Along with [more..](/asia/unitedarabemirates/fujairah/books/top_10_dubai__ab)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0756639859/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: Lara Dunston and Sarah Monaghan
-
-isbn: 0756639859
+**The Zanzibar Chest** by Aidan Hartley (2003) is not about Fujairah specifically, but Hartley spent formative years in the wider Arabian Gulf and the book's account of the region's rapid transformation frames what it means to visit a place that went from fishing village to city-state within a lifetime.

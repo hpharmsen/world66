@@ -1,17 +1,8 @@
 ---
-title: "Bars and Cafes in Arenal"
+title: Bars and Cafes
 type: section
 ---
 
-Please find recommended Arenal bars and cafes below.
+The Ballermann strip — named after the legendary Balneario 6 beach bar — is the engine of S'Arenal's nightlife. German party tourism has shaped this stretch for decades: oompah bands, litres of beer, and the kind of cheerful excess that horrifies one kind of traveller and delights another. It starts around midday and runs well past midnight in high season.
 
-**Contributors**
-March 19, 2006
-
-### [The Strathallan Arms](/europe/spain/balearicislands/mallorca/arenal/bars_and_cafes/the_strathallan_ar)
-
-Marvelous bar/resturant called the Strathallan Arms, run by a Scots couple Ali and Caroline. The food is absolutely brill and the entertainment is excellent. A great atmosphere will make you to feel welcome. Generous drink measures and reasonable prices too.
-
-
-
-[[rate it]](/europe/spain/balearicislands/mallorca/arenal/bars_and_cafes/the_strathallan_ar)
+English-speaking bars are easier to find on the Palma side of the resort. Away from the strip, a few more sedate beach bars along the promenade serve coffee and cocktails without the soundtrack.

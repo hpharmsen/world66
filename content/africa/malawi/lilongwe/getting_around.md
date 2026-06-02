@@ -1,33 +1,8 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
-address: "P.O. Box 1132 Area 4 Lilongwe Malawe"
-email: "apexcars@globemw.net"
-phone: "+(265)  1  754 610"
-url: "www.apexrentacarmw.com"
 ---
 
-Malawi
+Lilongwe's two halves — Old Town and New Town (Capital Hill) — are separated by about three kilometres of highway, and there is no reliable public transport between them. Minibus taxis run between the two areas but are slow and confusing for first-time visitors. Taxis are the practical solution; agree a price before you get in, and expect to pay USD 3–8 for most cross-city trips.
 
-### [Apex Rent a Car Lilongwe](/africa/malawi/lilongwe/getting_around/apex_rent_a_car_li)
-
-The Top Car Hire Agency in Malawi
-**Are you worried about travelling around Malawi in a rental car? Your concerns and worries are taken care of by providing reliable, regularly serviced, ****top of the range rental cars in Malawi.**
-About Apex rent a car:
-
-Your satisfaction is our Priority
-
-A satisfied customer is a happy customer, therefore, our objective is to give you personalized service and take care of your every need
-We also provide chauffeur driven cars for your comfort, be it a leisure or business trip, you can relax [more..](/africa/malawi/lilongwe/getting_around/apex_rent_a_car_li)
-
-
-
-[[rate it]](/africa/malawi/lilongwe/getting_around/apex_rent_a_car_li)
-
-tel: +(265) 1 754 610
-
-url: [www.apexrentacarmw.com](http://www.apexrentacarmw.com)
-
-address: P.O. Box 1132 Area 4 Lilongwe Malawe
-
-email: apexcars@globemw.net
+Ride-hailing apps have a limited presence in Malawi, but some local options exist — ask at your hotel. Walking within either the Old Town or the New Town is feasible and generally safe in daylight. The New Town, with its wide planned avenues, is actually quite walkable between major points. The stretch of road connecting the two halves, however, is long and hot with no footpath, and is best done by vehicle.

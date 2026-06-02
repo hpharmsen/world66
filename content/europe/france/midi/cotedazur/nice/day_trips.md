@@ -1,23 +1,11 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/france/midi/cotedazur/monaco
+  - europe/france/midi/cotedazur/cannes
+  - europe/france/midi/cotedazur/antibes
+  - europe/france/midi/cotedazur/menton
 ---
 
-**Contributors**
-October 22, 2006
-
-We currently have no Day Trips listed in Nice.
-
-If you do know any Day Trips in Nice, please [Add].
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Nice is perfectly placed for day trips along the Riviera. The train runs along the coast and connects easily to Monaco (25 minutes), Menton (35 minutes), Antibes (30 minutes), and Cannes (40 minutes). Inland, the perched villages of the arrière-pays — Eze, Saint-Paul-de-Vence, Vence — are reachable by bus in under an hour. All are worth at least an afternoon.

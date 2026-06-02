@@ -1,8 +1,21 @@
 ---
-title: "Bellingham"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-28'
 latitude: 48.754401
+loc_type: city
 longitude: -122.478836
+score: 0.49
+title: Bellingham
+type: location
+image: bellingham.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Bellingham,_Washington.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nick Kelly / Faithlife Corporation
 ---
 
-Bellingham is a small city(around 40,000), about 80 miles North of Seattle and 20 miles South of the Canadian border. Tho' there are many natives, walking around you will certainly have trouble finding anyone between the ages of 15 and 30 who hasn't moved in. Bellingham is a broke travellers paradise, with wonderful beach front squatting available and plenty of warm, friendly people to shoot the breeze with. Looking for a place to grab a drink, the Horseshoe Cafe on Railroad Ave. has the best cheese fries and a great bar. More the coffee type, try a locally brewed Tony's Coffee, available at Stuart's, a local haunt with plenty of free live music and poetry nights or the Black Drop, a quiet place to meet plenty of outgoing locals.
+Bellingham is a small, outdoorsy city about 130 km north of Seattle and 30 km south of the Canadian border. It is home to [Western Washington University](/northamerica/unitedstates/washington/bellingham/western_washington_university), which gives it a youthful, progressive feel and an unusually good coffee and craft beer scene for a city of 90,000.
+
+The setting is the real draw. [Bellingham Bay](/northamerica/unitedstates/washington/bellingham/bellingham_waterfront) looks out toward the San Juan Islands, and [Mount Baker](/northamerica/unitedstates/washington/bellingham/mount_baker) — a glacier-covered volcano — rises to the east. The outdoor access is exceptional: sea kayaking in the islands, skiing at Mount Baker in winter, hiking and mountain biking in the [Chuckanut Mountains](/northamerica/unitedstates/washington/bellingham/chuckanut_drive), and cycling on the Interurban Trail.
+
+The [Fairhaven](/northamerica/unitedstates/washington/bellingham/fairhaven) district, in the south of the city, has a compact historic downtown with bookshops, restaurants, and the [ferry terminal](/northamerica/unitedstates/washington/bellingham/alaska_ferry) for the San Juan Islands and Alaska. The Railroad Avenue area in [downtown Bellingham](/northamerica/unitedstates/washington/bellingham/downtown_bellingham) has a growing restaurant scene. [Tony's Coffee](/northamerica/unitedstates/washington/bellingham/tonys_coffee), roasted locally, is the caffeine of choice. The [SPARK Museum of Electrical Invention](/northamerica/unitedstates/washington/bellingham/spark_museum) — with its Tesla coil lightning shows — and the [Whatcom Museum](/northamerica/unitedstates/washington/bellingham/whatcom_museum) give the city a cultural weight unusual for a town this size.

@@ -1,16 +1,14 @@
 ---
 title: "Day Trips"
 type: section
-url: "www.angelodriver.com"
+linked_locations:
+  - europe/italy/campania/pompeii
+  - europe/italy/campania/herculaneum
+  - europe/italy/campania/capri
+  - europe/italy/campania/ischia
+  - europe/italy/campania/positano
+  - europe/italy/campania/amalfi
+  - europe/italy/campania/ravello
 ---
 
-Private driver Sorrento, Amalfi coasr, Naples for transfers and excursions
-
-### [Day tours and excursions from Sorrento](/europe/italy/campania/sorrento/day_trips/transfer_naples_so)
-
-**Private driver/guide in Sorrento
-**Our most popular excursions: , Pompeii, Amalfi coast (Positano, Amalfi, Ravello ) Naples, Praiano, Paestum, Pompeii, Herculaneum, Sorrento. If you are based in Rome, will be very easy and confortable to visit the beatifull villages of our region. Our train work very well, and we will be happy to meet you at Naples train station with a personalized name-board. This method of travel From Rome to Naples is suitable if you would like to spend the entire day in this area [more..](/europe/italy/campania/sorrento/day_trips/transfer_naples_so)
-
-
-
-url: [www.angelodriver.com](http://www.angelodriver.com)
+Sorrento's position makes it the best base in Campania. [Pompeii](/europe/italy/campania/pompeii) and [Herculaneum](/europe/italy/campania/herculaneum) are both on the Circumvesuviana line — Pompeii is 35 minutes, Herculaneum 45 minutes from Sorrento station. [Capri](/europe/italy/campania/capri) is a 20-minute hydrofoil ride from Marina Piccola. The Amalfi Coast — [Positano](/europe/italy/campania/positano), [Amalfi](/europe/italy/campania/amalfi), [Ravello](/europe/italy/campania/ravello) — is accessible by SITA bus along one of the most dramatic roads in Europe. Allow a full day for any of these; the Amalfi Coast road is slow in summer.

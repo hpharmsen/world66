@@ -1,20 +1,21 @@
 ---
-title: "Rincon del MAr"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: rincon_del_mar.jpg
+image_attribution: Globetrotteur17 on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/91701539@N03/54514399140
 latitude: 9.766779
+loc_type: city
 longitude: -75.641092
+score: 0.42
+title: Rincón del Mar
+type: location
 ---
 
-Travel Guide
+Rincón del Mar is a small Caribbean beach village in the municipality of San Onofre, Sucre, about three hours by road from Cartagena. It sits on the Gulf of Morrosquillo, a calm stretch of the Caribbean sheltered from the open sea by the Islas de San Bernardo.
 
-One of the main beaches in the municipality of San Onofre, Sucre, is Rincon del Mar, two hours drive from Cartagena de Indias.
-It is a very quiet beach, located off the Gulf of Morrosquillo in the Colombian Caribbean.
+The [main beach](/southamerica/colombia/rincon_del_mar/main_beach) is wide and sandy, the water warm and generally calm. It's a popular weekend and holiday destination for Colombians from Cartagena, Barranquilla, and Medellín, but sees few foreign visitors — which is part of its appeal. Seafood is fresh and cheap: fish, prawns, snails, and crab, often served with coconut rice.
 
-With the warm sea bathing your feet, you can make out Isla Palma, by boat, is 25 minutes. Also you can reach by boat Coveñas Tolu and in about 20 minutes.
-
- 
-Hundreds of bathers enjoy, sunbathing on the sand or swimming in the sea.
-
-Rincon del Mar and is recognized tourist destination for many people from cities like Cartagena, Barranquilla and Medellin, who want to spend their vacation or weekend enjoying the beach and offering estaderos good music and delicious seafood stew like fish, shrimp cocktails, snail and crab, as well as fish and coconut rice, of course.
-
-Like the white sand, blue sea and the natural green environment that is very close. At the end of the day, and soft red sunsets complete the color palette makes Rincón de Mar a special beach.
+From the village, boats run out to the [Islas de San Bernardo](/southamerica/colombia/rincon_del_mar/islas_san_bernardo) — a coral archipelago with white-sand cays, snorkelling reefs, and lagoons that glow with bioluminescent plankton on dark nights. Inland, a short trip south brings you to a small [mud volcano](/southamerica/colombia/rincon_del_mar/volcan_lodo) where you can climb in and float on dense, mineral-rich mud. The nearby towns of Coveñas and Tolú are also accessible by colectivo or boat.

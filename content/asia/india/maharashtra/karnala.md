@@ -1,28 +1,21 @@
 ---
-title: "Karnala"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+image: karnala.jpg
+image_attribution: Dupisingh
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Karnala_Fort_06.JPG
 latitude: 18.881349
+loc_type: city
 longitude: 73.118167
+score: 0.41
+title: Karnala
+type: location
 ---
 
-Travel Guide
+Barely sixty kilometers from Mumbai, Karnala is a compact escape for bird watchers, hikers, picnickers, and rock climbers. The centerpiece is an ancient hill fort rising dramatically from the [Karnala Bird Sanctuary](/asia/india/maharashtra/karnala/karnala_bird_sanctuary) at its base.
 
-Barely sixty kilometers from Mumbai is an
-amazing spot, which is a haven for bird watchers, picnickers, rock climbers,
-weekend hikers and Fort spotters.
+[Karnala Fort](/asia/india/maharashtra/karnala/karnala_fort) sits at 1,560 feet and is topped by a distinctive 125-foot rock pinnacle that locals call "the thumb" — a well-known challenge for serious rock climbers. The surrounding forest was declared a Bird Sanctuary in 1968, and wildlife surveys have recorded more than 140 resident and 40 migratory bird species here, including four species of hornbill, owls, bulbuls, and mynas.
 
-Karnala is dominated by a fort, which rises up
-from the sanctuary at its base.
-The whole area is lush green and rich with
-natural habitation of various birds like Red Vented, Bulbul, Horn Bill, Myna,
-Owl, Robin McPie and many others.
-
-The ancient fort is at an altitude of 1560ft. The fort
-has a Pinnacle on the top of it, which resembles a ‘Thumb’. The Pinnacle is
-125ft in height and a popular climbing site for professional rock-climbers.
-
-Karnala’s forest was declared a Bird Sanctuary in 1962 .
-
-The
-latest wildlife census proved the sanctuary to be a refuge for more than 140
-species of resident and over 40 migratory bird species.
+The sanctuary and fort can both be covered in a single day trip from Mumbai or Pune. The gate opens at 6am, and the early hours are best for both birds and the hike up to the fort in manageable temperatures.

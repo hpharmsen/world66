@@ -1,12 +1,21 @@
 ---
-title: "Hopkins"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
+image: hopkins.jpg
+image_attribution: aparlette on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/9297241@N02/52781884863
+latitude: 33.9286
+loc_type: city
+longitude: -80.8062
+score: 0.26
+title: Hopkins
 type: location
-latitude: 33.136825
-longitude: -95.565658
 ---
 
-Hopkins is the best starting point for a visit to Congaree Swamp, which rests on a floodplain of the Congaree River and is not a true swamp. This remnant preserves, in a wilderness state, the largest intact tract of old-growth bottomland hardwood forest in the United States. The monument was authorized as a unit of the National Park Service on October 18, 1976.
+Hopkins is a small community about 15 miles southeast of [Columbia](/northamerica/unitedstates/southcarolina/columbia), best known as the gateway to [Congaree National Park](/northamerica/unitedstates/southcarolina/hopkins/congaree_national_park). The park preserves the largest intact tract of old-growth bottomland hardwood forest in the United States — not technically a swamp, but a seasonally flooded river floodplain on the Congaree River.
 
+The trees here are extraordinary. Some of the tallest hardwoods in the eastern US grow in Congaree, with a canopy that rivals tropical rainforests. The park is an International Biosphere Reserve, a National Natural Landmark, a Wilderness Area, and a Continentally Important Bird Area for birders.
 
- 
- Three features give national significance: some of the tallest trees in the East with one of the highest canopies in the world, broad biodiversity, and old-growth forest. The monument is recognized as an International Biosphere Reserve, National Natural Landmark, Wilderness Area, and "Continentally Important Bird Area."
+Beyond the park, the surrounding countryside is a quiet corner of Lower Richland County with scattered Reconstruction-era and antebellum sites such as the [Harriet Barber House](/northamerica/unitedstates/southcarolina/hopkins/harriet_barber_house) and [Wavering Place](/northamerica/unitedstates/southcarolina/hopkins/wavering_place). For most visitors, though, Hopkins itself is just the address — the park is the draw.

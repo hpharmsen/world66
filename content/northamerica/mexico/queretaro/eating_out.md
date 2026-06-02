@@ -1,12 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-For the best Sushi in Queretaro. Our favorite is the Sushi Itto located at 
-
-Blvd. Berdardo Quintana No. 13
-
-Col. Bosques del Acueducto
-
-Just near the Archos, that famous landmark in town. Unlike most of the other Sushi bars in town, You can sit at a table. The quality is top notch and like most other sushi places the price is at least half of what sushi goes for in the USA.
+Querétaro has a rapidly growing restaurant scene driven by a large and affluent local population, a significant expat community, and good proximity to Mexico City. The historic centre has dozens of restaurants, from traditional Mexican to innovative contemporary cuisine. The neighbourhood around the Jardín Zenea and the streets south toward the Convento de la Santa Cruz offer the best concentration.

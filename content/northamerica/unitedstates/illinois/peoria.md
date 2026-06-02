@@ -1,13 +1,21 @@
 ---
-title: "Peoria"
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-13'
+image: peoria.jpg
+image_attribution: 'User: (WT-shared) Ethajek at wts wikivoyage'
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Caterpillarhq.JPG
+latitude: 40.6939
+loc_type: city
+longitude: -89.5891
+score: 0.37
+title: Peoria
 type: location
-latitude: 40.693861
-longitude: -89.589101
 ---
 
-Travel Guide
+Peoria sits on the Illinois River in central Illinois and has long been considered a bellwether for mainstream America — "Will it play in Peoria?" is the classic test of Middle American appeal. With about 115,000 people, it is the largest city in central Illinois and the global headquarters of Caterpillar Inc., the heavy equipment manufacturer whose yellow machines are visible on construction sites worldwide. The city has more going on than its reputation suggests.
 
-**Peoria, Illinois** is the largest city in Illinois.
+The riverfront district has been revitalized with restaurants, parks, and a pedestrian path along the water. The Peoria Riverfront Museum, opened in 2012, covers art, science, and local history under one roof and includes a planetarium and a giant-screen theater. The Caterpillar Visitors Center lets you climb into full-size excavators and bulldozers, which is genuinely fun regardless of your age. Nearby, the Peoria PlayHouse Children's Museum is well designed for younger kids.
 
-Peoria has become famous as a representation of the average American City b
-Peoria is also headquarters for Caterpillar Inc., one of the 30 companies composing the Dow Jones Industrial Average
+The Heights neighborhood, on the bluffs above the river, is the most pleasant part of town for walking, with old Victorian homes, mature trees, and good views. Grandview Drive, which Theodore Roosevelt reportedly called "the world's most beautiful drive," runs along the bluff edge for two miles. For food, the Obed and Isaac's brewpub on Main Street is solid, and One World serves good coffee in a converted warehouse. The Wildlife Prairie Park, about 10 miles west of town, keeps native Illinois animals — bison, wolves, elk, bears — in large enclosures set in restored prairie, and is worth the short drive.

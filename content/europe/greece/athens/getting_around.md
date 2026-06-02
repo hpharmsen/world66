@@ -1,12 +1,12 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Athens's public transport system consists of buses, trolleys, metros and taxis. The bus tickets and the trolley car tickets are interchangeable. Taking the metro, which operates from 05:30 until 24:00, is definitely a better option than going by car or getting yourself stuffed in a way too crowded bus. Even though the buses may be crowded sometimes they are airconditioned and they take you closer to your destnation. The subway(metro) is NOT airconditioned. You will find the taxis the cheapest in the world!! A distance of 4 miles will cost you $5.00 while the same distance in New York will cost you more than $40.00!!!! The bus and trolley fare is .60c while the subway(metro) is .90c!!! The metro system is now fully operational. In order to reduce the serious effects of air-pollution, the government hopes that a well organised metro system will convince the residents of leaving their cars at home. It is estimated that the total number of daily automobile trips in Athens will be reduced by 250,000 when the Metro is fully operational. This will result, hopefully, in a 35% decrease of toxic emissions. As a result, Athens will become a more 'livable' city.
+Athens has a good metro system with three lines, and most of the major sights are within walking distance of each other in the central area around the Acropolis. The metro is clean, air-conditioned (critical in summer), and runs until midnight. Tickets are €1.20 single or €4.50 for a 24-hour pass. Validate your ticket before boarding — inspectors are persistent.
 
-**all**
+The central archaeological zone from Monastiraki to the Temple of Olympian Zeus is best covered on foot. The walk from the Acropolis Museum to the National Archaeological Museum takes about 45 minutes and passes through Monastiraki and Omonia — a good way to see the city at ground level. Trolleybuses cover routes the metro misses.
 
-**George Kokkotos**
+Taxis are metered and inexpensive by European standards. The city has an Uber equivalent (Beat) which tends to be easier than flagging a taxi on the street. Athens traffic is notoriously bad from around 5pm, so factor this in.
 
-For transfers from the airport to your hotel, ferries, cruise ship and  excursions consider using George Kokkotos the famous taxi driver of Athens.  Knowing that George will be there to pick you up and take you to your hotel  takes a lot of the anxiety out of travel. His tours to Delphi, Soun [more..](/europe/greece/athens/gettingaround/georgekokkotos)
+A note on the summer heat: June to August temperatures regularly exceed 35°C, and the marble-paved archaeological sites reflect the heat brutally. Start early, carry water, and retreat to an air-conditioned museum or cafe for the midday hours.

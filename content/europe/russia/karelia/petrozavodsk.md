@@ -1,11 +1,17 @@
 ---
-title: "Petrozavodsk"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 61.789221
+loc_type: city
 longitude: 34.368804
+score: 0.41
+title: Petrozavodsk
+type: location
 ---
 
-Travel Guide
+Petrozavodsk is the capital of the Republic of Karelia, sitting on the western shore of Lake Onega — the second-largest lake in Europe. Peter the Great founded the city in 1703 as a cannon factory to supply his wars against Sweden, and the name literally means "Peter's factory."
 
-Petrozavodsk is the capital of Karelia. Petrozavodsk is located on the western coast of the Onega Lake. Even in prehistoric times the Karelian smiths were good at producing pig-iron, forge iron and steel.
-The beginning of Petrozavodsk was put by Peter the Great who in 1703 had ordered to construct steel mill and cannon factory named Petrovsky. A village that grew near the factory was named Petrovskaya Sloboda. In 1777 Petrovskaya Sloboda became the city Petrozavodsk. In the end of the 18th century the city become the largest metallurgical center of Russia. Alexandrovsky factory was the most technically equipped in Russia and produced cannons, art castings and steam machines.
+Today it is a quiet, pleasant city of about 280,000 people, with a handsome [waterfront promenade](/europe/russia/karelia/petrozavodsk/waterfront_promenade) along the lake lined with modern sculptures donated by twin cities around the world. The city serves as the gateway to [Kizhi Island](/europe/russia/karelia/petrozavodsk/kizhi_island_trip), a UNESCO World Heritage Site accessible by hydrofoil from the river station — the wooden churches on Kizhi, built without a single nail, are among the most extraordinary structures in Russia.
+
+The [National Museum of the Republic of Karelia](/europe/russia/karelia/petrozavodsk/national_museum_karelia) in the city centre covers the region's distinctive history at the intersection of Finnish, Swedish, and Russian cultures. The surrounding Karelian countryside is a landscape of forests, lakes, and rivers. White-water rafting, fishing, and cross-country skiing are all excellent, and the region is one of the last places in European Russia where you can still find genuine wilderness.

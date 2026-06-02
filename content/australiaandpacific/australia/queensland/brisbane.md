@@ -1,16 +1,23 @@
 ---
-title: "Brisbane"
+done:
+  city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-21'
+  poi_cleanup: '2026-04-19'
+image: brisbane.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brisbane_CBD_seen_from_Kangaroo_Point,_2024,_01_(2).jpg
+latitude: -27.465991
+loc_type: city
+longitude: 153.020563
+score: 0.61
+title: Brisbane
 type: location
-latitude: -27.365991
-longitude: 152.948963
 ---
 
-Brisbane is Australia's third largest, but maybe not its hottest city. Lying amidst the subtropics of South-East Queensland, situated 25km (15mi) upstream from the mouth of the Brisbane River. Brisbane is ideally placed as Australia's most northern capital on the Pacific Rim. Having been host to a string of major international events in the 80s, including the 1982 Commonwealth Games and Expo 88, Brisbane has developed into a lively, cosmopolitan city with several interesting districts, a good street cafe scene, a great riverside park, a busy cultural calendar and decent nightlife. The compact city centre is built along and between the looping meanders of the river, making it easy to explore on foot. The transit centre, where you'll arrive if you're coming by bus, train or airport shuttle, is about 500m (550yd) west of the city centre. The airport is about 15km (9mi) north-east of the city centre.
+Brisbane is the capital of Queensland and Australia's third-largest city, built along the looping bends of the Brisbane River about 25 km upstream from Moreton Bay. The subtropical climate — warm and sunny for most of the year — shapes city life, and the outdoor spaces along the river are heavily used. The [South Bank Parklands](/australiaandpacific/australia/queensland/brisbane/south_bank), built on the site of Expo 88 on the south bank of the river, contain [Streets Beach](/australiaandpacific/australia/queensland/brisbane/south_bank_beach), the [Gallery of Modern Art](/australiaandpacific/australia/queensland/brisbane/gallery_of_modern_art), [Queensland Museum](/australiaandpacific/australia/queensland/brisbane/queensland_museum), and a good cafe strip.
 
+The city centre is compact and walkable. The oldest buildings date from the convict period: the [Old Windmill](/australiaandpacific/australia/queensland/brisbane/oldwindmill) (1828) in Spring Hill is the oldest surviving structure in Queensland. [Newstead House](/australiaandpacific/australia/queensland/brisbane/newsteadhouse) (1846) on the river to the northeast gives a sense of early colonial Brisbane. The [Brisbane City Hall](/australiaandpacific/australia/queensland/brisbane/brisbane_city_hall) clock tower on King George Square offers a free panoramic view. The inner suburbs of [Fortitude Valley](/australiaandpacific/australia/queensland/brisbane/fortitude_valley), [West End](/australiaandpacific/australia/queensland/brisbane/west_end), and [New Farm](/australiaandpacific/australia/queensland/brisbane/new_farm) each have their own character and the best eating and drinking options in the city.
 
- 
- Queensland's growing tourism industry has brought an influx of visitors to the capital, and with its near-perfect climate year-round, Brisbane comes as a pleasant surprise to most visitors. The city maintains a good infrastructure for conferences because there are plenty of good hotels and nice restaurants. It has some interesting museums and historical buildings as well as an excellent cultural centre to offer. The South Bank Parklands is the area south of the river and many people, both locals and travellers, like to spend some of their time here. This area has been transformed into a tropical paradise with lagoons, gardens, little shops and a beach. The people of Brisbane are known for their hospitality and the climate is great, so some people really like it there. Decide for yourself.
+The [Story Bridge](/australiaandpacific/australia/queensland/brisbane/story_bridge) is Brisbane's defining landmark. The heritage wharves at [Howard Smith Wharves](/australiaandpacific/australia/queensland/brisbane/howard_smith_wharves) beneath it are the best riverside precinct. [Mount Coot-tha Lookout](/australiaandpacific/australia/queensland/brisbane/mount_coot_tha) gives you the best view over the whole metropolitan area. [Lone Pine Koala Sanctuary](/australiaandpacific/australia/queensland/brisbane/lone_pine_koala_sanctuary), the world's oldest, is 12 km out.
 
-
- 
- Brisbane is also surrounded by some of the state's major tourist destinations and there are plenty of options for daytrips where both residents and visitors can enjoy a wide range of landscapes. Check out Moreton Bay and its islands that provide the best place for all sorts of water sports. The Pacific Highway leads south to the [Gold Coast](/australiaandpacific/australia/queensland/goldcoast) and its well-known surf beaches. North of Brisbane is the seaside town of Redcliffe, the rainforest and picturesque countryside of Pine Rivers, Caboolture and the Glasshouse Mountains. Bribie Island offers the first surf beach to the north. The Sunshine Coast towns and hinterland are popular holiday spots. Travelling west of Brisbane, past Ipswich, you soon climb the Great Dividing Range to Toowoomba and the rich plains of the Darling Downs.
+The Gold Coast surf beaches lie about an hour south; the Sunshine Coast an hour north; the Glasshouse Mountains about 75 km northwest. Moreton Bay and its islands are accessible by ferry from the suburbs.

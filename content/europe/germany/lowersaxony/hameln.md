@@ -1,16 +1,17 @@
 ---
-title: "Hameln"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
+latitude: 52.104
+loc_type: city
+longitude: 9.3562
+score: 0.53
+title: Hameln
 type: location
-latitude: 52.103994
-longitude: 9.356157
 ---
 
-Hameln - the famous town of the Pied Piper legend is situated about 50 km south west of [Hannover](/europe/germany/lowersaxony/hannover), the state capital of Lower Saxony in the North of the Federal Republic of Germany. As well as the German name "Hameln" the town is also known as "Hamelin" and "Hamlin" to the English speaking world. Located in the centre of the Weserbergland, Hamlen economically important and a nice tourist attraction. This hilly region extends on both sides of the river Weser from its source (where the rivers Fulda and Werra meet) from the town of Hannoversch Münden down to the region of Minden.
+Hameln — Hamelin to the English-speaking world — is the town of the Pied Piper legend, situated about 50 km southwest of [Hannover](/europe/germany/lowersaxony/hannover) in the hilly Weserbergland along the river Weser.
 
+The carefully restored old town centre is the main attraction. Weser Renaissance buildings line the streets: the [Rattenfängerhaus](/europe/germany/lowersaxony/hameln/rattenfangerhaus) (Pied Piper's House, 1602), the [Dempterhaus](/europe/germany/lowersaxony/hameln/dempterhaus) (1607), the [Leisthaus](/europe/germany/lowersaxony/hameln/leisthaus) (1585) and the [Hochzeitshaus](/europe/germany/lowersaxony/hameln/hochzeitshaus) (1610) among them. The style is distinctive — ornate stone facades with scrolled gables, unique to this stretch of the Weser valley. In summer, the Pied Piper open-air play is performed on the [Hochzeitshaus](/europe/germany/lowersaxony/hameln/hochzeitshaus) terrace every Sunday at noon. The [Pied Piper Museum](/europe/germany/lowersaxony/hameln/pied_piper_museum) in the Leisthaus digs into the many theories about what the legend might actually record.
 
- 
- The Pied Piper's town has about 59.000 inhabitants, about 30% of whom live in the 12 associated boroughs. The town hosts some 2 million day visitors per year and over 200.000 visitors per year who stay overnight.
-
-
- 
- In the carefully reconstructed old town centre you can admire the numerous Weser Renaissance-style buildings - for example the Rattenfängerhaus, or Pied Piper’s house originally built in 1602/3, the Dempterhaus dating from 1607/8, the Leisthaus from 1585-89 and the Hochzeitshaus from 1610-17.
+The town draws around two million day visitors a year, which gives the centre a lively feel. Beyond the Pied Piper theme, the [Weser promenade](/europe/germany/lowersaxony/hameln/weser_promenade) and surrounding hills make for pleasant walking. The [Market Square](/europe/germany/lowersaxony/hameln/market_square) is at its best during the Sunday play and the weekly farmers' market.

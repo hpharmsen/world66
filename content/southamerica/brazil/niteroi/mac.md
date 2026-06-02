@@ -1,28 +1,14 @@
 ---
-title: "MAC"
-type: location
-latitude: -23.515149
-longitude: -46.617476
+done:
+  location_cleanup: '2026-04-09'
+latitude: -22.9061
+longitude: -43.1253
+snippet: Niemeyer's flying-saucer museum with panoramic bay views
+tags:
+- things_to_do
+- museum
+title: Museu de Arte Contemporânea
+type: poi
 ---
 
-MAC - Museu de Arte Contemporanea
-
-"MAC-Niterói é uma combinação perfeita da genialidade do arquiteto
-Oscar Niemeyer com os contornos da Baía de Guanabara e a magnitude das
-obras de arte da Coleção João Sattamini."
-
-Para maiores informaçoes aconselho o link abaixo:
-
-http://www.niteroi.com.br/mac_curiosidades.htm
-
-One of the most spectacular art museums in the world, the MAC has put
-Niteroi on the 'definately must see' list of many tourists. The
-stunning building, designed by Brazilian star-architect Oscar Niemeyer,
-offers beautiful views over the Rio bay.
-
-For more information, follow this link:
-
-http://www.niteroi.com.br/mac_curiosidades.htm
-
-**Contributors**
-May 22, 2005
+Oscar Niemeyer's flying-saucer-shaped museum is the defining image of Niterói. Set on a cliff at Boa Viagem, it hovers above the bay with a long curving ramp leading up to the entrance. The permanent collection is drawn from the João Sattamini collection of Brazilian contemporary art, but the real attraction is the building itself and the panoramic views of Rio de Janeiro, Sugarloaf, and Guanabara Bay from the gallery windows.

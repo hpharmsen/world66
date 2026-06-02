@@ -1,22 +1,23 @@
 ---
-title: "Moab"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+latitude: 38.5738
+loc_type: city
+longitude: -109.5462
+score: 0.7
+title: Moab
 type: location
-latitude: 38.57381
-longitude: -109.546214
 ---
 
-Moab is a wonderful place. It is about 10 minutes drive to Arches National Park (NP) and about 30 minutes drive to Canyonland NP. Stores along the highway are very yuppie liked and people-friendly. There are two large grocery stores which serve the population there and cities nearby. The tap water taste funny; so, buy gallon of distilled water from them. One of the store is City Market (425 S. Main. 435.259.5181). Don't forget ice-cream in summer. :) 
+Moab is the outdoor adventure capital of the American Southwest — a small desert town in a canyon of the Colorado River, surrounded by some of the most spectacular red rock landscapes on earth. [Arches National Park][arches_national_park] is five miles away, containing more than 2,000 natural sandstone arches. [Canyonlands National Park][canyonlands_national_park] is thirty miles distant, a vast plateau of canyon and mesa where the Colorado and Green rivers converge. Between and beyond them stretch hundreds of square miles of desert managed by the Bureau of Land Management, largely empty and open to anyone willing to walk.
 
-I camped at the Archview Resort Camp Park (800-813-MOAB) in May, 2004. Conveniently located near the intersection of Highway 191 and Highway 313. It is the gateway to both Arches and Canyonland NP. It is new and offers the cleanest shower room and toilet among all places I’ve hiked. The drawback is that it is located next to the highway, so, noise from by-passing truck can be a problem. Problem is gone after using ear-plugs. :) There are many other hotels and motels. They can get booked during holidays seasons. It even has a free modem hook-up for downloading emails. I didn't try its upload. 
+Mountain biking, [river rafting][colorado_river_rafting], hiking, and four-wheel driving are the main activities, and Moab caters to all of them with gear shops, outfitters, and restaurants along N. Main Street. The [Slickrock Trail][slickrock_trail] is one of the most famous mountain bike rides in the world. [Dead Horse Point State Park][dead_horse_point], 32 miles north, offers a 2,000-foot drop to the Colorado River from a narrow mesa with the kind of view that makes a significant impression even on seasoned canyon travellers.
 
-Have fun! 
+The town itself is small and functional — a strip of hotels, gear shops, cafes, and outfitters. The scenery begins where the town ends. Be warned: summer is brutally hot and very crowded. Spring (March–May) and autumn (September–October) are the best times to visit.
 
-
-
-
-
-
-
-
-
-Created by kinmanhui2k@hotmail.com on 06/25/2004.
+[arches_national_park]: /northamerica/unitedstates/utah/moab/arches_national_park
+[canyonlands_national_park]: /northamerica/unitedstates/utah/moab/canyonlands_national_park
+[colorado_river_rafting]: /northamerica/unitedstates/utah/moab/colorado_river_rafting
+[slickrock_trail]: /northamerica/unitedstates/utah/moab/slickrock_trail
+[dead_horse_point]: /northamerica/unitedstates/utah/moab/dead_horse_point

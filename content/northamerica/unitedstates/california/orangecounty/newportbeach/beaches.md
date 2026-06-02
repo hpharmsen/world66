@@ -1,23 +1,12 @@
 ---
-title: "Beaches in Newport Beach"
+title: Beaches
 type: section
 ---
 
-Newport has a large beautiful soft white sand beach all along the Pacific Ocean. Then there are the various beaches located along the bays. The wedge with it's jetty is the southernmost beach and the sights are interesting of the harbour and the waves. Swimming is mainly for the experts here. The wedge breaks huge during heavy south swells
+The Newport Beach coastline runs from Santa Ana River-Mouth at the city's northern boundary to Crystal Cove State Park at its southern end — about 10 miles of mostly south-facing sandy beach.
 
-The beaches continue on up to the Balboa Pier which has shops and facilities nearby and is safer for swimming. Further up, the Newport Pier has even more facilites, a fresh fish market, shops, restaurants, hotels, showers and bathrooms, rental shops, and roller skating with a sidewalk along the edge that goes almost all the way to the Wedge. Watch out for the bikers, too!
+**Newport Beach proper** — the stretch from the Santa Ana River south to the Newport Pier — is wide, sandy and busy in summer, with a beach-volleyball culture and a paved boardwalk. Walk south to the Balboa Pier for a quieter, more residential feel.
 
-Up toward the Northernmost part of the beaches is Orange Street Beach which has the shallowest sea farthest out.
+**Corona del Mar State Beach**, at the harbour entrance, is the prettiest swimmable beach in town: a perfect cove sheltered by the harbour jetties, with high bluffs at one end. **Crystal Cove State Park** is rougher, more dramatic, and has the best tide pools. **Little Corona** beach next door is a quiet alternative.
 
-Board surfing at all beaches is usually between special flags and swimmers aren't allowed there. There is a curfew at midnight, police and lifeguards up and down the beaches, and the Coast Guard mans boats on the waters' edge,
-
-Balboa Island, Balboa Penninsula, Lido Isle, Newport Harbor and the Back Bay all have beaches. And the Newport Dunes Park in the Back Bay has a beach and a campground.
-
-http://www.beachcalifornia.com/newport6.html
-
-**Contributors**
-November 06, 2008
-
-### [The Newport Dunes](/northamerica/unitedstates/california/orangecounty/newportbeach/beaches/the_newport_dunes)
-
-Located in the Back Bay, The Newport Dunes has a campground beside its bay beach.
+Lifeguards work all the main beaches in summer. Beach fires are allowed only at the designated fire rings on Big Corona — reserve early or arrive at sunrise to grab one.

@@ -1,22 +1,43 @@
 ---
-title: "Hunan"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
+image: hunan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg
+latitude: 27.6662
+loc_type: region
+longitude: 111.7487
+score: 0.51
+sources:
+- https://en.wikivoyage.org/wiki/Hunan
+title: Hunan
 type: location
-latitude: 27.666209
-longitude: 111.748706
 ---
 
-Hunan province is located in south China and borders with Jiangxi to the east, Guangdong to the southeast, Guizhou and Guangxi to the west and to the north, the Yangtze region. Many travellers pass through Hunan to reach places like [Guilin](/asia/china/guilin) and Yangshou or simply just ignore it altogether as they take the Yangtze River cruise. But Hunan is a place not to be missed for its famous nature reserve, [Wulingyuan](/asia/china/hunan/wulingyuan_1), a UNESCO world heritage site. The site obtained its status in 1992. The nature reserve spans a total of over 26,000 ha dominated by some 3,100 sandstone and quartzite pillars rising over 200m above the surrounding landscape. These tall and proud ancient pillars are often wrapped in the mists that envelope the area. Between the pillars are numerous ravines and gorges, many with attractive streams, pools and waterfalls. There are two natural bridges at the reserve, including one of the highest in the world, rising some 360m above the valley floor. The area is great for treking, whitewater rafting, photography or just simply to relax.
+Hunan province sits in south-central China, a place most travellers pass through on their way to [Guilin](/asia/china/guangxi/guilin) or the Yangtze. That is a mistake. Hunan's star attraction is [Wulingyuan](/asia/china/hunan/wulingyuan), a UNESCO World Heritage Site where over 3,100 sandstone pillars rise more than 200 metres above forested gorges — the landscape that inspired the floating mountains in Avatar. The pillars are often wrapped in mist, and the area includes ravines, waterfalls, natural bridges (one rising 360 metres above the valley floor), and some forty caves. Yellow Dragon Cave, extending over 11 kilometres, features a 50-metre underground waterfall.
 
-Due to the geology of the place, there are some forty caves with spectacular calcite deposits. Yellow Dragon Cave which extends over 11km is one of the longest in China and features a 50m high underground waterfall.
+The provincial capital, [Changsha](/asia/china/hunan/changsha), is worth a stop for the Hunan Provincial Museum, which houses the remarkable Han-era tomb of Lady Dai (Xin Zhui), who died around 160 BC. Her body was so well preserved that the skin was still soft and pathologists could determine her cause of death. Changsha is also where Mao Zedong studied and began his political career — the Qingshui Tang complex preserves his former residence and the first local Communist Party offices. His birthplace at [Shaoshan](/asia/china/hunan/shaoshan), 90 kilometres southwest, draws a steady stream of Chinese visitors.
 
-Hunan's provincial capital is [Changsa](/asia/china/hunan/changsa). Changsa's main attraction is the Hunan Provincial Museum which houses the Han-era tomb of Xin Zui, the Marquess of Dai who died around 160 BC. The body's excellent state of preservation is a marvel. The skin is still soft and the internal organs were still intact. Pathologists were able to establish to cause of her death and her age.
+Hunan's cuisine — fiery, vinegar-laced, and built on chilli peppers — is one of China's great regional styles and reason enough to linger.
 
-Changsa is also the birthplace of communism. Qingshui Tang (clearwater pool) is Chairman Mao's former residence and the site of the first local Communist Party offices. For completeness one can visit Mao's birthplace, the hamlet of [Shaoshan](/asia/china/hunan/shaoshan) 90km to the southwest of Changsa
+**Destinations**
 
-Minor corrections on 27 October 04
-
-## Destinations in Hunan
-
-[Shaoshan](/asia/china/hunan/shaoshan)
-[Changsa](/asia/china/hunan/changsa)
-[Wulingyuan](/asia/china/hunan/wulingyuan_1)
+- [Changsha](/asia/china/hunan/changsha) — the provincial capital, with the unmissable Hunan Provincial Museum
+- [Wulingyuan](/asia/china/hunan/wulingyuan) — the spectacular sandstone pillar landscape that inspired Avatar
+- [Zhangjiajie](/asia/china/hunan/zhangjiajie) — gateway city for the Wulingyuan scenic area
+- [Tianmen Mountain](/asia/china/hunan/tianmen_mountain) — famous for its glass skywalk and Heaven Gate Cave
+- [Shaoshan](/asia/china/hunan/shaoshan) — Mao Zedong's birthplace, a pilgrimage site for Chinese visitors
+- [Fenghuang](/asia/china/hunan/fenghuang) — a beautifully preserved ancient river town of the Miao people
+- [Mount Heng](/asia/china/hunan/mount_heng) — one of China's Five Sacred Mountains, dotted with temples
+- [Yueyang](/asia/china/hunan/yueyang) — home to the celebrated Yueyang Tower on Dongting Lake
+- [Hengyang](/asia/china/hunan/hengyang) — a regional city with significant WWII history
+- [Changde](/asia/china/hunan/changde) — gateway to the Peach Flower Garden of Tao Yuanming's poem
+- [Dehang](/asia/china/hunan/dehang) — a remote Miao gorge village known for its waterfall and rice terraces
+- [Furong](/asia/china/hunan/furong) — the film location of Hibiscus Town, with dramatic waterfalls
+- [Yongzhou](/asia/china/hunan/yongzhou) — a quieter city known for Tang dynasty connections and the Nüshu script culture
+- [Jiangyong](/asia/china/hunan/jiangyong) — home of Nüshu, the world's only script invented by and for women
+- [Zhuzhou](/asia/china/hunan/zhuzhou) — an industrial city with a scenic riverfront and traditional temples
+- [Laosicheng](/asia/china/hunan/laosicheng) — a UNESCO World Heritage tusi chieftain capital hidden in the mountains
+- [Zhangguying](/asia/china/hunan/zhangguying) — a remarkable Ming-dynasty village complex, one of China's finest
+- [Huaihua](/asia/china/hunan/huaihua) — a transit hub near the site of Japan's 1945 surrender in China

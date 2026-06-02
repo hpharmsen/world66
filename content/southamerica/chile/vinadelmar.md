@@ -1,12 +1,20 @@
 ---
-title: "Vina del mar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: vinadelmar.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Palacio_Vergara,_Vi%C3%B1a_del_Mar_20210725_16.jpg
 latitude: -33.024453
+loc_type: city
 longitude: -71.551764
+score: 0.58
+title: Viña del Mar
+type: location
 ---
 
-Viña, as it is usually called, is loved by Chileans but often loathed by foreigners. The town has a lot of newness and cleanness but almost no personality. It resembles some retirement town on the south coast of England but with more sunshine. 
+Viña del Mar — "Viña" to Chileans — is the country's most popular beach resort, just a short ride north along the coast from [Valparaíso](/southamerica/chile/valparaiso). It is loved by Chileans for its cleanliness, parks, and casino, though foreign visitors sometimes find it short on character compared to its grittier neighbour. The town has wide avenues, manicured gardens, and high-rise apartment blocks lining the waterfront.
 
-Don’t think about coming to Viña for a beach holiday; the water is incredibly cold, even in the middle of summer. 
+Do not come expecting warm water — the Humboldt Current keeps the Pacific bitterly cold here even in the height of summer. The beaches are popular for sunbathing and walking, but swimming takes determination. The highlight of the year is the Festival de la Canción, Chile's biggest music festival, held each February in the [Quinta Vergara](/southamerica/chile/vinadelmar/quinta_vergara) amphitheatre.
 
-Viña is famous for the Festival of Viña del Mar. This is supposed to be a popular music festival but it has a presenter who wears a bow tie and everyone has to sit nicely in their seats.
+Viña is easily reached from Valparaíso by metro (about 20 minutes) or from Santiago by bus (roughly 90 minutes on the autopista).

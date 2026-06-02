@@ -1,12 +1,21 @@
 ---
-title: "Tavira"
-type: location
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
+image: tavira.jpg
+image_attribution: Vitor Oliveira from Torres Vedras, PORTUGAL
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Rio_Gil%C3%A3o_-_Tavira_-_Portugal_(23856558438).jpg
 latitude: 37.126249
+loc_type: city
 longitude: -7.649912
+score: 0.64
+title: Tavira
+type: location
 ---
 
-With its inviting long beaches, typical roofs and chimneys, this picturesque town offers a beautiful view over the Gilão river and its Roman bridge.
+Tavira is often called the most attractive town in the Algarve. Straddling the Gilao river, connected by an old Roman bridge, it has the kind of quiet beauty that the bigger resorts have traded away. The rooftops are distinctive -- four-sided pyramid shapes called telhados de tesoura that you will not see elsewhere in Portugal.
 
-There are quite a few sights. There are for example many churches to visit: Santa Maria do Castelo (13th-18th centuries), Misericórdia (Renaissance), Nossa Senhora das Ondas (17th century), São José (with Gothic and Manueline elements), São Paulo and Carmo (17th-18th centuries).
+The town has an unusual density of churches for its size. Santa Maria do Castelo (13th-18th centuries), Misericordia (Renaissance), and Sao Jose (Gothic and Manueline elements) are all worth a look. Along the Travessa de Dona Brites you will find medieval houses with Gothic windows and portals.
 
-If you are browsing along the Travessa de Dona Brites, you will see beautiful medieval houses, with Gothic windows and portals. In the suburbs, in the small village of Luz there is a Renaissance church, which has been a pilgrimage place for many centuries.
+Tavira's beaches are on the Ilha de Tavira, a barrier island reached by ferry. The sand is wide and clean, the water warm, and the crowds manageable even in high season.

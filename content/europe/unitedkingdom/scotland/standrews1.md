@@ -1,16 +1,24 @@
 ---
-title: "St. Andrews"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: standrews1.jpg
+image_source: https://commons.wikimedia.org/wiki/File:St_Andrews_Cathedral_ruins.jpg
+image_license: CC BY-SA 3.0
 latitude: 56.34039
+loc_type: city
 longitude: -2.795584
+score: 0.68
+title: St. Andrews
+type: location
 ---
 
-St. Andrew's is an eclectic town busling with tourists, students and golf zealots alike. 
+St. Andrews is a compact Scottish town where medieval history, world-class golf, and a lively university all sit within walking distance of each other. Everything here is close together, and that is a large part of its charm.
 
-For the tourist there is the treat of intermingling with centuries of history embedded in St.Andrews religious, academic and social life. At one time this was an epi-center of religious learning and power that killed the famous and outspoken George Wishart who was burned at the stake outside St Andrew's Castle. Many remains of monastries and religious houses along the Southern embankements of the River Tay between Perth and Dundee evidence peoples' journeys from Europe to reach St.Andrews because it was so religiously and politically important. So few people discover these treasures outside of St. Andrews. 
+The town was once one of the most important religious centres in Scotland. The ruins of [St. Andrews Cathedral](/europe/unitedkingdom/scotland/standrews1/st_andrews_cathedral), once the largest church in the country, still dominate the eastern headland. Nearby, [St. Andrews Castle](/europe/unitedkingdom/scotland/standrews1/st_andrews_castle) perches on a cliff above the sea — its bottle dungeon and mine tunnels from a sixteenth-century siege are grimly fascinating. It was outside the castle that the reformer George Wishart was burned at the stake in 1546, an event that set off a chain of violence and counter-violence central to the Scottish Reformation.
 
-The rich and famous compete to have their children educated in the ancient halls of St.Andrew's academia most notably Prince William of the British Royal family. The University Buildings are magnificent. 
+The University of St. Andrews, founded in 1413, is Scotland's oldest. Its medieval colleges — [St. Salvator's Chapel](/europe/unitedkingdom/scotland/standrews1/st_salvators_chapel) and St. Leonard's — give the town centre an academic atmosphere, and during term time the streets are full of students in their distinctive red gowns.
 
-Visiting the birthplace of golf is a rite of passage for most golfing enthusiasts and they won't be disappointed with the Royal and Ancient golf course and club house. Its majestic views of the flat beachs and North sea make it a spiritual discovery even if you have never discovered the religion of golf. Unfortunately, a waiting list and a nice fee stands in your way of playing the course. 
+For golfers, the [Old Course](/europe/unitedkingdom/scotland/standrews1/old_course_st_andrews) needs no introduction. The Royal and Ancient Golf Club has stood at the edge of the links since 1754, and playing the Old Course remains a pilgrimage for enthusiasts worldwide. Ballot and waiting-list systems apply — you cannot simply turn up and play. But walking the links and the [West Sands](/europe/unitedkingdom/scotland/standrews1/west_sands_beach) behind them (familiar from the opening scene of Chariots of Fire) is free and open to all. The [British Golf Museum](/europe/unitedkingdom/scotland/standrews1/british_golf_museum) beside the first tee tells the full story.
 
-Probably the best part of St. Andrews is that everything is so close together. Walking distance is truly walking distance. You can see ancient buildings, religious relics, the castle complete with dungeon, George Wishart's burning site, the fishing port and quaint cottages, a host of shops, the famous golf course, the beaches (host to films like Chariots of fire), the sealife center, and not to mention the host of authentic places to eat and drink day and night. This town is very hard to equal in experience.
+The harbour at the eastern end of town is small and picturesque, with stone piers, lobster pots, and a scattering of fishing boats. The [East Sands](/europe/unitedkingdom/scotland/standrews1/east_sands_beach) and West Sands beaches frame the town on either side.

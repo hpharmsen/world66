@@ -1,17 +1,19 @@
 ---
-title: "Sebha"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
 latitude: 26.995621
+loc_type: city
 longitude: 15.106542
+score: 0.19
+title: Sebha
+type: location
 ---
 
-Sebha is a good base to explore the Fezzan region and serves a stop on your way to [Chad](/africa/chad) and [Niger](/africa/niger). Going from [Ghadhames](/africa/libya/ghadhames) to [Sebha](/africa/libya/sebha) or vice versa you will cross the Fezzan region an the Akakous. 
+Sebha is the main town of the Fezzan, the vast desert region that makes up southwestern [Libya](/africa/libya). It serves as a base for exploring the Sahara and as a stopping point on the route between [Ghadhames](/africa/libya/ghadhames) and the south, towards [Chad](/africa/chad) and [Niger](/africa/niger).
 
-In Sebha town, you will be able to arrange some formalities here. The town has little to offer the tourist except accommodation.
+The town has more to offer than most travellers expect. [**Fort Elena**](/africa/libya/sebha/fort_elena) — an Italian colonial citadel on older Ottoman foundations — anchors the historic centre. The covered [**old souk**](/africa/libya/sebha/old_souk) nearby is the best place to watch daily life, with vendors selling dates, spices and fabrics alongside a small gold market. The [**Fezzan Regional Museum**](/africa/libya/sebha/fezzan_museum) holds significant material from the ancient Garamantian civilisation that built underground irrigation systems across the desert two thousand years ago.
 
+The great draw, though, is what lies within reach. The [**Ubari Sand Sea**](/africa/libya/sebha/ubari_lakes), about 150 kilometres to the west, contains roughly twenty desert lakes surrounded by enormous orange dunes — one changes colour between green, red and blue depending on algae blooms, and another is as salty as the Dead Sea while fresh water springs from the sand just metres away. A 4WD and an experienced guide are essential.
 
- Within reach of Sebha you (with a 4WD) can get across the Ramlat Dawada area, with 11 lakes. In the very middle of Sahara. The setting of the lakes is striking. The sand out here is almost red, and it's real sandy, too. There are many strange things to these lakes, they aren't only beautiful. One of them has the quality of actually changing its colour, between green, red and blue, probably due to algae. Another is salt as the Dead Sea, but just outside it, you get fresh water coming up when digging in the sand. People from this area has been despised by Libyans in general, as they eat worms from the lakes. It's not worms of course, but a kind of prawns.
-
-
- Sebha's own main attraction must be its connection to Gadhafi. Here you find the school he attended. It's said that it's here his political awakening started. Even if the school now is in normal use, looking in from outside, will give you the glimpses you need.
- Eating is not as much of a problem as sometimes reported. There are enough places to eat here for you to change your place every day through a weeks stay.
+Sebha has a connection to Gaddafi — the school he attended as a young man is here, where he is said to have begun his political awakening. The school continues in ordinary use. Note that Libya's security situation requires careful assessment before any visit; travel to the Fezzan has historically been possible for organised expeditions, but conditions change.

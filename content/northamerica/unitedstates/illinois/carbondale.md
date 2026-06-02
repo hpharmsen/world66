@@ -1,10 +1,17 @@
 ---
-title: "Carbondale"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-17'
+latitude: 37.7275
+loc_type: city
+longitude: -89.2167
+score: 0.37
+title: Carbondale
 type: location
-latitude: 37.727469
-longitude: -89.216655
+image: carbondale.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Carbondale,_Illinois,_Home_of_Southern_Illinois_Normal_University_-_Large_Letter_Postcard_(4236658583).jpg
+image_license: CC BY 2.0
+image_attribution: Steve Shook from Moscow, Idaho, USA
 ---
 
-Carbondale is located in the south of Illinois. It is a good base for exploring the Shawnee National Forest and home to Southern Illinois University. 
-
-As a university city it offers plenty of cultural activities. Nice things to do, include a stroll in the well-groomed historic neighborhoods or a lazy afternoon in one of the beautiful parks and gardens. Carbondale's nostalgic downtown, focuses on the community's railroad heritage and features a restored passenger depot, train cars, a downtown park and a unique historic pavilion. While the community has strong link to history, its heritage is best known through Woodlawn Cemetery, the probable location of the Nation's first Memorial Day observance.
+A university town in deep southern Illinois and the best base for exploring the [Shawnee National Forest](/northamerica/unitedstates/illinois/carbondale/shawnee_national_forest). [Southern Illinois University](/northamerica/unitedstates/illinois/carbondale/southern_illinois_university) gives it a lively cultural scene for its size, and the historic downtown — centred on a restored railroad depot and pavilion — has a nostalgic charm. The [West Walnut Street Historic District](/northamerica/unitedstates/illinois/carbondale/west_walnut_street_historic_district) is pleasant for walking, and [Woodlawn Cemetery](/northamerica/unitedstates/illinois/carbondale/woodlawn_cemetery) has a strong claim to hosting the nation's first Memorial Day observance. The [R. Buckminster Fuller Dome Home](/northamerica/unitedstates/illinois/carbondale/buckminster_fuller_dome_home) is a National Historic Landmark — the only geodesic dome Fuller ever actually lived in.

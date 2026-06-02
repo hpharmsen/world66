@@ -1,16 +1,17 @@
 ---
-title: "Churchill"
+done:
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-21'
+latitude: 58.7693
+loc_type: city
+longitude: -94.1737
+score: 0.58
+title: Churchill
 type: location
-latitude: 58.76931
-longitude: -94.173684
 ---
 
-Although Churchill only has a population of just over 1000, it certainly offers a lot for the visitor. Known as 'The Polar Bear Capital of the World' you can observe these animals just a short distance from the town each October and November.
+Churchill sits on the western shore of Hudson Bay in northern Manitoba, accessible only by train, plane, or — in winter — ice road. With a population of barely a thousand, it is one of the most remote towns in Canada, but it draws visitors from around the world for three extraordinary wildlife experiences.
 
-You can also watch Beluga Whales dive at the mouth of the Churchill River. River tours also available across to Prince of Wales Fort National Historic Site.
+In October and November, [polar bears](/northamerica/canada/manitoba/churchill/polar_bear_watching) gather along the coast waiting for the bay to freeze, earning Churchill the title "Polar Bear Capital of the World." Tundra buggies take visitors out among the bears at remarkably close range. In summer, thousands of [beluga whales](/northamerica/canada/manitoba/churchill/beluga_whale_watching) congregate at the mouth of the Churchill River — you can watch them from shore or kayak among them. And from January through March, the [northern lights](/northamerica/canada/manitoba/churchill/northern_lights) put on some of their best displays anywhere on the planet, visible from right outside your door.
 
-One of the best sites on the planet to view northern lights. In winter take a tour by snowmobile or drive your own dogsleigh team under the northern lights. 
-
-A 'must see' is the Eskimo Museum which houses some of the finest Inuit artifacts in the world. 
-
-For more information, pick up the 'Hudson Bay Post' churchill's community newspaper or view past articles online at www.muncks.ca.
+The town itself is small and functional. The [Itsanitaq Museum](/northamerica/canada/manitoba/churchill/itsanitaq_museum) houses one of the finest collections of Inuit art and artefacts in the world. Across the river, the ruins of [Prince of Wales Fort](/northamerica/canada/manitoba/churchill/prince_of_wales_fort), a massive 18th-century stone fortress built by the Hudson's Bay Company, can be reached by boat tour in summer. [Cape Merry](/northamerica/canada/manitoba/churchill/cape_merry) at the tip of the peninsula makes a good walk, and two wreck landmarks — the [Miss Piggy plane crash](/northamerica/canada/manitoba/churchill/miss_piggy_wreck) and the [MV Ithaka shipwreck](/northamerica/canada/manitoba/churchill/mv_ithaka_shipwreck) — add quirky texture to the town's short list of sights.

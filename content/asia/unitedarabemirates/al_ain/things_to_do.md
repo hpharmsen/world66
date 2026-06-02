@@ -1,18 +1,8 @@
 ---
-title: "Things to do in Al Ain"
+title: "Things to Do"
 type: section
 ---
 
-Al Ain, known as the Garden City of the Gulf, has plenty of interesting things for the tourist to do. Apart from sightseeing sessions of old forts and museums, one can also visit the beautiful gardens of this city. There is a Go-Kart track as well for those interested in trying their hand at this thrilling race activity.
+Al Ain rewards explorers who like history with substance: UNESCO-listed oases, Bronze Age burial grounds, restored mud-brick forts, and a mountain road that ranks among the finest drives in the Gulf. The city spreads across a flat desert plain, so most sights are within a short taxi ride of the centre — the oasis, the fort, and the palace museum are all clustered within a kilometre of each other, making them easy to combine in a single morning.
 
-**Al Ain National Museum**
-
-Get to know the history of this region by visiting the Al Ain National Museum. There are important artifacts of the region besides the reconstructions of traditional majilis and erstwhile life in this museum. You can see the extensive collection of gifts received by the President from visiting heads of state. The museum houses a reconstruction of the Grand Hili tomb and displays its rock engravings. History and culture buffs will enjoy a visit to this museum.
-
-**Forts**
-
-When you are in Al Ain, you should take in some of the forts in the area. There are ruined forts as well as restored ones here with interesting frescos. The large Jahili Fort was restored recently. It is located in its own grounds and is close to the public garden. Other must visit forts are the Mujairib Fort and the Al Muwaiji Fort.
-
-**Hili Archaeological Site**
-
-Another visual treat for history buffs is the Hili archeological site. There are many artifacts here. The archeological excavations in this area throw light on old settlements – some of them dating
+Beyond the city, Jebel Hafeet looms over everything and draws you upward. The switchback road to the summit passes through stark limestone scenery that feels a world away from the manicured boulevards below. On the flanks of the mountain, clusters of beehive-shaped Bronze Age tombs remind you that people have found their way to this desert spring for five thousand years. Give the archaeology the respect it deserves — this is the oldest continuously inhabited landscape in the UAE.

@@ -1,44 +1,24 @@
 ---
-title: "Cheongju City"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-21'
 latitude: 36.642117
 longitude: 127.489174
+score: 0.43
+title: Cheongju City
+type: location
+loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Cheongju
+  - https://en.wikipedia.org/wiki/Cheongju_Early_Printing_Museum
 ---
 
-Travel Guide
+Cheongju is a mid-sized city of around 800,000 people in central Korea and the capital of North Chungcheong Province. It sits roughly equidistant between Seoul and Daejeon, and makes a practical base for exploring the region — buses to Seoul take about 90 minutes, Daejeon 30 minutes.
 
-Cheongju is a city of roughly 600,000 people, and a number of quite interesting things to see and do.
+The city has a quiet claim to fame: Cheongju is the birthplace of Jikji, the world's oldest surviving book printed with movable metal type, predating Gutenberg by 78 years. The book itself is held in the Bibliothèque nationale de France, but the [Cheongju Early Printing Museum](/asia/southkorea/cheongju_city/cheongju_early_printing_museum) stands on the actual Heungdeoksa Temple site where the Jikji was printed in 1377, telling the full story of its creation.
 
-Every second year, there is the Cheongju International Craft Biennal,
-which features amazing folk crafts from countries all over the world
-(this year featured Russia, China, Japan, Vietnam, Great Britain, The
-Phillipines and others), most of which are for sale. The most amazing
-thing on display this year was a queen size bed made entirely out of
-jade, and ornately carved, for sale for the low low price of 30,000,000
-won (roughly $30,000 USD).
+For outdoor culture, [Sangdang Fortress](/asia/southkorea/cheongju_city/sangdang_fortress) on Uam Mountain northeast of the city offers 4 km of ancient walls with excellent views and a traditional village inside the ramparts — the best walk in Cheongju. At the back of the Cheongju Department Store stands an iron flagpole centuries old — the last remnant of a Buddhist temple long since gone. Locals say the vendors nearby serve the best tteokbokki (spicy rice cakes) in Korea. The [Jungang Market](/asia/southkorea/cheongju_city/cheongju_downtown_market) downtown is an equally rewarding wander. Every other year the city hosts the Cheongju International Craft Biennale, drawing artisans and designers from across Asia and beyond.
 
-The city also features an intriguing traditional covered market
-downtown selling all manner of wares, from de-boned pig faces to
-plastic toy swords to live eels, and a maze of walking streets lines
-with shops of all description.
-
-There is an iron flagpole centuries old that marks the location of an
-old buddhist temple. The temple is long gone, but amazingly the iron
-flagpole remains. It is, contradictorally, located right behind the
-modern Cheongju Department Store, and apparently features the best
-place in Korea to get dokboki (rice cake things swimming in
-medium-spicy sauce) - at least, according to the locals!
-
-There is also the Cheongju Early Printing Museum. Cheongju is
-birthplace of the earliest known book printed using movable metal type.
-The book's short-form name is Jikji, and is a sort of mascot for the
-city. While the book itself currently resides in a French museum, the
-equipment and details of the moveable metal type printing process are
-available at the museum in Cheongju.
-
-Cheongju is also located conveniently in the central area of Korea.
-From here, you can take a bus to Seoul (90 minutes), Daejon (30
-minutes), Pusan (4 hours) or a number of other important destinations.
-It is a clean and exceptionally safe city, and has a number of good
-bars where the foreigners like to hang out, in the university sector.
-Attic Bar and Pearl Jam are two of the most popular.
+For nightlife, Cheongju's bar scene clusters around the main gate of Chungbuk National University (Chungdae Joong Moon) and the downtown Shinae district, with [Pearl Jam](/asia/southkorea/cheongju_city/pearl_jam) and [Attic Bar](/asia/southkorea/cheongju_city/attic_bar) among the expat favourites near the university gate.

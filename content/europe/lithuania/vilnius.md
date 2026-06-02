@@ -1,15 +1,24 @@
 ---
-title: "Vilnius"
+done:
+  city_tag_migration: '2026-04-17'
+  poi_cleanup: '2026-04-19'
+image: vilnius.jpg
+image_attribution: F H Mira on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/25894583@N08/4653602525
+latitude: 54.6872
+longitude: 25.2797
+title: Vilnius
 type: location
-latitude: 54.687046
-longitude: 25.282911
+loc_type: city
 ---
 
-Lithuania is situated on the eastern coast of the Baltic Sea and covers 65.300 sq. km. The length of coastline is 99 km.
- The capital of Lithuania is Vilnius. It is situated 300 km East of the Baltic seashore at the confluence of the Neris and Vilnele rivers surrounded by beautiful forested hills.The Total area of Vilnius is 394 sq. km. The highest point of Vilnius is about 230,7 m situated in the eastern part of town, nearby Rokantiskiu settlement. The geographical centre of continental Europe lays in Lithuania,approx. 24 km north of Vilnius.It was calculated by the National Geographical Institute of France in 1989. 
+Vilnius is a city that reveals itself slowly. The Lithuanian capital has one of the largest surviving medieval old towns in Europe — a UNESCO World Heritage Site since 1994 — and yet it remains far less visited than its Baltic neighbours Tallinn and Riga. That relative obscurity is part of its appeal.
 
-Vilnius was first mentioned as the capital of Lithuania in 1323, in the letters of the Grand Duke Gediminas to the Roman Pope.An old legend tells us that Grand Duke Gediminas got tired after hunting fell asleep and had a dream. The Iron Wolf was standing on the hilland howling loudly. In the morning Gediminas asked the senior pagan priest what the dream meant. The priest said: "You will build a city at the place where the wolf was howling and the fame of the city will spread as the howling of the wolf. So this was the beginning of Vilnius.But archaeologists say that people were living here as early as the 5th century. Gediminas, the first famous Vilnius ruler, invited craftsmen and educated people from all over Europe to come and enjoy the city and to stay here. Vilnius became one of the largest trade, industrial and cultural centres of Europe in the 16th century.
+The Old Town is a maze of narrow cobbled streets, Baroque churches, and hidden courtyards. The skyline is dominated by church spires — Vilnius has more than 40 churches, and the variety of architectural styles is remarkable. St. Anne's Church is a Gothic masterpiece so elegant that Napoleon reportedly wanted to carry it back to Paris. The Cathedral, at the foot of Gediminas Hill, is a neoclassical landmark built on the site of a 13th-century pagan temple.
 
+Climb the tower of Gediminas Castle for the best views over the Old Town. The Hill of Three Crosses, nearby, is the city's most recognisable symbol — three white crosses standing on a hilltop, originally erected in memory of Franciscan monks martyred here centuries ago.
 
+Vilnius has a dark 20th-century history. The Museum of Genocide Victims, in the former KGB headquarters, documents Soviet-era repression. The Jewish quarter, once one of the great centres of Jewish intellectual life in Europe, was destroyed during the Holocaust. Memorials and a small museum mark what was lost.
 
-In 1579, Vilnius witnessed the foundation of its university which became the first higher school of thought in the Grand Principality of Lithuania and the whole region. Vilnius developed into a centre of European culture and opened itself to the nations of the East and West. Eventually, it became home for Polish, Russian, Jewish, German and Karaime communities. The houses, squares and churches of Vilnius sustain the spirit of a once-powerful state and its rulers. Though invaded, destroyed and burnt down many times, the town would always recover. The historical centre of Vilnius, its 360-hectare old city, is among the largest in Eastern Europe. In 1994, the old city was included on the UNESCO list of World Heritage Cities.
+The city is compact and walkable. Public transport runs on buses and trolleybuses, and taxis are cheap by Western European standards.

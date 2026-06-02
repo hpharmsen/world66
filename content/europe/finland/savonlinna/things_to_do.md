@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: 'Things to Do'
 type: section
 ---
 
-There are numerous places to visit during the summer. Many museums are open and the life is easy going on the streets.
-
-We currently have no Things to do listed in Savonlinna.
-
-If you do know any Things to do in Savonlinna, please [Add].
+The castle, the cathedral, and a steamboat cruise on Lake Saimaa are the three things almost every visitor does. Time a visit to coincide with the opera festival in July if you can — the productions inside the castle courtyard are extraordinary, and the town transforms while it is on. The lakeside walk along the Kasinosaari island and the harbour at the kauppatori (market square) fill out an afternoon.

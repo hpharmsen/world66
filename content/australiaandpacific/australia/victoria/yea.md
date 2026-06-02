@@ -1,14 +1,16 @@
 ---
-title: "Yea"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -37.213
+longitude: 145.4225
+title: Yea
 type: location
-latitude: -37.213047
-longitude: 145.422469
+score: 0.37
+loc_type: city
 ---
 
-Travel Guide
+A quiet country town about two hours northeast of [Melbourne](/australiaandpacific/australia/victoria/melbourne), Yea sits at the junction of the Melba and Goulburn Valley highways in the foothills of the Great Dividing Range. The surrounding Murrindindi Shire is pastoral countryside — green rolling hills, cattle farms, and stands of eucalyptus — and the town serves as a natural rest stop for travelers heading to the ski fields or the Victorian High Country.
 
-Yea ( 37°12′S, 145°25′E) is a town in Victoria, Australia. It is in the Murrindindi Shire local government area. Located 109 km north-east of Melbourne via the Melba Highway, Yea sits at the junction with the Goulburn Valley Highway, and 172 metres above sea-level. At the 2001 census, Yea had a population of 969.
+The Yea River runs through the edge of town and offers decent trout fishing, particularly in the cooler months. The Yea Wetlands, a well-maintained boardwalk reserve on the river flats, is a good spot for birdwatching and a stretch of the legs after the drive from Melbourne. The town's main street has a handful of cafes and a bakery that does solid country pies — the kind of place where you stop for 20 minutes and end up staying for an hour.
 
-The area was occupied by the Woiwurung people before white settlement. The first Europeans in the area were a party of explorers lead by William Hovell and Hamilton Hume who crossed the Yea River near the location of current day Yea in 1824. Their favourable report of the grazing land they had seen contributed to the formation of a new settlement that is now known as the state of Victoria.
-
-The first settlers in the district were overlanders from New South Wales, who arrived in 1837. By 1839, settlements and farms dotted the area along the Goulburn River.
+The area was badly affected by the 2009 Black Saturday bushfires, which devastated nearby Marysville and Kinglake. The regrown forests are now lush and accessible, and the drive from Yea to Marysville through the Black Spur is one of Victoria's most beautiful stretches of road, winding through towering mountain ash forest.

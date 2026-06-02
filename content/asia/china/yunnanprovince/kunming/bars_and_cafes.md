@@ -1,15 +1,8 @@
 ---
 title: "Bars and Cafes"
 type: section
-address: "Tuodong Rd. Kunming, Yunnan, China"
-phone: "0871-3195841"
 ---
 
-Local rock and roll bands to meet, perform, listen to music and drink.
+The bars of Kunming are concentrated in two areas. The Wenlin Street / Wenhua Xiang quarter, between Cuihu Park and Yunnan University, is the older expatriate hub — small bars, live music, and a long-running coffee scene — and the place most foreign visitors start. Salvador's Coffee House on Wenhua Xiang has been the unofficial expat sitting-room of the city since 2005.
 
-**Contributors**
-June 27, 2005
-
-### Cafe de Camel
-
-Camel Bar started as a bar for local rock and roll bands to meet, perform, listen to music and drink. Our tastes have got more varied, but it's still all about the music. We now play a vast selection of rock and roll, hip hop, house, soul, funk, punk, blues and ska. Check the website for announcements of special events, including parties, frequent gigs from local and out of town bands, as well as guest DJ's. If you've got the skills, bring you're instruments any time for an impromptu jam - usually a few characters up for it.
+The second cluster is around the bar street at Kundu, in the Panlong district north of the centre, which is louder, larger, and more Chinese in feel — a strip of clubs, KTVs, and beer houses that runs late. Local Yunnan beer (Dali, Lancang) is widely available; the local Lancang river coffee is increasingly served. For tea, look for the Pu'er specialists clustered around Cuihu's western edge.

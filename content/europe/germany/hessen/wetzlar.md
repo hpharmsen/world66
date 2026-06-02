@@ -1,52 +1,16 @@
 ---
-title: "Wetzlar"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 50.5706
+longitude: 8.5312
+title: Wetzlar
 type: location
-latitude: 50.570561
-longitude: 8.531245
+score: 0.44
+loc_type: city
 ---
 
-Travel Guide
+Wetzlar, in central Hesse, is a city with a remarkably well-preserved Altstadt — an ensemble of half-timbered houses, Baroque facades, and cobbled squares that looks much as it did in the late 18th century. It was here in 1772 that the young Goethe worked as a legal apprentice and fell unhappily in love, an experience that directly inspired *The Sorrows of Young Werther*.
 
-**Wetzlar**, in central Hesse, features an amazingly well-preserved
-and restored Old Town (Altstadt), with historic plazas, a 13th century
-Cathedral (Dom) and scores of half-timbered houses.
+The old centre is compact enough to explore on foot. The great squares of Buttermarkt, Fischmarkt, Eisenmarkt and Kornmarkt give the Altstadt its character, each named after the trades that once filled them. The Dom dominates the skyline — construction began in 1230 and is famously still unfinished, which gives it an engaging mix of Romanesque, Gothic, and later styles. The interior is harmonious despite this, with 14th-century frescoes and an unusual Pieta from 1380.
 
-Wetzlar's historic Old Town offers plenty of old buildings,
-museums, and since it was temporary home to the famous writer Goethe
-back in 1772.
-
-The tightly woven ensemble of historic buildings and houses in the
-Old Town (Altstadt) with its half-timbered houses and stone buildings
-from Romanesque (Wetzlar Cathedral) to Gothic to Renaissance and Baroque
-is to a great extent as it was in the late 18th century, preserved and
-extensively restored. Thus the great squares of Buttermarkt/Domplatz (Butter Market/Cathedral Square), Fischmarkt (Fish Market), Eisenmarkt (Iron Market), Kornmarkt (Corn Market), and the former Franziskanerhof (Franciscan Yard), now called Schillerplatz.
-
-You definitely want to visit Wetzlar's Dom (Cathedral). It is one of
-Wetzlar's landmark buildings. Building work began on the cathedral in
-1230 and is still not finished. It is the successor to a former Church of the Saviour
-consecrated in 897. Wetzlar's Dom incorporates so many styles that it
-is like a stone album of German ecclesiastical architecture. Each master
-seems to have had his own ideas. Yet, it is remarkably harmonious on
-the inside with a trove of art treasures, including 14th-century
-frescoes and an unusual Pieta from 1380.
-
-There are many noteworthy buildings to visit (e.g., the Lottehaus,
-Jerusalemhaus, and the Reichskammergerichtsmuseum) if time permits.
-Alternatively, just strolling casually through these old and small
-streets, looking at the shops, perhaps having dinner in one of the
-restaurants, and a dessert, for example ice cream at an Italian ice
-cafe.
-
-At night there are many pubs open, some of them also offer live music.
-
-If you want to spend more time in Wetzlar to explore in more depth we
-recommend doing so over several days. There is a tourist information
-booth at Domplatz 8 which provides detailed maps, recommended tours etc.
-
-The tour we recommend initially should take about 2-3 hours and is offered by Wetzlar's tourist information office.**Additional travel info:**
-
-Park your car at the Lahninsel
-(parking is free there). From there you have a good starting point and
-access through Wetzlar's historic Old-town. You can see the Lahn river
-there, with a great view to the 13th-century Lahn Bridge (Alte
-Lahnbrücke.)
+Beyond the cathedral, the Lottehaus and the Jerusalemhaus are closely tied to the Goethe story, while the Reichskammergerichtsmuseum tells the history of the imperial court that sat here from 1689 to 1806. A good starting point is the free parking at the Lahninsel, which puts you near the 13th-century Alte Lahnbrücke with views of the Lahn. The tourist information office at Domplatz 8 has detailed maps and walking tour suggestions. An afternoon is enough to see the highlights; a full day lets you go deeper.

@@ -1,11 +1,19 @@
 ---
-title: "Kramfors"
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
+image: kramfors.jpg
+image_attribution: Tone Bjerkli
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kramfors,_Sweden_-_panoramio.jpg
+latitude: 62.9333
+loc_type: city
+longitude: 17.8
+score: 0.37
+title: Kramfors
 type: location
-latitude: 62.916667
-longitude: 17.666667
 ---
 
-Travel Guide
+Kramfors is a small town of about 6,000 people in the province of Ångermanland, close to the Ångermanälven — one of Sweden's largest rivers. The town grew up around saw mills and paper mills, most of which closed in the 1970s, and it has been losing population since.
 
-In 1947 Gudmundrå parish in the province Ångermanland became the town Kramfors. It is situated close to Ångermanälven , Sweden ’s biggest river, and has about 6 000 inhabitants. The economy was based on saw mills and paper mills but most of these were closed down in the 1970s and since then many people have been forced to move. Most people today work with service or administration.
-Kramfors is a convenient base for excursions to [the](/europe/sweden/the_high_coast) [High Coast](/europe/sweden/the_high_coast) or along Ångermanälven.
+The main reason to stop here is its position as a base for exploring the [High Coast](/europe/sweden/the_high_coast), a UNESCO World Heritage Site of dramatic cliffs, islands, and old fishing villages along the Bothnian Sea. Closer to town, the dramatic [Sandö Bridge](/europe/sweden/kramfors/sando_bridge), the [memorial to the Ådalen shootings](/europe/sweden/kramfors/adalen_shootings_memorial), and the medieval [Ytterlännäs old church](/europe/sweden/kramfors/ytterlannas_old_church) are all within a short drive. For darker history, the [Bålberget memorial](/europe/sweden/kramfors/balberget_memorial) marks one of Sweden's largest witch-trial execution sites.

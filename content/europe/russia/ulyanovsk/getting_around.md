@@ -1,6 +1,8 @@
 ---
-title: "Getting Around in Ulyanovsk"
+title: "Getting Around"
 type: section
 ---
 
-Guided tours in Ulyanovsk. Let me see you around our small historical town, show the most interesting museums, places to go and eat out. You will have a chance to buy traditional souvenirs and have an unforgettable holiday in Ulyanovsk. I shall be happy to guide groups up to 10 people 12 a day. e-mail: trav21@inbox.ru
+Ulyanovsk has a public transport network of trams, trolleybuses, and buses that covers the main districts. The tram system is the most reliable way to get between the city centre and the residential areas; trolleybus routes 1 and 4 connect the northern and central parts of the city.
+
+Taxis are widely available and reasonably priced by Western standards. The ride-hailing app Yandex Go operates here and is more convenient than flagging a car on the street. The historic centre, including Novy Venets Boulevard and the Lenin memorial complex, is compact enough to cover on foot once you have arrived.

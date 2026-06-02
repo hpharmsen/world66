@@ -1,12 +1,20 @@
 ---
-title: "Sunriver"
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: sunriver.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Deschutes_River_at_Sunriver.jpg
+latitude: 43.884
+loc_type: city
+longitude: -121.4385
+score: 0.47
+title: Sunriver
 type: location
-latitude: 43.883997
-longitude: -121.438516
 ---
 
-Travel Guide
+Sunriver is a planned resort community about 15 miles south of [Bend](/northamerica/unitedstates/oregon/bend) on the eastern flank of the Cascade Range in central Oregon. It sits along the [Deschutes River](/northamerica/unitedstates/oregon/sunriver/deschutes_river) with views of Mount Bachelor and the surrounding volcanic peaks. The permanent population is small — around 1,700 — but at any given time there may be several times that number of vacationers renting houses and condos.
 
-Sunriver, Oregon is a 3,300 acre (13.4 km²) private planned community in Deschutes County, Oregon, United States. It is part of the Bend, Oregon Metropolitan Statistical Area. It is located on the eastern flank of the Deschutes River about 15 miles (25 km) south of Bend at the base of the Cascade Range. Sunriver consists of residential areas, recreational facilities, the Sunriver Resort and commercial development. It has a permanent population of about 1700; though at any given time it may have several times that number of vacationers staying there. Visitors rent privately owned single family homes or condominiums, or stay at the Sunriver Resort Lodge. Among the amenities, Sunriver has two golf courses, many tennis courts, several swimming pools, a park, a nature center, an observatory, stables, a marina, a general aviation airport, restaurants, a business park, the Three Rivers School and a shopping village all accessible via the 35+ miles (over 55 km) of paved bicycle paths. Mount Bachelor and its ski area are also close by (20-30 minutes) and are frequent destinations for winter guests.
+The appeal is outdoor access. The [bike path network](/northamerica/unitedstates/oregon/sunriver/bike_path_network) covers over 55 kilometres of car-free paved paths winding through the community. Mount Bachelor's ski area is 20–30 minutes away. In summer there is golf, tennis, horseback riding, kayaking on the river, and hiking in the Deschutes National Forest. The [Sunriver Nature Center](/northamerica/unitedstates/oregon/sunriver/sunriver_nature_center) and [Oregon Observatory](/northamerica/unitedstates/oregon/sunriver/oregon_observatory) are worth a visit, especially on a clear night.
 
-Sunriver is located on the grounds of Camp Abbot, a World War II training facility designed to train combat engineers in a simulated combat environment. By June 1944, the camp was abandoned and most of the settlement razed. The Officers Mess has been preserved and renovated and is now known as the Great Hall under management of Sunriver Resort. The name Sunriver was selected by developers John Gray and Donald V. McCallum. Condominiums were built in 1968 in conjunction with the completion of Sunriver Lodge, and in 1969, the master plan was completed and developers began selling lots.
+The community was built on the grounds of **Camp Abbot**, a World War II training facility for combat engineers. The camp was abandoned in 1944 and mostly razed; the [Officers' Mess survives as the Great Hall](/northamerica/unitedstates/oregon/sunriver/camp_abbot_great_hall), now part of Sunriver Resort.

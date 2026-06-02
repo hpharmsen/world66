@@ -1,8 +1,12 @@
 ---
-title: "Las Pinas City"
+title: Las Pinas City
 type: location
 latitude: 14.480901
 longitude: 120.981786
+done:
+  location_cleanup: 2026-04-04
+score: 0.35
+loc_type: city
 ---
 
 Geography

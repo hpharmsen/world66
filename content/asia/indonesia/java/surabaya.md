@@ -1,18 +1,23 @@
 ---
-title: "Surabaya"
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-22'
+image: surabaya.jpg
+image_attribution: Armand P. Megawe
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Balai_Pemuda.jpg
+latitude: -7.2463
+loc_type: city
+longitude: 112.7378
+score: 0.47
+title: Surabaya
 type: location
-latitude: -7.246284
-longitude: 112.737767
 ---
 
-Most people go to Surabaya to take the boat to [Bali](/asia/indonesia/bali) or [Sulawesi](/asia/indonesia/sulawesi) but there is a lot more to do and see than just the harbor, the docks and the piers. Surabaya has an interseting old city, great shopping in the modern center and the bustling kind of city life you can find only in Asian megacities. 
+Most travelers pass through Surabaya on the way to the ferry for [Bali](/asia/indonesia/bali) or [Sulawesi](/asia/indonesia/sulawesi), but Java's second city has more to offer than just its port. With over 3 million people, it has the bustling energy of an Asian megacity, genuine historic character, and excellent food.
 
-Jembatan Merah is the place to start exploring the city. Around it you find many old houses built by the Dutch. Chinatown is just around the corner. 
+Start at [Jembatan Merah](/asia/indonesia/java/surabaya/jembatan_merah) (Red Bridge), the centre of the old colonial quarter. Dutch warehouses and trading houses line the nearby streets, and [Chinatown's Pasar Pabean](/asia/indonesia/java/surabaya/pasar_pabean) is just around the corner. In the Arab quarter, [Masjid Ampel](/asia/indonesia/java/surabaya/masjid_ampel) — one of the oldest mosques in Java — is reached through a covered bazaar on Jalan Ampel Suci. The [Kalimas harbour](/asia/indonesia/java/surabaya/kalimas_harbour) still works the way it has for centuries, with Bugis pinisi schooners loading and unloading cargo for the outer islands.
 
-The Pasar Pabean is a big market that is worth a visit. In the heart of the Arab quarter you find the Mejid Ampel Mosque. You can reach the mosuqe through the covered bazar in Jalan Ampel Suci. 
+Surabaya earned its title "City of Heroes" in November 1945, when local fighters held off British and Dutch colonial forces in one of the defining battles of the independence revolution. [Tugu Pahlawan](/asia/indonesia/java/surabaya/tugu_pahlawan) (Heroes Monument) marks the spot, and the nearby [Hotel Majapahit](/asia/indonesia/java/surabaya/hotel_majapahit) was the scene of the flag incident that sparked the fighting. The [House of Sampoerna](/asia/indonesia/java/surabaya/house_of_sampoerna) museum, in a beautifully restored Dutch colonial compound, is the best museum in the city.
 
-Surabaya has good nighlife. Tunjungan Plaza is the place to head for, there are a few disco's around. There are many restaurants are nearby as well. 
-
-A booming city of over 3 million, Surabaya offers many good hotels, shopping centers and entertainment. Its well stocked zoological garden include several species of Indonesian fauna like "orang utan", komodo dragon and a collection of nocturnal animals.
-
-Kalimas is an old traditional harbor for the world famous Bugis schooner "pinisi" which sailed the Indonesian seas for hundreds of years. At present those praus can still be seen in their former glory with big colorful sails.
+The modern city centres on Tunjungan Plaza, the main shopping hub. The [zoo](/asia/indonesia/java/surabaya/surabaya_zoo) houses Indonesian species including Komodo dragons and Sumatran tigers. The Soviet-era [submarine monument](/asia/indonesia/java/surabaya/surabaya_submarine) — a KRI Pasopati submarine dismantled and reassembled in a public park — is one of the stranger attractions in Southeast Asia. Surabaya also makes a good base for day trips to [Malang](/asia/indonesia/java/malang), Madura island, and the volcanic landscapes of Bromo-Tengger-Semeru National Park.

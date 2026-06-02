@@ -1,10 +1,15 @@
 ---
-title: "Chaparral"
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-29'
+latitude: 32.0239
+loc_type: city
+longitude: -106.409
+score: 0.27
+title: Chaparral
 type: location
-latitude: 32.02387
-longitude: -106.40895
 ---
 
-Travel Guide
+Chaparral is a small unincorporated community straddling the New Mexico-Texas border, sitting in the high desert just north of El Paso. It is not a destination in itself, but its location along US-54 makes it a practical stopping point for travelers heading north toward [White Sands](/northamerica/unitedstates/newmexico/whitesands) or [Las Cruces](/northamerica/unitedstates/newmexico/lascruces).
 
-Chaparral is the prettiest city in New Mexico. It is a huge city next to el Paso, TX.
+The surrounding Tularosa Basin landscape is stark and beautiful in the way that only the Chihuahuan Desert can be: flat, sun-baked, and enormous. There are a few fast-food joints and gas stations along the highway, but for anything more substantial you are better off continuing to Las Cruces, about 25 miles north, or crossing into El Paso. If you are driving up from Texas, Chaparral is where the emptiness of southern New Mexico begins in earnest.

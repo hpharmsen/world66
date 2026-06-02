@@ -1,10 +1,15 @@
 ---
-title: "Bernau bei Berlin"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
 latitude: 52.678725
 longitude: 13.588111
+score: 0.37
+title: Bernau bei Berlin
+type: location
+loc_type: city
 ---
 
-Travel Guide
+Bernau bei Berlin is a small historic town about 25km north of Berlin, easily reached by S-Bahn (line S2). It has a well-preserved medieval centre, including three of its original town gates — the Steintor, the Werdertor, and the Mühlentor — and a history dating back to the 13th century. It is a pleasant half-day or day trip from Berlin for those interested in Brandenburg's medieval past.
 
-Bernau is situated about 10 km north of Berlin and can be easily reached with S-Bahn or train.
+The town's Heimatmuseum at the Steintor covers 500 years of local history, and the Wolf Kahlen Intermedia Arts Museum at the Pulverturm shows contemporary art installations. The old brewery tradition is documented in the museum's collection.

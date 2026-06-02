@@ -1,8 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-We currently have no Getting There listed in Ptuj.
+Ptuj is on the main rail line between Maribor and Zagreb, with regular connections from Maribor (about 30 minutes). From Ljubljana, you need to change at Pragersko or Maribor, making the journey around two hours. Direct buses from Ljubljana and Maribor also run to Ptuj.
 
-If you do know any Getting There in Ptuj, please [Add].
+By car, Ptuj is 125 km northeast of Ljubljana via the A1 motorway to Maribor and then the A4 toward the Croatian border.

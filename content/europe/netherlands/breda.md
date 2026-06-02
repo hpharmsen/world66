@@ -1,18 +1,22 @@
 ---
-title: "Breda"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
+  poi_cleanup: '2026-04-21'
+image: breda.jpg
+image_attribution: deborah's perspective on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/38911919@N00/14136857869
+latitude: 51.5719
+longitude: 4.7683
+score: 0.52
+title: Breda
 type: location
-latitude: 51.588785
-longitude: 4.776024
+loc_type: city
 ---
 
-Breda is a quiet student town in the south of the Netherlands, halfway between [Rotterdam](/europe/netherlands/rotterdam) and [Antwerp](/europe/belgium/antwerp). The town is the Dutch version of Ancient Troy; het Turfschip van Breda helped the Dutch army conquer the city from the Spaniards in pretty much the same way as the Trojan Horse helped the Greeks.
+Breda is a quiet student town in the south of the Netherlands, halfway between [Rotterdam](/europe/netherlands/rotterdam) and [Antwerp](/europe/belgium/antwerp). It has the warmth of a southern city without the crowds -- locals like to call it the most northern city of Southern Europe. There is something to that. The cafe terraces around the Grote Markt fill up fast, the people are friendly, and the pace is unhurried.
 
+The old centre tells the story of the town's past. The Grote Kerk dominates the skyline with its 97-metre tower, built over 125 years in Brabantine Gothic style. The castle, now home to the Royal Military Academy, goes back to the 12th century. And the Spanjaardsgat watergate is where a peat barge once smuggled soldiers inside the walls to recapture the city from the Spanish -- the Dutch version of the Trojan Horse.
 
- Breda shows many signs of its past. Monuments, references and memorials. Pieced together they give you an idea of how it might have been….Take a walk along the Historical Mile and you'll find yourself passing through the oldest part of Breda .
-
-
- And every Tuesday morning (as it still is today) you can visit the weekly market, which has been in existence since 1321. 
- The majpor landmark in the historic centre is the tower of the Grote or Onze Lieve Vrouwe Kerk (the Church of Our Lady). It dominates almost the whole of Breda. It took 125 years in all to build. It is richly decorated on the outside, and despite the effects of the Reformation in 1566 it still has a remarkable interior.
-
-
- Nightlife and eating out in Breda are no problem. There are many restaurants, bar and pubs to spend the evening. The atmosphere is so warm, that some people describe Breda as 'the most northern city of Southern Europe'. Well....
+Every Tuesday morning the weekly market sets up on the Grote Markt, as it has since 1321. The town has good museums, a lively bar scene fuelled by its student population, and some of the best festivals in Brabant, including a renowned jazz festival in May and the world's only Redhead Day in September.

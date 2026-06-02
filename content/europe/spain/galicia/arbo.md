@@ -1,8 +1,23 @@
 ---
-title: "Arbo"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-29'
+  poi_cleanup: '2026-04-19'
+image: arbo.jpg
+image_attribution: Davisuke
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Concello_de_Arbo.JPG
 latitude: 42.120133
+loc_type: city
 longitude: -8.31824
+score: 0.46
+title: Arbo
+type: location
 ---
 
-Arbo, is situated to the south west of the province of Pontevedra, on the right side of the river Miño, which separates it from Portugal. Agriculture is the foundation of its economy, based mainly upon corn and wine. The element which defines Arbo's wine is the "aguja" (a certain sharp, rough taste), there being different varieties of white and red wine. The fishing of salmon, shad, lamprey, carp and trout in river Miño are of relative importance. Its industries include wood factories and recently created poultry farms. The whole municipality is dotted with large houses and pazos, in an area where the remnants of prehistoric times are completely unknown due to the lack of data and materials. An axe found in Cabeiras is the only piece, which has been catalogued as Neolithic in the Archaeological Charter of the province of Pontevedra. The oldest historical document about Arbo is the sole right by which king Alfonso VII donated the land to the Monastery of Melón. In 1021, Alfonso IX bestowed on Melón half of the church of Santa María de Arbo. Years later, another king, Fernando II, ratified his ancestors' sole right to the monastery and added Coto and Granxa de Arbo in 1184. Since this used to be an important area in terms of history and strategy, feudal lords -in order to be better protected- erected fortresses on both sides of river Miño, such as those of Melgaço, Lanhoso, Fornelos, Salvaterra and Tui.
+Arbo is a small municipality in the southwest of Pontevedra province, on the right bank of the Miño river where it forms the border with Portugal. The economy has traditionally been built on agriculture — corn and wine — and fishing in the Miño, where salmon, shad, lamprey, trout, and carp are caught.
+
+The town is best known in Galicia for the [Festa da Lamprea](/europe/spain/galicia/arbo/lamprey_festival), one of the oldest gastronomic festivals in the region, held each April or May when lampreys run in the river. The festival centres on the traditional [pesqueiras](/europe/spain/galicia/arbo/pesqueiras) — stone traps built in the middle of the river from which fishermen collect lampreys with conical nets, some of them documented as far back as the 12th century. Lamprey is prepared in numerous ways and served alongside local wines of the Condado de Tea denomination — explained in detail at the [Museo do Viño](/europe/spain/galicia/arbo/museo_do_vino).
+
+The surrounding countryside is gentle and green, with the Deva valley offering pleasant walking past the restored [Os Muiños da Rocha](/europe/spain/galicia/arbo/os_muinos_da_rocha) mills and up to [Mount San Fins](/europe/spain/galicia/arbo/mount_san_fins). Arbo is close to the Portuguese border and to the larger towns of Tui and Ponteareas.

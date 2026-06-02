@@ -1,53 +1,14 @@
 ---
-title: "Shopping in Athens"
+title: "Shopping"
 type: section
 ---
 
-When you think of Athens, Greece it usually draws up
-images of the ancient Olympics, ruins, and beautiful architectural
-wonders. Most people don’t think of crowded market places with
-different shops and street vendors offering their own Grecian
-treasures. This, however, is exactly what you’ll find if you venture into the
-different shopping areas of Athens.
+Athens's shopping divides cleanly between the central tourist streets (Plaka and Monastiraki) and the residential districts where Athenians actually shop (Kolonaki and the streets around Syntagma).
 
-**Downtown Athens**
+For souvenirs and crafts, the **Plaka** lanes have an inexhaustible supply of olive-wood, ceramics, embroidered linens, leather sandals, and worry beads. Quality is uneven; the better small shops sit on the side streets rather than the main pedestrian routes. **Adrianou** and **Pandrossou** are the two most concentrated stretches.
 
-The downtown area is completely closed to traffic opening up the
-streets to shops, vendors and shoppers. If you can imagine the shop,
-downtown probably has it. The street merchants sell thing like
-scarves, handy cooking devices, clothing and handmade jewelry. The
-thing about Downtown Athens is that the shops try to make competition.
-If you’re looking for clothing shops you would go to one district; if
-you’re looking for food supplies there’s a district for that as well.
-This is great for buyers because they can go up and down the particular
-districts to find the best price for anything they’re looking for.
+For the **Monastiraki Flea Market**, see the separate entry. Sundays are the most spectacular.
 
-**Ermou Street**
+For serious shopping, **Kolonaki** holds the major Greek designers, the foreign luxury brands, and the city's best concentration of art galleries. **Voukourestiou** is the most concentrated luxury street.
 
-One of the best kinds of shopping experiences you can find is for
-clothing. You’ll find that on Ermou Street. There, the shops range
-from high price international apparel stores to quaint casual clothing
-shops. You can also find all sorts of souvenir shirts that are
-particular to that area. There are also fabric and dress making supply
-shops around that area.
-
-**Plaka**
-
-This part of Athens seems to be the place for art vendors. You can
-find fine Grecian art, nice prints and modern paintings. There are
-also jewelry vendors that have their own handmade jewelry and some
-tacky factory made products. You can find a lot of leather works
-places where the leather artists sell their handmade products. It is a
-very popular tourist destination so be careful when buying crafts to
-make sure that they’re not mass produced factory pieces.
-
-**Central Market**
-
-This might be one of the most important places to visit as a tourist
-but it is a lot of fun. Central Market is a great food market with
-merchants that sell a wide variety of fresh food items. The fish market
-is expansive with just about every sea creature on display; the meat
-market is about as big with just as many options. You can also find
-fruits and nuts to bring home. You can also get some of the best Greek
-spices, cheeses, and baked goods here and it can be an interesting
-experience to see how the locals dine.
+For books, **Ianos** on Stadiou and **Politeia** in Kolonaki are the two best general bookshops, with English-language sections. **Compendium** on Nikis Street near Syntagma is the long-running second-hand English-language shop and a useful resource for travellers.

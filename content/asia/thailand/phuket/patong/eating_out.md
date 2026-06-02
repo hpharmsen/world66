@@ -3,7 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Lim´s Restaurant & Bar**, a small great restaurant for evening dinners. Modern Thai cuisine, and a favourite with local expats. Beautiful place, fair pricing, try the Mango Margerita! On Kalim Beach Soi, at the end of Patong Beach, heading for Kalim Beach, turm right at Orchid Hotel (shortly after Novotel). It is a little up the road on your right. Reservation recommended, phone +66 (76) 344 834, skype limsphuket or you can book on their website www.limsphuket.com. Open between 18:30 and 23:00 hrs.
-
-**Contributors**
-February 19, 2007
+Patong's eating ranges from beachside som tam stalls for under 100 baht to glittering hotel restaurants on the cliffs above the bay. The cheapest and often best Thai food is in the little sois behind Beach Road and along the Phuket Town side of the bypass; international and tourist-Thai mid-range places line Bangla Road and Rat-U-Thit. Seafood is fresh; bargain in baht and check the price-per-kilo before pointing at the fish.

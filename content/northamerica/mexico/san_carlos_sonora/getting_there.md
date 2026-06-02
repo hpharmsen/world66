@@ -1,35 +1,14 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-From Guaymas north exit, take Federal Highway #15, after 6 miles take the intersection to San Carlos .
+San Carlos has no airport of its own. The main options are:
 
-From Hermosillo , by Federal Highway #15 after 80 miles take the intersection to the coast and San Carlos .
+**By air to Guaymas/Empalme:** General José María Yáñez International Airport (GYM), served by flights from Mexico City and a few US cities. San Carlos is 15 kilometres from the airport; taxis and car rental are available.
 
-**Contributors**
-March 06, 2005
+**By air to Hermosillo:** General Ignacio Pesqueira García Airport (HMO) is a larger hub with more connections, including direct flights from several US cities and major Mexican airports. The drive to San Carlos takes about 1 hour 45 minutes on a fast toll road.
 
-##
+**By road from the US border:** The crossing at Nogales (Arizona–Sonora) is the most direct route from the US. From the border to San Carlos is roughly 400 kilometres — about four hours on Highway 15 south, a fast divided highway for most of its length. The route passes through Hermosillo. You will need Mexican vehicle insurance, which cannot be purchased at the border; buy it in advance online.
 
--
-
--
-
--
-
-[](/lib/map/handle?loc=northamerica|mexico)
-
-[](/lib/map/handle?loc=northamerica|mexico|san_carlos_sonora)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**By bus:** First-class buses (TAP, Tufesa) connect Guaymas to Hermosillo, Nogales, and Mexico City. Local taxis and colectivos cover the 15-kilometre hop from Guaymas to San Carlos. Direct bus service to San Carlos itself is limited.

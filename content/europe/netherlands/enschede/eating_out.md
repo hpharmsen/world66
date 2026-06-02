@@ -1,16 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-**all**
-
-**Sirtaki**
-
-**Leon Koesoemowidjojo :** In het centrum naast de Oude markt en daardoor prima te combineren met een café- of bioscoop bezoek. Reken op gemiddels 40 piek voor een drie gangen menu. Tevens ook uitstekende wijnen verkrijgbaar en een afhaal service.  
-
-address: Marktstraat 2
-
-tel: 053-4322225
-
-pc: 7511 GD
+Enschede's food scene is driven by its student population. The Oude Markt and the surrounding streets have plenty of cafes, Dutch bar-restaurants (eetcafes), and a handful of more serious restaurants. Twente cuisine features hearty regional dishes — stoverij (slow-braised beef), smoked sausage, and pastries from the Gelderse bakery tradition — alongside the standard Dutch menu.

@@ -3,20 +3,14 @@ title: "Eating Out"
 type: section
 ---
 
-Rent old Damascene house, in the the most ancient area in Damascus
-http://oldhousa.damas.googlepages.com/
-300 year old furnished House is located in the heart of the popular Bab Touma area of the Old City of Damascus.
-The house is in a quiet street, private, yet conveniently situated between the ancient gate of Bab Touma and the Hamam Bakri. (3 min.walk from Bab Touma squire)
-Nicolay House 3 spacious light-filled bedrooms, each comfortably oriental furnished for double accommodation. There is a fully equipped kitchen and 1 modern bathroom.
-A cool and leafy garden terrace provides a welcoming venue for outdoor entertaining.
-Access to the roof terrace also gives the opportunity to enjoy spectacular panoramic views of the city of Damascus.
-Linen is provided, and water are included in the rental tariff.
-The house is available for short or long-term rentals on the basis of whole house rental.
-Close to nightclub, lively area. Town centre and shops less than 50 m.
-Assistance with airport transfers and guided tours is also available, if required.
-We welcome your enquiries and will be pleased to give you any assistance you require.
-(Ahlan wa sahlan ) you are welcome
-Prices: 1200 Euro per month.
-Contact person: Nicolay: 00963 -933073042
-00963-944952615 : nicolay62@hotmail.com ( also for more pictures)
-Reservation is preferred .
+Damascene cooking is some of the best in the Arab world — a refined merger of Levantine, Ottoman and Persian techniques, heavy on yoghurt, pomegranate, sumac, lamb, and fresh vegetables from the surrounding Ghouta. Some of the most rewarding meals are in old courtyard houses in the Old City, converted into restaurants in the 2000s.
+
+**Naranj** on Straight Street is the city's grandest restored-house restaurant. Tables fill the central courtyard around a marble fountain; the menu runs to over 200 mezze. Try the *muhammara* (pomegranate-walnut spread), the *kibbeh nayyeh*, the slow-roasted *fakhda* lamb.
+
+**Al-Khawali** in a 15th-century house off Madhat Pasha Souq is the longest-established of the type — beautifully lit at night, slightly more affordable than Naranj. The grilled meats and the *yalanji* (vegetarian stuffed vine leaves) are the signature dishes.
+
+**Beit Jabri** is a beautifully restored 17th-century home tucked into the alleys near Bab Tuma. The food is simpler than at Naranj but the courtyard, with its citrus trees and tiled fountain, is one of the loveliest dining rooms in Damascus.
+
+**Bakdash** in the Hamidiyah Souq has served Arabic-style pounded ice cream rolled in pistachios since 1885. Standing room only; cheap, fast, and a Damascus institution.
+
+For everyday food, the lanes north and south of the Hamidiyah Souq are full of cheap shawarma stands, *foul* (mashed beans) and falafel shops, and *fatteh* (chickpeas with bread and yoghurt) places that open early for breakfast.

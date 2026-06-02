@@ -1,10 +1,14 @@
 ---
-title: "Itacoatiara"
-type: location
-latitude: -3.14779
-longitude: -58.446104
+done:
+  poi_cleanup: '2026-04-20'
+latitude: -22.9772
+longitude: -43.0292
+snippet: Dramatic surf beach backed by forested hills and cliff trails
+tags:
+- beaches
+- sight
+title: Itacoatiara
+type: poi
 ---
 
-Travel Guide
-
-This beautiful oceanic beach and almost exclusively residential quarter is about 40 minutes from the city center. It worths a visit.
+The easternmost and most dramatic of Niterói's oceanic beaches, hemmed in by the forested hills of the Serra da Tiririca state park. The surf here is strong and consistent, attracting serious bodyboarders. A steep trail up the Costão de Itacoatiara rock formation rewards with sweeping views of the entire coastline. About forty minutes from central Niterói by car.

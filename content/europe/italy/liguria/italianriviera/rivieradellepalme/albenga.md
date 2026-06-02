@@ -1,8 +1,22 @@
 ---
-title: "Albenga"
+done:
+  city_tag_migration: '2026-04-16'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
+image: albenga.jpg
+image_attribution: Radiuk
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Albenga.JPG
+latitude: 44.0493
+loc_type: city
+longitude: 8.2131
+score: 0.49
+title: Albenga
 type: location
-latitude: 44.04925
-longitude: 8.213124
 ---
 
-Traces of the original Roman settlement can be seen in the remains of suburban villas along the route of the ancient Via Julia Augusta, and the ruins of the baths, an aqueduct, the amphitheater and a number of tombs, including the so-called “Pilone”. The center of the city of Albenga has retained its compact medieval structure, with houses huddled against towers. The heart of the historic center is Piazza San Michele, on which the cathedral stands: structures from the eleventh century survive in the lower part of the façade and from the thirteenth century in the upper part. Its campanile, rebuilt in 1391-95 with five stories on a Romanesque base, is considered one of the finest late Gothic monuments in Liguria. The interior of the church, which has been restored to its medieval appearance, houses frescoes by Carrega, a panel painted by Pancalino in 1520 and a fifteenth-century Pentecost, in addition to the monumental nineteenth-century Serassi organ. A few meters away stands the baptistery, which has remained practically intact since the fifth century, and the medieval complex of the Palazzo Vecchio del Comune (Old City Hall) with its charming tower on a base of black stone, dating from the fourteenth century. Behind the apse of the cathedral lies the Piazzetta dei Leoni, named after its three stone lions from the Renaissance, which is dominated by the sixteenth-century Palazzo Costa (now the bishop’s palace) and the battlemented tower of the same name. Other relics of the Middle Ages can be seen in Piazza Girolamo Rossi, with its intact example of a fourteenth-century house, and on Via Bernardo Ricco which retains much of its original appearance. A visit to the museums of Albenga also provides an opportunity explore the splendid buildings in which they are housed: the Palazzo Vecchio and the decorated rooms of Palazzo Peloso Cepolla, formerly the archbishop’s palace. Nowadays the Albenga plain is used chiefly for the growing of potted plants, herbs and high-value early produce, using advanced farming methods supported by the Center for Agricultural Experimentation and Assistance of the Savona Chamber of Commerce.
+Albenga has one of the best-preserved medieval centres on the Ligurian coast. Founded as a Roman town on the [Via Julia Augusta](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/viajuliaaugusta), it retains its compact layout of narrow streets and towers — a miniature version of the kind of urban fabric you find in [Genoa](/europe/italy/liguria/genoa), but quieter and easier to explore.
+
+The heart of the old town is [Piazza San Michele](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/piazza_san_michele), dominated by the [cathedral](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/albenga_cathedral) with its fine late-Gothic campanile (rebuilt 1391-95) and an extraordinary [5th-century baptistery](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/baptistery) that has survived virtually intact — one of the oldest early Christian monuments in Liguria. Behind the cathedral, the Piazzetta dei Leoni is named for its three Renaissance stone lions. The [medieval tower houses](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/medieval_towers) and the [Museo Navale Romano](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/museo_navale_romano) — which holds artefacts from a Roman shipwreck found near [Gallinara Island](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/gallinaraisland) — are both worth a look.
+
+Outside the walls, traces of the Roman settlement survive along the Via Julia Augusta. The surrounding plain, one of the most fertile in Liguria, produces artichokes, herbs, and early vegetables; an unexpected curiosity in the historic centre is the [Slingshot Museum](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/slingshot_museum), which annually awards a slingshot to defenders of the underdog.

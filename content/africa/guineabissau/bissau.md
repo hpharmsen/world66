@@ -1,14 +1,25 @@
 ---
-title: "Bissau"
-type: location
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: bissau.jpg
+image_attribution: jbdodane
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:20130610_-_Monumento_aos_Her%C3%B3is_da_Independ%C3%AAncia.jpg
 latitude: 11.861324
+loc_type: city
 longitude: -15.583055
+score: 0.32
+title: Bissau
+type: location
 ---
 
-Bissau is a quiet capital for African standards. There is not a lot going on; while the streets are half empty, many people just sit on their porches and chat.
+Bissau is a quiet capital by African standards. The streets are half-empty for much of the day, people sit on porches and chat, and the pace of life is unhurried to the point of stillness. It has a certain charm, though -- faded colonial buildings with wide verandas line the streets, and there is a rawness to the city that feels authentic rather than neglected.
 
+The old quarter, Bissau Velho, is where you will find the most atmospheric colonial architecture, including the ruined Presidential Palace. The Cathedral of Our Lady of Candelaria and the Mao de Timba monument in Praca dos Martires are worth a look. The National Ethnographic Museum gives a decent introduction to the country's diverse ethnic groups.
 
- The town has a cretian charm. There are many (run down) colonial style buildings with big veranda's. There are not many real sights, however.
+Bandim Market is the beating heart of the city. Known locally as "chapa de Bissau," it sprawls across several blocks and sells everything from fresh fish to traditional textiles. Come in the morning when it is at its liveliest.
 
+Bissau is the practical base for exploring the rest of the country. Ferries and boats to the [Bijagos Islands](/africa/guineabissau/bijagosislands) depart from the port, and bush taxis head east to [Bafata](/africa/guineabissau/bafata) and beyond. If you are here in February, do not miss Carnival -- it is the biggest event in the country, with masked parades, traditional drumming, and dancing that fills the streets for days.
 
- Bissau is aconvenient point from which you can discover the rest of the country. The [Bijagos islands](/africa/guineabissau/bijagosislands) can be reached by ferry and plane and hunting trips in the hinterland can also be arranged 9they used to be very popular with the Portuguese).
+Don't expect much in the way of tourist infrastructure. Hotels are basic, restaurants are few, and power cuts are routine. But Bissau is safe enough to walk around during the day, and its low-key atmosphere grows on you.

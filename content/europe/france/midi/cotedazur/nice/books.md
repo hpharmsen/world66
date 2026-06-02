@@ -1,33 +1,14 @@
 ---
 title: "Books"
 type: section
-author: "French Ramblers Association"
-isbn: "1853652237"
 ---
 
-**Contributors**
-October 22, 2006
+**Nice in a Week** is not the kind of book on this list — what's here are novels and memoirs that open up what Nice feels like beyond the seafront.
 
-### [Walking the Gr5: Larche to Nice (Footpaths of Europe)](/europe/france/midi/cotedazur/nice/books/walking_the_gr5_l)
+**Graham Greene, *J'Accuse: The Dark Side of Nice*** (1982). Greene lived in Antibes and became obsessed with local corruption, eventually publishing this pamphlet accusing the Nice establishment of protecting criminals. It caused a scandal, was partly retracted, and remains a portrait of the French Riviera's less glamorous underbelly.
 
-**Paperback:** 225 pages **Publisher:** McCarta Publishing (September 1991)
+**F. Scott Fitzgerald, *Tender Is the Night*** (1934). Set largely on the Cap d'Antibes near Nice, this novel about American expatriates disintegrating under Riviera sunshine captures something true about the seductive, corrupting quality of this coastline. The Nice of the 1920s functions as backdrop and accomplice.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1853652237/ref=ase_osingacom?v=glance&s=books)
+**Tobias Jones, *The Dark Heart of Italy*** (2003). Not specifically about Nice but essential reading before any visit to the border region — Jones spent a year in Parma making sense of Berlusconi's Italy, and his observations about the Italian character that suffuses Vieux Nice are sharp and useful.
 
-
-
-author: French Ramblers Association
-
-isbn: 1853652237
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**Martin Page, *How I Became Stupid*** (2004, trans. from French). A comedy about a philosophy student in Nice who decides intelligence makes him miserable and attempts to become stupid — it is funny and light but captures the particular self-conscious culture of a city that thinks of itself as more serious than the Riviera reputation suggests.

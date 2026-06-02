@@ -1,8 +1,21 @@
 ---
-title: "Isla Mujeres"
-type: location
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  poi_cleanup: '2026-04-20'
+image: islamujeres.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_Isla_Mujeres_(4257542920).jpg
 latitude: 21.237191
+loc_type: city
 longitude: -86.735
+score: 0.67
+title: Isla Mujeres
+type: location
 ---
 
-Just north of Cancún, where the Caribbean and the Gulf of Mexico meet, is this small, beautiful island. The ferry from Puerto Juárez brings passengers, the slower one has more locals, the faster one, more tourists. The downtown area offers many shops and restaurants. Golf carts and mopeds rentals are available and recommended. Playa Norte (North Beach) is ideal for sunbathing and wading. The waters here are clear, calm, shallow and warm. The sunset here is magnificent. The Parque Nacional El Garrafon is on the Punta Sur (South Point) of the island. The Mayan ruin here is named, Templo Maya Diosa Ixchel. There are iguanas everywhere. The waters here are rough and swimming is only recommended in designated areas. Although Isla Mujeres is a tourist destination in its own right, it is quite a contrast from Cancún. It has more local flavor than the major tourist areas.
+Isla Mujeres is a small island off the north-east tip of the Yucatán Peninsula, a short ferry ride from Cancún but a world away from it in character. The island is 8km long and less than 1km wide, and most of what matters is walkable. It has the kind of slow, colourful, golf-cart-and-hammock atmosphere that Cancún's hotel strip utterly lacks.
+
+Playa Norte, on the northern tip, is one of the finest Caribbean beaches in Mexico — shallow, clear, and remarkably calm water in a palette of impossible blues. The sunsets from here are spectacular. At the southern point (Punta Sur), the Parque Nacional El Garrafon has coral reefs for snorkelling and diving, though the park is commercialised; the small Mayan temple of Ixchel at the very tip is more interesting than it looks. Iguanas are everywhere.
+
+Two ferries run from Puerto Juárez near Cancún: the passenger ferry (cheaper, slower, and more local) and the faster tourist ferry. Golf carts and mopeds are the standard transport on the island — taxis are available but agree on the price before you get in.

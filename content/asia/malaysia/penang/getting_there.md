@@ -1,10 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-Since 1985, the island is joined to the mainland by the Penang Bridge, one of the longest bridges in the world. Alternatively, travellers arriving from the mainland can hop onto the ferry and take a 20-minute ride across. 
+Penang International Airport (PEN) is served by frequent flights from Kuala Lumpur, Singapore, and regional Asian cities. AirAsia, MAS, and several other carriers compete on the KL route, keeping prices low. The airport is on the southern end of the island, about 20 kilometres from George Town; taxis use a coupon system from the arrivals hall.
 
- There are also international flights that connect directly to the international airport on the island. There are daily flights from major capitals of the region. It has direct links with Singapore, Bangkok, Nagoya, Medan, Xiamen (China) and Madras, operated by Malaysia Airlines. The airline also operates more than 20 flights daily between Kuala Lumpur and Penang. 
+By land, Penang is connected to the mainland by two bridges — the original Penang Bridge (14 km, opened 1985) and the Second Penang Bridge at Batu Kawan (24 km, opened 2014). Buses from Butterworth on the mainland cross the bridges regularly, and taxis are available. The slower and more atmospheric option is the Butterworth-Penang Ferry, which runs from the ferry terminal next to Butterworth railway station across to the George Town waterfront — a 15-minute crossing that drops you right at the edge of the heritage zone.
 
- The Penang International Airport is about 20 km from the city center. Taxis plying the route follow the coupon system by which fares between the airport and various destinations in Penang are fixed. ' Air-conditioned taxis and limousines charge higher fares.   The Penang Yellow Bus Co. operates an hourly service between the Airport and Pengkalan Weld (Weld Quay) in the city between 6.00 a.m. to 10.00 p.m. daily (Bus No. 83).
+Butterworth is a major stop on Malaysia's west coast railway line connecting Singapore to Bangkok, making it easy to reach Penang by train from KL (5-6 hours) or from southern Thailand.

@@ -1,52 +1,16 @@
 ---
-title: "CHATRAPUR,(Ganjam district's) HEAD QUARTER."
+done:
+  location_cleanup: '2026-04-08'
+latitude: 19.3542
+longitude: 84.9864
+title: Chatrapur
 type: location
+score: 0.34
+loc_type: city
 ---
 
-Travel Guide
+Chatrapur (also spelled Chhatrapur) is the headquarters of Ganjam District in southern [Odisha](/asia/india/orissa), a small administrative town on the Chennai-Howrah main line. It sits on NH-5 between Berhampur and Bhubaneswar, making it easy to reach by both rail and road. The town itself is quiet and unassuming, but it serves as a base for exploring the southern Odisha coast and the hilly hinterland of Ganjam.
 
-**A BRIEF DESCRIPTION
+The Thakurani Yatra festival, celebrated once every two years, is the big event here — a week-long procession honouring the goddess Thakurani that draws enormous crowds from across the district. The festival features decorated chariots, traditional music, and a palpable sense of community devotion. If your timing coincides, it is worth stopping for.
 
-****Chhatrapur** (also spelt as **Chatrapur**)
-is a town and a notified area committee in Ganjam District in the state
-of Orissa, India. It is the headquarter town of Ganjam District. There
-are two railway stations in Chhatrapur. They are Chhatrapur station and
-Chhatrapur court station.
-
-**Geography**
-
-Chhatrapur is located at. It has an average elevation of.
-
-**Demographics**
-
-As
-of 2001 India census, Chhatrapur had a population of 20,288 (Fourth
-Biggest City after Brahmapur,Hinjilicut and Aska). Males constitute 51%
-of the population and females 49%. Chhatrapur has an average literacy
-rate of 79%, higher than the national average of 59.5%; with male
-literacy of 85% and female literacy of 73%. 10% of the population is
-under 6 years of age.
-
-**Industries**
-
-IRE(OSCOM)
-which is a public sector undertaking under the Dept. of Atomic Energy
-is situated near Chatrapur which benficiates different minerals from the
-beachsands of the Bay of Bengal. Different products such as zircon,
-ilmenite, sillimanite, Rutile are extracted. It also houses a thorium
-extraction plant. There is a huge chain of cashewnut factories situated
-in or near Chatrapur. A Joint Venture between Saraf Agencies of Kolkalta
-and The Russian Federation has been signed to start a Titanium slag and
-pig iron manufacturing plant. However, Chatrapur, despite being on
-NH-5, the Chennai-Howrah Main railway line and with ample land and water
-has not been able to attract any largescale Industry which could
-potentially change the geo-economic scenario of the region.
-
-**Festivals**
-
-Chatrapur
-celebrates almost all festivals. Thakurani Yatra, Dola Purnima, Durga
-Puja, Ganesh Puja and many other occasions are celebrated with pomp and
-joy. Thakurani Yatra is one of the most awaited festivals in the city
-which is celebrated once in every two years.diwali is another festival
-which is celibrated with full pump. Durga Puja, Diwali, Ganesh Puja etc.
+The Ganjam coast nearby has long stretches of relatively untouched beach, and the Taptapani hot springs, about 50 km inland in the Eastern Ghats, are a popular excursion. The Lakhari Valley with its sal forests and tribal villages gives a sense of rural Odisha that few travellers see. Chatrapur has basic facilities but nothing elaborate — Berhampur, about 20 km south, is the nearest city of any size for better dining and services.

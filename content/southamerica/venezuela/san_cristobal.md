@@ -1,10 +1,21 @@
 ---
-title: "San Cristobal"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
 latitude: 7.775666
+loc_type: city
 longitude: -72.221415
+score: 0.34
+title: San Cristóbal
+type: location
+image: san_cristobal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Balc%C3%B3n_de_las_nubes.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Fotogocho
 ---
 
-San Cristóbal, the capital of the state of Táchira, was founded by Juan de Maldonado in 1561. From its inception, the city evolved rapidly as one of the most progressive and important centers of commerce in the country. As throughout the Andean states, the people of Táchira are characterized as hardworking, cordial, conservative, and devoted to their historical, religious, and folkloric traditions. 
+San Cristóbal is the capital of Táchira state in the Andean highlands of western [Venezuela](/southamerica/venezuela), close to the Colombian border. Founded in 1561 by Juan de Maldonado, it grew into one of the most progressive commercial centres in the country. The people of Táchira are known for being hardworking, conservative, and devoted to their traditions.
 
-The primary industries here are centered around agriculture, mainly the production of coffee, sugar, and legumes. Other important industrial sectors which have helped fuel the economic engines of the region include meat production (cattle), agriculture, and manufacturing industries like shoes, baskets, and ceramics. A fact that perhaps is not widely known is that it was in Táchira, and not in Zulia, that the first oil wells were excavated in 1875-- a procedure done in those days by hand and with buckets.
+The economy is built around agriculture — coffee, sugar, and legumes — along with cattle, shoe-making, and ceramics. A fact that is not widely known is that Venezuela's first oil wells were excavated here in Táchira in 1875, not in the more famous oil state of Zulia — done in those days by hand and with buckets.
+
+San Cristóbal has the pleasant, temperate climate of the Venezuelan Andes and a university-town energy. The [Cathedral of San Cristóbal](/southamerica/venezuela/san_cristobal/cathedral_san_cristobal) and the old colonial center reward a morning's walk. The city's biggest claim to fame is the January Feria de San Sebastián — the largest fair in Venezuela — which fills the [Plaza Monumental de Toros de Pueblo Nuevo](/southamerica/venezuela/san_cristobal/plaza_monumental), a 15,000-seat bullring that hosts the country's premier taurine calendar. It is also a common crossing point for travellers heading to or from [Colombia](/southamerica/colombia).

@@ -1,16 +1,23 @@
 ---
-title: "Zinder"
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-06
+  location_enrich: '2026-05-27'
+  poi_cleanup: '2026-04-19'
+image: zinder.jpg
+image_attribution: Mab.black
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_Dol%C3%A9.jpg
+latitude: 13.8063
+loc_type: city
+longitude: 8.9892
+score: 0.26
+title: Zinder
 type: location
-latitude: 13.806342
-longitude: 8.989166
 ---
 
-Zinder was founded in the beginning of the 17-th century by Hausa tradesmen from Kano. In the 19-th century the city reached its peak. Situated on the trading route from [Kano](/africa/nigeria/kano) to [Agadez](/africa/niger/agadez) , the city was a big trading center of the Hausa empire. 
+Zinder was founded in the early 17th century by Hausa tradesmen from [Kano](/africa/nigeria/kano) and grew into a major trading hub on the route between Nigeria and [Agadez](/africa/niger/agadez). When the French arrived, they made it their administrative capital until 1926, when it was replaced by [Niamey](/africa/niger/niamey). Zinder is still Niger's second-largest city, and it has the best market in the country.
 
+The old quarters are the highlight. The [Birnin Quarter](/africa/niger/zinder/birninquarter) has some of the finest Hausa architecture anywhere — ornately decorated mud-brick facades with geometric patterns that rival anything across the border in Kano. The [Zengou Quarter](/africa/niger/zinder/zengouquarter) is less grand but livelier, full of workshops and street life. The [Grande Mosquée](/africa/niger/zinder/grandemosquee) and the [Sultan's Palace](/africa/niger/zinder/sultanspalace) anchor the historic core; with a bit of luck and a local guide, you can arrange an audience with the Sultan.
 
-
-When the French arrived, Zinder was their administrative center until 1926, when the capital was moved to [Niamey](/africa/niger/niamey) . Zinder still is the second largest city of the country and has the best market of Niger - it is a very nice place to spend a few days. 
-
-Highlights of the the city include the Birnin Quarter, the Zengou Quarter - where you can find some od the best examples of Hausa architecture anywhere in the world - the Grande Mosquee and the Sultan's Palace. With a bit of luck you can arrange a visit to the Sultan and even admire his Rolls Royce - the only one in Niger - or any of the other seven cars he owns. 
-
-Zinder is a good stop on the way to or from Nigeria, the main road leads you directly to [Kano](/africa/nigeria/kano) (the nicest city in Nigeria). The road to Agadez is not completely finished. See the Getting There section for more details.
+The [Grand Marché](/africa/niger/zinder/grand_marche) is the best market in Niger and deserves at least a morning. Zinder is a natural stop on the way between Nigeria and the desert north. The road to [Kano](/africa/nigeria/kano) is direct and well-travelled; the road to [Agadez](/africa/niger/agadez) is rougher but sees regular traffic.
